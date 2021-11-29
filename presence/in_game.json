@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 180744
+    },
+    {
+      "key": "presence_bag",
+      "value": [
+        {
+          "key": "loc_string",
+          "value": 11159790
+        },
+        {
+          "key": "id",
+          "value": 1409815
+        },
+        {
+          "key": "ui_tag",
+          "value": "in_game"
+        }
+      ]
+    }
+  ]
+}

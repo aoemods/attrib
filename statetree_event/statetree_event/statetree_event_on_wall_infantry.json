@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "key": "statetree_event_bag",
+      "value": [
+        {
+          "key": "statetree_node_to_be_spawned",
+          "value": "behaviors_shared\\infantry_wall_defense\\apply_modifiers_while_on_wall"
+        },
+        {
+          "key": "update_interval",
+          "value": 0.5
+        },
+        {
+          "key": "event_name",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 208594
+    }
+  ]
+}

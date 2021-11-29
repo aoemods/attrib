@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 112828
+    },
+    {
+      "key": "ui_territory_bag",
+      "value": [
+        {
+          "key": "territory",
+          "value": [
+            {
+              "key": "texture",
+              "value": "territory\\territory_line_oob"
+            },
+            {
+              "key": "diffuse",
+              "value": -855271
+            },
+            {
+              "key": "merged_texture",
+              "value": ""
+            },
+            {
+              "key": "thickness",
+              "value": 5
+            },
+            {
+              "key": "uv_scale",
+              "value": 0.15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

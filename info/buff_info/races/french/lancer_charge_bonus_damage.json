@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\abilities\\charge"
+        },
+        {
+          "key": "description",
+          "value": 11201594
+        },
+        {
+          "key": "title",
+          "value": 11201593
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2032837
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

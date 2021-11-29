@@ -1,0 +1,506 @@
+{
+  "data": [
+    {
+      "key": "ai_formation_coordinator",
+      "value": [
+        {
+          "key": "path_blocker_targeting_info",
+          "value": [
+            {
+              "key": "targeting_info",
+              "value": [
+                {
+                  "key": "blocker_target_scoring",
+                  "value": [
+                    {
+                      "key": "proximity_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "unit_type_multipliers",
+                      "value": [
+                        {
+                          "key": "unit_type_multiplier",
+                          "value": [
+                            {
+                              "key": "multiplier",
+                              "value": 1
+                            },
+                            {
+                              "key": "unit_types",
+                              "value": [
+                                {
+                                  "key": "unit_type",
+                                  "value": "stone_wall"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_multiplier",
+                          "value": [
+                            {
+                              "key": "multiplier",
+                              "value": 0
+                            },
+                            {
+                              "key": "unit_types",
+                              "value": [
+                                {
+                                  "key": "unit_type",
+                                  "value": "palisade_gate"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "stone_gate"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "palisade_wall"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attacker_unit_types_exclude",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "attacker_unit_types_include",
+                  "value": [
+                    {
+                      "key": "unit_class",
+                      "value": "siege_tower"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "targeting_info",
+              "value": [
+                {
+                  "key": "blocker_target_scoring",
+                  "value": [
+                    {
+                      "key": "proximity_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "unit_type_multipliers",
+                      "value": [
+                        {
+                          "key": "unit_type_multiplier",
+                          "value": [
+                            {
+                              "key": "multiplier",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "unit_types",
+                              "value": [
+                                {
+                                  "key": "unit_type",
+                                  "value": "stone_wall"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "palisade_wall"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_multiplier",
+                          "value": [
+                            {
+                              "key": "multiplier",
+                              "value": 1
+                            },
+                            {
+                              "key": "unit_types",
+                              "value": [
+                                {
+                                  "key": "unit_type",
+                                  "value": "stone_gate"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "palisade_gate"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attacker_unit_types_exclude",
+                  "value": [
+                    {
+                      "key": "unit_class",
+                      "value": "siege_tower"
+                    }
+                  ]
+                },
+                {
+                  "key": "attacker_unit_types_include",
+                  "value": [
+                    {
+                      "key": "unit_class",
+                      "value": "siege"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "targeting_info",
+              "value": [
+                {
+                  "key": "blocker_target_scoring",
+                  "value": [
+                    {
+                      "key": "proximity_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "unit_type_multipliers",
+                      "value": [
+                        {
+                          "key": "unit_type_multiplier",
+                          "value": [
+                            {
+                              "key": "multiplier",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "unit_types",
+                              "value": [
+                                {
+                                  "key": "unit_type",
+                                  "value": "stone_wall"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "palisade_wall"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_multiplier",
+                          "value": [
+                            {
+                              "key": "multiplier",
+                              "value": 1
+                            },
+                            {
+                              "key": "unit_types",
+                              "value": [
+                                {
+                                  "key": "unit_type",
+                                  "value": "stone_gate"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "palisade_gate"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attacker_unit_types_exclude",
+                  "value": [
+                    {
+                      "key": "unit_class",
+                      "value": "siege"
+                    }
+                  ]
+                },
+                {
+                  "key": "attacker_unit_types_include",
+                  "value": [
+                    {
+                      "key": "unit_class",
+                      "value": "military"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ranged_unit_danger_distance",
+          "value": 12
+        },
+        {
+          "key": "include_world_neutral_enemies",
+          "value": false
+        },
+        {
+          "key": "ignore_behind_wall_targets",
+          "value": false
+        },
+        {
+          "key": "ignore_on_wall_targets",
+          "value": false
+        },
+        {
+          "key": "ignore_walls_if_no_other_targets",
+          "value": true
+        },
+        {
+          "key": "direct_path_to_target_tolerance",
+          "value": 3.3
+        },
+        {
+          "key": "ignore_non_pathable_targets",
+          "value": false
+        },
+        {
+          "key": "combat_target_exclude_unit_types",
+          "value": [
+            {
+              "key": "unit_class",
+              "value": "house"
+            },
+            {
+              "key": "unit_class",
+              "value": "farm"
+            },
+            {
+              "key": "unit_class",
+              "value": "settlement"
+            },
+            {
+              "key": "unit_class",
+              "value": "economy_building"
+            },
+            {
+              "key": "unit_class",
+              "value": "production_building"
+            },
+            {
+              "key": "unit_class",
+              "value": "wall"
+            },
+            {
+              "key": "unit_class",
+              "value": "research_building"
+            },
+            {
+              "key": "unit_class",
+              "value": "gate"
+            }
+          ]
+        },
+        {
+          "key": "direct_path_to_target_tolerance_on_wall",
+          "value": 1.7
+        },
+        {
+          "key": "setup_unit_critical_value",
+          "value": 2
+        },
+        {
+          "key": "ranged_unit_critical_value",
+          "value": 1
+        },
+        {
+          "key": "non_combat_target_info",
+          "value": [
+            {
+              "key": "info",
+              "value": [
+                {
+                  "key": "priority",
+                  "value": 0
+                },
+                {
+                  "key": "max_units",
+                  "value": 0
+                },
+                {
+                  "key": "burn_amount_threshold",
+                  "value": 1
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_class",
+                      "value": "castle"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "outpost"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "tower"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "landmark"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "wonder"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "hq"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "town_bell_target"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "info",
+              "value": [
+                {
+                  "key": "priority",
+                  "value": 0
+                },
+                {
+                  "key": "max_units",
+                  "value": 0
+                },
+                {
+                  "key": "burn_amount_threshold",
+                  "value": 0
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_class",
+                      "value": "military"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "mobile_building"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "info",
+              "value": [
+                {
+                  "key": "priority",
+                  "value": 3
+                },
+                {
+                  "key": "max_units",
+                  "value": 1
+                },
+                {
+                  "key": "burn_amount_threshold",
+                  "value": 0
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_class",
+                      "value": "villager"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "info",
+              "value": [
+                {
+                  "key": "priority",
+                  "value": 3
+                },
+                {
+                  "key": "max_units",
+                  "value": 4
+                },
+                {
+                  "key": "burn_amount_threshold",
+                  "value": 1
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_class",
+                      "value": "building"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "path_distance_to_target_threshold",
+          "value": 500
+        },
+        {
+          "key": "defensive_wall_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "siege_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2031914
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "ai_formation_coordinator_campaign_default_attarget"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "ai\\ai_formation_coordinator"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "data": [
+    {
+      "key": "skirmish_bucket",
+      "value": [
+        {
+          "key": "default_rotate_rate",
+          "value": 86400
+        },
+        {
+          "key": "default_match_presets",
+          "value": [
+            {
+              "key": "weighted_match_preset",
+              "value": [
+                {
+                  "key": "match_preset",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "feature_generic_solo_01"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "match_preset"
+                    }
+                  ]
+                },
+                {
+                  "key": "weight",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "weighted_match_preset",
+              "value": [
+                {
+                  "key": "match_preset",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "feature_generic_solo_02"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "match_preset"
+                    }
+                  ]
+                },
+                {
+                  "key": "weight",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "weighted_match_preset",
+              "value": [
+                {
+                  "key": "match_preset",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "feature_generic_solo_03"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "match_preset"
+                    }
+                  ]
+                },
+                {
+                  "key": "weight",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "weighted_match_preset",
+              "value": [
+                {
+                  "key": "match_preset",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "feature_generic_solo_04"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "match_preset"
+                    }
+                  ]
+                },
+                {
+                  "key": "weight",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "weighted_match_preset",
+              "value": [
+                {
+                  "key": "match_preset",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "feature_generic_solo_05"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "match_preset"
+                    }
+                  ]
+                },
+                {
+                  "key": "weight",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "weighted_match_preset",
+              "value": [
+                {
+                  "key": "match_preset",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "feature_generic_solo_06"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "match_preset"
+                    }
+                  ]
+                },
+                {
+                  "key": "weight",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "weighted_match_preset",
+              "value": [
+                {
+                  "key": "match_preset",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "feature_generic_solo_07"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "match_preset"
+                    }
+                  ]
+                },
+                {
+                  "key": "weight",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "weighted_match_preset",
+              "value": [
+                {
+                  "key": "match_preset",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "feature_generic_solo_08"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "match_preset"
+                    }
+                  ]
+                },
+                {
+                  "key": "weight",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "override_match_presets",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 190387
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "tp_fire"
+    },
+    {
+      "key": "_4",
+      "value": "tp_move"
+    },
+    {
+      "key": "_7",
+      "value": "tp_ready"
+    },
+    {
+      "key": "_9",
+      "value": "tp_setup"
+    },
+    {
+      "key": "_0",
+      "value": "tp_aim"
+    },
+    {
+      "key": "_8",
+      "value": "tp_reload"
+    },
+    {
+      "key": "_11",
+      "value": "tp_unarmed"
+    },
+    {
+      "key": "_2",
+      "value": "tp_disabled"
+    },
+    {
+      "key": "_6",
+      "value": "tp_pivot"
+    },
+    {
+      "key": "_1",
+      "value": "tp_cooldown"
+    },
+    {
+      "key": "_5",
+      "value": "tp_offhand"
+    },
+    {
+      "key": "_10",
+      "value": "tp_teardown"
+    }
+  ]
+}

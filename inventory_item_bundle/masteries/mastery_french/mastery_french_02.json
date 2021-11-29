@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": "French Mastery Reward"
+    },
+    {
+      "key": "items",
+      "value": [
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "sigil_16"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "coat_of_arms_part"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "fun_fact_french_02"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "generic_inventory_item"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "inventory_item_bundle_type",
+      "value": "Achievement"
+    },
+    {
+      "key": "server_id",
+      "value": 903
+    }
+  ]
+}

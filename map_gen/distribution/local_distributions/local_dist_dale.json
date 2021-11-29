@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "key": "local_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_food_berries_large"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_stone_a_naval"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_pocket_gold_rich"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2039443
+    }
+  ]
+}

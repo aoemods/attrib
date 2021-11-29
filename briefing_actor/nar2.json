@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "key": "briefing_actor_bag",
+      "value": [
+        {
+          "key": "portrait_secondary_video",
+          "value": ""
+        },
+        {
+          "key": "portrait_primary",
+          "value": "placeholder\\icon_placeholder"
+        },
+        {
+          "key": "portrait_secondary",
+          "value": ""
+        },
+        {
+          "key": "portrait_primary_video",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2033737
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 181660
+    },
+    {
+      "key": "map_gen_terrain_type",
+      "value": [
+        {
+          "key": "terrain_height_params",
+          "value": [
+            {
+              "key": "fractal_shift_amplitude",
+              "value": 0.7
+            },
+            {
+              "key": "fractal_shift_direction_bias",
+              "value": 0.175
+            },
+            {
+              "key": "fractal_shift_variance",
+              "value": 0.5
+            },
+            {
+              "key": "height_over_width",
+              "value": 0.4
+            }
+          ]
+        },
+        {
+          "key": "min_cliff_height",
+          "value": 3.402823E+38
+        },
+        {
+          "key": "noise_biases",
+          "value": [
+          ]
+        },
+        {
+          "key": "debug_colour",
+          "value": -4684277
+        },
+        {
+          "key": "is_lake_source",
+          "value": false
+        },
+        {
+          "key": "local_distributions",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "marker_data",
+          "value": [
+            {
+              "key": "apply_impass_avoidance",
+              "value": false
+            },
+            {
+              "key": "blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "is_player_start",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "audio_region_template",
+          "value": "terrain_type_hills"
+        },
+        {
+          "key": "local_distribution_priority",
+          "value": 0
+        },
+        {
+          "key": "global_distribution_blocking_radius",
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

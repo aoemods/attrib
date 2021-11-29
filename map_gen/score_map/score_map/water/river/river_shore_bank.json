@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\walkable_water"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 170008
+    }
+  ]
+}

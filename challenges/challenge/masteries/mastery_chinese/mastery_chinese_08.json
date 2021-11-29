@@ -1,0 +1,401 @@
+{
+  "data": [
+    {
+      "key": "challenge_bag",
+      "value": [
+        {
+          "key": "requirement",
+          "value": [
+            {
+              "key": "operator",
+              "value": "and"
+            },
+            {
+              "key": "requirements",
+              "value": [
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\raceid"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\raceid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "chinese"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "racebps"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11167408
+        },
+        {
+          "key": "enable",
+          "value": true
+        },
+        {
+          "key": "tip",
+          "value": 11167423
+        },
+        {
+          "key": "fe_priority",
+          "value": 0
+        },
+        {
+          "key": "icon",
+          "value": "civ_flags\\civ_icon_medium_chinese"
+        },
+        {
+          "key": "award_source",
+          "value": "ClientMatchReport"
+        },
+        {
+          "key": "update_rule",
+          "value": [
+            {
+              "key": "value_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "challenges\\requirement_values\\constant\\generic"
+                },
+                {
+                  "key": "value",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "id",
+          "value": 1440361
+        },
+        {
+          "key": "group",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mastery_chinese"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge_group"
+            }
+          ]
+        },
+        {
+          "key": "platform_stat_key",
+          "value": ""
+        },
+        {
+          "key": "counters",
+          "value": [
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "accrue_tax_gold_influenced"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "CustomEvent"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "or"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "customevent",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\customevent"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "customevent",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\customevent"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": "ChiImpAddGoldSquadSpawned"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "customevent",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\customevent"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": "ChiImpAddGoldUpgradeComplete"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "customevent",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\customevent"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": "ChiImpAddGoldBaseTax"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_counter",
+                              "value": [
+                                {
+                                  "key": "op",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "greaterthanequal"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                            {
+                              "key": "clientcounter",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": "accrue_tax_gold_influenced"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "generic",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\constant\\generic"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": 500
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                        {
+                          "key": "complete_challenge",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\complete_challenge"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "description",
+          "value": 11167440
+        },
+        {
+          "key": "completion_count",
+          "value": 1
+        },
+        {
+          "key": "reward",
+          "value": [
+            {
+              "key": "achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mastery_chinese_09"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            },
+            {
+              "key": "item_bundle",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mastery_chinese_08"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "inventory_item_bundle"
+                }
+              ]
+            },
+            {
+              "key": "xp",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1440362
+    }
+  ]
+}

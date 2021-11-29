@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\weighted_sum"
+            },
+            {
+              "key": "inputs",
+              "value": [
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "value",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
+                        },
+                        {
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "wet_river"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "weight",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "value",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
+                        },
+                        {
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "river_ford"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "weight",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 170226
+    }
+  ]
+}

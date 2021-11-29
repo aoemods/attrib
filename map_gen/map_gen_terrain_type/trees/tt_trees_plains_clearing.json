@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 135771
+    },
+    {
+      "key": "map_gen_terrain_type",
+      "value": [
+        {
+          "key": "terrain_height_params",
+          "value": [
+            {
+              "key": "fractal_shift_amplitude",
+              "value": 0.125
+            },
+            {
+              "key": "fractal_shift_direction_bias",
+              "value": 0
+            },
+            {
+              "key": "fractal_shift_variance",
+              "value": 0.5
+            },
+            {
+              "key": "height_over_width",
+              "value": 0.125
+            }
+          ]
+        },
+        {
+          "key": "min_cliff_height",
+          "value": 3.402823E+38
+        },
+        {
+          "key": "noise_biases",
+          "value": [
+            {
+              "key": "noise_bias",
+              "value": [
+                {
+                  "key": "value",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "trees_low_loose"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\noise_bias"
+                    }
+                  ]
+                },
+                {
+                  "key": "weight",
+                  "value": -6
+                }
+              ]
+            },
+            {
+              "key": "noise_bias",
+              "value": [
+                {
+                  "key": "value",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "trees_low_dense"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\noise_bias"
+                    }
+                  ]
+                },
+                {
+                  "key": "weight",
+                  "value": -6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "debug_colour",
+          "value": -3546457
+        },
+        {
+          "key": "is_lake_source",
+          "value": false
+        },
+        {
+          "key": "local_distributions",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "marker_data",
+          "value": [
+            {
+              "key": "apply_impass_avoidance",
+              "value": false
+            },
+            {
+              "key": "blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "is_player_start",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "audio_region_template",
+          "value": "terrain_type_forest"
+        },
+        {
+          "key": "local_distribution_priority",
+          "value": 0
+        },
+        {
+          "key": "global_distribution_blocking_radius",
+          "value": 28
+        }
+      ]
+    }
+  ]
+}

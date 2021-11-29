@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "squad_state_evacuate"
+    },
+    {
+      "key": "_4",
+      "value": "squad_state_gather"
+    },
+    {
+      "key": "_7",
+      "value": "squad_state_gather_stone"
+    },
+    {
+      "key": "_9",
+      "value": "squad_state_idle"
+    },
+    {
+      "key": "_0",
+      "value": "squad_state_ability"
+    },
+    {
+      "key": "_8",
+      "value": "squad_state_gather_wood"
+    },
+    {
+      "key": "_13",
+      "value": "squad_state_truly_idle"
+    },
+    {
+      "key": "_11",
+      "value": "squad_state_move"
+    },
+    {
+      "key": "_2",
+      "value": "squad_state_attack_move"
+    },
+    {
+      "key": "_12",
+      "value": "squad_state_retreat"
+    },
+    {
+      "key": "_6",
+      "value": "squad_state_gather_gold"
+    },
+    {
+      "key": "_1",
+      "value": "squad_state_attack"
+    },
+    {
+      "key": "_5",
+      "value": "squad_state_gather_food"
+    },
+    {
+      "key": "_10",
+      "value": "squad_state_idle_villager"
+    }
+  ]
+}

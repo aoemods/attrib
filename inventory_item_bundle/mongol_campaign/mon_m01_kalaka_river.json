@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": ""
+    },
+    {
+      "key": "items",
+      "value": [
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mon_m01_hoh_drums"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "generic_inventory_item"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mon_m01_cp"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "generic_inventory_item"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "inventory_item_bundle_type",
+      "value": "Level"
+    },
+    {
+      "key": "server_id",
+      "value": 845
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "require_none",
+              "value": [
+                {
+                  "key": "surface_flag",
+                  "value": 1
+                },
+                {
+                  "key": "surface_flag",
+                  "value": 4
+                },
+                {
+                  "key": "surface_flag",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "require_any",
+              "value": [
+              ]
+            },
+            {
+              "key": "require_all",
+              "value": [
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\surface_requirement"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "land_curvature_medium_concave"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 159626
+    }
+  ]
+}

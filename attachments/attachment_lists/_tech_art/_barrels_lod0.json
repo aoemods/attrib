@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": "art\\civilizations\\common\\props\\_barrels_stack_lod0\\_barrels_stack_lod0"
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1376559
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

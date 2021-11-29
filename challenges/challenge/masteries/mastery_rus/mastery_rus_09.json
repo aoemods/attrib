@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "key": "challenge_bag",
+      "value": [
+        {
+          "key": "requirement",
+          "value": [
+            {
+              "key": "operator",
+              "value": "and"
+            },
+            {
+              "key": "requirements",
+              "value": [
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\raceid"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\raceid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "rus"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "racebps"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11171244
+        },
+        {
+          "key": "enable",
+          "value": true
+        },
+        {
+          "key": "tip",
+          "value": 11171248
+        },
+        {
+          "key": "fe_priority",
+          "value": 0
+        },
+        {
+          "key": "icon",
+          "value": "civ_flags\\civ_icon_medium_rus"
+        },
+        {
+          "key": "award_source",
+          "value": "ClientMatchReport"
+        },
+        {
+          "key": "update_rule",
+          "value": [
+            {
+              "key": "value_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "challenges\\requirement_values\\constant\\generic"
+                },
+                {
+                  "key": "value",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "id",
+          "value": 1461174
+        },
+        {
+          "key": "group",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mastery_rus"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge_group"
+            }
+          ]
+        },
+        {
+          "key": "platform_stat_key",
+          "value": ""
+        },
+        {
+          "key": "counters",
+          "value": [
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "saints_blessing"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "EntityKilled"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "equal"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "entitystatemodelbool",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\entitystatemodelbool"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": "Source"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitystatemodelbool",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitystatemodelbool"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "statemodel_bool_property",
+                                          "value": "saints_armour_buff_rus"
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\statemodel_bool_value"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": true
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_counter",
+                              "value": [
+                                {
+                                  "key": "op",
+                                  "value": 4
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "greaterthanequal"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                            {
+                              "key": "clientcounter",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": "saints_blessing"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "generic",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\constant\\generic"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": 30
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                        {
+                          "key": "complete_challenge",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\complete_challenge"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "toggle_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "saints_blessing"
+                            },
+                            {
+                              "key": "enabled",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\toggle_counter"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "description",
+          "value": 11171245
+        },
+        {
+          "key": "completion_count",
+          "value": 1
+        },
+        {
+          "key": "reward",
+          "value": [
+            {
+              "key": "achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mastery_rus_10"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            },
+            {
+              "key": "item_bundle",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mastery_rus_09"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "inventory_item_bundle"
+                }
+              ]
+            },
+            {
+              "key": "xp",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1461175
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\influence_buff"
+        },
+        {
+          "key": "description",
+          "value": 11197042
+        },
+        {
+          "key": "title",
+          "value": 11196971
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2039488
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

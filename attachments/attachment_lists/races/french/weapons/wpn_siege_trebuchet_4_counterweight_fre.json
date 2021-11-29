@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": ""
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 158935
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "wpn_siege_trebuchet_4_counterweight"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "attachments\\attachment_lists"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": "Mongol Mastery Reward"
+    },
+    {
+      "key": "items",
+      "value": [
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mongol_05_heavyfootman"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "player_portrait"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "fun_fact_mongol_08"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "generic_inventory_item"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "inventory_item_bundle_type",
+      "value": "Achievement"
+    },
+    {
+      "key": "server_id",
+      "value": 924
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "idle_retaliate"
+    },
+    {
+      "key": "_4",
+      "value": "path_blocked"
+    },
+    {
+      "key": "_0",
+      "value": "attack_command"
+    },
+    {
+      "key": "_2",
+      "value": "idle_aggro"
+    },
+    {
+      "key": "_1",
+      "value": "attack_move"
+    },
+    {
+      "key": "_5",
+      "value": "tie_up_attacker"
+    }
+  ]
+}

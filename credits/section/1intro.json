@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "key": "credits_bag",
+      "value": [
+        {
+          "key": "subsections",
+          "value": [
+            {
+              "key": "subsection",
+              "value": [
+                {
+                  "key": "members",
+                  "value": [
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "name",
+                          "value": "Relic Entertainment Inc."
+                        },
+                        {
+                          "key": "title",
+                          "value": 11204104
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "title",
+                  "value": 11204102
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "image",
+          "value": "logos/aoe4_logo_large"
+        },
+        {
+          "key": "logos",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1475330
+    }
+  ]
+}

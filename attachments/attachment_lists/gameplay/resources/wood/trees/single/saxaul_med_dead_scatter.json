@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": "art\\environment\\biome_tropical_dry\\trees\\saxaul_med_dead_scatter\\saxaul_med_dead_scatter"
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1397240
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

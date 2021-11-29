@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": "art\\environment\\biome_temperate_deciduous\\trees\\elm_med_wild_stealth\\elm_med_wild_stealth"
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1401526
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

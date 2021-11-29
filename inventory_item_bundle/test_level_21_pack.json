@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": ""
+    },
+    {
+      "key": "items",
+      "value": [
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "pack_chance_item"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "pack_inventory_item"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "inventory_item_bundle_type",
+      "value": "Level"
+    },
+    {
+      "key": "server_id",
+      "value": 843
+    }
+  ]
+}

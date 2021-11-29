@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 172270
+    },
+    {
+      "key": "paint_scheme_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11096698
+        },
+        {
+          "key": "paint_primary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "neutral_green"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "badge_secondary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "previs_cardinal_badge"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "badges"
+            }
+          ]
+        },
+        {
+          "key": "paint_tertiary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "neutral_green"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "paint_trim",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "neutral_green"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "badge_primary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "previs_cardinal_badge"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "badges"
+            }
+          ]
+        },
+        {
+          "key": "paint_secondary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "neutral_green"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "inventory_item_categories",
+          "value": [
+            {
+              "key": "inventory_item_category",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "english"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "inventory_item_category"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

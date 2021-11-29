@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "key": "local_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_cell_dist_gaia_wolf_spawner"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_cell_distribution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 182111
+    }
+  ]
+}

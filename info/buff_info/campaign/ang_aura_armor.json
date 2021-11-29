@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\abilities\\leader_attack_speed"
+        },
+        {
+          "key": "description",
+          "value": 11182667
+        },
+        {
+          "key": "title",
+          "value": 11182666
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 199888
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

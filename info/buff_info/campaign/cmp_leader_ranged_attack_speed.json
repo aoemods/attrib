@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\abilities\\leader_ranged_attack_speed"
+        },
+        {
+          "key": "description",
+          "value": 11190103
+        },
+        {
+          "key": "title",
+          "value": 11190104
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 205601
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "key": "ai_formation_target_priority",
+      "value": [
+        {
+          "key": "exclude_unit_types",
+          "value": [
+            {
+              "key": "unit_class",
+              "value": "human"
+            },
+            {
+              "key": "unit_class",
+              "value": "cavalry"
+            }
+          ]
+        },
+        {
+          "key": "formation_priority_options",
+          "value": [
+            {
+              "key": "formation_siege_target_priority_option",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "options\\ai\\encounters\\formation_siege_target_priority_option"
+                },
+                {
+                  "key": "prefer_focus_target",
+                  "value": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "target_check_interval_seconds",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 191747
+    }
+  ]
+}

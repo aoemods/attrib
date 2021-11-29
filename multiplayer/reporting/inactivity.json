@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "key": "reporting_bag",
+      "value": [
+        {
+          "key": "escalation_level",
+          "value": 2
+        },
+        {
+          "key": "loc_string",
+          "value": 11160625
+        },
+        {
+          "key": "report_category",
+          "value": 2
+        },
+        {
+          "key": "report_reason",
+          "value": 1486997
+        },
+        {
+          "key": "description",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 181485
+    }
+  ]
+}

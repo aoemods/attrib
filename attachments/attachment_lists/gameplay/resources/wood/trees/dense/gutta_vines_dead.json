@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": "art\\environment\\biome_tropical_dry\\trees\\gutta_vines_dead_dense\\gutta_vines_dead_dense"
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1410868
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

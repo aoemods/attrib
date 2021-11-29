@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": "Mongol Mastery Reward"
+    },
+    {
+      "key": "items",
+      "value": [
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mongol_07_horsearcher"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "player_portrait"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "fun_fact_mongol_11"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "generic_inventory_item"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mon_tier_02"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "monument"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "inventory_item_bundle_type",
+      "value": "Achievement"
+    },
+    {
+      "key": "server_id",
+      "value": 927
+    }
+  ]
+}

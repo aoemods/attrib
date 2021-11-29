@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "KeepRush"
+    },
+    {
+      "key": "_4",
+      "value": "None"
+    },
+    {
+      "key": "_7",
+      "value": "Regicide"
+    },
+    {
+      "key": "_9",
+      "value": "Religious"
+    },
+    {
+      "key": "_0",
+      "value": "Annihilation"
+    },
+    {
+      "key": "_8",
+      "value": "RelicHunt"
+    },
+    {
+      "key": "_13",
+      "value": "Wonder"
+    },
+    {
+      "key": "_11",
+      "value": "Siege"
+    },
+    {
+      "key": "_2",
+      "value": "Elimination"
+    },
+    {
+      "key": "_12",
+      "value": "Surrender"
+    },
+    {
+      "key": "_6",
+      "value": "ObjectiveFailed"
+    },
+    {
+      "key": "_1",
+      "value": "Conquest"
+    },
+    {
+      "key": "_5",
+      "value": "ObjectiveComplete"
+    },
+    {
+      "key": "_10",
+      "value": "Settlements"
+    }
+  ]
+}

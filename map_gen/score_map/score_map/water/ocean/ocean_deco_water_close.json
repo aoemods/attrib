@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\product"
+            },
+            {
+              "key": "inputs",
+              "value": [
+                {
+                  "key": "ocean",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\ocean"
+                    }
+                  ]
+                },
+                {
+                  "key": "filter_min_max",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\filter_min_max"
+                    },
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\ocean_proximity"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "min",
+                      "value": 0.3
+                    },
+                    {
+                      "key": "set_values_outside_range_to",
+                      "value": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 548813
+    }
+  ]
+}

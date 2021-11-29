@@ -1,0 +1,424 @@
+{
+  "data": [
+    {
+      "key": "challenge_bag",
+      "value": [
+        {
+          "key": "requirement",
+          "value": [
+            {
+              "key": "operator",
+              "value": "none"
+            },
+            {
+              "key": "requirements",
+              "value": [
+              ]
+            }
+          ]
+        },
+        {
+          "key": "enable",
+          "value": true
+        },
+        {
+          "key": "fe_priority",
+          "value": 0
+        },
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "award_source",
+          "value": "ClientMatchArbitration"
+        },
+        {
+          "key": "update_rule",
+          "value": [
+            {
+              "key": "value_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "challenges\\requirement_values\\constant\\generic"
+                },
+                {
+                  "key": "value",
+                  "value": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "id",
+          "value": 1433131
+        },
+        {
+          "key": "group",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "campaign"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge_group"
+            }
+          ]
+        },
+        {
+          "key": "platform_stat_key",
+          "value": ""
+        },
+        {
+          "key": "counters",
+          "value": [
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "heal_ability"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "Garrison"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "equal"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                                {
+                                  "key": "requirement",
+                                  "value": [
+                                    {
+                                      "key": "operator",
+                                      "value": "equal"
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
+                                      "value": [
+                                        {
+                                          "key": "isloading",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\isloading"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "isloading",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\isloading"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": false
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "requirement",
+                                  "value": [
+                                    {
+                                      "key": "operator",
+                                      "value": "and"
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
+                                      "value": [
+                                        {
+                                          "key": "resourcetype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\resourcetype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": "gold"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "population",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\population"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": 10
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "entitystatemodelbool",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\entitystatemodelbool"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": "Standard"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitystatemodelbool",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitystatemodelbool"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "statemodel_bool_property",
+                                          "value": "Debug"
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\statemodel_bool_value"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": false
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "toggle_counter",
+                              "value": [
+                                {
+                                  "key": "name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "enabled",
+                                  "value": false
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\toggle_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "greaterthanequal"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                            {
+                              "key": "clientcounter",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": "heal_ability"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "generic",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\constant\\generic"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                        {
+                          "key": "complete_challenge",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\complete_challenge"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "completion_count",
+          "value": 1
+        },
+        {
+          "key": "reward",
+          "value": [
+            {
+              "key": "achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "item_bundle",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "xp",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1433132
+    }
+  ]
+}

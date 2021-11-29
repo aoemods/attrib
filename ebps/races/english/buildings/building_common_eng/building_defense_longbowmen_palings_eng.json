@@ -1,0 +1,599 @@
+{
+  "data": [
+    {
+      "key": "statemodel_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\statemodel_ext"
+        },
+        {
+          "key": "schema",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "palings_eng"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "statemodel_schema"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "hit_object_ext",
+      "value": [
+        {
+          "key": "projectile_reflect_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "hit_chance",
+          "value": 1
+        },
+        {
+          "key": "shot_collision",
+          "value": [
+            {
+              "key": "pass_through_projectile",
+              "value": [
+                {
+                  "key": "tp_collide",
+                  "value": true
+                },
+                {
+                  "key": "tp_piercing_blockers_only",
+                  "value": true
+                },
+                {
+                  "key": "tp_artillery",
+                  "value": true
+                },
+                {
+                  "key": "tp_vehicle_collide",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "pass_through_weapon_ranged_non_projectile",
+              "value": true
+            },
+            {
+              "key": "collide_with_missed_ranged_weapon_shots",
+              "value": false
+            },
+            {
+              "key": "pass_through_relation",
+              "value": [
+                {
+                  "key": "ally",
+                  "value": true
+                },
+                {
+                  "key": "neutral",
+                  "value": true
+                },
+                {
+                  "key": "enemy",
+                  "value": true
+                },
+                {
+                  "key": "undefined",
+                  "value": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\hit_object_ext"
+        },
+        {
+          "key": "hit_material",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "projectile_collision_check_type",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "key": "entity_blueprint_ext",
+      "value": [
+        {
+          "key": "default_spawn_type",
+          "value": ""
+        },
+        {
+          "key": "entity_scale",
+          "value": 100
+        },
+        {
+          "key": "is_visible_in_game",
+          "value": true
+        },
+        {
+          "key": "animator_scale",
+          "value": 100
+        },
+        {
+          "key": "browsable_in_editor",
+          "value": true
+        },
+        {
+          "key": "alternate_sua",
+          "value": ""
+        },
+        {
+          "key": "is_wreck",
+          "value": false
+        },
+        {
+          "key": "unit_badge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\entity_blueprint_ext"
+        },
+        {
+          "key": "always_revealed_in_fow",
+          "value": false
+        },
+        {
+          "key": "precise_size",
+          "value": -1
+        },
+        {
+          "key": "animator_attachments",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "building_defense_longbowmen_palings_eng"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "attachments\\attachment_lists"
+            }
+          ]
+        },
+        {
+          "key": "subclass_type",
+          "value": 0
+        },
+        {
+          "key": "is_spawned_when_not_in_interactive_area",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "health_ext",
+      "value": [
+        {
+          "key": "on_reach_max_health_entity_state_tree_ref",
+          "value": ""
+        },
+        {
+          "key": "armor_type",
+          "value": "None"
+        },
+        {
+          "key": "self_destruct_action_tree",
+          "value": [
+            {
+              "key": "start_suspended",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "state_tree_reference_info"
+            }
+          ]
+        },
+        {
+          "key": "regeneration",
+          "value": 0
+        },
+        {
+          "key": "can_be_damaged_by_ally",
+          "value": false
+        },
+        {
+          "key": "death_event_name",
+          "value": "death"
+        },
+        {
+          "key": "rebuilt_squad",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "wreck_entity_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "armor_scaler_by_damage_type",
+          "value": [
+            {
+              "key": "Melee",
+              "value": 50
+            },
+            {
+              "key": "Fire",
+              "value": 1
+            },
+            {
+              "key": "Ranged",
+              "value": 50
+            },
+            {
+              "key": "True Damage",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\health_ext"
+        },
+        {
+          "key": "force_attacker_memory",
+          "value": false
+        },
+        {
+          "key": "rebuilt_entity_action_tree",
+          "value": [
+            {
+              "key": "start_suspended",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "state_tree_reference_info"
+            }
+          ]
+        },
+        {
+          "key": "allegiance_override",
+          "value": 0
+        },
+        {
+          "key": "ui_can_scuttle",
+          "value": true
+        },
+        {
+          "key": "reveal_to_all_on_death",
+          "value": false
+        },
+        {
+          "key": "remove_from_pathfinding_on_death",
+          "value": true
+        },
+        {
+          "key": "cuttable",
+          "value": false
+        },
+        {
+          "key": "hitpoints",
+          "value": 75
+        },
+        {
+          "key": "receive_weapon_cover_modifiers",
+          "value": false
+        },
+        {
+          "key": "delete_when_dead",
+          "value": true
+        },
+        {
+          "key": "on_reach_invulnerable_min_cap_entity_state_tree_ref",
+          "value": ""
+        },
+        {
+          "key": "is_invincible",
+          "value": false
+        },
+        {
+          "key": "on_received_damage_action_tree",
+          "value": [
+            {
+              "key": "start_suspended",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "state_tree_reference_info"
+            }
+          ]
+        },
+        {
+          "key": "is_salvagable_wreck",
+          "value": false
+        },
+        {
+          "key": "regeneration_disabled",
+          "value": true
+        },
+        {
+          "key": "not_default_attackable",
+          "value": false
+        },
+        {
+          "key": "rebuilt_entity",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "rebuilt_use_wreck_owner",
+          "value": false
+        },
+        {
+          "key": "death_seconds",
+          "value": 0.5
+        },
+        {
+          "key": "target_size",
+          "value": 0
+        },
+        {
+          "key": "weapon_priority",
+          "value": -160
+        },
+        {
+          "key": "armor_layout_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\ebpextensions\\healthext\\armor_layouts\\armor_layout_uniform"
+            },
+            {
+              "key": "armor",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "can_repair",
+          "value": false
+        },
+        {
+          "key": "death_action_tree",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "sim_entity_ext",
+      "value": [
+        {
+          "key": "rotate_snap",
+          "value": 360
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\sim_entity_ext"
+        },
+        {
+          "key": "transferable",
+          "value": 0
+        },
+        {
+          "key": "kill_paradrop",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "type_ext",
+      "value": [
+        {
+          "key": "intersection_testing",
+          "value": false
+        },
+        {
+          "key": "weapon_targeting",
+          "value": "no_targeting"
+        },
+        {
+          "key": "unit_type_list_selection_keybind_only",
+          "value": [
+          ]
+        },
+        {
+          "key": "weapon_category_targeting_filter",
+          "value": [
+            {
+              "key": "8dummy",
+              "value": false
+            },
+            {
+              "key": "4charge",
+              "value": false
+            },
+            {
+              "key": "9idle",
+              "value": false
+            },
+            {
+              "key": "1melee",
+              "value": false
+            },
+            {
+              "key": "3siege",
+              "value": false
+            },
+            {
+              "key": "5brace",
+              "value": false
+            },
+            {
+              "key": "7single_cast_ability",
+              "value": false
+            },
+            {
+              "key": "6auto_ability_cast",
+              "value": false
+            },
+            {
+              "key": "2ranged",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "attack_target_restriction_on_victim",
+          "value": [
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\type_ext"
+        },
+        {
+          "key": "unit_type_list",
+          "value": [
+            {
+              "key": "unit_type",
+              "value": "paling"
+            },
+            {
+              "key": "unit_type",
+              "value": "siegeable"
+            },
+            {
+              "key": "unit_type",
+              "value": "building"
+            }
+          ]
+        },
+        {
+          "key": "race_type_list",
+          "value": [
+          ]
+        },
+        {
+          "key": "attack_target_restriction_on_attacker",
+          "value": [
+          ]
+        },
+        {
+          "key": "unit_type_list_ui_appear_as_only",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 166237
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "animation_action_tree_ext",
+      "value": [
+        {
+          "key": "use_root_motion",
+          "value": false
+        },
+        {
+          "key": "start_suspended",
+          "value": false
+        },
+        {
+          "key": "ActionTree_OpeningBranch",
+          "value": "palings_object"
+        },
+        {
+          "key": "speed_scale_threshold",
+          "value": 100
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\animation_action_tree_ext"
+        },
+        {
+          "key": "default_animation",
+          "value": ""
+        },
+        {
+          "key": "entity_statetree_sort_tag",
+          "value": "Default"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "data": [
+    {
+      "key": "_42",
+      "value": "military"
+    },
+    {
+      "key": "_84",
+      "value": "scar_manatarms"
+    },
+    {
+      "key": "_54",
+      "value": "naval_war_galley"
+    },
+    {
+      "key": "_99",
+      "value": "scar_trebuchet_traction"
+    },
+    {
+      "key": "_83",
+      "value": "scar_landsknecht"
+    },
+    {
+      "key": "_76",
+      "value": "scar_general_unique"
+    },
+    {
+      "key": "_78",
+      "value": "scar_handcannon"
+    },
+    {
+      "key": "_18",
+      "value": "gaia"
+    },
+    {
+      "key": "_52",
+      "value": "naval_transport"
+    },
+    {
+      "key": "_120",
+      "value": "worker"
+    },
+    {
+      "key": "_103",
+      "value": "ship"
+    },
+    {
+      "key": "_3",
+      "value": "camel_archer"
+    },
+    {
+      "key": "_36",
+      "value": "longbow"
+    },
+    {
+      "key": "_48",
+      "value": "naval_galleass"
+    },
+    {
+      "key": "_50",
+      "value": "naval_scout"
+    },
+    {
+      "key": "_82",
+      "value": "scar_knight"
+    },
+    {
+      "key": "_97",
+      "value": "scar_trade_cart"
+    },
+    {
+      "key": "_17",
+      "value": "firelancer"
+    },
+    {
+      "key": "_115",
+      "value": "transport"
+    },
+    {
+      "key": "_69",
+      "value": "scar_bombard"
+    },
+    {
+      "key": "_49",
+      "value": "naval_general_ship"
+    },
+    {
+      "key": "_4",
+      "value": "camel_rider"
+    },
+    {
+      "key": "_90",
+      "value": "scar_repeater_crossbow"
+    },
+    {
+      "key": "_119",
+      "value": "villager_militarized"
+    },
+    {
+      "key": "_67",
+      "value": "scar_archer"
+    },
+    {
+      "key": "_112",
+      "value": "team_weapon"
+    },
+    {
+      "key": "_7",
+      "value": "cavalry"
+    },
+    {
+      "key": "_57",
+      "value": "official"
+    },
+    {
+      "key": "_63",
+      "value": "scar_age1"
+    },
+    {
+      "key": "_89",
+      "value": "scar_ram"
+    },
+    {
+      "key": "_117",
+      "value": "trebuchet_traction"
+    },
+    {
+      "key": "_9",
+      "value": "cavalry_tower_elephant"
+    },
+    {
+      "key": "_16",
+      "value": "empire_scout"
+    },
+    {
+      "key": "_109",
+      "value": "spearman"
+    },
+    {
+      "key": "_72",
+      "value": "scar_crossbowman"
+    },
+    {
+      "key": "_24",
+      "value": "horseman"
+    },
+    {
+      "key": "_0",
+      "value": "archer"
+    },
+    {
+      "key": "_107",
+      "value": "siege_weapon"
+    },
+    {
+      "key": "_87",
+      "value": "scar_monk"
+    },
+    {
+      "key": "_108",
+      "value": "small_ship"
+    },
+    {
+      "key": "_88",
+      "value": "scar_official"
+    },
+    {
+      "key": "_64",
+      "value": "scar_age2"
+    },
+    {
+      "key": "_22",
+      "value": "handcannon"
+    },
+    {
+      "key": "_8",
+      "value": "cavalry_archer"
+    },
+    {
+      "key": "_21",
+      "value": "gunpowder"
+    },
+    {
+      "key": "_13",
+      "value": "Default"
+    },
+    {
+      "key": "_73",
+      "value": "scar_culverin"
+    },
+    {
+      "key": "_118",
+      "value": "villager"
+    },
+    {
+      "key": "_45",
+      "value": "monk"
+    },
+    {
+      "key": "_19",
+      "value": "grenadier"
+    },
+    {
+      "key": "_31",
+      "value": "khan"
+    },
+    {
+      "key": "_94",
+      "value": "scar_siege_tower"
+    },
+    {
+      "key": "_11",
+      "value": "crossbow"
+    },
+    {
+      "key": "_53",
+      "value": "naval_unit"
+    },
+    {
+      "key": "_43",
+      "value": "militia"
+    },
+    {
+      "key": "_35",
+      "value": "leader"
+    },
+    {
+      "key": "_61",
+      "value": "repeater_crossbow"
+    },
+    {
+      "key": "_2",
+      "value": "bombard"
+    },
+    {
+      "key": "_47",
+      "value": "naval_fishing_ship"
+    },
+    {
+      "key": "_20",
+      "value": "gulyay_gorod"
+    },
+    {
+      "key": "_114",
+      "value": "trade_cart"
+    },
+    {
+      "key": "_41",
+      "value": "melee"
+    },
+    {
+      "key": "_56",
+      "value": "nest_of_bees"
+    },
+    {
+      "key": "_37",
+      "value": "mameluke"
+    },
+    {
+      "key": "_68",
+      "value": "scar_armed_villager"
+    },
+    {
+      "key": "_46",
+      "value": "naval_fireship"
+    },
+    {
+      "key": "_34",
+      "value": "landsknecht"
+    },
+    {
+      "key": "_111",
+      "value": "supply_cart"
+    },
+    {
+      "key": "_60",
+      "value": "ranged"
+    },
+    {
+      "key": "_66",
+      "value": "scar_age4"
+    },
+    {
+      "key": "_29",
+      "value": "infantry"
+    },
+    {
+      "key": "_38",
+      "value": "manatarms"
+    },
+    {
+      "key": "_81",
+      "value": "scar_khan"
+    },
+    {
+      "key": "_95",
+      "value": "scar_spearman"
+    },
+    {
+      "key": "_30",
+      "value": "invisible_to_scar"
+    },
+    {
+      "key": "_27",
+      "value": "hunt_ranged"
+    },
+    {
+      "key": "_100",
+      "value": "scar_villager"
+    },
+    {
+      "key": "_75",
+      "value": "scar_general"
+    },
+    {
+      "key": "_110",
+      "value": "springald"
+    },
+    {
+      "key": "_15",
+      "value": "empire_general"
+    },
+    {
+      "key": "_96",
+      "value": "scar_springald"
+    },
+    {
+      "key": "_92",
+      "value": "scar_scout"
+    },
+    {
+      "key": "_70",
+      "value": "scar_camel_archer"
+    },
+    {
+      "key": "_105",
+      "value": "siege_range"
+    },
+    {
+      "key": "_98",
+      "value": "scar_trebuchet_cw"
+    },
+    {
+      "key": "_28",
+      "value": "huntable"
+    },
+    {
+      "key": "_101",
+      "value": "scar_war_elephant"
+    },
+    {
+      "key": "_51",
+      "value": "naval_trade_ship"
+    },
+    {
+      "key": "_104",
+      "value": "siege"
+    },
+    {
+      "key": "_80",
+      "value": "scar_horseman"
+    },
+    {
+      "key": "_93",
+      "value": "scar_shield_villager"
+    },
+    {
+      "key": "_91",
+      "value": "scar_ribauldequin"
+    },
+    {
+      "key": "_23",
+      "value": "herdable"
+    },
+    {
+      "key": "_86",
+      "value": "scar_military"
+    },
+    {
+      "key": "_106",
+      "value": "siege_tower"
+    },
+    {
+      "key": "_14",
+      "value": "druzhina"
+    },
+    {
+      "key": "_65",
+      "value": "scar_age3"
+    },
+    {
+      "key": "_25",
+      "value": "hunt_herd"
+    },
+    {
+      "key": "_102",
+      "value": "scout"
+    },
+    {
+      "key": "_39",
+      "value": "mangonel"
+    },
+    {
+      "key": "_59",
+      "value": "ram"
+    },
+    {
+      "key": "_77",
+      "value": "scar_grenadier"
+    },
+    {
+      "key": "_12",
+      "value": "culverin"
+    },
+    {
+      "key": "_6",
+      "value": "cannon"
+    },
+    {
+      "key": "_1",
+      "value": "armored"
+    },
+    {
+      "key": "_32",
+      "value": "king"
+    },
+    {
+      "key": "_44",
+      "value": "mongol_moving_structure"
+    },
+    {
+      "key": "_40",
+      "value": "medium_ship"
+    },
+    {
+      "key": "_55",
+      "value": "naval_warship"
+    },
+    {
+      "key": "_116",
+      "value": "trebuchet_counterweight"
+    },
+    {
+      "key": "_113",
+      "value": "templar"
+    },
+    {
+      "key": "_33",
+      "value": "knight"
+    },
+    {
+      "key": "_74",
+      "value": "scar_firelancer"
+    },
+    {
+      "key": "_79",
+      "value": "scar_horsearcher"
+    },
+    {
+      "key": "_71",
+      "value": "scar_cannon"
+    },
+    {
+      "key": "_58",
+      "value": "onager"
+    },
+    {
+      "key": "_5",
+      "value": "can_be_converted"
+    },
+    {
+      "key": "_62",
+      "value": "ribauldequin"
+    },
+    {
+      "key": "_26",
+      "value": "hunt_melee"
+    },
+    {
+      "key": "_85",
+      "value": "scar_mangonel"
+    },
+    {
+      "key": "_10",
+      "value": "cavalry_war_elephant"
+    }
+  ]
+}

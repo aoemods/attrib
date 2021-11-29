@@ -1,0 +1,496 @@
+{
+  "data": [
+    {
+      "key": "_42",
+      "value": "occlusion_state_modifier"
+    },
+    {
+      "key": "_84",
+      "value": "resource_entity_harvest_efficiency_food"
+    },
+    {
+      "key": "_54",
+      "value": "received_damage_modifier"
+    },
+    {
+      "key": "_99",
+      "value": "resource_regrowth_time_gold"
+    },
+    {
+      "key": "_83",
+      "value": "resource_entity_cost_wood"
+    },
+    {
+      "key": "_76",
+      "value": "resource_drop_off_time_food"
+    },
+    {
+      "key": "_78",
+      "value": "resource_drop_off_time_stone"
+    },
+    {
+      "key": "_18",
+      "value": "deceleration_modifier"
+    },
+    {
+      "key": "_52",
+      "value": "projectile_delay_time"
+    },
+    {
+      "key": "_120",
+      "value": "trade_cart_bonus_wood_modifier"
+    },
+    {
+      "key": "_103",
+      "value": "resource_upgrade_cost_gold"
+    },
+    {
+      "key": "_3",
+      "value": "armor_scalar_for_fire_damage"
+    },
+    {
+      "key": "_36",
+      "value": "health_regeneration_modifier"
+    },
+    {
+      "key": "_48",
+      "value": "posture_prone_modifier"
+    },
+    {
+      "key": "_50",
+      "value": "production_cost_modifier"
+    },
+    {
+      "key": "_82",
+      "value": "resource_entity_cost_stone"
+    },
+    {
+      "key": "_97",
+      "value": "resource_production_cost_wood"
+    },
+    {
+      "key": "_17",
+      "value": "cost_turns_modifier"
+    },
+    {
+      "key": "_115",
+      "value": "strategic_point_capture_ticks_modifier"
+    },
+    {
+      "key": "_69",
+      "value": "resource_contained_amount_gold"
+    },
+    {
+      "key": "_49",
+      "value": "posture_speed_modifier"
+    },
+    {
+      "key": "_4",
+      "value": "armor_scalar_for_melee_damage"
+    },
+    {
+      "key": "_90",
+      "value": "resource_entity_harvest_rate_stone"
+    },
+    {
+      "key": "_119",
+      "value": "trade_cart_bonus_stone_modifier"
+    },
+    {
+      "key": "_67",
+      "value": "resource_carry_capacity_wood"
+    },
+    {
+      "key": "_112",
+      "value": "spawn_production_speed_modifier"
+    },
+    {
+      "key": "_7",
+      "value": "bonus_health_decay_rate"
+    },
+    {
+      "key": "_57",
+      "value": "received_damage_modifier_ranged"
+    },
+    {
+      "key": "_63",
+      "value": "repair_rate_modifier"
+    },
+    {
+      "key": "_89",
+      "value": "resource_entity_harvest_rate_gold"
+    },
+    {
+      "key": "_117",
+      "value": "trade_cart_bonus_food_modifier"
+    },
+    {
+      "key": "_9",
+      "value": "booby_trap_detection_enable"
+    },
+    {
+      "key": "_16",
+      "value": "cost_ticks_modifier"
+    },
+    {
+      "key": "_109",
+      "value": "sight_cone_angle_modifier"
+    },
+    {
+      "key": "_72",
+      "value": "resource_drop_off_amount_food"
+    },
+    {
+      "key": "_24",
+      "value": "enable_passive_charge_modifier"
+    },
+    {
+      "key": "_0",
+      "value": "acceleration_modifier"
+    },
+    {
+      "key": "_107",
+      "value": "selection_name_modifier"
+    },
+    {
+      "key": "_87",
+      "value": "resource_entity_harvest_efficiency_wood"
+    },
+    {
+      "key": "_108",
+      "value": "shoot_enable_modifier"
+    },
+    {
+      "key": "_88",
+      "value": "resource_entity_harvest_rate_food"
+    },
+    {
+      "key": "_64",
+      "value": "resource_carry_capacity_food"
+    },
+    {
+      "key": "_22",
+      "value": "enable_capture_entity_modifier"
+    },
+    {
+      "key": "_8",
+      "value": "bonus_health_decay_threshold"
+    },
+    {
+      "key": "_21",
+      "value": "district_generator_value_modifier"
+    },
+    {
+      "key": "_13",
+      "value": "combat_slot_angle_of_fire"
+    },
+    {
+      "key": "_73",
+      "value": "resource_drop_off_amount_gold"
+    },
+    {
+      "key": "_118",
+      "value": "trade_cart_bonus_gold_modifier"
+    },
+    {
+      "key": "_45",
+      "value": "on_fire_health_percentage_modifier"
+    },
+    {
+      "key": "_19",
+      "value": "detect_global_camouflage_radius"
+    },
+    {
+      "key": "_31",
+      "value": "extended_sight_enable"
+    },
+    {
+      "key": "_94",
+      "value": "resource_production_cost_food"
+    },
+    {
+      "key": "_11",
+      "value": "camouflage_enable"
+    },
+    {
+      "key": "_53",
+      "value": "received_accuracy_modifier"
+    },
+    {
+      "key": "_43",
+      "value": "on_fire_damage_per_tick_modifier"
+    },
+    {
+      "key": "_35",
+      "value": "health_maximum_modifier"
+    },
+    {
+      "key": "_61",
+      "value": "repair_burn_rate_modifier"
+    },
+    {
+      "key": "_2",
+      "value": "armor_scalar_for_anticavalry_damage"
+    },
+    {
+      "key": "_47",
+      "value": "posture_crouch_modifier"
+    },
+    {
+      "key": "_20",
+      "value": "detect_specific_camouflage_radius"
+    },
+    {
+      "key": "_114",
+      "value": "speed_maximum_modifier"
+    },
+    {
+      "key": "_41",
+      "value": "move_enable_modifier"
+    },
+    {
+      "key": "_56",
+      "value": "received_damage_modifier_melee"
+    },
+    {
+      "key": "_37",
+      "value": "hold_sight_radius"
+    },
+    {
+      "key": "_68",
+      "value": "resource_contained_amount_food"
+    },
+    {
+      "key": "_46",
+      "value": "on_fire_threshold_modifier"
+    },
+    {
+      "key": "_34",
+      "value": "health_degeneration_modifier"
+    },
+    {
+      "key": "_111",
+      "value": "slotitem_cost_modifier"
+    },
+    {
+      "key": "_60",
+      "value": "reinforce_radius_modifier"
+    },
+    {
+      "key": "_66",
+      "value": "resource_carry_capacity_stone"
+    },
+    {
+      "key": "_29",
+      "value": "entity_upgrade_production_speed_modifier"
+    },
+    {
+      "key": "_38",
+      "value": "hold_survival_chance"
+    },
+    {
+      "key": "_81",
+      "value": "resource_entity_cost_gold"
+    },
+    {
+      "key": "_95",
+      "value": "resource_production_cost_gold"
+    },
+    {
+      "key": "_30",
+      "value": "entity_veterency_modifier"
+    },
+    {
+      "key": "_27",
+      "value": "entity_popcap_modifier"
+    },
+    {
+      "key": "_100",
+      "value": "resource_regrowth_time_stone"
+    },
+    {
+      "key": "_75",
+      "value": "resource_drop_off_amount_wood"
+    },
+    {
+      "key": "_110",
+      "value": "sight_radius_modifier"
+    },
+    {
+      "key": "_15",
+      "value": "cost_action_modifier"
+    },
+    {
+      "key": "_96",
+      "value": "resource_production_cost_stone"
+    },
+    {
+      "key": "_92",
+      "value": "resource_entity_max_interactions"
+    },
+    {
+      "key": "_70",
+      "value": "resource_contained_amount_stone"
+    },
+    {
+      "key": "_105",
+      "value": "resource_upgrade_cost_wood"
+    },
+    {
+      "key": "_98",
+      "value": "resource_regrowth_time_food"
+    },
+    {
+      "key": "_28",
+      "value": "entity_preview_upgrade_production_speed_modifier"
+    },
+    {
+      "key": "_101",
+      "value": "resource_regrowth_time_wood"
+    },
+    {
+      "key": "_51",
+      "value": "production_speed_modifier"
+    },
+    {
+      "key": "_104",
+      "value": "resource_upgrade_cost_stone"
+    },
+    {
+      "key": "_80",
+      "value": "resource_entity_cost_food"
+    },
+    {
+      "key": "_93",
+      "value": "resource_entity_preferred_interactions"
+    },
+    {
+      "key": "_91",
+      "value": "resource_entity_harvest_rate_wood"
+    },
+    {
+      "key": "_23",
+      "value": "enable_minesweeper_modifier"
+    },
+    {
+      "key": "_122",
+      "value": "vehicle_repair_rate_modifier"
+    },
+    {
+      "key": "_86",
+      "value": "resource_entity_harvest_efficiency_stone"
+    },
+    {
+      "key": "_106",
+      "value": "rotation_speed_modifier"
+    },
+    {
+      "key": "_14",
+      "value": "construction_rate"
+    },
+    {
+      "key": "_65",
+      "value": "resource_carry_capacity_gold"
+    },
+    {
+      "key": "_25",
+      "value": "enable_secure_modifier"
+    },
+    {
+      "key": "_102",
+      "value": "resource_upgrade_cost_food"
+    },
+    {
+      "key": "_39",
+      "value": "hold_unload_enable"
+    },
+    {
+      "key": "_59",
+      "value": "received_penetration_modifier"
+    },
+    {
+      "key": "_77",
+      "value": "resource_drop_off_time_gold"
+    },
+    {
+      "key": "_12",
+      "value": "collision_type_modifier"
+    },
+    {
+      "key": "_6",
+      "value": "armor_scalar_for_truedamage_damage"
+    },
+    {
+      "key": "_1",
+      "value": "armor_modifier"
+    },
+    {
+      "key": "_32",
+      "value": "facing_only_enable"
+    },
+    {
+      "key": "_44",
+      "value": "on_fire_decay_amount_per_tick_modifier"
+    },
+    {
+      "key": "_40",
+      "value": "ignore_snow_effects_modifier"
+    },
+    {
+      "key": "_55",
+      "value": "received_damage_modifier_fire"
+    },
+    {
+      "key": "_116",
+      "value": "target_priority_modifier"
+    },
+    {
+      "key": "_113",
+      "value": "spawner_enable"
+    },
+    {
+      "key": "_33",
+      "value": "garrison_requisition_modifier"
+    },
+    {
+      "key": "_74",
+      "value": "resource_drop_off_amount_stone"
+    },
+    {
+      "key": "_79",
+      "value": "resource_drop_off_time_wood"
+    },
+    {
+      "key": "_71",
+      "value": "resource_contained_amount_wood"
+    },
+    {
+      "key": "_58",
+      "value": "received_damage_modifier_true_damage"
+    },
+    {
+      "key": "_5",
+      "value": "armor_scalar_for_ranged_damage"
+    },
+    {
+      "key": "_62",
+      "value": "repair_medic_station_guys"
+    },
+    {
+      "key": "_121",
+      "value": "trade_route_resource_generation_modifier"
+    },
+    {
+      "key": "_26",
+      "value": "enable_visible_in_fow"
+    },
+    {
+      "key": "_85",
+      "value": "resource_entity_harvest_efficiency_gold"
+    },
+    {
+      "key": "_10",
+      "value": "camouflage_conceal_radius"
+    }
+  ]
+}

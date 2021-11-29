@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\weighted_sum"
+            },
+            {
+              "key": "inputs",
+              "value": [
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "value",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\normalize"
+                        },
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\product"
+                            },
+                            {
+                              "key": "inputs",
+                              "value": [
+                                {
+                                  "key": "reference",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "map_gen\\score_map\\option\\reference"
+                                    },
+                                    {
+                                      "key": "score_map",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "passable_land_curvature_medium_flipped_times_noise_016_normalized"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "map_gen\\score_map\\score_map"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "reference",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "map_gen\\score_map\\option\\reference"
+                                    },
+                                    {
+                                      "key": "score_map",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "noise_016"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "map_gen\\score_map\\score_map"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "reference",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "map_gen\\score_map\\option\\reference"
+                                    },
+                                    {
+                                      "key": "score_map",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "noise_002_sharp"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "map_gen\\score_map\\score_map"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "max",
+                          "value": 1
+                        },
+                        {
+                          "key": "min",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "weight",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "value",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
+                        },
+                        {
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "river_wet_and_ford_and_proximity"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "weight",
+                      "value": -1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 161278
+    }
+  ]
+}

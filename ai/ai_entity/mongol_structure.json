@@ -1,0 +1,273 @@
+{
+  "data": [
+    {
+      "key": "ai_entity_bag",
+      "value": [
+        {
+          "key": "construction",
+          "value": [
+            {
+              "key": "max_num_additional_builders",
+              "value": 4
+            },
+            {
+              "key": "near_to_structure",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_stone_deposit_ovoo_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "placement_function",
+              "value": ""
+            },
+            {
+              "key": "can_build_multiple_in_parallel",
+              "value": false
+            },
+            {
+              "key": "max_num_incomplete_structures_builders",
+              "value": -1
+            }
+          ]
+        },
+        {
+          "key": "applicable_blueprints",
+          "value": [
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_town_center_capital_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_town_center_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_econ_market_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_tech_unit_ranged_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_tech_unit_infantry_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_unit_cavalry_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_wonder_age4_final_wonder_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_wonder_age3_stupa_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_wonder_age3_khanbaliq_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_wonder_age2_khara_khoto_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_wonder_age1_kurultai_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_wonder_age2_karakorum_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_unit_siege_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_unit_ranged_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_unit_infantry_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_unit_religious_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_wonder_age1_deer_stones_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 180423
+    }
+  ]
+}

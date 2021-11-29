@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 195609
+    },
+    {
+      "key": "coat_of_arm_part_bag",
+      "value": [
+        {
+          "key": "colour_source_category",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "pattern_colour"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "inventory_item_category"
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11170884
+        },
+        {
+          "key": "icon",
+          "value": "coat_of_arms\\pattern\\tile_fleur_de_lis"
+        },
+        {
+          "key": "icon_secondary",
+          "value": ""
+        },
+        {
+          "key": "colour",
+          "value": -1
+        },
+        {
+          "key": "description",
+          "value": 11170860
+        },
+        {
+          "key": "inventory_item",
+          "value": [
+            {
+              "key": "search_tags",
+              "value": [
+              ]
+            },
+            {
+              "key": "required_level",
+              "value": 1
+            },
+            {
+              "key": "droppable",
+              "value": true
+            },
+            {
+              "key": "inventory_item_attributes",
+              "value": [
+                {
+                  "key": "inventory_item_attribute",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "is_new"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "inventory_item_attribute"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "inventory_item"
+            },
+            {
+              "key": "inventory_item_equip_modifiers",
+              "value": [
+              ]
+            },
+            {
+              "key": "races",
+              "value": [
+              ]
+            },
+            {
+              "key": "default_metadata",
+              "value": [
+              ]
+            },
+            {
+              "key": "inventory_item_categories",
+              "value": [
+                {
+                  "key": "inventory_item_category",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "pattern"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "inventory_item_category"
+                    }
+                  ]
+                },
+                {
+                  "key": "inventory_item_category",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "activity_feed_coat_of_arms"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "inventory_item_category"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "server_id",
+              "value": 452505
+            },
+            {
+              "key": "inventory_item_slots",
+              "value": [
+              ]
+            },
+            {
+              "key": "level_table",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ui_priority",
+              "value": 490
+            },
+            {
+              "key": "inventory_item_equip_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "inventory_item_requirements\\requirements\\requirement_none"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

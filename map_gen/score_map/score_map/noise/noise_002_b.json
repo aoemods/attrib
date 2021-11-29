@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "scale_meters",
+              "value": 2
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\noise"
+            },
+            {
+              "key": "biases",
+              "value": [
+              ]
+            },
+            {
+              "key": "max_value",
+              "value": 1
+            },
+            {
+              "key": "min_value",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 163346
+    }
+  ]
+}

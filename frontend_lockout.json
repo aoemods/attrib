@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "key": "_18",
+      "value": "show_multiplayer_ranked_tab"
+    },
+    {
+      "key": "_3",
+      "value": "show_community_feed"
+    },
+    {
+      "key": "_17",
+      "value": "show_multiplayer_quick_match_tab"
+    },
+    {
+      "key": "_4",
+      "value": "show_community_tab"
+    },
+    {
+      "key": "_7",
+      "value": "show_custom_build_tag"
+    },
+    {
+      "key": "_9",
+      "value": "show_friends_button"
+    },
+    {
+      "key": "_16",
+      "value": "show_multiplayer_observe_tab"
+    },
+    {
+      "key": "_24",
+      "value": "show_single_player_challenges_tab"
+    },
+    {
+      "key": "_0",
+      "value": "no_ftue"
+    },
+    {
+      "key": "_22",
+      "value": "show_single_player_button"
+    },
+    {
+      "key": "_8",
+      "value": "show_daily_quest_widget"
+    },
+    {
+      "key": "_21",
+      "value": "show_save_load_feature"
+    },
+    {
+      "key": "_13",
+      "value": "show_mods_tab"
+    },
+    {
+      "key": "_19",
+      "value": "show_news_widget"
+    },
+    {
+      "key": "_11",
+      "value": "show_learn_tab"
+    },
+    {
+      "key": "_2",
+      "value": "show_community_articles_carousel"
+    },
+    {
+      "key": "_20",
+      "value": "show_player_profile_button"
+    },
+    {
+      "key": "_27",
+      "value": "show_startup_news_once"
+    },
+    {
+      "key": "_15",
+      "value": "show_multiplayer_button"
+    },
+    {
+      "key": "_23",
+      "value": "show_single_player_campaign_tab"
+    },
+    {
+      "key": "_14",
+      "value": "show_multiplayer_4v4_option"
+    },
+    {
+      "key": "_25",
+      "value": "show_single_player_skirmish_tab"
+    },
+    {
+      "key": "_12",
+      "value": "show_masteries_button"
+    },
+    {
+      "key": "_6",
+      "value": "show_credits_button"
+    },
+    {
+      "key": "_1",
+      "value": "show_chat_widget"
+    },
+    {
+      "key": "_5",
+      "value": "show_create_custom_match_crafted_maps"
+    },
+    {
+      "key": "_26",
+      "value": "show_startup_news_always"
+    },
+    {
+      "key": "_10",
+      "value": "show_group_widget_button"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "key": "$REF",
+      "value": "type_loadout\\sync_weapon"
+    },
+    {
+      "key": "type",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

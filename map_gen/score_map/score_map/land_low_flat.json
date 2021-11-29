@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\weighted_sum"
+            },
+            {
+              "key": "inputs",
+              "value": [
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "value",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\power"
+                        },
+                        {
+                          "key": "power",
+                          "value": 3
+                        },
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\reference"
+                            },
+                            {
+                              "key": "score_map",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "land_low"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "map_gen\\score_map\\score_map"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "weight",
+                      "value": 2.5
+                    }
+                  ]
+                },
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "value",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
+                        },
+                        {
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "land_flat"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "weight",
+                      "value": 0.2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 156476
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\clamp_min"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "require_none",
+                  "value": [
+                    {
+                      "key": "surface_flag",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "require_any",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "require_all",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\surface_requirement"
+                },
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\product"
+                    },
+                    {
+                      "key": "inputs",
+                      "value": [
+                        {
+                          "key": "weighted_sum",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\weighted_sum"
+                            },
+                            {
+                              "key": "inputs",
+                              "value": [
+                                {
+                                  "key": "input",
+                                  "value": [
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\filter_min_max"
+                                        },
+                                        {
+                                          "key": "input",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "map_gen\\score_map\\option\\river_proximity"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "max",
+                                          "value": 1
+                                        },
+                                        {
+                                          "key": "min",
+                                          "value": 0.95
+                                        },
+                                        {
+                                          "key": "set_values_outside_range_to",
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "weight",
+                                      "value": 1
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "input",
+                                  "value": [
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "require_none",
+                                          "value": [
+                                            {
+                                              "key": "surface_flag",
+                                              "value": 0
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "require_any",
+                                          "value": [
+                                            {
+                                              "key": "surface_flag",
+                                              "value": 4
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "require_all",
+                                          "value": [
+                                          ]
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\surface_requirement"
+                                        },
+                                        {
+                                          "key": "input",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "map_gen\\score_map\\option\\river"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "weight",
+                                      "value": 0.25
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "input",
+                                  "value": [
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\bridge_proximity"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "weight",
+                                      "value": -2
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "input",
+                                  "value": [
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\ford_proximity"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "weight",
+                                      "value": -2
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "min",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 829062
+    }
+  ]
+}

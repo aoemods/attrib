@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 109446
+    },
+    {
+      "key": "ui_rectangle_bag",
+      "value": [
+        {
+          "key": "texture",
+          "value": "selection\\dashed_line"
+        },
+        {
+          "key": "u_animation_rate",
+          "value": 0
+        },
+        {
+          "key": "diffuse",
+          "value": -10574619
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_selection_data"
+        },
+        {
+          "key": "corner_radius",
+          "value": 0
+        },
+        {
+          "key": "scale",
+          "value": 1
+        },
+        {
+          "key": "thickness",
+          "value": 0.5
+        }
+      ]
+    }
+  ]
+}

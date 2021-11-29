@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 187683
+    },
+    {
+      "key": "mesh_area_properties",
+      "value": [
+        {
+          "key": "max_edge_height_difference",
+          "value": 4
+        },
+        {
+          "key": "max_edge_distance",
+          "value": 8
+        },
+        {
+          "key": "generate_cant_build_blockers",
+          "value": true
+        },
+        {
+          "key": "generate_impass",
+          "value": [
+            {
+              "key": "path_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "infantry"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "pass_types"
+                }
+              ]
+            },
+            {
+              "key": "path_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "vehicle"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "pass_types"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "line_of_sight_blocker_height",
+          "value": 1000
+        }
+      ]
+    }
+  ]
+}

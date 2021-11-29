@@ -1,0 +1,725 @@
+{
+  "data": [
+    {
+      "key": "ai_squad_bag",
+      "value": [
+        {
+          "key": "damage_ramping_ability",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "applicable_squads",
+          "value": [
+            {
+              "key": "unit_class_race",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "squad_blueprints",
+              "value": [
+              ]
+            },
+            {
+              "key": "unit_class_reqs",
+              "value": [
+                {
+                  "key": "unit_class_req",
+                  "value": "gaia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "tactics",
+          "value": [
+            {
+              "key": "vehicle",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "recrew",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "avoid",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "tactic_sequence",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "min_range",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "pickup",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "finish_healing",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "cover",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "force_attack",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "tactic_lua",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "warm_up",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "capture_team_weapon",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "capture_point",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "provide_reinforcement_point",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hold",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "vehicle_decrew",
+              "value": [
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\tactic_info\\tactic_info"
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "can_self_heal_out_of_combat",
+          "value": false
+        },
+        {
+          "key": "designer_locked",
+          "value": false
+        },
+        {
+          "key": "combat_target_selection_filter",
+          "value": ""
+        },
+        {
+          "key": "allow_skirmish_control",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 169538
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "key": "local_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_cell_dist_gaia_bird_no_land"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_cell_dist_gaia_sparrow"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_cell_distribution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_wood_forest"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_food_berries_large"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_gold_a_naval"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_wood_forest_secondary_naval"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_stone_a_naval"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_food_fish_shore"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_food_deer_a_large_naval"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_gold_tertiary_naval"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_stone_tertiary_naval"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_food_sheep_a_small"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_food_sheep_b_small"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_food_boar_single_far"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_wood_loose"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2033839
+    }
+  ]
+}

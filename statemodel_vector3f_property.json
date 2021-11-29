@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "resource_move_to_interact_previous_position"
+    },
+    {
+      "key": "_0",
+      "value": "ai_ally_pinged_target_position"
+    },
+    {
+      "key": "_2",
+      "value": "naval_transport_position"
+    },
+    {
+      "key": "_1",
+      "value": "Debug"
+    }
+  ]
+}

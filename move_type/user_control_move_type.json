@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 112776
+    },
+    {
+      "key": "move_type_bag",
+      "value": [
+        {
+          "key": "secs_to_delay_leapfrog_start_max",
+          "value": 0.5
+        },
+        {
+          "key": "secs_to_leapfrog_after_attack",
+          "value": 3
+        },
+        {
+          "key": "chance_to_leapfrog",
+          "value": 1
+        },
+        {
+          "key": "max_elements_leapfrogging_simultaneously",
+          "value": 1
+        },
+        {
+          "key": "leapfrog_cover_search_radius",
+          "value": 5
+        },
+        {
+          "key": "on_set_action_tree",
+          "value": [
+            {
+              "key": "start_suspended",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "state_tree_reference_info"
+            }
+          ]
+        },
+        {
+          "key": "secs_to_hold_at_move_start_min",
+          "value": 0.125
+        },
+        {
+          "key": "use_leapfrog_move_only_while_attacked",
+          "value": false
+        },
+        {
+          "key": "speed_multiplier_for_pathfinding_weights",
+          "value": 1
+        },
+        {
+          "key": "leap_target_random_shift",
+          "value": 0
+        },
+        {
+          "key": "min_threshold_to_leapfrog_distance",
+          "value": 3.5
+        },
+        {
+          "key": "secs_between_leap_starts",
+          "value": 0
+        },
+        {
+          "key": "simultaneous_leap_starts_allowed",
+          "value": 1
+        },
+        {
+          "key": "catchup_speed",
+          "value": [
+            {
+              "key": "catchup_distance_max",
+              "value": 2
+            },
+            {
+              "key": "catchup_multiplier_bonus_max",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "key": "enable_core_element_leaps",
+          "value": false
+        },
+        {
+          "key": "disable_leapfrog_catchup_distance",
+          "value": 0
+        },
+        {
+          "key": "percent_to_pull_toward_cover_on_soft_selection",
+          "value": 0.7
+        },
+        {
+          "key": "min_distance_between_leap_targets",
+          "value": 0
+        },
+        {
+          "key": "chance_to_soft_select_cover",
+          "value": 0
+        },
+        {
+          "key": "secs_to_hold_at_move_start_max",
+          "value": 0.75
+        },
+        {
+          "key": "no_leapfrog_within_radius_of_target",
+          "value": 8
+        },
+        {
+          "key": "max_holding_distance_from_virtual_leader",
+          "value": 0
+        },
+        {
+          "key": "virtual_leader_handoff_distance",
+          "value": 0
+        },
+        {
+          "key": "safety_multiplier_for_pathfinding_weights",
+          "value": 1
+        },
+        {
+          "key": "pace_to_leapfrog",
+          "value": "medium"
+        },
+        {
+          "key": "on_move_action_tree",
+          "value": [
+            {
+              "key": "start_suspended",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "state_tree_reference_info"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

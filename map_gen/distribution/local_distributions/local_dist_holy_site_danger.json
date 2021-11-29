@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "key": "local_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_cell_dist_gaia_wolf_spawner"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_cell_distribution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_holy_site"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_ocean_stealth_objects"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2033087
+    }
+  ]
+}

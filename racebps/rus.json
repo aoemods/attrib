@@ -1,0 +1,315 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 133008
+    },
+    {
+      "key": "race_bag",
+      "value": [
+        {
+          "key": "codex",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "rus"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "codex"
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11145281
+        },
+        {
+          "key": "faction_type",
+          "value": 0
+        },
+        {
+          "key": "asset_directory_ebps",
+          "value": "attrib\\ebps\\races\\rus"
+        },
+        {
+          "key": "icon",
+          "value": "civ_flags\\civ_icon_medium_rus"
+        },
+        {
+          "key": "icon_secondary",
+          "value": "civ_flags\\civ_icon_secondary_rus"
+        },
+        {
+          "key": "asset_directory_sbps",
+          "value": "attrib\\sbps\\races\\rus"
+        },
+        {
+          "key": "ui_visibility",
+          "value": true
+        },
+        {
+          "key": "sound_banks",
+          "value": [
+          ]
+        },
+        {
+          "key": "front_end_music_layer_event",
+          "value": "mus_fe_set_civ_rus"
+        },
+        {
+          "key": "resource_gatherer_squad_blueprint",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "unit_villager_1_rus"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "sbps"
+            }
+          ]
+        },
+        {
+          "key": "speech",
+          "value": [
+            {
+              "key": "intel_speaker_code",
+              "value": "rus"
+            },
+            {
+              "key": "race_code",
+              "value": "rus"
+            },
+            {
+              "key": "ally_intel_speaker_code",
+              "value": "smally"
+            }
+          ]
+        },
+        {
+          "key": "statemodel_schema",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "rus"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "statemodel_schema"
+            }
+          ]
+        },
+        {
+          "key": "telemetry_prefix",
+          "value": "Rus"
+        },
+        {
+          "key": "multiplayer",
+          "value": true
+        },
+        {
+          "key": "store_item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "blank"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "thq_store"
+            }
+          ]
+        },
+        {
+          "key": "image_small",
+          "value": "civ_flags\\flag_rus"
+        },
+        {
+          "key": "color",
+          "value": -2005915342
+        },
+        {
+          "key": "default_army",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "rus"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "army"
+            }
+          ]
+        },
+        {
+          "key": "path_name",
+          "value": "rus"
+        },
+        {
+          "key": "resource_gatherer_blueprint",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "unit_villager_1_rus"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "ebps"
+            }
+          ]
+        },
+        {
+          "key": "flag_icon",
+          "value": "civ_flags\\civ_icon_fade_rus"
+        },
+        {
+          "key": "naval_gatherer_blueprint",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "unit_naval_fishing_boat_2_rus"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "ebps"
+            }
+          ]
+        },
+        {
+          "key": "image",
+          "value": "backgrounds\\loading\\flags\\rus_bg"
+        },
+        {
+          "key": "description",
+          "value": 11197611
+        },
+        {
+          "key": "default_army_slot_layout",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "inventory_item",
+          "value": [
+            {
+              "key": "search_tags",
+              "value": [
+              ]
+            },
+            {
+              "key": "required_level",
+              "value": 1
+            },
+            {
+              "key": "droppable",
+              "value": true
+            },
+            {
+              "key": "inventory_item_attributes",
+              "value": [
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "inventory_item"
+            },
+            {
+              "key": "inventory_item_equip_modifiers",
+              "value": [
+              ]
+            },
+            {
+              "key": "races",
+              "value": [
+              ]
+            },
+            {
+              "key": "default_metadata",
+              "value": [
+              ]
+            },
+            {
+              "key": "inventory_item_categories",
+              "value": [
+                {
+                  "key": "inventory_item_category",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "rus"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "inventory_item_category"
+                    }
+                  ]
+                },
+                {
+                  "key": "inventory_item_category",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "race"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "inventory_item_category"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "server_id",
+              "value": 451770
+            },
+            {
+              "key": "inventory_item_slots",
+              "value": [
+              ]
+            },
+            {
+              "key": "level_table",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ui_priority",
+              "value": 0
+            },
+            {
+              "key": "inventory_item_equip_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "inventory_item_requirements\\requirements\\requirement_none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_priority",
+          "value": 6
+        }
+      ]
+    }
+  ]
+}

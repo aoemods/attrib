@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\normalize"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\product"
+                },
+                {
+                  "key": "inputs",
+                  "value": [
+                    {
+                      "key": "reference",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
+                        },
+                        {
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "passable_steep_normalized_clamped_times_noise"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "reference",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
+                        },
+                        {
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "noise_016_sharp"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "max",
+              "value": 1
+            },
+            {
+              "key": "min",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 161086
+    }
+  ]
+}

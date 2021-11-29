@@ -1,0 +1,541 @@
+{
+  "data": [
+    {
+      "key": "schema_bag",
+      "value": [
+        {
+          "key": "pbgid_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "int_properties",
+          "value": [
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "time_of_next_available_charge"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "time_of_last_charge"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ortoo_aura_timer"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "sub_schemas",
+          "value": [
+          ]
+        },
+        {
+          "key": "target_properties",
+          "value": [
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "horse_attack_move_target"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "horse_charge_target"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "horse_charge_blocker_target"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "horse_idle_aggro_target"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "horse_forced_engaged_target"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "list_properties",
+          "value": [
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 5
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 8
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "buffs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "float_properties",
+          "value": [
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "Relic_Count"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "bounty_count_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "InDeathThroes"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "universal_buff_count"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "universal_heal_count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "vector3f_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "generic_handle_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "attribute_enum_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "enum_table_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "bool_properties",
+          "value": [
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "is_carrying_entity"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "hit_palings_eng"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "UninterruptibleAttack"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "khan_signal_ability_available"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "is_unit_following"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "within_ortoo_aura"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "allow_evacuation"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "has_khan_arrow_buff_attack_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "has_khan_arrow_buff_defense_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "has_khan_arrow_buff_speed_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "hero_inactive"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "saints_armour_buff_rus"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "non_aggressive"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "has_herded_sheep"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 168621
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "attacking_unit"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "statemodel_schema"
+        }
+      ]
+    }
+  ]
+}

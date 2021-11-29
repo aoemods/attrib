@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 202485
+    },
+    {
+      "key": "distribution_balancing_list",
+      "value": [
+        {
+          "key": "distribution_balancing",
+          "value": [
+            {
+              "key": "boar_small",
+              "value": [
+              ]
+            },
+            {
+              "key": "deer_small",
+              "value": [
+              ]
+            },
+            {
+              "key": "settlements_naval",
+              "value": [
+              ]
+            },
+            {
+              "key": "fish_deepwater",
+              "value": [
+              ]
+            },
+            {
+              "key": "berries_small",
+              "value": [
+              ]
+            },
+            {
+              "key": "sheep_small",
+              "value": [
+              ]
+            },
+            {
+              "key": "fish_river",
+              "value": [
+              ]
+            },
+            {
+              "key": "fish_shore",
+              "value": [
+              ]
+            },
+            {
+              "key": "gold",
+              "value": [
+                {
+                  "key": "distribution",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "dist_gold_deposits_small"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\distribution\\distribution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "settlements",
+              "value": [
+                {
+                  "key": "distribution",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "dist_city_settlement"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\distribution\\distribution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "stone_small",
+              "value": [
+              ]
+            },
+            {
+              "key": "none",
+              "value": [
+              ]
+            },
+            {
+              "key": "stone",
+              "value": [
+                {
+                  "key": "distribution",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "dist_stone_deposits"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\distribution\\distribution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "deer_large",
+              "value": [
+              ]
+            },
+            {
+              "key": "berries",
+              "value": [
+                {
+                  "key": "distribution",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "dist_berries"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\distribution\\distribution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "boar_large",
+              "value": [
+              ]
+            },
+            {
+              "key": "gold_small",
+              "value": [
+              ]
+            },
+            {
+              "key": "sheep_med",
+              "value": [
+              ]
+            },
+            {
+              "key": "holy_sites",
+              "value": [
+                {
+                  "key": "distribution",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "dist_holy_site"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\distribution\\distribution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "relics",
+              "value": [
+                {
+                  "key": "distribution",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "dist_relics"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\distribution\\distribution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "sheep_large",
+              "value": [
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

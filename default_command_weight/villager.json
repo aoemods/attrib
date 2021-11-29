@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 1389788
+    },
+    {
+      "key": "default_command_weight_bag",
+      "value": [
+        {
+          "key": "command_weights",
+          "value": [
+            {
+              "key": "CombatStance",
+              "value": 0
+            },
+            {
+              "key": "Capture",
+              "value": 3
+            },
+            {
+              "key": "Recrew",
+              "value": 0
+            },
+            {
+              "key": "Stop",
+              "value": 0
+            },
+            {
+              "key": "CancelQueuedCommands",
+              "value": 0
+            },
+            {
+              "key": "PlaceCharge",
+              "value": 0
+            },
+            {
+              "key": "AbandonTeamWeapon",
+              "value": 0
+            },
+            {
+              "key": "Trade",
+              "value": 9
+            },
+            {
+              "key": "BuildStructure",
+              "value": 12
+            },
+            {
+              "key": "WeaponPreference",
+              "value": 0
+            },
+            {
+              "key": "HoldPosition",
+              "value": 0
+            },
+            {
+              "key": "MoveToCover",
+              "value": 0
+            },
+            {
+              "key": "Patrol",
+              "value": 0
+            },
+            {
+              "key": "BuildSquad",
+              "value": 12
+            },
+            {
+              "key": "InstantSetupTeamWeapon",
+              "value": 0
+            },
+            {
+              "key": "PickUpSimItem",
+              "value": 2
+            },
+            {
+              "key": "InstantLoad",
+              "value": 0
+            },
+            {
+              "key": "JoinFormationSquadGroup",
+              "value": 0
+            },
+            {
+              "key": "ReinforceUnit",
+              "value": 0
+            },
+            {
+              "key": "DefuseCharge",
+              "value": 0
+            },
+            {
+              "key": "Load",
+              "value": 8
+            },
+            {
+              "key": "Unload",
+              "value": 0
+            },
+            {
+              "key": "Vault",
+              "value": 0
+            },
+            {
+              "key": "CancelProduction",
+              "value": 0
+            },
+            {
+              "key": "Attack",
+              "value": 10
+            },
+            {
+              "key": "AttackMove",
+              "value": 0
+            },
+            {
+              "key": "Evacuate",
+              "value": 0
+            },
+            {
+              "key": "PickUpSlotItem",
+              "value": 2
+            },
+            {
+              "key": "UnloadSquads",
+              "value": 0
+            },
+            {
+              "key": "RevertFieldSupport",
+              "value": 0
+            },
+            {
+              "key": "Merge",
+              "value": 0
+            },
+            {
+              "key": "Surprise",
+              "value": 0
+            },
+            {
+              "key": "SlotItemRemove",
+              "value": 0
+            },
+            {
+              "key": "RescueCasualty",
+              "value": 0
+            },
+            {
+              "key": "Destroy",
+              "value": 0
+            },
+            {
+              "key": "Face",
+              "value": 0
+            },
+            {
+              "key": "InstantReinforceUnit",
+              "value": 0
+            },
+            {
+              "key": "Gather",
+              "value": 11
+            },
+            {
+              "key": "InstantUpgrade",
+              "value": 0
+            },
+            {
+              "key": "StationaryAttack",
+              "value": 0
+            },
+            {
+              "key": "CaptureTeamWeapon",
+              "value": 0
+            },
+            {
+              "key": "SetMoveType",
+              "value": 0
+            },
+            {
+              "key": "Retreat",
+              "value": 0
+            },
+            {
+              "key": "DefuseMine",
+              "value": 0
+            },
+            {
+              "key": "Upgrade",
+              "value": 0
+            },
+            {
+              "key": "Ability",
+              "value": 4
+            },
+            {
+              "key": "RallyPoint",
+              "value": 0
+            },
+            {
+              "key": "AttackWithinLeashArea",
+              "value": 0
+            },
+            {
+              "key": "DoPlan",
+              "value": 0
+            },
+            {
+              "key": "Move",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

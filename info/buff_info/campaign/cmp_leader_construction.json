@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\abilities\\leader_construction_speed"
+        },
+        {
+          "key": "description",
+          "value": 11190320
+        },
+        {
+          "key": "title",
+          "value": 11190321
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 205738
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

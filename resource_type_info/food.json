@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "key": "resource_type_bag",
+      "value": [
+        {
+          "key": "modifier_types",
+          "value": [
+            {
+              "key": "squad_rate",
+              "value": ""
+            },
+            {
+              "key": "player_trade_rate",
+              "value": "trade_rate_food_modifier"
+            },
+            {
+              "key": "entity_contained_amount",
+              "value": "resource_contained_amount_food"
+            },
+            {
+              "key": "player_max_cap",
+              "value": ""
+            },
+            {
+              "key": "player_upkeep",
+              "value": ""
+            },
+            {
+              "key": "upgrade_cost",
+              "value": "upgrade_cost_food_modifier"
+            },
+            {
+              "key": "player_rate_cap",
+              "value": ""
+            },
+            {
+              "key": "squad_cost",
+              "value": ""
+            },
+            {
+              "key": "ability_cost",
+              "value": ""
+            },
+            {
+              "key": "player_rate",
+              "value": ""
+            },
+            {
+              "key": "entity_drop_off_amount",
+              "value": "resource_drop_off_amount_food"
+            },
+            {
+              "key": "entity_regrowth_time",
+              "value": "resource_regrowth_time_food"
+            },
+            {
+              "key": "squad_upkeep_rate",
+              "value": ""
+            },
+            {
+              "key": "entity_carry_capacity",
+              "value": "resource_carry_capacity_food"
+            },
+            {
+              "key": "entity_rate",
+              "value": ""
+            },
+            {
+              "key": "entity_upkeep_rate",
+              "value": ""
+            },
+            {
+              "key": "entity_harvest_rate",
+              "value": "resource_entity_harvest_rate_food"
+            },
+            {
+              "key": "entity_harvest_efficiency",
+              "value": "resource_entity_harvest_efficiency_food"
+            },
+            {
+              "key": "entity_production_cost",
+              "value": "resource_production_cost_food"
+            },
+            {
+              "key": "player_min_cap",
+              "value": ""
+            },
+            {
+              "key": "entity_cost",
+              "value": "resource_entity_cost_food"
+            },
+            {
+              "key": "entity_upgrade_production_cost",
+              "value": "resource_upgrade_cost_food"
+            },
+            {
+              "key": "entity_drop_off_time",
+              "value": "resource_drop_off_time_food"
+            }
+          ]
+        },
+        {
+          "key": "resource_type",
+          "value": "food"
+        },
+        {
+          "key": "lua_enum_string",
+          "value": "RT_Food"
+        },
+        {
+          "key": "num_workers",
+          "value": "num_food_gatherers"
+        },
+        {
+          "key": "heuristic_weight",
+          "value": 0
+        },
+        {
+          "key": "ui",
+          "value": [
+            {
+              "key": "name",
+              "value": 11085951
+            },
+            {
+              "key": "resource_point_default_color",
+              "value": -11823436
+            },
+            {
+              "key": "is_hidden",
+              "value": false
+            },
+            {
+              "key": "is_common",
+              "value": false
+            },
+            {
+              "key": "kicker_texture",
+              "value": "resources\\resource_food_icon"
+            },
+            {
+              "key": "minimap_icon_texture",
+              "value": ""
+            },
+            {
+              "key": "desc",
+              "value": 11085965
+            },
+            {
+              "key": "icon_insufficient",
+              "value": "resources\\resource_food_icon_insufficient"
+            },
+            {
+              "key": "icon_primary",
+              "value": "resources\\resource_food_icon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 107419
+    }
+  ]
+}

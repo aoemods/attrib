@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 96063
+    },
+    {
+      "key": "paint_scheme_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11096701
+        },
+        {
+          "key": "paint_primary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "neutral_green"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "badge_secondary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "paint_tertiary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "paint_trim",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "neutral_green"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "badge_primary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "paint_secondary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "neutral_green"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "inventory_item_categories",
+          "value": [
+          ]
+        }
+      ]
+    }
+  ]
+}

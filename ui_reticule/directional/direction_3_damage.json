@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "key": "ui_reticule_bag",
+      "value": [
+        {
+          "key": "pulsing",
+          "value": [
+            {
+              "key": "pulse_alpha_off",
+              "value": 0
+            },
+            {
+              "key": "pulse_seconds",
+              "value": 0
+            },
+            {
+              "key": "pulse_alpha_on",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "directional",
+          "value": true
+        },
+        {
+          "key": "map",
+          "value": [
+            {
+              "key": "colour",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_reticule_decal_data"
+        },
+        {
+          "key": "easing",
+          "value": [
+            {
+              "key": "factor",
+              "value": 5
+            },
+            {
+              "key": "speed",
+              "value": 25
+            }
+          ]
+        },
+        {
+          "key": "rings",
+          "value": [
+            {
+              "key": "ring",
+              "value": [
+                {
+                  "key": "emissive_factor",
+                  "value": 4
+                },
+                {
+                  "key": "scale_factor_width",
+                  "value": 1
+                },
+                {
+                  "key": "diffuse_fixed",
+                  "value": false
+                },
+                {
+                  "key": "diffuse",
+                  "value": -1
+                },
+                {
+                  "key": "scale_factor_length",
+                  "value": 1
+                },
+                {
+                  "key": "dynamic_scaling",
+                  "value": true
+                },
+                {
+                  "key": "directional_offset",
+                  "value": false
+                },
+                {
+                  "key": "size_ratio",
+                  "value": 1
+                },
+                {
+                  "key": "display",
+                  "value": [
+                    {
+                      "key": "fill_alpha",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "tables\\ui_reticule_decal_line_data"
+                    },
+                    {
+                      "key": "fill_falloff",
+                      "value": 0.01
+                    },
+                    {
+                      "key": "boundary_alpha",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "boundary_width",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "line_width",
+                      "value": 3
+                    },
+                    {
+                      "key": "outer_glow",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "additive_blend",
+                  "value": true
+                },
+                {
+                  "key": "apply_fow",
+                  "value": true
+                },
+                {
+                  "key": "rotation_rate",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "ring",
+              "value": [
+                {
+                  "key": "emissive_factor",
+                  "value": 4
+                },
+                {
+                  "key": "scale_factor_width",
+                  "value": 1
+                },
+                {
+                  "key": "diffuse_fixed",
+                  "value": false
+                },
+                {
+                  "key": "diffuse",
+                  "value": -1
+                },
+                {
+                  "key": "scale_factor_length",
+                  "value": 1
+                },
+                {
+                  "key": "dynamic_scaling",
+                  "value": true
+                },
+                {
+                  "key": "directional_offset",
+                  "value": false
+                },
+                {
+                  "key": "size_ratio",
+                  "value": 1
+                },
+                {
+                  "key": "display",
+                  "value": [
+                    {
+                      "key": "fill_alpha",
+                      "value": 0.15
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "tables\\ui_reticule_decal_line_data"
+                    },
+                    {
+                      "key": "fill_falloff",
+                      "value": 0.7
+                    },
+                    {
+                      "key": "boundary_alpha",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "boundary_width",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "line_width",
+                      "value": 3
+                    },
+                    {
+                      "key": "outer_glow",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "additive_blend",
+                  "value": true
+                },
+                {
+                  "key": "apply_fow",
+                  "value": true
+                },
+                {
+                  "key": "rotation_rate",
+                  "value": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "retention",
+          "value": [
+            {
+              "key": "strobe_seconds_on",
+              "value": 0
+            },
+            {
+              "key": "strobe_seconds_off",
+              "value": 0.25
+            },
+            {
+              "key": "strobe_count",
+              "value": 1
+            },
+            {
+              "key": "strobe_alpha_on",
+              "value": 1
+            },
+            {
+              "key": "strobe_alpha_off",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 99508
+    }
+  ]
+}

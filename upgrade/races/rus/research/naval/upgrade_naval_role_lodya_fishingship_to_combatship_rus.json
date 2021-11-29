@@ -1,0 +1,1058 @@
+{
+  "data": [
+    {
+      "key": "upgrade_bag",
+      "value": [
+        {
+          "key": "ui_menu",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "building_naval_upgrade"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "menu"
+            }
+          ]
+        },
+        {
+          "key": "is_progress_permanent",
+          "value": false
+        },
+        {
+          "key": "upgrade_type",
+          "value": [
+            {
+              "key": "upgrade_type",
+              "value": "military_upgrade"
+            }
+          ]
+        },
+        {
+          "key": "ui_position",
+          "value": [
+            {
+              "key": "ui_position_column",
+              "value": 1
+            },
+            {
+              "key": "ui_position_row",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "key": "local_max_limit",
+          "value": 1
+        },
+        {
+          "key": "int_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "enable_in_hold",
+          "value": false
+        },
+        {
+          "key": "ui_codex_info",
+          "value": [
+            {
+              "key": "ui_position",
+              "value": [
+                {
+                  "key": "ui_position_column",
+                  "value": -1
+                },
+                {
+                  "key": "ui_position_row",
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "key": "exclusive",
+              "value": false
+            },
+            {
+              "key": "priority",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "min_music_intensity",
+          "value": 0
+        },
+        {
+          "key": "float_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "ui_kicker_icon_name",
+          "value": ""
+        },
+        {
+          "key": "squad_cost",
+          "value": [
+            {
+              "key": "food",
+              "value": 0
+            },
+            {
+              "key": "action",
+              "value": 0
+            },
+            {
+              "key": "gold",
+              "value": 0
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 0
+            },
+            {
+              "key": "stone",
+              "value": 0
+            },
+            {
+              "key": "command",
+              "value": 0
+            },
+            {
+              "key": "wood",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "has_speech_code",
+          "value": false
+        },
+        {
+          "key": "requirements_openingbranch",
+          "value": ""
+        },
+        {
+          "key": "ui_group_cast_type",
+          "value": 1
+        },
+        {
+          "key": "global_max_limit",
+          "value": 0
+        },
+        {
+          "key": "ui_event_cue",
+          "value": true
+        },
+        {
+          "key": "ui_preview",
+          "value": [
+          ]
+        },
+        {
+          "key": "requirements",
+          "value": [
+            {
+              "key": "required_player_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "include_queued",
+                  "value": false
+                },
+                {
+                  "key": "include_completed",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_player_upgrade"
+                },
+                {
+                  "key": "max_completed",
+                  "value": 100
+                },
+                {
+                  "key": "min_completed",
+                  "value": 1
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "feudal_age"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                },
+                {
+                  "key": "is_present",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "required_entity_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "include_queued",
+                  "value": false
+                },
+                {
+                  "key": "include_completed",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_entity_upgrade"
+                },
+                {
+                  "key": "max_completed",
+                  "value": 100
+                },
+                {
+                  "key": "min_completed",
+                  "value": 1
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "upgrade_naval_role_lodya_combatship_rus"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage_and_display"
+                },
+                {
+                  "key": "is_present",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "required_not",
+              "value": [
+                {
+                  "key": "requirement_table",
+                  "value": [
+                    {
+                      "key": "required_is_entity_pbg",
+                      "value": [
+                        {
+                          "key": "include_pbg_parenting",
+                          "value": [
+                            {
+                              "key": "include_child_pbgs",
+                              "value": false
+                            },
+                            {
+                              "key": "include_parent_pbgs",
+                              "value": false
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_is_entity_pbg"
+                        },
+                        {
+                          "key": "is_entity_pbg",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_naval_combat_ship_3_rus"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "ebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage_and_display"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_not"
+                },
+                {
+                  "key": "reason",
+                  "value": "usage_and_display"
+                }
+              ]
+            },
+            {
+              "key": "required_not",
+              "value": [
+                {
+                  "key": "requirement_table",
+                  "value": [
+                    {
+                      "key": "required_in_state",
+                      "value": [
+                        {
+                          "key": "check_states",
+                          "value": [
+                            {
+                              "key": "state_requirement_type",
+                              "value": "is_holding_any"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "was_attacking_within_seconds",
+                          "value": -1
+                        },
+                        {
+                          "key": "was_attacked_within_seconds",
+                          "value": -1
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_in_state"
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_not"
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
+            },
+            {
+              "key": "required_not",
+              "value": [
+                {
+                  "key": "requirement_table",
+                  "value": [
+                    {
+                      "key": "required_any_in_list",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_any_in_list"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                            {
+                              "key": "required_entity_upgrade",
+                              "value": [
+                                {
+                                  "key": "include_pbg_parenting",
+                                  "value": [
+                                    {
+                                      "key": "include_child_pbgs",
+                                      "value": false
+                                    },
+                                    {
+                                      "key": "include_parent_pbgs",
+                                      "value": false
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "include_queued",
+                                  "value": true
+                                },
+                                {
+                                  "key": "include_completed",
+                                  "value": false
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_entity_upgrade"
+                                },
+                                {
+                                  "key": "max_completed",
+                                  "value": 100
+                                },
+                                {
+                                  "key": "min_completed",
+                                  "value": 1
+                                },
+                                {
+                                  "key": "upgrade_name",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "upgrade_naval_role_lodya_fireship_rus"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "upgrade"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "reason",
+                                  "value": "usage"
+                                },
+                                {
+                                  "key": "is_present",
+                                  "value": true
+                                }
+                              ]
+                            },
+                            {
+                              "key": "required_entity_upgrade",
+                              "value": [
+                                {
+                                  "key": "include_pbg_parenting",
+                                  "value": [
+                                    {
+                                      "key": "include_child_pbgs",
+                                      "value": false
+                                    },
+                                    {
+                                      "key": "include_parent_pbgs",
+                                      "value": false
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "include_queued",
+                                  "value": true
+                                },
+                                {
+                                  "key": "include_completed",
+                                  "value": false
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_entity_upgrade"
+                                },
+                                {
+                                  "key": "max_completed",
+                                  "value": 100
+                                },
+                                {
+                                  "key": "min_completed",
+                                  "value": 1
+                                },
+                                {
+                                  "key": "upgrade_name",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "upgrade_naval_role_lodya_fishingship_rus"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "upgrade"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "reason",
+                                  "value": "usage"
+                                },
+                                {
+                                  "key": "is_present",
+                                  "value": true
+                                }
+                              ]
+                            },
+                            {
+                              "key": "required_entity_upgrade",
+                              "value": [
+                                {
+                                  "key": "include_pbg_parenting",
+                                  "value": [
+                                    {
+                                      "key": "include_child_pbgs",
+                                      "value": false
+                                    },
+                                    {
+                                      "key": "include_parent_pbgs",
+                                      "value": false
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "include_queued",
+                                  "value": true
+                                },
+                                {
+                                  "key": "include_completed",
+                                  "value": false
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_entity_upgrade"
+                                },
+                                {
+                                  "key": "max_completed",
+                                  "value": 100
+                                },
+                                {
+                                  "key": "min_completed",
+                                  "value": 1
+                                },
+                                {
+                                  "key": "upgrade_name",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "upgrade_naval_role_lodya_scoutship_rus"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "upgrade"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "reason",
+                                  "value": "usage"
+                                },
+                                {
+                                  "key": "is_present",
+                                  "value": true
+                                }
+                              ]
+                            },
+                            {
+                              "key": "required_entity_upgrade",
+                              "value": [
+                                {
+                                  "key": "include_pbg_parenting",
+                                  "value": [
+                                    {
+                                      "key": "include_child_pbgs",
+                                      "value": false
+                                    },
+                                    {
+                                      "key": "include_parent_pbgs",
+                                      "value": false
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "include_queued",
+                                  "value": true
+                                },
+                                {
+                                  "key": "include_completed",
+                                  "value": false
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_entity_upgrade"
+                                },
+                                {
+                                  "key": "max_completed",
+                                  "value": 100
+                                },
+                                {
+                                  "key": "min_completed",
+                                  "value": 1
+                                },
+                                {
+                                  "key": "upgrade_name",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "upgrade_naval_role_lodya_tradeship_rus"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "upgrade"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "reason",
+                                  "value": "usage"
+                                },
+                                {
+                                  "key": "is_present",
+                                  "value": true
+                                }
+                              ]
+                            },
+                            {
+                              "key": "required_entity_upgrade",
+                              "value": [
+                                {
+                                  "key": "include_pbg_parenting",
+                                  "value": [
+                                    {
+                                      "key": "include_child_pbgs",
+                                      "value": false
+                                    },
+                                    {
+                                      "key": "include_parent_pbgs",
+                                      "value": false
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "include_queued",
+                                  "value": true
+                                },
+                                {
+                                  "key": "include_completed",
+                                  "value": false
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_entity_upgrade"
+                                },
+                                {
+                                  "key": "max_completed",
+                                  "value": 100
+                                },
+                                {
+                                  "key": "min_completed",
+                                  "value": 1
+                                },
+                                {
+                                  "key": "upgrade_name",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "upgrade_naval_role_lodya_transport_rus"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "upgrade"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "reason",
+                                  "value": "usage"
+                                },
+                                {
+                                  "key": "is_present",
+                                  "value": true
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_not"
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
+            },
+            {
+              "key": "required_not",
+              "value": [
+                {
+                  "key": "requirement_table",
+                  "value": [
+                    {
+                      "key": "required_in_state",
+                      "value": [
+                        {
+                          "key": "check_states",
+                          "value": [
+                            {
+                              "key": "state_requirement_type",
+                              "value": "in_hold"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "was_attacking_within_seconds",
+                          "value": -1
+                        },
+                        {
+                          "key": "was_attacked_within_seconds",
+                          "value": -1
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_in_state"
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage_and_display"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_not"
+                },
+                {
+                  "key": "reason",
+                  "value": "usage_and_display"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "state_tree_references",
+          "value": [
+            {
+              "key": "on_action_entity_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "on_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": "upgrade_naval\\upgrade_naval_role_combatship_rus"
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "on_begin_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": "upgrade_naval\\upgrade_naval_on_begin_disable_hold"
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "on_action_squad_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "on_cancel_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_info",
+          "value": [
+            {
+              "key": "debug_text",
+              "value": ""
+            },
+            {
+              "key": "screen_name_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "screen_name_short_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "reveal_for_decryption",
+              "value": false
+            },
+            {
+              "key": "brief_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "extra_text",
+              "value": 11192658
+            },
+            {
+              "key": "sound",
+              "value": "sfx_ui_produce_upgrade_unit_click"
+            },
+            {
+              "key": "icon_name",
+              "value": "races\\common\\units\\general_ship"
+            },
+            {
+              "key": "ui_combine_type",
+              "value": "intersection"
+            },
+            {
+              "key": "help_text",
+              "value": 11178259
+            },
+            {
+              "key": "hotkey_name",
+              "value": "a"
+            },
+            {
+              "key": "sound_alternative",
+              "value": ""
+            },
+            {
+              "key": "tooltip_data_template",
+              "value": "BuildingUpgradeDataTemplate"
+            },
+            {
+              "key": "help_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "extra_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "screen_name",
+              "value": 11178242
+            }
+          ]
+        },
+        {
+          "key": "time_cost",
+          "value": [
+            {
+              "key": "time_seconds",
+              "value": 20
+            },
+            {
+              "key": "cost",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 0
+                },
+                {
+                  "key": "action",
+                  "value": 0
+                },
+                {
+                  "key": "gold",
+                  "value": 60
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 0
+                },
+                {
+                  "key": "popcap",
+                  "value": 0
+                },
+                {
+                  "key": "stone",
+                  "value": 0
+                },
+                {
+                  "key": "command",
+                  "value": 0
+                },
+                {
+                  "key": "wood",
+                  "value": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_production_group",
+          "value": "command_panel"
+        },
+        {
+          "key": "owner_type",
+          "value": "self"
+        },
+        {
+          "key": "ui_squad_portrait_icon_override",
+          "value": ""
+        },
+        {
+          "key": "filter_conditions",
+          "value": [
+            {
+              "key": "apply_to_future_units",
+              "value": 2
+            },
+            {
+              "key": "apply_to_application_type",
+              "value": 2
+            },
+            {
+              "key": "apply_to_target_type",
+              "value": 0
+            },
+            {
+              "key": "apply_to_filter_condition_statetree_ref",
+              "value": ""
+            },
+            {
+              "key": "apply_to_unit_classes",
+              "value": [
+              ]
+            }
+          ]
+        },
+        {
+          "key": "speech_code",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2057897
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

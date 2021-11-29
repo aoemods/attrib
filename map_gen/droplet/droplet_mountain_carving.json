@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "key": "droplet",
+      "value": [
+        {
+          "key": "droplet_constant_erosion",
+          "value": 0
+        },
+        {
+          "key": "drag_factor",
+          "value": 0.06
+        },
+        {
+          "key": "droplet_max_speed",
+          "value": 2
+        },
+        {
+          "key": "starting_height_bonus",
+          "value": 8
+        },
+        {
+          "key": "erosive_nature",
+          "value": 1
+        },
+        {
+          "key": "droplet_acceleration",
+          "value": 0
+        },
+        {
+          "key": "target_water_depth",
+          "value": 0
+        },
+        {
+          "key": "droplet_max_speed_erosion",
+          "value": 0.05
+        },
+        {
+          "key": "drag_nature",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 168547
+    }
+  ]
+}

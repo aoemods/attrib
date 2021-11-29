@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "key": "_18",
+      "value": "ai_large_list_of_things"
+    },
+    {
+      "key": "_3",
+      "value": "ai_best_formup_targets"
+    },
+    {
+      "key": "_17",
+      "value": "ai_idle_at_end_targets"
+    },
+    {
+      "key": "_4",
+      "value": "ai_best_garrison_targets"
+    },
+    {
+      "key": "_7",
+      "value": "ai_best_stonewall_targets"
+    },
+    {
+      "key": "_9",
+      "value": "ai_best_wallgate_targets"
+    },
+    {
+      "key": "_16",
+      "value": "ai_final_move_targets"
+    },
+    {
+      "key": "_24",
+      "value": "buffs"
+    },
+    {
+      "key": "_0",
+      "value": "ai_all_enemy_monks_with_relics"
+    },
+    {
+      "key": "_22",
+      "value": "ai_returning_transports"
+    },
+    {
+      "key": "_8",
+      "value": "ai_best_wall_targets"
+    },
+    {
+      "key": "_21",
+      "value": "ai_phase_encounter_exclude_unit_types_enroute"
+    },
+    {
+      "key": "_13",
+      "value": "ai_demoships_and_warships"
+    },
+    {
+      "key": "_19",
+      "value": "ai_passengers_and_transport"
+    },
+    {
+      "key": "_11",
+      "value": "ai_damaged_ship_and_repairer"
+    },
+    {
+      "key": "_2",
+      "value": "ai_best_face_targets"
+    },
+    {
+      "key": "_20",
+      "value": "ai_phase_encounter_exclude_unit_types"
+    },
+    {
+      "key": "_15",
+      "value": "ai_encounter_merge_ids"
+    },
+    {
+      "key": "_23",
+      "value": "ai_transports"
+    },
+    {
+      "key": "_14",
+      "value": "ai_encounter_can_reinforce_ids"
+    },
+    {
+      "key": "_25",
+      "value": "slot_targets"
+    },
+    {
+      "key": "_12",
+      "value": "ai_demoships"
+    },
+    {
+      "key": "_6",
+      "value": "ai_best_nearby_threat"
+    },
+    {
+      "key": "_1",
+      "value": "ai_best_available_squads"
+    },
+    {
+      "key": "_5",
+      "value": "ai_best_military_targets"
+    },
+    {
+      "key": "_26",
+      "value": "whatev"
+    },
+    {
+      "key": "_10",
+      "value": "ai_current_scout_transport_islands"
+    }
+  ]
+}

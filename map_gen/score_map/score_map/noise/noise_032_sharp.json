@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\power"
+            },
+            {
+              "key": "power",
+              "value": 4
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "noise_032"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 161087
+    }
+  ]
+}

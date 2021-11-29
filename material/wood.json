@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 165566
+    },
+    {
+      "key": "material_bag",
+      "value": [
+        {
+          "key": "priority",
+          "value": 0
+        },
+        {
+          "key": "hit_material",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "wood"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hit_material"
+            }
+          ]
+        },
+        {
+          "key": "ui_info",
+          "value": [
+            {
+              "key": "reveal_for_decryption",
+              "value": false
+            },
+            {
+              "key": "icon_name",
+              "value": ""
+            },
+            {
+              "key": "overlay_name",
+              "value": ""
+            },
+            {
+              "key": "hotkey_name",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "cover_type",
+          "value": "tp_defcover"
+        }
+      ]
+    }
+  ]
+}

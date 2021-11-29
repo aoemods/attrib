@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\product"
+            },
+            {
+              "key": "inputs",
+              "value": [
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "river_ford_and_bank"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "noise_004_sharp"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "noise_002"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "river_proximity",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\river_proximity"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 170015
+    }
+  ]
+}

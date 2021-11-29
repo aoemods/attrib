@@ -1,0 +1,1498 @@
+{
+  "data": [
+    {
+      "key": "army_bag",
+      "value": [
+        {
+          "key": "check_pop_cap_when_queuing_production_item",
+          "value": false
+        },
+        {
+          "key": "production_buildings",
+          "value": [
+          ]
+        },
+        {
+          "key": "field_support_production_styles",
+          "value": [
+          ]
+        },
+        {
+          "key": "abilities",
+          "value": [
+          ]
+        },
+        {
+          "key": "upkeep_per_pop_per_minute_override",
+          "value": [
+            {
+              "key": "food",
+              "value": 0
+            },
+            {
+              "key": "action",
+              "value": 0
+            },
+            {
+              "key": "gold",
+              "value": 0
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 0
+            },
+            {
+              "key": "stone",
+              "value": 0
+            },
+            {
+              "key": "command",
+              "value": 0
+            },
+            {
+              "key": "wood",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "casualties",
+          "value": [
+            {
+              "key": "max_rescued_casualty_count",
+              "value": 100
+            },
+            {
+              "key": "guaranteed_casualty_per_number_of_deaths",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "key": "upgrades",
+          "value": [
+          ]
+        },
+        {
+          "key": "badge_path",
+          "value": "DATA:\\art\\armies\\west_german\\badges\\default_dif"
+        },
+        {
+          "key": "starting_buildings",
+          "value": [
+            {
+              "key": "starting_building",
+              "value": [
+                {
+                  "key": "building",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "building_town_center_capital_eng"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ebps"
+                    }
+                  ]
+                },
+                {
+                  "key": "starting_squads",
+                  "value": [
+                    {
+                      "key": "starting_squad",
+                      "value": [
+                        {
+                          "key": "squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_scout_1_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "check_requirements",
+                          "value": false
+                        },
+                        {
+                          "key": "position_offset",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 5
+                            },
+                            {
+                              "key": "x",
+                              "value": -4
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "starting_squad",
+                      "value": [
+                        {
+                          "key": "squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_villager_1_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "check_requirements",
+                          "value": false
+                        },
+                        {
+                          "key": "position_offset",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": -1
+                            },
+                            {
+                              "key": "x",
+                              "value": -3
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "starting_squad",
+                      "value": [
+                        {
+                          "key": "squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_villager_1_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "check_requirements",
+                          "value": false
+                        },
+                        {
+                          "key": "position_offset",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": -2
+                            },
+                            {
+                              "key": "x",
+                              "value": -1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "starting_squad",
+                      "value": [
+                        {
+                          "key": "squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_villager_1_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "check_requirements",
+                          "value": false
+                        },
+                        {
+                          "key": "position_offset",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": -4
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "key",
+                  "value": "default_mp"
+                },
+                {
+                  "key": "player_upgrades",
+                  "value": [
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "actions",
+          "value": [
+            {
+              "key": "fx_rally_point_line_color_move",
+              "value": -1199616
+            },
+            {
+              "key": "ally_defend_here_action_name",
+              "value": "UI/coh2_team_defend_here"
+            },
+            {
+              "key": "fx_rally_point_action_name",
+              "value": "ui/command/rally_point_order_loop"
+            },
+            {
+              "key": "self_defend_here_action_name",
+              "value": ""
+            },
+            {
+              "key": "ally_capture_here_action_name",
+              "value": "UI/coh2_team_capture_here"
+            },
+            {
+              "key": "ability_ally_reinforcement_action_name",
+              "value": "UI/command/coh2_troop_deployment_flag"
+            },
+            {
+              "key": "ally_question_here_action_name",
+              "value": "UI/coh2_team_question_here"
+            },
+            {
+              "key": "fx_rally_point_line_color_special",
+              "value": -9653526
+            },
+            {
+              "key": "self_capture_here_action_name",
+              "value": ""
+            },
+            {
+              "key": "ally_attack_here_action_name",
+              "value": "UI/coh2_team_attack_here"
+            },
+            {
+              "key": "self_question_here_action_name",
+              "value": ""
+            },
+            {
+              "key": "fx_rally_point_action_name_special",
+              "value": "ui/command/rally_point_order_loop_square"
+            },
+            {
+              "key": "ability_self_reinforcement_action_name",
+              "value": "UI/command/coh2_troop_deployment_flag"
+            },
+            {
+              "key": "self_attack_here_action_name",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "resource_max_cap",
+          "value": [
+            {
+              "key": "food",
+              "value": 100000
+            },
+            {
+              "key": "action",
+              "value": -1
+            },
+            {
+              "key": "gold",
+              "value": 100000
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 200
+            },
+            {
+              "key": "stone",
+              "value": 100000
+            },
+            {
+              "key": "command",
+              "value": 10
+            },
+            {
+              "key": "wood",
+              "value": 100000
+            }
+          ]
+        },
+        {
+          "key": "race_population_cap_table",
+          "value": [
+            {
+              "key": "max_personnel_cap",
+              "value": 200
+            },
+            {
+              "key": "base_personnel_cap",
+              "value": 0
+            },
+            {
+              "key": "max_vehicle_cap",
+              "value": 0
+            },
+            {
+              "key": "base_vehicle_cap",
+              "value": 0
+            },
+            {
+              "key": "base_medic_cap",
+              "value": 0
+            },
+            {
+              "key": "max_medic_cap",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "team_size_point_resource_multiplier",
+          "value": [
+          ]
+        },
+        {
+          "key": "ai_production_info",
+          "value": [
+            {
+              "key": "loadouts",
+              "value": [
+              ]
+            },
+            {
+              "key": "unlocking_upgrade_list",
+              "value": [
+                {
+                  "key": "unlocking_upgrade_info",
+                  "value": [
+                    {
+                      "key": "unlocked_building",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgraded_squads",
+                      "value": [
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_manatarms_1_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_manatarms_1"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgrade_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_manatarms_2_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unlocked_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "unlocking_upgrade_info",
+                  "value": [
+                    {
+                      "key": "unlocked_building",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgraded_squads",
+                      "value": [
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_manatarms_2_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_manatarms_2"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgrade_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_manatarms_3_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unlocked_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "unlocking_upgrade_info",
+                  "value": [
+                    {
+                      "key": "unlocked_building",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgraded_squads",
+                      "value": [
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_manatarms_3_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_manatarms_3"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgrade_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_manatarms_4_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unlocked_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "unlocking_upgrade_info",
+                  "value": [
+                    {
+                      "key": "unlocked_building",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgraded_squads",
+                      "value": [
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_archer_2_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_archer_2"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgrade_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_archer_3_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unlocked_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "unlocking_upgrade_info",
+                  "value": [
+                    {
+                      "key": "unlocked_building",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgraded_squads",
+                      "value": [
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_archer_3_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_archer_3"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgrade_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_archer_4_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unlocked_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "unlocking_upgrade_info",
+                  "value": [
+                    {
+                      "key": "unlocked_building",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgraded_squads",
+                      "value": [
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_2_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_2_fre"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_2_rus"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_2_hre"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_2_mon"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_2"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgrade_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_horseman_3"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unlocked_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "unlocking_upgrade_info",
+                  "value": [
+                    {
+                      "key": "unlocked_building",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgraded_squads",
+                      "value": [
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_3_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_3_fre"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_3_rus"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_3_hre"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_3_mon"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_horseman_3"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgrade_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_horseman_4"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unlocked_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "unlocking_upgrade_info",
+                  "value": [
+                    {
+                      "key": "unlocked_building",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgraded_squads",
+                      "value": [
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_spearman_2_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_spearman_2"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgrade_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_spearman_3_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unlocked_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "unlocking_upgrade_info",
+                  "value": [
+                    {
+                      "key": "unlocked_building",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgraded_squads",
+                      "value": [
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_spearman_3_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_spearman_3"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgrade_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_spearman_4_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unlocked_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "unlocking_upgrade_info",
+                  "value": [
+                    {
+                      "key": "unlocked_building",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgraded_squads",
+                      "value": [
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_knight_3_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_knight_3"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgrade_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_knight_4"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unlocked_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "unlocking_upgrade_info",
+                  "value": [
+                    {
+                      "key": "unlocked_building",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgraded_squads",
+                      "value": [
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_crossbowman_3_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "upgraded_squad",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_crossbowman_3"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "sbps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "upgrade_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_crossbowman_4"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unlocked_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "resource_starting_amount",
+          "value": [
+            {
+              "key": "food",
+              "value": 300
+            },
+            {
+              "key": "action",
+              "value": 0
+            },
+            {
+              "key": "gold",
+              "value": 150
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 0
+            },
+            {
+              "key": "stone",
+              "value": 0
+            },
+            {
+              "key": "command",
+              "value": 0
+            },
+            {
+              "key": "wood",
+              "value": 300
+            }
+          ]
+        },
+        {
+          "key": "ui",
+          "value": [
+            {
+              "key": "research_upgrade",
+              "value": "english_upgrade"
+            },
+            {
+              "key": "background_image",
+              "value": "civ_flags\\flag_anglo_saxon_england"
+            },
+            {
+              "key": "global_traits_summary",
+              "value": [
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon"
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon-1"
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon-2"
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon"
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon"
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon-1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "difficulty",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "resource_income_cap",
+          "value": [
+            {
+              "key": "food",
+              "value": 3.402823E+38
+            },
+            {
+              "key": "action",
+              "value": 20
+            },
+            {
+              "key": "gold",
+              "value": 3.402823E+38
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 3.402823E+38
+            },
+            {
+              "key": "stone",
+              "value": 3.402823E+38
+            },
+            {
+              "key": "command",
+              "value": 3.402823E+38
+            },
+            {
+              "key": "wood",
+              "value": 3.402823E+38
+            }
+          ]
+        },
+        {
+          "key": "start_actions_statetree",
+          "value": "civ_start\\English"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 205675
+    }
+  ]
+}

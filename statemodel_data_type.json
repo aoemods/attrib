@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "generic_handle"
+    },
+    {
+      "key": "_4",
+      "value": "int"
+    },
+    {
+      "key": "_7",
+      "value": "vector3f"
+    },
+    {
+      "key": "_0",
+      "value": "attributeenum"
+    },
+    {
+      "key": "_2",
+      "value": "float"
+    },
+    {
+      "key": "_6",
+      "value": "target"
+    },
+    {
+      "key": "_1",
+      "value": "bool"
+    },
+    {
+      "key": "_5",
+      "value": "pbgid"
+    }
+  ]
+}

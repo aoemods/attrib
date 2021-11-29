@@ -1,0 +1,137 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 196014
+    },
+    {
+      "key": "coat_of_arm_part_bag",
+      "value": [
+        {
+          "key": "colour_source_category",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11193078
+        },
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "icon_secondary",
+          "value": ""
+        },
+        {
+          "key": "colour",
+          "value": -10450904
+        },
+        {
+          "key": "inventory_item",
+          "value": [
+            {
+              "key": "search_tags",
+              "value": [
+              ]
+            },
+            {
+              "key": "required_level",
+              "value": 1
+            },
+            {
+              "key": "droppable",
+              "value": true
+            },
+            {
+              "key": "inventory_item_attributes",
+              "value": [
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "inventory_item"
+            },
+            {
+              "key": "inventory_item_equip_modifiers",
+              "value": [
+              ]
+            },
+            {
+              "key": "races",
+              "value": [
+              ]
+            },
+            {
+              "key": "default_metadata",
+              "value": [
+              ]
+            },
+            {
+              "key": "inventory_item_categories",
+              "value": [
+                {
+                  "key": "inventory_item_category",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "pattern_colour"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "inventory_item_category"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "server_id",
+              "value": 452543
+            },
+            {
+              "key": "inventory_item_slots",
+              "value": [
+              ]
+            },
+            {
+              "key": "level_table",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ui_priority",
+              "value": 70
+            },
+            {
+              "key": "inventory_item_equip_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "inventory_item_requirements\\requirements\\requirement_none"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

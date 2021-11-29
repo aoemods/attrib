@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 188745
+    },
+    {
+      "key": "briefing_bag",
+      "value": [
+        {
+          "key": "campaign_map_scenario",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "challenge_mission_districts"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "campaign_map_scenario"
+            }
+          ]
+        },
+        {
+          "key": "background",
+          "value": "pack://application:,,,/images/backgrounds/campaign/york_background_placeholder.png"
+        },
+        {
+          "key": "load_tips",
+          "value": [
+          ]
+        },
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "rewards",
+          "value": [
+          ]
+        },
+        {
+          "key": "highlight",
+          "value": [
+            {
+              "key": "preview_ebpname",
+              "value": ""
+            },
+            {
+              "key": "frontend_ebp_size",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "messages",
+          "value": [
+          ]
+        },
+        {
+          "key": "description",
+          "value": 11166806
+        },
+        {
+          "key": "optional_briefings",
+          "value": [
+          ]
+        },
+        {
+          "key": "objectives",
+          "value": [
+            {
+              "key": "objective",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "challenge_mission_districts"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "briefing_objective"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "briefing_message_short",
+          "value": 11166803
+        }
+      ]
+    }
+  ]
+}

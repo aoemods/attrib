@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": "Delhi Sultanate Mastery Reward"
+    },
+    {
+      "key": "items",
+      "value": [
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "sultanate_08_elephant"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "player_portrait"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "fun_fact_sultanate_12"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "generic_inventory_item"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "sigil_31"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "coat_of_arms_part"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "inventory_item_bundle_type",
+      "value": "Achievement"
+    },
+    {
+      "key": "server_id",
+      "value": 988
+    }
+  ]
+}

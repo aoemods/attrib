@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "key": "load_tip_group_bag",
+      "value": [
+        {
+          "key": "tips",
+          "value": [
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "town_centers"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "farms"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "economic_upgrades"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "markets_and_traders"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "bounty"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "wooden_fortress"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "load_tip_group_type",
+          "value": "standard"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2032997
+    }
+  ]
+}

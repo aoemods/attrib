@@ -1,0 +1,423 @@
+{
+  "data": [
+    {
+      "key": "challenge_bag",
+      "value": [
+        {
+          "key": "requirement",
+          "value": [
+            {
+              "key": "operator",
+              "value": "and"
+            },
+            {
+              "key": "requirements",
+              "value": [
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "in"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\map"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "cdn_challenge_missions\\challenge_mission_basiccombat\\challenge_mission_basiccombat"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "cdn_challenge_missions\\challenge_mission_earlyeconomy\\challenge_mission_earlyeconomy"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "cdn_challenge_missions\\challenge_mission_earlysiege\\challenge_mission_earlysiege"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "cdn_challenge_missions\\challenge_mission_lateeconomy\\challenge_mission_lateeconomy"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "cdn_challenge_missions\\challenge_mission_latesiege\\challenge_mission_latesiege"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\angevin\\ang_chp1_hastings\\ang_chp1_hastings"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\angevin\\ang_chp1_york\\ang_chp1_york"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\angevin\\ang_chp2_bayeux\\ang_chp2_bayeux"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\angevin\\ang_chp2_bremule\\ang_chp2_bremule"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\angevin\\ang_chp2_tinchebray\\ang_chp2_tinchebray"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\angevin\\ang_chp3_lincoln\\ang_chp3_lincoln"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\angevin\\ang_chp3_wallingford\\ang_chp3_wallingford"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\angevin\\ang_chp4_dover\\ang_chp4_dover"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\angevin\\ang_chp4_lincoln\\ang_chp4_lincoln"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
+                              "value": "campaign\\angevin\\ang_chp4_rochester\\ang_chp4_rochester"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "result",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\result"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "result",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\result"
+                            },
+                            {
+                              "key": "value",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11195145
+        },
+        {
+          "key": "enable",
+          "value": true
+        },
+        {
+          "key": "tip",
+          "value": 11195141
+        },
+        {
+          "key": "fe_priority",
+          "value": 0
+        },
+        {
+          "key": "icon",
+          "value": "civ_flags\\civ_icon_medium_ftue"
+        },
+        {
+          "key": "award_source",
+          "value": "ServerFromReport"
+        },
+        {
+          "key": "update_rule",
+          "value": [
+            {
+              "key": "value_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "challenges\\requirement_values\\constant\\generic"
+                },
+                {
+                  "key": "value",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "id",
+          "value": 1472236
+        },
+        {
+          "key": "group",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mastery_ftue_training"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge_group"
+            }
+          ]
+        },
+        {
+          "key": "platform_stat_key",
+          "value": ""
+        },
+        {
+          "key": "counters",
+          "value": [
+          ]
+        },
+        {
+          "key": "description",
+          "value": 11195140
+        },
+        {
+          "key": "completion_count",
+          "value": 1
+        },
+        {
+          "key": "reward",
+          "value": [
+            {
+              "key": "achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mastery_ftue_training_04"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            },
+            {
+              "key": "item_bundle",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mastery_ftue_training_03"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "inventory_item_bundle"
+                }
+              ]
+            },
+            {
+              "key": "xp",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1472237
+    }
+  ]
+}

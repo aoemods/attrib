@@ -1,0 +1,1256 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 106554
+    },
+    {
+      "key": "progression",
+      "value": [
+        {
+          "key": "tiers",
+          "value": [
+            {
+              "key": "tier",
+              "value": [
+                {
+                  "key": "prestige_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": ""
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_0_prestige_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_0_prestige_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_0_prestige_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_0_prestige_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_0_prestige_05"
+                    }
+                  ]
+                },
+                {
+                  "key": "border_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_0_ring_00"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_0_ring_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_0_ring_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_0_ring_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_0_ring_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_0_ring_05"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_0_ring_06"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "tier",
+              "value": [
+                {
+                  "key": "prestige_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": ""
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_1_prestige_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_1_prestige_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_1_prestige_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_1_prestige_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_1_prestige_05"
+                    }
+                  ]
+                },
+                {
+                  "key": "border_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_1_ring_00"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_1_ring_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_1_ring_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_1_ring_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_1_ring_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_1_ring_05"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_1_ring_06"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "tier",
+              "value": [
+                {
+                  "key": "prestige_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": ""
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_2_prestige_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_2_prestige_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_2_prestige_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_2_prestige_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_2_prestige_05"
+                    }
+                  ]
+                },
+                {
+                  "key": "border_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_2_ring_00"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_2_ring_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_2_ring_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_2_ring_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_2_ring_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_2_ring_05"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_2_ring_06"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "tier",
+              "value": [
+                {
+                  "key": "prestige_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": ""
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_3_prestige_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_3_prestige_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_3_prestige_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_3_prestige_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_3_prestige_05"
+                    }
+                  ]
+                },
+                {
+                  "key": "border_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_3_ring_00"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_3_ring_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_3_ring_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_3_ring_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_3_ring_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_3_ring_05"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_3_ring_06"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "tier",
+              "value": [
+                {
+                  "key": "prestige_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": ""
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_4_prestige_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_4_prestige_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_4_prestige_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_4_prestige_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_4_prestige_05"
+                    }
+                  ]
+                },
+                {
+                  "key": "border_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_4_ring_00"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_4_ring_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_4_ring_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_4_ring_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_4_ring_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_4_ring_05"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_4_ring_06"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "tier",
+              "value": [
+                {
+                  "key": "prestige_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": ""
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_5_prestige_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_5_prestige_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_5_prestige_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_5_prestige_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_5_prestige_05"
+                    }
+                  ]
+                },
+                {
+                  "key": "border_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_5_ring_00"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_5_ring_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_5_ring_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_5_ring_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_5_ring_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_5_ring_05"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_5_ring_06"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "tier",
+              "value": [
+                {
+                  "key": "prestige_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": ""
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_6_prestige_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_6_prestige_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_6_prestige_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_6_prestige_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\prestige\\tier_6_prestige_05"
+                    }
+                  ]
+                },
+                {
+                  "key": "border_images",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_6_ring_00"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_6_ring_01"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_6_ring_02"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_6_ring_03"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_6_ring_04"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_6_ring_05"
+                    },
+                    {
+                      "key": "image",
+                      "value": "images\\progression\\borders\\tier_6_ring_06"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "levels_per_tier",
+          "value": 420
+        },
+        {
+          "key": "levels_per_prestige",
+          "value": 10
+        },
+        {
+          "key": "continuous_leveling_data",
+          "value": [
+            {
+              "key": "rewards",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "test_level_21_pack"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "inventory_item_bundle"
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "level"
+            },
+            {
+              "key": "xp_required",
+              "value": 2000
+            },
+            {
+              "key": "modifiers",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "inventroy_item_modifiers\\modifier_none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "levels_per_border",
+          "value": 60
+        },
+        {
+          "key": "level_table",
+          "value": [
+            {
+              "key": "level_table_category",
+              "value": "avatar"
+            },
+            {
+              "key": "$REF",
+              "value": "level_table"
+            },
+            {
+              "key": "levels",
+              "value": [
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 0
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "test_level_2_pack"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "inventory_item_bundle"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 50
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 200
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 450
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 800
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 1300
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 1950
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 2750
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 3700
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 4800
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 6050
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 7400
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 8850
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 10400
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 12050
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 13800
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 15650
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 17550
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 19500
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "level",
+                  "value": [
+                    {
+                      "key": "rewards",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "level"
+                    },
+                    {
+                      "key": "xp_required",
+                      "value": 21500
+                    },
+                    {
+                      "key": "modifiers",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "inventroy_item_modifiers\\modifier_none"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "level_table_subcategory",
+              "value": 122
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

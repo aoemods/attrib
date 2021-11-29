@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\flip_min_max_normalized"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\filter_min_max"
+                },
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\clamp_max"
+                    },
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "multiplier",
+                          "value": 1000
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\constant_multiplier"
+                        },
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\blur"
+                            },
+                            {
+                              "key": "input",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\filter_min_max"
+                                },
+                                {
+                                  "key": "input",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "map_gen\\score_map\\option\\filter_min_max"
+                                    },
+                                    {
+                                      "key": "input",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\impass_proximity"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "max",
+                                      "value": 1.1
+                                    },
+                                    {
+                                      "key": "min",
+                                      "value": 0.1
+                                    },
+                                    {
+                                      "key": "set_values_outside_range_to",
+                                      "value": 0
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "max",
+                                  "value": 0.05
+                                },
+                                {
+                                  "key": "min",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "set_values_outside_range_to",
+                                  "value": 1
+                                }
+                              ]
+                            },
+                            {
+                              "key": "blur_radius",
+                              "value": 30
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "max",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "max",
+                  "value": 0.05
+                },
+                {
+                  "key": "min",
+                  "value": 0
+                },
+                {
+                  "key": "set_values_outside_range_to",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2035993
+    }
+  ]
+}

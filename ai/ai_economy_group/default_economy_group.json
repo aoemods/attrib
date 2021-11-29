@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 17637
+    },
+    {
+      "key": "ai_economy_group_bag",
+      "value": [
+        {
+          "key": "default",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_economy"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "ai\\ai_economy"
+            }
+          ]
+        },
+        {
+          "key": "overrides",
+          "value": [
+          ]
+        }
+      ]
+    }
+  ]
+}

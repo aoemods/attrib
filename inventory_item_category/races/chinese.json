@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "key": "inventory_item_category_bag",
+      "value": [
+        {
+          "key": "ui_position",
+          "value": [
+            {
+              "key": "ui_position_column",
+              "value": -1
+            },
+            {
+              "key": "ui_position_row",
+              "value": -1
+            }
+          ]
+        },
+        {
+          "key": "uid",
+          "value": 1286642
+        },
+        {
+          "key": "tag",
+          "value": "chinese"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 137267
+    }
+  ]
+}

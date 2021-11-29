@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "key": "region_distribution",
+      "value": [
+        {
+          "key": "search_for_open_area_radius",
+          "value": 3
+        },
+        {
+          "key": "min_placements_per_region",
+          "value": 1
+        },
+        {
+          "key": "debug_colour",
+          "value": -88
+        },
+        {
+          "key": "max_placements_per_region",
+          "value": 1
+        },
+        {
+          "key": "mark_entire_region_occupied",
+          "value": false
+        },
+        {
+          "key": "distribution_radius",
+          "value": 3
+        },
+        {
+          "key": "distribution",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "dist_ocean_deco_water_land_close"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\distribution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2039528
+    }
+  ]
+}

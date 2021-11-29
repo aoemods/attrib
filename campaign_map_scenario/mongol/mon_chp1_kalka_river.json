@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 173130
+    },
+    {
+      "key": "campaign_map_scenario_bag",
+      "value": [
+        {
+          "key": "completion_achievement",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "scenario_name",
+          "value": ""
+        },
+        {
+          "key": "bypass_unit_selection",
+          "value": false
+        },
+        {
+          "key": "slot_rules",
+          "value": [
+          ]
+        },
+        {
+          "key": "briefing",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mon_chp1_kalka_river"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "briefing"
+            }
+          ]
+        },
+        {
+          "key": "item_rules",
+          "value": [
+          ]
+        },
+        {
+          "key": "challenge_list",
+          "value": [
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "m01_kalaka"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "debriefing",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "army_slot_layout_override",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "ui",
+          "value": [
+            {
+              "key": "name",
+              "value": 11155563
+            },
+            {
+              "key": "chapter_name",
+              "value": 11155756
+            },
+            {
+              "key": "chapter_image",
+              "value": "..\\icons\\campaign\\campaign_mongol_shock_and_awe"
+            },
+            {
+              "key": "timeline_spacing_order",
+              "value": 1213
+            },
+            {
+              "key": "short_name",
+              "value": 11156664
+            },
+            {
+              "key": "year",
+              "value": 1223
+            },
+            {
+              "key": "tagline",
+              "value": 11155786
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

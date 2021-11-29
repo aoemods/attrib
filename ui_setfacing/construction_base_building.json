@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 112817
+    },
+    {
+      "key": "ui_setfacing_bag",
+      "value": [
+        {
+          "key": "dot_width",
+          "value": 0.5
+        },
+        {
+          "key": "line_texture",
+          "value": ""
+        },
+        {
+          "key": "line_thickness",
+          "value": 0.5
+        },
+        {
+          "key": "map",
+          "value": [
+            {
+              "key": "colour",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "line_uvscale",
+          "value": 0.15
+        },
+        {
+          "key": "arrow_width",
+          "value": 0.8
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_setfacing_data"
+        },
+        {
+          "key": "line_offset",
+          "value": 3.5
+        },
+        {
+          "key": "dot_height",
+          "value": 0.5
+        },
+        {
+          "key": "dot_angle_secondary",
+          "value": 80
+        },
+        {
+          "key": "arrow_height",
+          "value": 0.5
+        },
+        {
+          "key": "centre_width",
+          "value": 0
+        },
+        {
+          "key": "arrow_texture",
+          "value": "targeting\\facing_arrow"
+        },
+        {
+          "key": "centre_height",
+          "value": 0
+        },
+        {
+          "key": "dot_texture",
+          "value": "targeting\\facing_arrow"
+        },
+        {
+          "key": "dot_angle",
+          "value": 4
+        },
+        {
+          "key": "dot_spacing",
+          "value": 1.53
+        },
+        {
+          "key": "centre_texture",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

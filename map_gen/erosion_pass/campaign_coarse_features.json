@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 168532
+    },
+    {
+      "key": "erosion_pass",
+      "value": [
+        {
+          "key": "droplet_chance",
+          "value": 0.9
+        },
+        {
+          "key": "droplet",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "droplet_campaign_coarse_features"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\droplet"
+            }
+          ]
+        },
+        {
+          "key": "pass_number",
+          "value": 2
+        },
+        {
+          "key": "min_height_percentile",
+          "value": 0.1
+        }
+      ]
+    }
+  ]
+}

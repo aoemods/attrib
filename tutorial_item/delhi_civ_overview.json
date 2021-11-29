@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "key": "tutorial_item_bag",
+      "value": [
+        {
+          "key": "url",
+          "value": "https://aoe.ms/aoeIV_delhisultanate"
+        },
+        {
+          "key": "trial",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "featured_image",
+          "value": ""
+        },
+        {
+          "key": "featured_tutorial",
+          "value": false
+        },
+        {
+          "key": "title",
+          "value": 11205195
+        },
+        {
+          "key": "ui_priority",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2044713
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 167121
+    },
+    {
+      "key": "noise_function",
+      "value": [
+        {
+          "key": "noise_waves",
+          "value": [
+            {
+              "key": "noise_wave",
+              "value": [
+                {
+                  "key": "amplitude",
+                  "value": 0.1
+                },
+                {
+                  "key": "frequency",
+                  "value": 7
+                }
+              ]
+            },
+            {
+              "key": "noise_wave",
+              "value": [
+                {
+                  "key": "amplitude",
+                  "value": 0.065
+                },
+                {
+                  "key": "frequency",
+                  "value": 11
+                }
+              ]
+            },
+            {
+              "key": "noise_wave",
+              "value": [
+                {
+                  "key": "amplitude",
+                  "value": 0.1
+                },
+                {
+                  "key": "frequency",
+                  "value": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "randomize_each_layer",
+          "value": false
+        }
+      ]
+    }
+  ]
+}

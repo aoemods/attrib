@@ -1,0 +1,4185 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": ""
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "default"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_merge_mesh_attachment",
+                      "value": [
+                        {
+                          "key": "meshes",
+                          "value": [
+                            {
+                              "key": "animator0",
+                              "value": "art\\civilizations\\chinese\\humans\\chi_villager_male_age01\\chi_villager_male_age01"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_merge_mesh_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "default"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_merge_mesh_attachment",
+                      "value": [
+                        {
+                          "key": "meshes",
+                          "value": [
+                            {
+                              "key": "animator0",
+                              "value": "art\\civilizations\\chinese\\humans\\chi_villager_female_age01\\chi_villager_female_age01"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_merge_mesh_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_wheat_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_LArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_rice_carry\\res_rice_carry"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_farmer\\base_farmer"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_wheat_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_LArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_rice_carry\\res_rice_carry"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_farmer\\base_farmer"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_berries_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_larmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_berry_carry\\res_berry_carry"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_forager\\base_forager"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_berries_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_larmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_berry_carry\\res_berry_carry"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_forager\\base_forager"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_meat_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_larmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_meat_carry\\res_meat_carry"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_butcher\\base_butcher"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_meat_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_larmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_meat_carry\\res_meat_carry"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_butcher\\base_butcher"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_wood_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_larmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_wood_carry\\res_wood_carry"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_logger\\base_logger"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_wood_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_logger\\base_logger"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_larmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_wood_carry\\res_wood_carry"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_stone_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RibCageSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_stone_backpack\\res_stone_backpack"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_stone_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RibCageSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_stone_backpack\\res_stone_backpack"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_gold_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RibCageSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_gold_backpack\\res_gold_backpack"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_gold_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RibCageSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_gold_backpack\\res_gold_backpack"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "build_hammer"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\hammer_construction\\hammer_construction"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "build_hammer"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\hammer_construction\\hammer_construction"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "basket_seed"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_LArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\basket_seed\\basket_seed"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_farmer\\base_farmer"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "basket_seed"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_LArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\basket_seed\\basket_seed"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_farmer\\base_farmer"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "sickle_farming"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\sickle_farming\\sickle_farming"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_farmer\\base_farmer"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "sickle_farming"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\sickle_farming\\sickle_farming"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_farmer\\base_farmer"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "scythe_farming"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\scythe_farming\\scythe_farming"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_farmer\\base_farmer"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "scythe_farming"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\scythe_farming\\scythe_farming"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_farmer\\base_farmer"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "axe_2hand_single"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_rarmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\axe_2hand\\axe_2hand"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_logger\\base_logger"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "axe_2hand_single"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_rarmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\axe_2hand\\axe_2hand"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_logger\\base_logger"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "axe_2hand_doublebit"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_rarmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\axe_doublebit\\axe_doublebit"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_logger\\base_logger"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "axe_2hand_doublebit"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_rarmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\axe_doublebit\\axe_doublebit"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_logger\\base_logger"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "forage_basket_empty"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_larmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_berry_empty\\res_berry_empty"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_forager\\base_forager"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "forage_basket_empty"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_larmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_berry_empty\\res_berry_empty"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_forager\\base_forager"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "knife"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_butcher\\base_butcher"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\knife_skinning\\knife_skinning"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "knife"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_butcher\\base_butcher"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\knife_skinning\\knife_skinning"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "hunt_spear"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\melee\\spear_villager\\spear_villager"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "hunt_spear"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\melee\\spear_villager\\spear_villager"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "mining_stone_hammer"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\hammer_mining\\hammer_mining"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "mining_stone_hammer"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\hammer_mining\\hammer_mining"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "mining_stone_sledge"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\hammer_sledge\\hammer_sledge"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "mining_stone_sledge"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\hammer_sledge\\hammer_sledge"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "mining_gold_hammer_pick"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\hammer_pick\\hammer_pick"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "mining_gold_hammer_pick"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\hammer_pick\\hammer_pick"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "mining_gold_axe_pick"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\axe_pick\\axe_pick"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "mining_gold_axe_pick"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\axe_pick\\axe_pick"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_miner\\base_miner"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "herd_crook"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\crook_shepherd\\crook_shepherd"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_butcher\\base_butcher"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_monk\\base_monk"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "herd_crook"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\crook_shepherd\\crook_shepherd"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_butcher\\base_butcher"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_monk\\base_monk"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "hunt_bow"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_LArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\ranged\\bow_short\\bow_short"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "hunt_bow"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_LArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\ranged\\bow_short\\bow_short"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "torch"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "torch"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_fish_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_rarmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_fish_carry\\res_fish_carry"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_fisherman\\base_fisherman"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "res_fish_carry"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_rarmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\res_fish_carry\\res_fish_carry"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_fisherman\\base_fisherman"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "fishing_net"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_fisherman\\base_fisherman"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_rarmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\net_fishing\\net_fishing"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "fishing_net"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animation_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animation_attachment"
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\humans\\archetypes\\base_fisherman\\base_fisherman"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_rarmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\net_fishing\\net_fishing"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "male"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "combat_knife"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\knife_skinning\\knife_skinning"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerMale"
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "female"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "combat_knife"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_RArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\tools\\knife_skinning\\knife_skinning"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "villagerFemale"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1286746
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "core_villager"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "attachments\\attachment_lists"
+        }
+      ]
+    }
+  ]
+}

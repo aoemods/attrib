@@ -1,0 +1,135 @@
+{
+  "data": [
+    {
+      "key": "ui_reticule_bag",
+      "value": [
+        {
+          "key": "pulsing",
+          "value": [
+            {
+              "key": "pulse_alpha_off",
+              "value": 0
+            },
+            {
+              "key": "pulse_seconds",
+              "value": 0
+            },
+            {
+              "key": "pulse_alpha_on",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "value": [
+            {
+              "key": "colour",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_reticule_texture_data"
+        },
+        {
+          "key": "easing",
+          "value": [
+            {
+              "key": "factor",
+              "value": 10
+            },
+            {
+              "key": "speed",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "rings",
+          "value": [
+            {
+              "key": "ring",
+              "value": [
+                {
+                  "key": "texture_invalid",
+                  "value": ""
+                },
+                {
+                  "key": "texture",
+                  "value": "range\\range_dots_and_arrows"
+                },
+                {
+                  "key": "tile",
+                  "value": 0
+                },
+                {
+                  "key": "diffuse_fixed",
+                  "value": false
+                },
+                {
+                  "key": "diffuse",
+                  "value": -1
+                },
+                {
+                  "key": "ratio_inner",
+                  "value": 0
+                },
+                {
+                  "key": "ratio_fixed",
+                  "value": false
+                },
+                {
+                  "key": "subdivision_size",
+                  "value": 1
+                },
+                {
+                  "key": "texture_max_range",
+                  "value": ""
+                },
+                {
+                  "key": "ratio_outer",
+                  "value": 1
+                },
+                {
+                  "key": "rotation_rate",
+                  "value": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "retention",
+          "value": [
+            {
+              "key": "strobe_seconds_on",
+              "value": 1
+            },
+            {
+              "key": "strobe_seconds_off",
+              "value": 1
+            },
+            {
+              "key": "strobe_count",
+              "value": 1
+            },
+            {
+              "key": "strobe_alpha_on",
+              "value": 1
+            },
+            {
+              "key": "strobe_alpha_off",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 112793
+    }
+  ]
+}

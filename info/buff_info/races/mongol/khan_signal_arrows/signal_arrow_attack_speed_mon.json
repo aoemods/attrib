@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\mongols\\abilities\\arrow_attack_speed"
+        },
+        {
+          "key": "description",
+          "value": 11167195
+        },
+        {
+          "key": "title",
+          "value": 11152657
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 170694
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

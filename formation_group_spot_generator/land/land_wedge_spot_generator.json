@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 196915
+    },
+    {
+      "key": "formation_group_spot_generator_bag",
+      "value": [
+        {
+          "key": "master_width_restriction",
+          "value": 48
+        },
+        {
+          "key": "cohesion",
+          "value": [
+            {
+              "key": "formation_merge_delay_seconds",
+              "value": 0.5
+            },
+            {
+              "key": "formation_regroup_on_squad_removal_delay_seconds",
+              "value": 2
+            },
+            {
+              "key": "distance_between_squads_for_move_clustering",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "key": "allowed_pass_type",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "infantry"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "pass_types"
+            }
+          ]
+        },
+        {
+          "key": "ranks",
+          "value": [
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\wedge_rank_option"
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 6
+                    },
+                    {
+                      "key": "x",
+                      "value": 4
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 0
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "scout"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "ram"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "cavalry_war_elephant"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "siege_tower"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\wedge_rank_option"
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 4
+                    },
+                    {
+                      "key": "x",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 1
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "cavalry_armored"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "cavalry_light"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "firelancer"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "landsknecht"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "manatarms"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "spearman"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "archer"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "cavalry_archer"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "crossbowman"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "handcannon"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "monk"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "official"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "hero"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "khan"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "grenadier"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\wedge_rank_option"
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 6
+                    },
+                    {
+                      "key": "x",
+                      "value": 4
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 3
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "siege"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "associated_ability_bag",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "core_formation_wedge"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "abilities"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

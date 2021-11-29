@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\flip_min_max_normalized"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\filter_min_max"
+                },
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\filter_min_max"
+                    },
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\river_proximity"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "max",
+                      "value": 1.1
+                    },
+                    {
+                      "key": "min",
+                      "value": 0.1
+                    },
+                    {
+                      "key": "set_values_outside_range_to",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "max",
+                  "value": 0.05
+                },
+                {
+                  "key": "min",
+                  "value": 0
+                },
+                {
+                  "key": "set_values_outside_range_to",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 196228
+    }
+  ]
+}

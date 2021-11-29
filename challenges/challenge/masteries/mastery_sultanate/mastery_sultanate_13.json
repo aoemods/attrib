@@ -1,0 +1,999 @@
+{
+  "data": [
+    {
+      "key": "challenge_bag",
+      "value": [
+        {
+          "key": "requirement",
+          "value": [
+            {
+              "key": "operator",
+              "value": "and"
+            },
+            {
+              "key": "requirements",
+              "value": [
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\raceid"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\raceid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "sultanate"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "racebps"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11167368
+        },
+        {
+          "key": "enable",
+          "value": true
+        },
+        {
+          "key": "tip",
+          "value": 11167383
+        },
+        {
+          "key": "fe_priority",
+          "value": 0
+        },
+        {
+          "key": "icon",
+          "value": "civ_flags\\civ_icon_medium_sultinates"
+        },
+        {
+          "key": "award_source",
+          "value": "ClientMatchReport"
+        },
+        {
+          "key": "update_rule",
+          "value": [
+            {
+              "key": "value_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "challenges\\requirement_values\\constant\\generic"
+                },
+                {
+                  "key": "value",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "id",
+          "value": 1440454
+        },
+        {
+          "key": "group",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mastery_sultanate"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge_group"
+            }
+          ]
+        },
+        {
+          "key": "platform_stat_key",
+          "value": ""
+        },
+        {
+          "key": "counters",
+          "value": [
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "build"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "EntityBuild"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "equal"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": "Standard"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "building_landmark_age3_bijay_mandal_palace_control_sul"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_named_counter",
+                              "value": [
+                                {
+                                  "key": "name",
+                                  "value": "build"
+                                },
+                                {
+                                  "key": "op",
+                                  "value": 4
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_named_counter"
+                                },
+                                {
+                                  "key": "amount",
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "greaterthanequal"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                            {
+                              "key": "clientcounter",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": "build"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "generic",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\constant\\generic"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                        {
+                          "key": "toggle_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "build"
+                            },
+                            {
+                              "key": "enabled",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\toggle_counter"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "change_named_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "complete_all"
+                            },
+                            {
+                              "key": "op",
+                              "value": 4
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\change_named_counter"
+                            },
+                            {
+                              "key": "amount",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "produce"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "BuildItemComplete"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "in"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": "Spawnee"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_war_elephant_3_sul"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_war_elephant_tower_4_sul"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_war_elephant"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_named_counter",
+                              "value": [
+                                {
+                                  "key": "name",
+                                  "value": "produce"
+                                },
+                                {
+                                  "key": "op",
+                                  "value": 4
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_named_counter"
+                                },
+                                {
+                                  "key": "amount",
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "greaterthanequal"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                            {
+                              "key": "clientcounter",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": "produce"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "generic",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\constant\\generic"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": 10
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                        {
+                          "key": "toggle_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "produce"
+                            },
+                            {
+                              "key": "enabled",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\toggle_counter"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "change_named_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "complete_all"
+                            },
+                            {
+                              "key": "op",
+                              "value": 4
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\change_named_counter"
+                            },
+                            {
+                              "key": "amount",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "destroy"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "EntityKilled"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "not"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "squadtype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\squadtype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": "Target"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "squadtype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\squadtype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_core"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "sbps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_counter",
+                              "value": [
+                                {
+                                  "key": "op",
+                                  "value": 4
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "greaterthanequal"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                            {
+                              "key": "clientcounter",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": "destroy"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "generic",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\constant\\generic"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": 10
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                        {
+                          "key": "toggle_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "destroy"
+                            },
+                            {
+                              "key": "enabled",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\toggle_counter"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "change_named_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "complete_all"
+                            },
+                            {
+                              "key": "op",
+                              "value": 4
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\change_named_counter"
+                            },
+                            {
+                              "key": "amount",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "complete_all"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "CustomEvent"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "greaterthanequal"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                            {
+                              "key": "clientcounter",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": "complete_all"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "generic",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\constant\\generic"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": 3
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                        {
+                          "key": "complete_challenge",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\complete_challenge"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "description",
+          "value": 11167398
+        },
+        {
+          "key": "completion_count",
+          "value": 1
+        },
+        {
+          "key": "reward",
+          "value": [
+            {
+              "key": "achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mastery_sultanate_14"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            },
+            {
+              "key": "item_bundle",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mastery_sultanate_13"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "inventory_item_bundle"
+                }
+              ]
+            },
+            {
+              "key": "xp",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1440455
+    }
+  ]
+}

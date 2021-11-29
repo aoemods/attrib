@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\english\\abilities\\network_of_castles"
+        },
+        {
+          "key": "description",
+          "value": 11200368
+        },
+        {
+          "key": "title",
+          "value": 11197954
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2031523
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

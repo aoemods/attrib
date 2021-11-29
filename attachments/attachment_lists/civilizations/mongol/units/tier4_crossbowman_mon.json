@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": ""
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "crossbowMale"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "default"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_merge_mesh_attachment",
+                      "value": [
+                        {
+                          "key": "meshes",
+                          "value": [
+                            {
+                              "key": "animator0",
+                              "value": "art\\civilizations\\mongols\\humans\\mon_ranged_crossbow_age04\\mon_ranged_crossbow_age04"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_merge_mesh_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "crossbowFemale"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "default"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_merge_mesh_attachment",
+                      "value": [
+                        {
+                          "key": "meshes",
+                          "value": [
+                            {
+                              "key": "animator0",
+                              "value": "art\\civilizations\\mongols\\humans\\mon_ranged_crossbow_female_age04\\mon_ranged_crossbow_female_age04"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_merge_mesh_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": "crossbowmanFemale"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1365708
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "core_crossbowman_mf"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "attachments\\attachment_lists"
+        }
+      ]
+    }
+  ]
+}

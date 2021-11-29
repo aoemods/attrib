@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "key": "region_distribution",
+      "value": [
+        {
+          "key": "search_for_open_area_radius",
+          "value": 12
+        },
+        {
+          "key": "min_placements_per_region",
+          "value": 1
+        },
+        {
+          "key": "debug_colour",
+          "value": -4788695
+        },
+        {
+          "key": "max_placements_per_region",
+          "value": 1
+        },
+        {
+          "key": "mark_entire_region_occupied",
+          "value": false
+        },
+        {
+          "key": "distribution_radius",
+          "value": 1
+        },
+        {
+          "key": "distribution",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "dist_trees_forest_scattered_low_2"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\distribution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 166690
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "data": [
+    {
+      "key": "statemodel_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\statemodel_ext"
+        },
+        {
+          "key": "schema",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "gaia_values"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "statemodel_schema"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "hit_object_ext",
+      "value": [
+        {
+          "key": "projectile_reflect_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "hit_chance",
+          "value": 1
+        },
+        {
+          "key": "shot_collision",
+          "value": [
+            {
+              "key": "pass_through_projectile",
+              "value": [
+                {
+                  "key": "tp_collide",
+                  "value": true
+                },
+                {
+                  "key": "tp_piercing_blockers_only",
+                  "value": true
+                },
+                {
+                  "key": "tp_artillery",
+                  "value": true
+                },
+                {
+                  "key": "tp_vehicle_collide",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "pass_through_weapon_ranged_non_projectile",
+              "value": true
+            },
+            {
+              "key": "collide_with_missed_ranged_weapon_shots",
+              "value": true
+            },
+            {
+              "key": "pass_through_relation",
+              "value": [
+                {
+                  "key": "ally",
+                  "value": true
+                },
+                {
+                  "key": "neutral",
+                  "value": false
+                },
+                {
+                  "key": "enemy",
+                  "value": true
+                },
+                {
+                  "key": "undefined",
+                  "value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\hit_object_ext"
+        },
+        {
+          "key": "hit_material",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "leather"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "hit_material"
+            }
+          ]
+        },
+        {
+          "key": "projectile_collision_check_type",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "key": "entity_blueprint_ext",
+      "value": [
+        {
+          "key": "default_spawn_type",
+          "value": ""
+        },
+        {
+          "key": "entity_scale",
+          "value": 100
+        },
+        {
+          "key": "is_visible_in_game",
+          "value": true
+        },
+        {
+          "key": "animator_scale",
+          "value": 122
+        },
+        {
+          "key": "browsable_in_editor",
+          "value": false
+        },
+        {
+          "key": "alternate_sua",
+          "value": ""
+        },
+        {
+          "key": "is_wreck",
+          "value": false
+        },
+        {
+          "key": "unit_badge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\entity_blueprint_ext"
+        },
+        {
+          "key": "always_revealed_in_fow",
+          "value": false
+        },
+        {
+          "key": "precise_size",
+          "value": 1
+        },
+        {
+          "key": "animator_attachments",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "gaia_huntable_prototype_wolf"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "attachments\\attachment_lists"
+            }
+          ]
+        },
+        {
+          "key": "subclass_type",
+          "value": 5
+        },
+        {
+          "key": "is_spawned_when_not_in_interactive_area",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "site_ext",
+      "value": [
+        {
+          "key": "extra_build_test_footprint_offset_z",
+          "value": 0
+        },
+        {
+          "key": "remove_if_constructed_over",
+          "value": true
+        },
+        {
+          "key": "lock_to_impass",
+          "value": true
+        },
+        {
+          "key": "extra_build_test_footprint_z",
+          "value": 0
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\site_ext"
+        },
+        {
+          "key": "forced_axis_aligned_footprint",
+          "value": false
+        },
+        {
+          "key": "minimum_build_test_footprint_z",
+          "value": 0
+        },
+        {
+          "key": "footprint_scale",
+          "value": [
+            {
+              "key": "y",
+              "value": 0
+            },
+            {
+              "key": "x",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "minimum_build_test_footprint_x",
+          "value": 0
+        },
+        {
+          "key": "impass_cell_check",
+          "value": 1
+        },
+        {
+          "key": "snap_to_terrain",
+          "value": true
+        },
+        {
+          "key": "extra_build_test_footprint_x",
+          "value": 0
+        },
+        {
+          "key": "extra_build_test_footprint_offset_x",
+          "value": 0
+        },
+        {
+          "key": "snap_to_surface_types",
+          "value": [
+            {
+              "key": "surface_type",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "entity_targeting_ext",
+      "value": [
+        {
+          "key": "allow_entity_scan_close_enemies",
+          "value": false
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\entity_targeting_ext"
+        },
+        {
+          "key": "history_size",
+          "value": 2
+        },
+        {
+          "key": "allow_weapon_target_scanning",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "sim_entity_ext",
+      "value": [
+        {
+          "key": "rotate_snap",
+          "value": 360
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\sim_entity_ext"
+        },
+        {
+          "key": "transferable",
+          "value": 0
+        },
+        {
+          "key": "kill_paradrop",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "modifier_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\modifier_ext"
+        }
+      ]
+    },
+    {
+      "key": "type_ext",
+      "value": [
+        {
+          "key": "intersection_testing",
+          "value": true
+        },
+        {
+          "key": "weapon_targeting",
+          "value": "automatic"
+        },
+        {
+          "key": "unit_type_list_selection_keybind_only",
+          "value": [
+          ]
+        },
+        {
+          "key": "weapon_category_targeting_filter",
+          "value": [
+            {
+              "key": "8dummy",
+              "value": false
+            },
+            {
+              "key": "4charge",
+              "value": true
+            },
+            {
+              "key": "9idle",
+              "value": true
+            },
+            {
+              "key": "1melee",
+              "value": true
+            },
+            {
+              "key": "3siege",
+              "value": false
+            },
+            {
+              "key": "5brace",
+              "value": true
+            },
+            {
+              "key": "7single_cast_ability",
+              "value": true
+            },
+            {
+              "key": "6auto_ability_cast",
+              "value": true
+            },
+            {
+              "key": "2ranged",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "attack_target_restriction_on_victim",
+          "value": [
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\type_ext"
+        },
+        {
+          "key": "unit_type_list",
+          "value": [
+            {
+              "key": "unit_type",
+              "value": "gaia"
+            },
+            {
+              "key": "unit_type",
+              "value": "animal_huntable"
+            },
+            {
+              "key": "unit_type",
+              "value": "animal"
+            },
+            {
+              "key": "unit_type",
+              "value": "animal_danger"
+            },
+            {
+              "key": "unit_type",
+              "value": "wolf"
+            }
+          ]
+        },
+        {
+          "key": "race_type_list",
+          "value": [
+          ]
+        },
+        {
+          "key": "attack_target_restriction_on_attacker",
+          "value": [
+          ]
+        },
+        {
+          "key": "unit_type_list_ui_appear_as_only",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 184247
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "animation_action_tree_ext",
+      "value": [
+        {
+          "key": "use_root_motion",
+          "value": true
+        },
+        {
+          "key": "start_suspended",
+          "value": false
+        },
+        {
+          "key": "ActionTree_OpeningBranch",
+          "value": "resource_root"
+        },
+        {
+          "key": "speed_scale_threshold",
+          "value": 100
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\animation_action_tree_ext"
+        },
+        {
+          "key": "default_animation",
+          "value": ""
+        },
+        {
+          "key": "entity_statetree_sort_tag",
+          "value": "Default"
+        }
+      ]
+    }
+  ]
+}

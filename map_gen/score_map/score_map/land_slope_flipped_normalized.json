@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\normalize"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "land_slope_flipped"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "max",
+              "value": 1
+            },
+            {
+              "key": "min",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 163364
+    }
+  ]
+}

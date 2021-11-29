@@ -1,0 +1,429 @@
+{
+  "data": [
+    {
+      "key": "camera_bag",
+      "value": [
+        {
+          "key": "defaults",
+          "value": [
+            {
+              "key": "clip_near",
+              "value": 1
+            },
+            {
+              "key": "projection_start_culling_distance",
+              "value": 95
+            },
+            {
+              "key": "clip_far",
+              "value": 3600
+            },
+            {
+              "key": "validate_position",
+              "value": true
+            },
+            {
+              "key": "projection_mode",
+              "value": "perspective"
+            },
+            {
+              "key": "position",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "basic_data_types\\vector3"
+                },
+                {
+                  "key": "y",
+                  "value": 10
+                },
+                {
+                  "key": "x",
+                  "value": 0
+                },
+                {
+                  "key": "z",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "lookAt",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "basic_data_types\\vector3"
+                },
+                {
+                  "key": "y",
+                  "value": 10
+                },
+                {
+                  "key": "x",
+                  "value": 0
+                },
+                {
+                  "key": "z",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "fov",
+              "value": 18.2
+            }
+          ]
+        },
+        {
+          "key": "tuning",
+          "value": [
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "pan_scale_keyboard",
+                  "value": 10
+                },
+                {
+                  "key": "pan_scale_screen",
+                  "value": 10
+                },
+                {
+                  "key": "yaw_rate_keyboard",
+                  "value": 1
+                },
+                {
+                  "key": "distance_rate_wheel",
+                  "value": 3
+                },
+                {
+                  "key": "tilt_rate_mouse",
+                  "value": 100
+                },
+                {
+                  "key": "yaw_rate_mouse",
+                  "value": 150
+                },
+                {
+                  "key": "distance_rate_wheel_out",
+                  "value": 5
+                },
+                {
+                  "key": "distance_rate_wheel_in",
+                  "value": 5
+                },
+                {
+                  "key": "pan_scale_mouse",
+                  "value": 10
+                },
+                {
+                  "key": "tilt_rate_keyboard",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "modules",
+          "value": [
+            {
+              "key": "cam_module_follow_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "camera_modules\\cam_module_follow_list"
+                }
+              ]
+            },
+            {
+              "key": "cam_module_pan",
+              "value": [
+                {
+                  "key": "pan_min_keyboard",
+                  "value": 8
+                },
+                {
+                  "key": "pan_accelerate_keyboard",
+                  "value": 1100
+                },
+                {
+                  "key": "pan_distance_factor",
+                  "value": 0.5
+                },
+                {
+                  "key": "pan_speed_max_keyboard",
+                  "value": 175
+                },
+                {
+                  "key": "pan_min_mouse",
+                  "value": 30
+                },
+                {
+                  "key": "pan_min_screen",
+                  "value": 4
+                },
+                {
+                  "key": "$REF",
+                  "value": "camera_modules\\cam_module_pan"
+                },
+                {
+                  "key": "smoothing",
+                  "value": [
+                    {
+                      "key": "spring_keyboard",
+                      "value": [
+                        {
+                          "key": "spring_strength",
+                          "value": 3.5
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\camera\\smoothing_option"
+                        },
+                        {
+                          "key": "damping",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spring_minimap",
+                      "value": [
+                        {
+                          "key": "spring_strength",
+                          "value": 12
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\camera\\smoothing_option"
+                        },
+                        {
+                          "key": "damping",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spring_mouse",
+                      "value": [
+                        {
+                          "key": "spring_strength",
+                          "value": 7
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\camera\\smoothing_option"
+                        },
+                        {
+                          "key": "damping",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spring_screen",
+                      "value": [
+                        {
+                          "key": "spring_strength",
+                          "value": 3
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\camera\\smoothing_option"
+                        },
+                        {
+                          "key": "damping",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "pan_accelerate_screen",
+                  "value": 750
+                },
+                {
+                  "key": "pan_speed_max_mouse",
+                  "value": 5000
+                },
+                {
+                  "key": "lock_xz_plane",
+                  "value": true
+                },
+                {
+                  "key": "pan_speed_max_screen",
+                  "value": 155
+                }
+              ]
+            },
+            {
+              "key": "cam_module_ground_height",
+              "value": [
+                {
+                  "key": "dist_ground_min",
+                  "value": 32
+                },
+                {
+                  "key": "modify_pivot",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "camera_modules\\cam_module_ground_height"
+                }
+              ]
+            },
+            {
+              "key": "cam_module_autodeclinate",
+              "value": [
+                {
+                  "key": "defaults",
+                  "value": [
+                    {
+                      "key": "yaw",
+                      "value": 135
+                    },
+                    {
+                      "key": "distance",
+                      "value": 135
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "camera_modules\\cam_module_autodeclinate"
+                },
+                {
+                  "key": "tuning",
+                  "value": [
+                    {
+                      "key": "max_height_sample_relaxation_beneath_camera",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "fov_height_difference_threshold",
+                      "value": 7
+                    },
+                    {
+                      "key": "pitch_min",
+                      "value": 30
+                    },
+                    {
+                      "key": "orbit_speed",
+                      "value": 30
+                    },
+                    {
+                      "key": "fov_max",
+                      "value": 19.5
+                    },
+                    {
+                      "key": "fov_pivot_to_reverse_eye_sample_scale",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "max_height_sample_scale",
+                      "value": 0.3
+                    },
+                    {
+                      "key": "fov_max_height_difference",
+                      "value": 25
+                    },
+                    {
+                      "key": "smoothing",
+                      "value": [
+                        {
+                          "key": "spring_distance",
+                          "value": [
+                            {
+                              "key": "spring_strength",
+                              "value": 2
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "options\\camera\\smoothing_option"
+                            },
+                            {
+                              "key": "damping",
+                              "value": 1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "spring_fov",
+                          "value": [
+                            {
+                              "key": "spring_strength",
+                              "value": 4
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "options\\camera\\smoothing_option"
+                            },
+                            {
+                              "key": "damping",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "fov_eye_to_pivot_sample_scale",
+                      "value": 0.6
+                    },
+                    {
+                      "key": "pitch_max",
+                      "value": 45
+                    },
+                    {
+                      "key": "enable_orbit_input",
+                      "value": true
+                    },
+                    {
+                      "key": "max_height_samples",
+                      "value": 5
+                    },
+                    {
+                      "key": "distance_max",
+                      "value": 135
+                    },
+                    {
+                      "key": "fov_slope_samples",
+                      "value": 7
+                    },
+                    {
+                      "key": "fov_min",
+                      "value": 18.2
+                    },
+                    {
+                      "key": "distance_min",
+                      "value": 65
+                    },
+                    {
+                      "key": "fov_height_sampling_method",
+                      "value": "camera_mesh"
+                    },
+                    {
+                      "key": "fov_scale_on_zoom_in",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "fov_scale_on_zoom_out",
+                      "value": 0.2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 135477
+    }
+  ]
+}

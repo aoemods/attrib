@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "key": "menu_bag",
+      "value": [
+        {
+          "key": "screen_name_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "ui_position",
+          "value": [
+            {
+              "key": "ui_position_column",
+              "value": 5
+            },
+            {
+              "key": "ui_position_row",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "icon_alternate_name",
+          "value": "races\\common\\abilities\\age_2_dark"
+        },
+        {
+          "key": "behaviour",
+          "value": [
+            {
+              "key": "auto_exit",
+              "value": true
+            },
+            {
+              "key": "columns",
+              "value": 2
+            },
+            {
+              "key": "$REF",
+              "value": "options\\menu\\modal"
+            },
+            {
+              "key": "rows",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_modal_info"
+        },
+        {
+          "key": "icon_name",
+          "value": "races\\common\\abilities\\age_2"
+        },
+        {
+          "key": "ui_combine_type",
+          "value": "union"
+        },
+        {
+          "key": "help_text",
+          "value": 11183667
+        },
+        {
+          "key": "hotkey_name",
+          "value": "T"
+        },
+        {
+          "key": "tooltip_data_template",
+          "value": "WondersDataTemplate"
+        },
+        {
+          "key": "help_text_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "requirements",
+          "value": [
+          ]
+        },
+        {
+          "key": "screen_name",
+          "value": 11183666
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 136393
+    }
+  ]
+}

@@ -1,0 +1,1656 @@
+{
+  "data": [
+    {
+      "key": "schema_bag",
+      "value": [
+        {
+          "key": "pbgid_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "int_properties",
+          "value": [
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ovoo_count"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "active_ovoo_count"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 3
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "silk_road_requirement_tier_1_mon"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 5
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "silk_road_requirement_tier_2_mon"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 7
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "silk_road_requirement_tier_3_mon"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 9
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "silk_road_requirement_tier_4_mon"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "sub_schemas",
+          "value": [
+            {
+              "key": "schema",
+              "value": [
+                {
+                  "key": "schema_bag",
+                  "value": [
+                    {
+                      "key": "pbgid_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "int_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 4
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "player_max_age"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "active_town_bell_unit_count"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "constructed_town_bell_destinations"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "upgrades_completed"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "total_district_tiers"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "num_idle_villagers"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "num_food_gatherers"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "num_gold_gatherers"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "num_stone_gatherers"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "num_wood_gatherers"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "total_scholar_count_sul"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "sub_schemas",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "target_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_target_property",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_target_property"
+                            },
+                            {
+                              "key": "target_property_id",
+                              "value": "empire_attacker"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_target_property",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_target_property"
+                            },
+                            {
+                              "key": "target_property_id",
+                              "value": "empire_defender"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "list_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "float_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "has_capital"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "wonder_timer"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 17
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "monk_relic_ability_range"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 6
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "monk_relic_ability_warmup"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 5
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "monk_out_of_combat_heal_time"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 7
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "monk_heal_rate"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "total_score"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "technology_score"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "society_score"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 5
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "dock_repair_rate"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "economy_score"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "carrying_relics"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "relic_gold_generation_multiplier"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 10
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "relic_gold_generation_rate"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1.667
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "relic_gold_income_per_second"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "relic_threshold"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "secured_relics"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "monk_overheal_max"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "last_update_trade_route_tick"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "military_score"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "technologies_researched"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "vector3f_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "generic_handle_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "attribute_enum_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "enum_table_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "bool_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "imperial_age_wonder_constructed"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "player_can_construct_structures"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "wonder_in_progress"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "is_wonder_construction_enabled"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "disable_landmark_rebuild"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "player_can_interact_with_resource_pickups"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "scout_can_be_attacked_by_wolf"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "can_capture_override"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "pbgid",
+                  "value": 156576
+                },
+                {
+                  "key": "parent_pbg",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "target_properties",
+          "value": [
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "ovoo_is_active"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "khan_active_spawner_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "khan_mon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "list_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "float_properties",
+          "value": [
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 25
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "khan_signal_arrow_range"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "military_building_heal_amount_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 30
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "scout_falcon_duration_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 10
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "silk_road_tier_4_stone_bonus_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 10
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "silk_road_tier_3_gold_bonus_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 10
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "silk_road_tier_2_wood_bonus_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 10
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "silk_road_tier_1_food_bonus_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 75
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "raid_bounty_stone_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 50
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "raid_bounty_gold_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 50
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "raid_bounty_food_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 50
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "ortoo_aura_radius_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 1.15
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "ortoo_speed_bonus_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 90
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "pasture_default_sheep_spawn_time_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "khan_respawn_time_penalty_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 120
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "khan_respawn_time_max_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 120
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "khan_respawn_time_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 1.75
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "stone_rate_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 5
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "khan_signal_arrow_duration"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 20
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "silk_road_tier_4_stone_bonus_improved_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "pack_reserve_pop_mon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "vector3f_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "generic_handle_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "attribute_enum_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "enum_table_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "bool_properties",
+          "value": [
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "age1_wonder1_built_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "improved_zealous_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "khan_spawning_enabled"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "district_spec_scout_falcon_ability_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "district_spec_faster_raiding_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "district_spec_khanless_raiding_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "district_ortoo_affect_all_units_aura_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "district_improved_silk_road_stone_generation_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "district_stupa_monastery_ovoo_aura"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "district_spec_outpost_archery_attack_speed_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "has_ovoo"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "age2_wonder2_built_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "first_khan_spawned"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "age3_wonder1_built_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "age2_wonder1_built_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "age1_wonder2_built_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "Debug"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "allow_mongol_stone_market"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 163221
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

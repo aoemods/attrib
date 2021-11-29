@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "default"
+    },
+    {
+      "key": "_4",
+      "value": "Fire"
+    },
+    {
+      "key": "_7",
+      "value": "lowerbody"
+    },
+    {
+      "key": "_9",
+      "value": "upperbody"
+    },
+    {
+      "key": "_0",
+      "value": "Aim"
+    },
+    {
+      "key": "_8",
+      "value": "None"
+    },
+    {
+      "key": "_2",
+      "value": "Core_UpperBody"
+    },
+    {
+      "key": "_6",
+      "value": "LOD_Skirt"
+    },
+    {
+      "key": "_1",
+      "value": "Core_LowerBody"
+    },
+    {
+      "key": "_5",
+      "value": "LOD_Cape"
+    }
+  ]
+}

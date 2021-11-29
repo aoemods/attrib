@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "require_none",
+              "value": [
+                {
+                  "key": "surface_flag",
+                  "value": 4
+                }
+              ]
+            },
+            {
+              "key": "require_any",
+              "value": [
+              ]
+            },
+            {
+              "key": "require_all",
+              "value": [
+                {
+                  "key": "surface_flag",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\surface_requirement"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\filter_min_max"
+                },
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "land_slope_raw"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "max",
+                  "value": 3.402823E+38
+                },
+                {
+                  "key": "min",
+                  "value": 1
+                },
+                {
+                  "key": "set_values_outside_range_to",
+                  "value": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 172438
+    }
+  ]
+}

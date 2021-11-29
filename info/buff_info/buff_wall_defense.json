@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\abilities\\wall_defense"
+        },
+        {
+          "key": "description",
+          "value": 11170019
+        },
+        {
+          "key": "title",
+          "value": 11170006
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 194313
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

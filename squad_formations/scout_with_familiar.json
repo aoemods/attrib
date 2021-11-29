@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 124114
+    },
+    {
+      "key": "squad_formation_bag",
+      "value": [
+        {
+          "key": "follower_drift_cap",
+          "value": 5
+        },
+        {
+          "key": "element_left_flank_formation",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "formations"
+            }
+          ]
+        },
+        {
+          "key": "element_right_flank_formation",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "formations"
+            }
+          ]
+        },
+        {
+          "key": "follower_drift_rate",
+          "value": 2
+        },
+        {
+          "key": "element_core_formation",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "element_scout_horse_unit"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "formations"
+            }
+          ]
+        },
+        {
+          "key": "squad_formation",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "element_scout_horse_unit"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "formations"
+            }
+          ]
+        },
+        {
+          "key": "element_scout_formation",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "element_scout_familiar_unit"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "formations"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

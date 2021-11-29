@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "key": "turn_plan_bag",
+      "value": [
+        {
+          "key": "match_direction_bonus_seconds",
+          "value": 0
+        },
+        {
+          "key": "pivot_bonus_seconds",
+          "value": 0
+        },
+        {
+          "key": "turn_plan",
+          "value": [
+          ]
+        },
+        {
+          "key": "pivot_bonus_seconds_multiplier",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 112790
+    }
+  ]
+}

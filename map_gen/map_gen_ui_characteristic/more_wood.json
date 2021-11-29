@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "key": "map_gen_ui_characteristic_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11188605
+        },
+        {
+          "key": "icon",
+          "value": "fe\\map_characteristics\\resource_bounty"
+        },
+        {
+          "key": "description_tooltip",
+          "value": 11188604
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1468904
+    }
+  ]
+}

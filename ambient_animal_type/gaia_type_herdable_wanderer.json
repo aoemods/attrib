@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "key": "ambient_animal_type_bag",
+      "value": [
+        {
+          "key": "herdable_option",
+          "value": [
+            {
+              "key": "speed_distance_data",
+              "value": [
+                {
+                  "key": "distance_min_speed_1",
+                  "value": 4
+                },
+                {
+                  "key": "distance_min_speed_2",
+                  "value": 6
+                },
+                {
+                  "key": "$REF",
+                  "value": "tables\\herding_distance_band_data"
+                },
+                {
+                  "key": "distance_min_speed_3",
+                  "value": 10.75
+                },
+                {
+                  "key": "distance_min_speed_4",
+                  "value": 20
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "options\\ambient_animal_types\\herdable_option"
+            },
+            {
+              "key": "conversion_range",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "key": "retaliate_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "flee_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "aggressive_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "wander_option",
+          "value": [
+            {
+              "key": "wander_max_degrees_from_current_heading",
+              "value": 160
+            },
+            {
+              "key": "wander_data_visit",
+              "value": [
+                {
+                  "key": "bias_seek_target",
+                  "value": 0
+                },
+                {
+                  "key": "displacement_radius",
+                  "value": 2
+                },
+                {
+                  "key": "aperture_angle_degrees",
+                  "value": 60
+                },
+                {
+                  "key": "$REF",
+                  "value": "tables\\wander_tuning_data"
+                },
+                {
+                  "key": "acceptable_distance_close",
+                  "value": 3
+                },
+                {
+                  "key": "look_ahead_distance",
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "key": "wander_delay_probability",
+              "value": 0.8
+            },
+            {
+              "key": "$REF",
+              "value": "options\\ambient_animal_types\\wander_option"
+            },
+            {
+              "key": "time_sec_wander_delay_max",
+              "value": 6
+            },
+            {
+              "key": "wander_max_degrees_from_leashing_direction",
+              "value": 30
+            },
+            {
+              "key": "wander_range",
+              "value": 15
+            },
+            {
+              "key": "distance_to_wander_max",
+              "value": 10
+            },
+            {
+              "key": "distance_to_wander_min",
+              "value": 5
+            },
+            {
+              "key": "wander_data_seek",
+              "value": [
+                {
+                  "key": "bias_seek_target",
+                  "value": 0.7
+                },
+                {
+                  "key": "displacement_radius",
+                  "value": 9
+                },
+                {
+                  "key": "aperture_angle_degrees",
+                  "value": 90
+                },
+                {
+                  "key": "$REF",
+                  "value": "tables\\wander_tuning_data"
+                },
+                {
+                  "key": "acceptable_distance_close",
+                  "value": 3
+                },
+                {
+                  "key": "look_ahead_distance",
+                  "value": 8
+                }
+              ]
+            },
+            {
+              "key": "time_sec_wander_delay_min",
+              "value": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 107466
+    },
+    {
+      "key": "time_sec_between_nearby_search",
+      "value": 1
+    }
+  ]
+}

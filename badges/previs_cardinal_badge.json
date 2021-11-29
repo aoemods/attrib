@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 110369
+    },
+    {
+      "key": "badge_bag",
+      "value": [
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "stencil_texture",
+          "value": ""
+        },
+        {
+          "key": "paint_primary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "self_blue"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "paint_trim",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "neutral_green"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "paint_secondary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "friendly_yellow"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "availability_tags",
+          "value": [
+          ]
+        },
+        {
+          "key": "inventory_item_categories",
+          "value": [
+          ]
+        }
+      ]
+    }
+  ]
+}

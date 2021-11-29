@@ -1,0 +1,898 @@
+{
+  "data": [
+    {
+      "key": "entity_blueprint_ext",
+      "value": [
+        {
+          "key": "default_spawn_type",
+          "value": ""
+        },
+        {
+          "key": "entity_scale",
+          "value": 100
+        },
+        {
+          "key": "is_visible_in_game",
+          "value": true
+        },
+        {
+          "key": "animator_scale",
+          "value": 100
+        },
+        {
+          "key": "browsable_in_editor",
+          "value": false
+        },
+        {
+          "key": "alternate_sua",
+          "value": ""
+        },
+        {
+          "key": "is_wreck",
+          "value": false
+        },
+        {
+          "key": "unit_badge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\entity_blueprint_ext"
+        },
+        {
+          "key": "always_revealed_in_fow",
+          "value": false
+        },
+        {
+          "key": "precise_size",
+          "value": -1
+        },
+        {
+          "key": "animator_attachments",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "projectile_shot_cannon_small"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "attachments\\attachment_lists"
+            }
+          ]
+        },
+        {
+          "key": "subclass_type",
+          "value": 2
+        },
+        {
+          "key": "is_spawned_when_not_in_interactive_area",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "sim_entity_ext",
+      "value": [
+        {
+          "key": "rotate_snap",
+          "value": 90
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\sim_entity_ext"
+        },
+        {
+          "key": "transferable",
+          "value": 0
+        },
+        {
+          "key": "kill_paradrop",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "projectile_ext",
+      "value": [
+        {
+          "key": "projectile_piercing_damage_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "spawn_collision_fx",
+          "value": false
+        },
+        {
+          "key": "collide_using_bounding_box",
+          "value": true
+        },
+        {
+          "key": "force_3d_collision",
+          "value": true
+        },
+        {
+          "key": "delay_detonate_time",
+          "value": 0
+        },
+        {
+          "key": "check_collision_against_target_entity_only",
+          "value": false
+        },
+        {
+          "key": "trajectory_option",
+          "value": [
+            {
+              "key": "speed_min",
+              "value": 50
+            },
+            {
+              "key": "height_min",
+              "value": 1
+            },
+            {
+              "key": "interpolate_distance_min",
+              "value": 20
+            },
+            {
+              "key": "height_max",
+              "value": 2
+            },
+            {
+              "key": "speed_max",
+              "value": 75
+            },
+            {
+              "key": "min_distance_to_enable",
+              "value": 0
+            },
+            {
+              "key": "$REF",
+              "value": "options\\ebpextensions\\projectileext\\projectile_trajectory_option"
+            },
+            {
+              "key": "interpolate_distance_max",
+              "value": 35
+            },
+            {
+              "key": "random_rotation_during_flight",
+              "value": [
+              ]
+            },
+            {
+              "key": "time_seconds",
+              "value": 0
+            },
+            {
+              "key": "slope_aggression",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\projectile_ext"
+        },
+        {
+          "key": "trajectory_preview_line_bag",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "use_target_entity_position",
+          "value": false
+        },
+        {
+          "key": "collision_building_wall_panel_ignore",
+          "value": false
+        },
+        {
+          "key": "prediction",
+          "value": [
+            {
+              "key": "use_predictive_aiming",
+              "value": false
+            },
+            {
+              "key": "max_prediction_speed",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "key": "collision_cover_shoot_through_ignore",
+          "value": false
+        },
+        {
+          "key": "snap_above_terrain",
+          "value": false
+        },
+        {
+          "key": "artillery",
+          "value": [
+            {
+              "key": "firing_angle_type",
+              "value": 0
+            },
+            {
+              "key": "non_collide_start_angle",
+              "value": 5
+            },
+            {
+              "key": "is_target_only",
+              "value": false
+            },
+            {
+              "key": "is_artillery",
+              "value": false
+            },
+            {
+              "key": "use_homing_when_no_blocker",
+              "value": true
+            },
+            {
+              "key": "speed_increment",
+              "value": 0.5
+            },
+            {
+              "key": "speed_distance_multiplier",
+              "value": 0.2
+            },
+            {
+              "key": "non_collide_end_angle",
+              "value": 20
+            },
+            {
+              "key": "can_counter_barrage",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "deathtimer",
+          "value": 0
+        },
+        {
+          "key": "launcher_marker",
+          "value": ""
+        },
+        {
+          "key": "collision_land_ignore",
+          "value": true
+        },
+        {
+          "key": "can_be_disjointed",
+          "value": true
+        },
+        {
+          "key": "target_squad_if_homing",
+          "value": false
+        },
+        {
+          "key": "acceleration",
+          "value": 0
+        },
+        {
+          "key": "delay_detonate_ui_enabled",
+          "value": false
+        },
+        {
+          "key": "collision_type",
+          "value": [
+            {
+              "key": "enum_projectile_collision",
+              "value": "tp_collide"
+            }
+          ]
+        },
+        {
+          "key": "set_player_owner",
+          "value": false
+        },
+        {
+          "key": "rotation_speed",
+          "value": 10000
+        },
+        {
+          "key": "speed",
+          "value": 0
+        },
+        {
+          "key": "life_time_while_alive",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2005234
+    },
+    {
+      "key": "action_apply_ext",
+      "value": [
+        {
+          "key": "physical_state_trees",
+          "value": [
+            {
+              "key": "container",
+              "value": [
+                {
+                  "key": "state_tree",
+                  "value": "improved_siege_projectile_eng"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "physical_state_trees_run_once",
+          "value": [
+          ]
+        },
+        {
+          "key": "action_state_trees_run_once",
+          "value": [
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\action_apply_ext"
+        },
+        {
+          "key": "action_state_trees",
+          "value": [
+          ]
+        },
+        {
+          "key": "reset_on_load",
+          "value": true
+        },
+        {
+          "key": "deferred_action_state_trees_run_once",
+          "value": [
+          ]
+        },
+        {
+          "key": "deferred_action_state_trees",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "explosion_ext",
+      "value": [
+        {
+          "key": "area_over_time_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "on_detonate_action_tree",
+          "value": [
+            {
+              "key": "start_suspended",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "state_tree_reference_info"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\explosion_ext"
+        },
+        {
+          "key": "on_absorbed_action_tree",
+          "value": [
+            {
+              "key": "start_suspended",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "state_tree_reference_info"
+            }
+          ]
+        },
+        {
+          "key": "terrain_hit",
+          "value": [
+            {
+              "key": "chance_splat_only",
+              "value": 0
+            },
+            {
+              "key": "radius_max",
+              "value": 4
+            },
+            {
+              "key": "splat_only_splats",
+              "value": [
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "splat_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "terrain_material",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "deformation",
+              "value": [
+                {
+                  "key": "splat_list",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "rotation",
+                  "value": 0
+                },
+                {
+                  "key": "deform_type",
+                  "value": "tp_additive"
+                },
+                {
+                  "key": "vertical_scale",
+                  "value": 0.002
+                },
+                {
+                  "key": "limited",
+                  "value": true
+                },
+                {
+                  "key": "random_rotation",
+                  "value": true
+                },
+                {
+                  "key": "deform_decal_file",
+                  "value": "crater"
+                }
+              ]
+            },
+            {
+              "key": "radius_min",
+              "value": 3
+            },
+            {
+              "key": "cover_type",
+              "value": "tp_defcover"
+            },
+            {
+              "key": "splat_only_splat_seconds",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "animation_action_tree_ext",
+      "value": [
+        {
+          "key": "use_root_motion",
+          "value": false
+        },
+        {
+          "key": "start_suspended",
+          "value": false
+        },
+        {
+          "key": "ActionTree_OpeningBranch",
+          "value": ""
+        },
+        {
+          "key": "speed_scale_threshold",
+          "value": 100
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\animation_action_tree_ext"
+        },
+        {
+          "key": "default_animation",
+          "value": ""
+        },
+        {
+          "key": "entity_statetree_sort_tag",
+          "value": "Default"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "key": "tip",
+      "value": [
+        {
+          "key": "squad",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "win_conditions",
+          "value": [
+          ]
+        },
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "tip_season_type",
+          "value": "any"
+        },
+        {
+          "key": "scenario_names",
+          "value": [
+          ]
+        },
+        {
+          "key": "video_image_url",
+          "value": ""
+        },
+        {
+          "key": "loadtip",
+          "value": 11190710
+        },
+        {
+          "key": "required_races",
+          "value": [
+          ]
+        },
+        {
+          "key": "tip_type",
+          "value": "historical"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 206075
+    }
+  ]
+}

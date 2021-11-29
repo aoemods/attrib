@@ -1,0 +1,829 @@
+{
+  "data": [
+    {
+      "key": "challenge_bag",
+      "value": [
+        {
+          "key": "requirement",
+          "value": [
+            {
+              "key": "operator",
+              "value": "and"
+            },
+            {
+              "key": "requirements",
+              "value": [
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\raceid"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\raceid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "rus"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "racebps"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11171283
+        },
+        {
+          "key": "enable",
+          "value": true
+        },
+        {
+          "key": "tip",
+          "value": 11171273
+        },
+        {
+          "key": "fe_priority",
+          "value": 0
+        },
+        {
+          "key": "icon",
+          "value": "civ_flags\\civ_icon_medium_rus"
+        },
+        {
+          "key": "award_source",
+          "value": "ClientMatchReport"
+        },
+        {
+          "key": "update_rule",
+          "value": [
+            {
+              "key": "value_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "challenges\\requirement_values\\constant\\generic"
+                },
+                {
+                  "key": "value",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "id",
+          "value": 1461276
+        },
+        {
+          "key": "group",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mastery_rus"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge_group"
+            }
+          ]
+        },
+        {
+          "key": "platform_stat_key",
+          "value": ""
+        },
+        {
+          "key": "counters",
+          "value": [
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "research_upgrades"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "Upgraded"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "in"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "upgradetype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\upgradetype"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "upgradetype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\upgradetype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "upgrade_springald_range_rus"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "upgrade"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "upgradetype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\upgradetype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "upgrade_siege_improvements_rus"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "upgrade"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "upgradetype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\upgradetype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "upgrade_siege_crew_training_rus"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "upgrade"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "upgradetype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\upgradetype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "upgrade_siege_fined_tuned_guns_rus"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "upgrade"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_counter",
+                              "value": [
+                                {
+                                  "key": "op",
+                                  "value": 4
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "greaterthanequal"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                            {
+                              "key": "clientcounter",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": "research_upgrades"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "generic",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\constant\\generic"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                        {
+                          "key": "toggle_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "produce_siege"
+                            },
+                            {
+                              "key": "enabled",
+                              "value": true
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\toggle_counter"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "toggle_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "research_upgrades"
+                            },
+                            {
+                              "key": "enabled",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\toggle_counter"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "produce_siege"
+                },
+                {
+                  "key": "enabled",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "BuildItemComplete"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "in"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": "Standard"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_mangonel_3"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_cannon_4"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_bombard_4"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_culverin_4"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_ribauldequin_4"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_springald_3"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_trebuchet_4_counterweight"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_trebuchet_4_traction"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_counter",
+                              "value": [
+                                {
+                                  "key": "op",
+                                  "value": 4
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "greaterthanequal"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                            {
+                              "key": "clientcounter",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": "produce_siege"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "generic",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\constant\\generic"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": 20
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                        {
+                          "key": "complete_challenge",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\complete_challenge"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "toggle_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "produce_siege"
+                            },
+                            {
+                              "key": "enabled",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\toggle_counter"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "description",
+          "value": 11171274
+        },
+        {
+          "key": "completion_count",
+          "value": 1
+        },
+        {
+          "key": "reward",
+          "value": [
+            {
+              "key": "achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mastery_rus_13"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            },
+            {
+              "key": "item_bundle",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mastery_rus_12"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "inventory_item_bundle"
+                }
+              ]
+            },
+            {
+              "key": "xp",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1461277
+    }
+  ]
+}

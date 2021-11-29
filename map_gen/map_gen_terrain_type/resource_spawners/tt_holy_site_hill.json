@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 1491685
+    },
+    {
+      "key": "map_gen_terrain_type",
+      "value": [
+        {
+          "key": "terrain_height_params",
+          "value": [
+            {
+              "key": "fractal_shift_amplitude",
+              "value": 0.12
+            },
+            {
+              "key": "fractal_shift_direction_bias",
+              "value": 0.5
+            },
+            {
+              "key": "fractal_shift_variance",
+              "value": 0.5
+            },
+            {
+              "key": "height_over_width",
+              "value": 0.9
+            }
+          ]
+        },
+        {
+          "key": "min_cliff_height",
+          "value": 3.402823E+38
+        },
+        {
+          "key": "noise_biases",
+          "value": [
+          ]
+        },
+        {
+          "key": "debug_colour",
+          "value": -8960
+        },
+        {
+          "key": "is_lake_source",
+          "value": false
+        },
+        {
+          "key": "local_distributions",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "local_dist_holy_site"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\local_distributions"
+            }
+          ]
+        },
+        {
+          "key": "marker_data",
+          "value": [
+            {
+              "key": "apply_impass_avoidance",
+              "value": false
+            },
+            {
+              "key": "blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "is_player_start",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "audio_region_template",
+          "value": ""
+        },
+        {
+          "key": "local_distribution_priority",
+          "value": 10
+        },
+        {
+          "key": "global_distribution_blocking_radius",
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

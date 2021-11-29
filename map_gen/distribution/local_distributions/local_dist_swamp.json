@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "key": "local_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_cell_dist_deco_logs"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_cell_dist_deco_vegetation_dead"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_cell_distribution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_swamp_trees"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2039646
+    }
+  ]
+}

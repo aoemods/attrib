@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "key": "hit_material_bag",
+      "value": [
+        {
+          "key": "fx_material_name",
+          "value": "stone"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 23
+    }
+  ]
+}

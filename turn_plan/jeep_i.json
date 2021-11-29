@@ -1,0 +1,255 @@
+{
+  "data": [
+    {
+      "key": "turn_plan_bag",
+      "value": [
+        {
+          "key": "match_direction_bonus_seconds",
+          "value": 0
+        },
+        {
+          "key": "pivot_bonus_seconds",
+          "value": -2
+        },
+        {
+          "key": "turn_plan",
+          "value": [
+            {
+              "key": "turn_plan",
+              "value": [
+                {
+                  "key": "delay_bonus_seconds",
+                  "value": 0
+                },
+                {
+                  "key": "max_distance_to_try",
+                  "value": 1000
+                },
+                {
+                  "key": "max_target_distance_to_try",
+                  "value": -1
+                },
+                {
+                  "key": "turn_type",
+                  "value": "three_point_turn"
+                },
+                {
+                  "key": "radius_multiplier",
+                  "value": 0.3
+                }
+              ]
+            },
+            {
+              "key": "turn_plan",
+              "value": [
+                {
+                  "key": "delay_bonus_seconds",
+                  "value": 0
+                },
+                {
+                  "key": "max_distance_to_try",
+                  "value": 10000
+                },
+                {
+                  "key": "max_target_distance_to_try",
+                  "value": -1
+                },
+                {
+                  "key": "turn_type",
+                  "value": "curve_turn_smooth"
+                },
+                {
+                  "key": "radius_multiplier",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "turn_plan",
+              "value": [
+                {
+                  "key": "delay_bonus_seconds",
+                  "value": 0
+                },
+                {
+                  "key": "max_distance_to_try",
+                  "value": 10000
+                },
+                {
+                  "key": "max_target_distance_to_try",
+                  "value": -1
+                },
+                {
+                  "key": "turn_type",
+                  "value": "constant_radius"
+                },
+                {
+                  "key": "radius_multiplier",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "turn_plan",
+              "value": [
+                {
+                  "key": "delay_bonus_seconds",
+                  "value": 0
+                },
+                {
+                  "key": "max_distance_to_try",
+                  "value": 10000
+                },
+                {
+                  "key": "max_target_distance_to_try",
+                  "value": -1
+                },
+                {
+                  "key": "turn_type",
+                  "value": "curve_turn"
+                },
+                {
+                  "key": "radius_multiplier",
+                  "value": 5
+                }
+              ]
+            },
+            {
+              "key": "turn_plan",
+              "value": [
+                {
+                  "key": "delay_bonus_seconds",
+                  "value": 0
+                },
+                {
+                  "key": "max_distance_to_try",
+                  "value": 10000
+                },
+                {
+                  "key": "max_target_distance_to_try",
+                  "value": -1
+                },
+                {
+                  "key": "turn_type",
+                  "value": "curve_turn"
+                },
+                {
+                  "key": "radius_multiplier",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "turn_plan",
+              "value": [
+                {
+                  "key": "delay_bonus_seconds",
+                  "value": 0
+                },
+                {
+                  "key": "max_distance_to_try",
+                  "value": 10000
+                },
+                {
+                  "key": "max_target_distance_to_try",
+                  "value": -1
+                },
+                {
+                  "key": "turn_type",
+                  "value": "curve_turn"
+                },
+                {
+                  "key": "radius_multiplier",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "turn_plan",
+              "value": [
+                {
+                  "key": "delay_bonus_seconds",
+                  "value": 0
+                },
+                {
+                  "key": "max_distance_to_try",
+                  "value": 30
+                },
+                {
+                  "key": "max_target_distance_to_try",
+                  "value": -1
+                },
+                {
+                  "key": "turn_type",
+                  "value": "reverse"
+                },
+                {
+                  "key": "radius_multiplier",
+                  "value": 0.25
+                }
+              ]
+            },
+            {
+              "key": "turn_plan",
+              "value": [
+                {
+                  "key": "delay_bonus_seconds",
+                  "value": 0
+                },
+                {
+                  "key": "max_distance_to_try",
+                  "value": 10000
+                },
+                {
+                  "key": "max_target_distance_to_try",
+                  "value": -1
+                },
+                {
+                  "key": "turn_type",
+                  "value": "curve_turn"
+                },
+                {
+                  "key": "radius_multiplier",
+                  "value": 0.45
+                }
+              ]
+            },
+            {
+              "key": "turn_plan",
+              "value": [
+                {
+                  "key": "delay_bonus_seconds",
+                  "value": 0
+                },
+                {
+                  "key": "max_distance_to_try",
+                  "value": 10000
+                },
+                {
+                  "key": "max_target_distance_to_try",
+                  "value": -1
+                },
+                {
+                  "key": "turn_type",
+                  "value": "curve_turn"
+                },
+                {
+                  "key": "radius_multiplier",
+                  "value": 0.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "pivot_bonus_seconds_multiplier",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 3
+    }
+  ]
+}

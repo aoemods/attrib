@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 547797
+    },
+    {
+      "key": "distribution",
+      "value": [
+        {
+          "key": "spawn_orientation",
+          "value": 1
+        },
+        {
+          "key": "balanced_distribution",
+          "value": [
+            {
+              "key": "balance_type",
+              "value": "none"
+            },
+            {
+              "key": "relative_weight",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "biome_asset_mapping",
+          "value": "ocean_deco_water_intersection"
+        },
+        {
+          "key": "spawn_rotation",
+          "value": 5
+        },
+        {
+          "key": "score_map",
+          "value": [
+            {
+              "key": "playable_area_only",
+              "value": true
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\filter_edge_of_map"
+            },
+            {
+              "key": "set_values_to",
+              "value": 0
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "ocean_deco_water_land_close"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "value_is_percent_instead_of_cells",
+              "value": false
+            },
+            {
+              "key": "from_edge_threshold",
+              "value": 0
+            },
+            {
+              "key": "filter_inner_instead_of_outer",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "spawn_position",
+          "value": 1
+        },
+        {
+          "key": "ignores_global_blocking_regions",
+          "value": true
+        }
+      ]
+    }
+  ]
+}

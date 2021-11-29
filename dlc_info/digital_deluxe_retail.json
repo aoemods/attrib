@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": "digital_deluxe_retail"
+    },
+    {
+      "key": "appID",
+      "value": 1668570
+    },
+    {
+      "key": "itemBundle",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "exclusive_steam_pack_01"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "inventory_item_bundle"
+        }
+      ]
+    }
+  ]
+}

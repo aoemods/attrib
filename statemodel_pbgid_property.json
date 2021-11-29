@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "ai_phase_encounter_targeted_ability_bag"
+    },
+    {
+      "key": "_4",
+      "value": "legacy"
+    },
+    {
+      "key": "_0",
+      "value": "ai_phase_encounter_coordinator_bag"
+    },
+    {
+      "key": "_2",
+      "value": "ai_phase_encounter_path_bag"
+    },
+    {
+      "key": "_1",
+      "value": "ai_phase_encounter_coordinator_bag_enroute"
+    }
+  ]
+}

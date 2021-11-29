@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "key": "generic_inventory_item_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11161128
+        },
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "icon_secondary",
+          "value": ""
+        },
+        {
+          "key": "location",
+          "value": "Inventory"
+        },
+        {
+          "key": "video",
+          "value": ""
+        },
+        {
+          "key": "image_small",
+          "value": "text_collectibles\\rus_daniel_thumb"
+        },
+        {
+          "key": "image",
+          "value": "text_collectibles\\rus_daniel"
+        },
+        {
+          "key": "description",
+          "value": 11161127
+        },
+        {
+          "key": "inventory_item",
+          "value": [
+            {
+              "key": "search_tags",
+              "value": [
+              ]
+            },
+            {
+              "key": "required_level",
+              "value": 1
+            },
+            {
+              "key": "droppable",
+              "value": true
+            },
+            {
+              "key": "inventory_item_attributes",
+              "value": [
+                {
+                  "key": "inventory_item_attribute",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "is_new"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "inventory_item_attribute"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "inventory_item"
+            },
+            {
+              "key": "inventory_item_equip_modifiers",
+              "value": [
+              ]
+            },
+            {
+              "key": "races",
+              "value": [
+              ]
+            },
+            {
+              "key": "default_metadata",
+              "value": [
+              ]
+            },
+            {
+              "key": "inventory_item_categories",
+              "value": [
+                {
+                  "key": "inventory_item_category",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "activity_feed_narrative_txt"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "inventory_item_category"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "server_id",
+              "value": 452351
+            },
+            {
+              "key": "inventory_item_slots",
+              "value": [
+              ]
+            },
+            {
+              "key": "level_table",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ui_priority",
+              "value": 0
+            },
+            {
+              "key": "inventory_item_equip_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "inventory_item_requirements\\requirements\\requirement_none"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 182112
+    }
+  ]
+}

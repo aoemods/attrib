@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "key": "camera_bag",
+      "value": [
+        {
+          "key": "defaults",
+          "value": [
+            {
+              "key": "clip_near",
+              "value": 1
+            },
+            {
+              "key": "projection_start_culling_distance",
+              "value": 95
+            },
+            {
+              "key": "clip_far",
+              "value": 175
+            },
+            {
+              "key": "validate_position",
+              "value": true
+            },
+            {
+              "key": "projection_mode",
+              "value": "perspective"
+            },
+            {
+              "key": "position",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "basic_data_types\\vector3"
+                },
+                {
+                  "key": "y",
+                  "value": 10
+                },
+                {
+                  "key": "x",
+                  "value": 0
+                },
+                {
+                  "key": "z",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "lookAt",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "basic_data_types\\vector3"
+                },
+                {
+                  "key": "y",
+                  "value": 10
+                },
+                {
+                  "key": "x",
+                  "value": 0
+                },
+                {
+                  "key": "z",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "fov",
+              "value": 60
+            }
+          ]
+        },
+        {
+          "key": "tuning",
+          "value": [
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "pan_scale_keyboard",
+                  "value": 3
+                },
+                {
+                  "key": "pan_scale_screen",
+                  "value": 3
+                },
+                {
+                  "key": "yaw_rate_keyboard",
+                  "value": 1
+                },
+                {
+                  "key": "distance_rate_wheel",
+                  "value": 1.5
+                },
+                {
+                  "key": "tilt_rate_mouse",
+                  "value": 50
+                },
+                {
+                  "key": "yaw_rate_mouse",
+                  "value": 50
+                },
+                {
+                  "key": "distance_rate_wheel_out",
+                  "value": 1
+                },
+                {
+                  "key": "distance_rate_wheel_in",
+                  "value": 1
+                },
+                {
+                  "key": "pan_scale_mouse",
+                  "value": 3
+                },
+                {
+                  "key": "tilt_rate_keyboard",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "modules",
+          "value": [
+            {
+              "key": "cam_module_spline",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "camera_modules\\cam_module_spline"
+                }
+              ]
+            },
+            {
+              "key": "cam_module_fov",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "camera_modules\\cam_module_fov"
+                }
+              ]
+            },
+            {
+              "key": "cam_module_offset",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "camera_modules\\cam_module_offset"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2033652
+    }
+  ]
+}

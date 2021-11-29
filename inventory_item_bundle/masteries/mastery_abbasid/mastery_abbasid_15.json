@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": "Abbasid Mastery Reward"
+    },
+    {
+      "key": "items",
+      "value": [
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "fun_fact_abbasid_15"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "generic_inventory_item"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "sigil_37"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "coat_of_arms_part"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "abb_tier_03"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "monument"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "inventory_item_bundle_type",
+      "value": "Achievement"
+    },
+    {
+      "key": "server_id",
+      "value": 1009
+    }
+  ]
+}

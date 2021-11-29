@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "key": "stealth_sim_world_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\stealth_sim_world_module"
+        },
+        {
+          "key": "mesh_types",
+          "value": [
+            {
+              "key": "mesh_type",
+              "value": "stealth_woods"
+            },
+            {
+              "key": "mesh_type",
+              "value": "ocean_stealth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "territory_module",
+      "value": [
+        {
+          "key": "territory_fow_reveal_type",
+          "value": "none"
+        },
+        {
+          "key": "territory_type",
+          "value": 2
+        },
+        {
+          "key": "territory_sectors_check_fow",
+          "value": true
+        },
+        {
+          "key": "show_enemy_territory_multiplayer",
+          "value": true
+        },
+        {
+          "key": "show_enemy_territory_minimap",
+          "value": true
+        },
+        {
+          "key": "$REF",
+          "value": "world_modules\\territory_module"
+        },
+        {
+          "key": "conforming_square_to_preserve_side_length_meters",
+          "value": 14
+        },
+        {
+          "key": "show_enemy_territory_singleplayer",
+          "value": true
+        },
+        {
+          "key": "min_polygon_simplification_distance_threshold",
+          "value": 2
+        },
+        {
+          "key": "merge_frontlines",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "globalstatetree_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\globalstatetree_module"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 136231
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "pathfinding_tuning_module",
+      "value": [
+        {
+          "key": "path_limit_precise",
+          "value": 2000000
+        },
+        {
+          "key": "$REF",
+          "value": "world_modules\\pathfinding_tuning_module"
+        }
+      ]
+    }
+  ]
+}

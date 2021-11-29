@@ -1,0 +1,1393 @@
+{
+  "data": [
+    {
+      "key": "challenge_bag",
+      "value": [
+        {
+          "key": "requirement",
+          "value": [
+            {
+              "key": "operator",
+              "value": "and"
+            },
+            {
+              "key": "requirements",
+              "value": [
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\raceid"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\raceid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "sultanate"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "racebps"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11197121
+        },
+        {
+          "key": "enable",
+          "value": true
+        },
+        {
+          "key": "fe_priority",
+          "value": 0
+        },
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "award_source",
+          "value": "Client"
+        },
+        {
+          "key": "update_rule",
+          "value": [
+            {
+              "key": "value_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "challenges\\requirement_values\\constant\\generic"
+                },
+                {
+                  "key": "value",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "id",
+          "value": 1472084
+        },
+        {
+          "key": "group",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "achievements"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge_group"
+            }
+          ]
+        },
+        {
+          "key": "platform_stat_key",
+          "value": "stat_075"
+        },
+        {
+          "key": "counters",
+          "value": [
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "elephant_destroy_building"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "EntityKilled"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "and"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                                {
+                                  "key": "requirement",
+                                  "value": [
+                                    {
+                                      "key": "operator",
+                                      "value": "in"
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
+                                      "value": [
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": "Target"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_defense_keep"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_defense_outpost"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_defense_tower"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_econ_food"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_econ_market"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_econ_mining_camp"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_econ_wood"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_house"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_resource_farm"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_tech_unit_infantry"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_tech_unit_ranged"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_tech_university"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_town_center"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_unit_cavalry"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_unit_infantry"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_unit_naval"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_unit_ranged"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_unit_religious"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_unit_siege"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_wonder_age1"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_wonder_age2"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_wonder_age3"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_wonder_age4"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_dynasty_granary_control_chi"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_dynasty_pagoda_control_chi"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_dynasty_village_control_chi"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_house_of_wisdom_control_abb"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_defense_crossbowmen_pavise_fre"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "building_stone_deposit_ovoo_mon"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "requirement",
+                                  "value": [
+                                    {
+                                      "key": "operator",
+                                      "value": "equal"
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
+                                      "value": [
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": "Source"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitytype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitytype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "unit_war_elephant"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "ebps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_counter",
+                              "value": [
+                                {
+                                  "key": "op",
+                                  "value": 4
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "equal"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                            {
+                              "key": "clientcounter",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": "elephant_destroy_building"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "generic",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement_values\\constant\\generic"
+                                },
+                                {
+                                  "key": "value",
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                        {
+                          "key": "uncomplete_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "elephant_destroy_building"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\uncomplete_counter"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "change_named_counter",
+                          "value": [
+                            {
+                              "key": "name",
+                              "value": "elephant_destroy_building"
+                            },
+                            {
+                              "key": "op",
+                              "value": 6
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\change_named_counter"
+                            },
+                            {
+                              "key": "amount",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "complete_challenge",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\counter_actions\\complete_challenge"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "cine_is_starting"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "CustomEvent"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "equal"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "customevent",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\customevent"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "customevent",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\customevent"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": "AchievCineIsStarting"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "toggle_counter",
+                              "value": [
+                                {
+                                  "key": "name",
+                                  "value": "elephant_destroy_building"
+                                },
+                                {
+                                  "key": "enabled",
+                                  "value": false
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\toggle_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "none"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "cine_is_ending"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "CustomEvent"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "equal"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "customevent",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\customevent"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "customevent",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\customevent"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": "AchievCineIsEnding"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "toggle_counter",
+                              "value": [
+                                {
+                                  "key": "name",
+                                  "value": "elephant_destroy_building"
+                                },
+                                {
+                                  "key": "enabled",
+                                  "value": true
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\toggle_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "none"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "description",
+          "value": 11197122
+        },
+        {
+          "key": "completion_count",
+          "value": 100
+        },
+        {
+          "key": "reward",
+          "value": [
+            {
+              "key": "achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a075_civ_sultanate"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "item_bundle",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "xp",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1472085
+    }
+  ]
+}

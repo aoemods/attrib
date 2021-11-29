@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 166768
+    },
+    {
+      "key": "local_region_distribution",
+      "value": [
+        {
+          "key": "quantity",
+          "value": [
+            {
+              "key": "base_instance_count",
+              "value": 1
+            },
+            {
+              "key": "additional_instances_per_player",
+              "value": 0
+            },
+            {
+              "key": "additional_instances_per_km_squared",
+              "value": 0
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\distribution\\quantity"
+            },
+            {
+              "key": "additional_instances_per_scored_km_squared",
+              "value": 0
+            },
+            {
+              "key": "minimum_for_per_scored_km_squared",
+              "value": 0.05
+            },
+            {
+              "key": "additional_instances_per_million_score",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "range_band",
+          "value": [
+            {
+              "key": "min_distance",
+              "value": 0
+            },
+            {
+              "key": "max_distance",
+              "value": 20
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\distribution\\range_band"
+            }
+          ]
+        },
+        {
+          "key": "distribution",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "region_dist_gaia_sheep_large"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\region_distribution"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

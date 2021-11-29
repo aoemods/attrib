@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "key": "ui_ping_bag",
+      "value": [
+        {
+          "key": "ui_reticule",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "blip",
+          "value": [
+            {
+              "key": "ally_action",
+              "value": "ui\\command\\ping_alert"
+            },
+            {
+              "key": "duration",
+              "value": 0
+            },
+            {
+              "key": "blip_data_template",
+              "value": "question_here"
+            },
+            {
+              "key": "self_action",
+              "value": "ui\\command\\ping_alert"
+            },
+            {
+              "key": "audio_event",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "ai_ping_type",
+          "value": "question"
+        },
+        {
+          "key": "cursors",
+          "value": [
+            {
+              "key": "failure",
+              "value": "question_ping"
+            },
+            {
+              "key": "success",
+              "value": "question_ping"
+            }
+          ]
+        },
+        {
+          "key": "radius",
+          "value": 1
+        },
+        {
+          "key": "ui_info",
+          "value": [
+            {
+              "key": "screen_name_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "reveal_for_decryption",
+              "value": false
+            },
+            {
+              "key": "ui_position",
+              "value": [
+                {
+                  "key": "ui_position_column",
+                  "value": 1
+                },
+                {
+                  "key": "ui_position_row",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "icon_alternate_name",
+              "value": ""
+            },
+            {
+              "key": "brief_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "sound",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "tables\\ui_game_item_info"
+            },
+            {
+              "key": "icon_name",
+              "value": "pings\\hud_lookhere_icon"
+            },
+            {
+              "key": "help_text",
+              "value": 11164358
+            },
+            {
+              "key": "hotkey_name",
+              "value": "ping_question"
+            },
+            {
+              "key": "sound_alternative",
+              "value": ""
+            },
+            {
+              "key": "tooltip_data_template",
+              "value": "QuestionPingTooltipDataTemplate"
+            },
+            {
+              "key": "help_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "screen_name_alternate_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "extra_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "screen_name",
+              "value": 11164362
+            },
+            {
+              "key": "help_text_alternate_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 534506
+    }
+  ]
+}

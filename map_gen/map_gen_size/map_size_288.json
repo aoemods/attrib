@@ -1,0 +1,989 @@
+{
+  "data": [
+    {
+      "key": "map_gen_size",
+      "value": [
+        {
+          "key": "default_for_map_layouts",
+          "value": [
+            {
+              "key": "solo_play_contested_area_start",
+              "value": 0.5
+            },
+            {
+              "key": "contested_range",
+              "value": 150
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\map_gen_layout_and_size_params"
+            },
+            {
+              "key": "solo_play_contested_area_end",
+              "value": 0
+            },
+            {
+              "key": "player_resource_access_distance",
+              "value": 640
+            },
+            {
+              "key": "player_start_influence_distance",
+              "value": 90
+            },
+            {
+              "key": "distribution_balancing_list",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "distribution_balancing",
+              "value": [
+                {
+                  "key": "boar_small",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "deer_small",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "settlements_naval",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "fish_deepwater",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "berries_small",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "sheep_small",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "fish_river",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "fish_shore",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "gold",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 2
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "settlements",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "stone_small",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 2
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "none",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "stone",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 2
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "deer_large",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "berries",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "boar_large",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "gold_small",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 2
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "sheep_med",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "holy_sites",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "relics",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                },
+                {
+                  "key": "sheep_large",
+                  "value": [
+                    {
+                      "key": "contested_range_min",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "contested_base_spawn_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "contested_additional_spawns_per_player",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "accessible_spawns",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "avoid_same_spawn_distance",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_range_max",
+                      "value": 0.8
+                    },
+                    {
+                      "key": "spawn_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "contested_excludes_starting_land_mass",
+                      "value": false
+                    },
+                    {
+                      "key": "avoid_any_spawn_distance",
+                      "value": 15
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "playable_dimensions",
+          "value": [
+            {
+              "key": "height",
+              "value": 288
+            },
+            {
+              "key": "width",
+              "value": 288
+            }
+          ]
+        },
+        {
+          "key": "max_players",
+          "value": -1
+        },
+        {
+          "key": "default_coarse_map_dimensions",
+          "value": [
+            {
+              "key": "height",
+              "value": 8
+            },
+            {
+              "key": "width",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "key": "total_dimensions",
+          "value": [
+            {
+              "key": "height",
+              "value": 416
+            },
+            {
+              "key": "width",
+              "value": 416
+            }
+          ]
+        },
+        {
+          "key": "chunk_size",
+          "value": 32
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 188286
+    }
+  ]
+}

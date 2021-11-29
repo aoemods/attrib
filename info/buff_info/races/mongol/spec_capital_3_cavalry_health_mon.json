@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\common\\tags\\arrow"
+        },
+        {
+          "key": "description",
+          "value": 11166878
+        },
+        {
+          "key": "title",
+          "value": 11166877
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 188774
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

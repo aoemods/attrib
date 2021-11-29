@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": "art\\civilizations\\common\\team_weapons\\archetypes\\battering_ram\\battering_ram"
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "ram"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "default"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_skin_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_skin_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\english\\team_weapons\\eng_battering_ram\\eng_battering_ram"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1466361
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

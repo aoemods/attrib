@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "key": "_18",
+      "value": "sight_cone_angle_player_modifier"
+    },
+    {
+      "key": "_3",
+      "value": "enable_decryption"
+    },
+    {
+      "key": "_17",
+      "value": "replacement_refund_ratio_modifier"
+    },
+    {
+      "key": "_4",
+      "value": "enable_player_issue_retreat"
+    },
+    {
+      "key": "_7",
+      "value": "max_personnel_cap_player_modifier"
+    },
+    {
+      "key": "_9",
+      "value": "max_trade_charges_per_settlement_modifier"
+    },
+    {
+      "key": "_16",
+      "value": "received_veterancy_player_modifier"
+    },
+    {
+      "key": "_24",
+      "value": "trade_cart_bonus_wood_modifier"
+    },
+    {
+      "key": "_0",
+      "value": "casualty_count_cap_modifier"
+    },
+    {
+      "key": "_22",
+      "value": "trade_cart_bonus_gold_modifier"
+    },
+    {
+      "key": "_8",
+      "value": "max_trade_charges_per_player_modifier"
+    },
+    {
+      "key": "_21",
+      "value": "trade_cart_bonus_food_modifier"
+    },
+    {
+      "key": "_13",
+      "value": "personnel_cap_player_modifier"
+    },
+    {
+      "key": "_19",
+      "value": "sight_radius_player_modifier"
+    },
+    {
+      "key": "_11",
+      "value": "medic_cap_player_modifier"
+    },
+    {
+      "key": "_2",
+      "value": "death_to_casualty_ratio_modifier"
+    },
+    {
+      "key": "_20",
+      "value": "squad_loadout_max_modifier"
+    },
+    {
+      "key": "_29",
+      "value": "vehicle_cap_player_modifier"
+    },
+    {
+      "key": "_27",
+      "value": "trade_rate_stone_modifier"
+    },
+    {
+      "key": "_15",
+      "value": "production_speed_player_modifier"
+    },
+    {
+      "key": "_28",
+      "value": "trade_rate_wood_modifier"
+    },
+    {
+      "key": "_23",
+      "value": "trade_cart_bonus_stone_modifier"
+    },
+    {
+      "key": "_14",
+      "value": "player_casualty_duration_modifier"
+    },
+    {
+      "key": "_25",
+      "value": "trade_cooldown_modifier"
+    },
+    {
+      "key": "_12",
+      "value": "paradrop_reinforcements_modifier"
+    },
+    {
+      "key": "_6",
+      "value": "max_medic_cap_player_modifier"
+    },
+    {
+      "key": "_1",
+      "value": "casualty_return_player_modifier"
+    },
+    {
+      "key": "_5",
+      "value": "income_out_of_supply_modifier"
+    },
+    {
+      "key": "_26",
+      "value": "trade_rate_food_modifier"
+    },
+    {
+      "key": "_10",
+      "value": "max_vehicle_cap_player_modifier"
+    }
+  ]
+}

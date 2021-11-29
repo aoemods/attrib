@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\french\\abilities\\deploy_pavise"
+        },
+        {
+          "key": "description",
+          "value": 11164902
+        },
+        {
+          "key": "title",
+          "value": 11164903
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2035632
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

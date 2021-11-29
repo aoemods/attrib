@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": 11168943
+    },
+    {
+      "key": "enable",
+      "value": true
+    },
+    {
+      "key": "icon",
+      "value": "fe\\mastery_incomplete_hre"
+    },
+    {
+      "key": "telemetryPrefix",
+      "value": "HolyRomanEmpire"
+    },
+    {
+      "key": "group_type",
+      "value": [
+        {
+          "key": "initial_challenge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mastery_hre_01"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "challenges\\group_types\\path"
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "value": 1440329
+    },
+    {
+      "key": "ui_tags",
+      "value": [
+        {
+          "key": "pinned",
+          "value": false
+        },
+        {
+          "key": "unpins_activity_feed_item",
+          "value": false
+        },
+        {
+          "key": "home",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "image",
+      "value": "backgrounds\\mastery_flags\\flag_hre"
+    },
+    {
+      "key": "description",
+      "value": 11168944
+    },
+    {
+      "key": "imageSmall",
+      "value": "illustrations\\masteries\\civ_pattern_hre"
+    },
+    {
+      "key": "icon2",
+      "value": "fe\\mastery_complete_hre"
+    }
+  ]
+}

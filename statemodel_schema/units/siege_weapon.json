@@ -1,0 +1,544 @@
+{
+  "data": [
+    {
+      "key": "schema_bag",
+      "value": [
+        {
+          "key": "pbgid_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "int_properties",
+          "value": [
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "UI_Duration"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ortoo_aura_timer"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 240
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "network_of_castles_timer"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "sub_schemas",
+          "value": [
+          ]
+        },
+        {
+          "key": "target_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "list_properties",
+          "value": [
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 5
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 8
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "buffs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "float_properties",
+          "value": [
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "UI_Progress"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "InDeathThroes"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "universal_buff_count"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "universal_heal_count"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "repair_cost_wood"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "vector3f_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "generic_handle_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "attribute_enum_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "enum_table_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "bool_properties",
+          "value": [
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "UninterruptibleAttack"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "saints_damage_buff_rus"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "cannon_barrage_active_fre"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "has_khan_arrow_buff_speed_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "has_khan_arrow_buff_defense_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "has_khan_arrow_buff_attack_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "nest_of_bees_fire_active_chi"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "within_gulyay_gorod_radius"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "allow_evacuation"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "network_of_castles_buff"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "defensive_tower_alert_eng"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "within_ortoo_aura"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "siege_tower_ramp_open"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "Debug"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "incendiary_equipped"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "siege_is_setup"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "saints_armour_buff_rus"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "non_aggressive"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 135388
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

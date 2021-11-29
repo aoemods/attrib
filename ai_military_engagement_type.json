@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "capture"
+    },
+    {
+      "key": "_4",
+      "value": "defend_area"
+    },
+    {
+      "key": "_7",
+      "value": "gather"
+    },
+    {
+      "key": "_9",
+      "value": "neutral_structure"
+    },
+    {
+      "key": "_0",
+      "value": "ally_clump"
+    },
+    {
+      "key": "_8",
+      "value": "neutral_clump"
+    },
+    {
+      "key": "_2",
+      "value": "attack_structure"
+    },
+    {
+      "key": "_6",
+      "value": "enemy_clump"
+    },
+    {
+      "key": "_1",
+      "value": "attack_area"
+    },
+    {
+      "key": "_5",
+      "value": "defend_structure"
+    }
+  ]
+}

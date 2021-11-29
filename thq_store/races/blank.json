@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "key": "unlock_item",
+      "value": [
+        {
+          "key": "item_category",
+          "value": "race"
+        },
+        {
+          "key": "community",
+          "value": false
+        },
+        {
+          "key": "purchaseable",
+          "value": true
+        },
+        {
+          "key": "unlock_upgrade",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "dlc_tokens",
+          "value": [
+            {
+              "key": "dlc_token",
+              "value": "339311"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 106699
+    }
+  ]
+}

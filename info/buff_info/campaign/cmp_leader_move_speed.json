@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\hre\\upgrades\\marching_drills"
+        },
+        {
+          "key": "description",
+          "value": 11189522
+        },
+        {
+          "key": "title",
+          "value": 11189523
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 205072
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

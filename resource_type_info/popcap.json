@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "key": "resource_type_bag",
+      "value": [
+        {
+          "key": "modifier_types",
+          "value": [
+            {
+              "key": "squad_rate",
+              "value": ""
+            },
+            {
+              "key": "player_trade_rate",
+              "value": ""
+            },
+            {
+              "key": "entity_contained_amount",
+              "value": ""
+            },
+            {
+              "key": "player_max_cap",
+              "value": ""
+            },
+            {
+              "key": "player_upkeep",
+              "value": ""
+            },
+            {
+              "key": "upgrade_cost",
+              "value": ""
+            },
+            {
+              "key": "player_rate_cap",
+              "value": ""
+            },
+            {
+              "key": "squad_cost",
+              "value": ""
+            },
+            {
+              "key": "ability_cost",
+              "value": ""
+            },
+            {
+              "key": "player_rate",
+              "value": ""
+            },
+            {
+              "key": "entity_drop_off_amount",
+              "value": ""
+            },
+            {
+              "key": "entity_regrowth_time",
+              "value": ""
+            },
+            {
+              "key": "squad_upkeep_rate",
+              "value": ""
+            },
+            {
+              "key": "entity_carry_capacity",
+              "value": ""
+            },
+            {
+              "key": "entity_rate",
+              "value": ""
+            },
+            {
+              "key": "entity_upkeep_rate",
+              "value": ""
+            },
+            {
+              "key": "entity_harvest_rate",
+              "value": ""
+            },
+            {
+              "key": "entity_harvest_efficiency",
+              "value": ""
+            },
+            {
+              "key": "entity_production_cost",
+              "value": ""
+            },
+            {
+              "key": "player_min_cap",
+              "value": ""
+            },
+            {
+              "key": "entity_cost",
+              "value": ""
+            },
+            {
+              "key": "entity_upgrade_production_cost",
+              "value": ""
+            },
+            {
+              "key": "entity_drop_off_time",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "resource_type",
+          "value": "popcap"
+        },
+        {
+          "key": "lua_enum_string",
+          "value": "RT_Popcap"
+        },
+        {
+          "key": "num_workers",
+          "value": ""
+        },
+        {
+          "key": "heuristic_weight",
+          "value": 0
+        },
+        {
+          "key": "ui",
+          "value": [
+            {
+              "key": "resource_point_default_color",
+              "value": -1
+            },
+            {
+              "key": "is_hidden",
+              "value": false
+            },
+            {
+              "key": "is_common",
+              "value": true
+            },
+            {
+              "key": "kicker_texture",
+              "value": ""
+            },
+            {
+              "key": "minimap_icon_texture",
+              "value": ""
+            },
+            {
+              "key": "icon_insufficient",
+              "value": "resources\\resource_popcap_icon_insufficient"
+            },
+            {
+              "key": "icon_primary",
+              "value": "resources\\resource_popcap_icon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 107418
+    }
+  ]
+}

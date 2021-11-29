@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "tiers",
+          "value": [
+            {
+              "key": "tier",
+              "value": [
+                {
+                  "key": "threshold",
+                  "value": 200
+                },
+                {
+                  "key": "description",
+                  "value": 11152515
+                }
+              ]
+            },
+            {
+              "key": "tier",
+              "value": [
+                {
+                  "key": "threshold",
+                  "value": 600
+                },
+                {
+                  "key": "description",
+                  "value": 11152516
+                }
+              ]
+            },
+            {
+              "key": "tier",
+              "value": [
+                {
+                  "key": "threshold",
+                  "value": 1200
+                },
+                {
+                  "key": "description",
+                  "value": 11152517
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "title",
+          "value": 11152514
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 168655
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "20_30_double"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\legacy_info"
+        }
+      ]
+    }
+  ]
+}

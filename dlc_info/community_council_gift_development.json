@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": "community_council_development"
+    },
+    {
+      "key": "appID",
+      "value": 1781610
+    },
+    {
+      "key": "itemBundle",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "exclusive_council_pack_01"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "inventory_item_bundle"
+        }
+      ]
+    }
+  ]
+}

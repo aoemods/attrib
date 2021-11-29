@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\product"
+            },
+            {
+              "key": "inputs",
+              "value": [
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "reachable_land_curvature_medium_flipped"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "noise_032"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 159621
+    }
+  ]
+}

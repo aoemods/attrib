@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "english_upgrade"
+    },
+    {
+      "key": "_4",
+      "value": "french_upgrade"
+    },
+    {
+      "key": "_7",
+      "value": "mongol_upgrade"
+    },
+    {
+      "key": "_9",
+      "value": "sultinate_upgrade"
+    },
+    {
+      "key": "_0",
+      "value": "abbasid_wing_upgrade"
+    },
+    {
+      "key": "_8",
+      "value": "rus_upgrade"
+    },
+    {
+      "key": "_2",
+      "value": "economic_upgrade"
+    },
+    {
+      "key": "_6",
+      "value": "military_upgrade"
+    },
+    {
+      "key": "_1",
+      "value": "chinese_upgrade"
+    },
+    {
+      "key": "_5",
+      "value": "hre_upgrade"
+    },
+    {
+      "key": "_10",
+      "value": "wonder_age_upgrade"
+    }
+  ]
+}

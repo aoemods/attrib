@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": "art\\civilizations\\common\\humans\\archetypes\\base_rider\\base_rider"
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "default"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "default"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_skin_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_skin_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\english\\humans\\eng_cavalry_light_age02\\eng_cavalry_light_age02"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animator_skin_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_skin_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\weapons\\melee\\lance_basic\\lance_basic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 155092
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

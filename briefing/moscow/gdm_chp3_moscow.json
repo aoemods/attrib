@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 182192
+    },
+    {
+      "key": "briefing_bag",
+      "value": [
+        {
+          "key": "campaign_map_scenario",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "background",
+          "value": "pack://application:,,,/images/campaign/campaign_loading_screens/rise_of_moscow/rise_of_moscow_04_moscow_00.png"
+        },
+        {
+          "key": "load_tips",
+          "value": [
+            {
+              "key": "load_tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "stonewalls"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "load_tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ranged_walls"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "load_tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "crossbowmen"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "load_tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "2xproduction"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "load_tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hotkey_all"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "rewards",
+          "value": [
+          ]
+        },
+        {
+          "key": "outro_message_short",
+          "value": 11158996
+        },
+        {
+          "key": "highlight",
+          "value": [
+            {
+              "key": "preview_ebpname",
+              "value": ""
+            },
+            {
+              "key": "frontend_ebp_size",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "messages",
+          "value": [
+          ]
+        },
+        {
+          "key": "optional_briefings",
+          "value": [
+          ]
+        },
+        {
+          "key": "objectives",
+          "value": [
+            {
+              "key": "objective",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp1_1066_hastings_obj1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "briefing_objective"
+                }
+              ]
+            },
+            {
+              "key": "objective",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp1_cluster_obj1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "briefing_objective"
+                }
+              ]
+            },
+            {
+              "key": "objective",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp1_1069_york_obj1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "briefing_objective"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outro_message_long",
+          "value": 11151047
+        },
+        {
+          "key": "briefing_message_short",
+          "value": 11151041
+        }
+      ]
+    }
+  ]
+}

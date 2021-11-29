@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\normalize"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\product"
+                },
+                {
+                  "key": "inputs",
+                  "value": [
+                    {
+                      "key": "normalize",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\normalize"
+                        },
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "multiplier",
+                              "value": 0.15
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\constant_multiplier"
+                            },
+                            {
+                              "key": "input",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\product"
+                                },
+                                {
+                                  "key": "inputs",
+                                  "value": [
+                                    {
+                                      "key": "reference",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\reference"
+                                        },
+                                        {
+                                          "key": "score_map",
+                                          "value": [
+                                            {
+                                              "key": "$PBGNAME",
+                                              "value": "passable_land_curvature_medium"
+                                            },
+                                            {
+                                              "key": "$PBGMAP",
+                                              "value": "map_gen\\score_map\\score_map"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "reference",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\reference"
+                                        },
+                                        {
+                                          "key": "score_map",
+                                          "value": [
+                                            {
+                                              "key": "$PBGNAME",
+                                              "value": "land_low_flat"
+                                            },
+                                            {
+                                              "key": "$PBGMAP",
+                                              "value": "map_gen\\score_map\\score_map"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "max",
+                          "value": 1
+                        },
+                        {
+                          "key": "min",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "reference",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
+                        },
+                        {
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "noise_004_sharp"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "reference",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
+                        },
+                        {
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "noise_002_b"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "max",
+              "value": 1
+            },
+            {
+              "key": "min",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 178744
+    }
+  ]
+}

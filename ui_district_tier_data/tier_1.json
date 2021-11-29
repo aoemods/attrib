@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 181720
+    },
+    {
+      "key": "ui_district_tier_data_bag",
+      "value": [
+        {
+          "key": "display_name",
+          "value": 11161425
+        },
+        {
+          "key": "unlock_dp",
+          "value": 100
+        },
+        {
+          "key": "tier",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "key": "ui_line_bag",
+      "value": [
+        {
+          "key": "colour_gradient_info",
+          "value": [
+            {
+              "key": "colour_boundary_info_list",
+              "value": [
+                {
+                  "key": "boundary_info",
+                  "value": [
+                    {
+                      "key": "colour_to_end_with",
+                      "value": -16724992
+                    },
+                    {
+                      "key": "colour_to_start_with",
+                      "value": -16724992
+                    }
+                  ]
+                },
+                {
+                  "key": "boundary_info",
+                  "value": [
+                    {
+                      "key": "colour_to_end_with",
+                      "value": -1340883
+                    },
+                    {
+                      "key": "colour_to_start_with",
+                      "value": -1340883
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "colour_to_end_with",
+              "value": -1340883
+            },
+            {
+              "key": "colour_to_start_with",
+              "value": -16724992
+            },
+            {
+              "key": "should_reverse_colour_gradient",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "texture",
+          "value": ""
+        },
+        {
+          "key": "u_animation_rate",
+          "value": 0
+        },
+        {
+          "key": "diffuse",
+          "value": -1
+        },
+        {
+          "key": "thickness",
+          "value": 0.5
+        },
+        {
+          "key": "uv_scale",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 110945
+    }
+  ]
+}

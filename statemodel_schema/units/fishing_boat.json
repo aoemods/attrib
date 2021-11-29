@@ -1,0 +1,851 @@
+{
+  "data": [
+    {
+      "key": "schema_bag",
+      "value": [
+        {
+          "key": "pbgid_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "int_properties",
+          "value": [
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "current_job"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "active_tool"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "UI_Duration"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "return_to_work_job"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "last_active_job"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ortoo_aura_timer"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 240
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "network_of_castles_timer"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "holy_inspiration_time_remaining_hre"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "sub_schemas",
+          "value": [
+          ]
+        },
+        {
+          "key": "target_properties",
+          "value": [
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "last_construction_target"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "last_resource_dropoff_target"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "return_to_work_location"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "owner_player"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "list_properties",
+          "value": [
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 5
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 8
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "buffs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "float_properties",
+          "value": [
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "UI_Progress"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "resource_drop_off_distance"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "resource_drop_off_time"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "bounty_count_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "InDeathThroes"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "times_dropped_off"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "time_spent_dropping_off"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "universal_buff_count"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "universal_heal_count"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "total_resources_deposited"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "dock_upgrade_aura"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "repair_cost_wood"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "vector3f_properties",
+          "value": [
+            {
+              "key": "statemodel_vector3f_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 0
+                    },
+                    {
+                      "key": "x",
+                      "value": 0
+                    },
+                    {
+                      "key": "z",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_vector3f_property"
+                },
+                {
+                  "key": "vector3f_property_id",
+                  "value": "resource_move_to_interact_previous_position"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "generic_handle_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "attribute_enum_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "enum_table_properties",
+          "value": [
+            {
+              "key": "statemodel_enum_table_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 1
+                },
+                {
+                  "key": "enum_type",
+                  "value": "resource_type"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_enum_table_property"
+                },
+                {
+                  "key": "enum_table_property_id",
+                  "value": "last_gather_jobs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bool_properties",
+          "value": [
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "UninterruptibleAttack"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "has_khan_arrow_buff_defense_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "has_khan_arrow_buff_attack_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "within_gulyay_gorod_radius"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "allow_evacuation"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "network_of_castles_buff"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "within_ortoo_aura"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "wood_felling_upgraded_improved"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "wood_felling_upgraded_normal"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "Gather_Tree_Upgrade"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "Gather_Stone_Upgrade"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "Gather_Gold_Upgrade"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "Gather_Farm_Upgrade"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "conversion_entity"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "is_carrying_entity"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "resource_move_to_interact_previous_position_set"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "has_khan_arrow_buff_speed_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "non_aggressive"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 196963
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "attacking_unit"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "statemodel_schema"
+        }
+      ]
+    }
+  ]
+}

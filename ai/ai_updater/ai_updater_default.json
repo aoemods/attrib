@@ -1,0 +1,1282 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 235012
+    },
+    {
+      "key": "ai_updater_bag",
+      "value": [
+        {
+          "key": "ai_updater_dynamic",
+          "value": false
+        },
+        {
+          "key": "ai_updater_schedule",
+          "value": [
+            {
+              "key": "ai_updater_sequence",
+              "value": [
+                {
+                  "key": "ai_updater_ticks",
+                  "value": [
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 2
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 2
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "ai_cpu_floor_milliseconds",
+                  "value": 0
+                },
+                {
+                  "key": "ai_updater_offsets",
+                  "value": [
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 0
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 2
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 4
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 6
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 8
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 10
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 12
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 12
+                    }
+                  ]
+                },
+                {
+                  "key": "ai_max_alive_threshold",
+                  "value": 3
+                },
+                {
+                  "key": "ai_cpu_limit_milliseconds",
+                  "value": 70
+                },
+                {
+                  "key": "ai_cpu_tick_count_threshold",
+                  "value": 70
+                }
+              ]
+            },
+            {
+              "key": "ai_updater_sequence",
+              "value": [
+                {
+                  "key": "ai_updater_ticks",
+                  "value": [
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 2
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 2
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "ai_cpu_floor_milliseconds",
+                  "value": 40
+                },
+                {
+                  "key": "ai_updater_offsets",
+                  "value": [
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 0
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 3
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 6
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 9
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 12
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 15
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 18
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 18
+                    }
+                  ]
+                },
+                {
+                  "key": "ai_max_alive_threshold",
+                  "value": 5
+                },
+                {
+                  "key": "ai_cpu_limit_milliseconds",
+                  "value": 70
+                },
+                {
+                  "key": "ai_cpu_tick_count_threshold",
+                  "value": 105
+                }
+              ]
+            },
+            {
+              "key": "ai_updater_sequence",
+              "value": [
+                {
+                  "key": "ai_updater_ticks",
+                  "value": [
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 2
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 2
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ai_tick_state",
+                      "value": [
+                        {
+                          "key": "update_behaviour",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_stats",
+                          "value": 1
+                        },
+                        {
+                          "key": "update_state",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "ai_cpu_floor_milliseconds",
+                  "value": 40
+                },
+                {
+                  "key": "ai_updater_offsets",
+                  "value": [
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 0
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 4
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 8
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 12
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 16
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 20
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 24
+                    },
+                    {
+                      "key": "ai_updater_tick_index",
+                      "value": 24
+                    }
+                  ]
+                },
+                {
+                  "key": "ai_max_alive_threshold",
+                  "value": 8
+                },
+                {
+                  "key": "ai_cpu_limit_milliseconds",
+                  "value": 1024
+                },
+                {
+                  "key": "ai_cpu_tick_count_threshold",
+                  "value": 140
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

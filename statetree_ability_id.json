@@ -1,0 +1,260 @@
+{
+  "data": [
+    {
+      "key": "_42",
+      "value": "naval_unload_squads"
+    },
+    {
+      "key": "_54",
+      "value": "scout_drop_off_all"
+    },
+    {
+      "key": "_18",
+      "value": "em_build_scout"
+    },
+    {
+      "key": "_52",
+      "value": "repair"
+    },
+    {
+      "key": "_3",
+      "value": "capture_farm"
+    },
+    {
+      "key": "_36",
+      "value": "longbow_fire_rate_increase_id"
+    },
+    {
+      "key": "_48",
+      "value": "pickup_attach_relic"
+    },
+    {
+      "key": "_50",
+      "value": "regicide_treason"
+    },
+    {
+      "key": "_17",
+      "value": "em_build_man_at_arms"
+    },
+    {
+      "key": "_49",
+      "value": "pickup_resource"
+    },
+    {
+      "key": "_4",
+      "value": "deploy_palings"
+    },
+    {
+      "key": "_7",
+      "value": "deposit_relic"
+    },
+    {
+      "key": "_57",
+      "value": "siege_weapon_default"
+    },
+    {
+      "key": "_63",
+      "value": "weapon_teardown"
+    },
+    {
+      "key": "_9",
+      "value": "drop_relic"
+    },
+    {
+      "key": "_16",
+      "value": "em_build_logistics_wagon"
+    },
+    {
+      "key": "_24",
+      "value": "em_build_wonder_2b"
+    },
+    {
+      "key": "_0",
+      "value": "building_cancel_unpacking"
+    },
+    {
+      "key": "_22",
+      "value": "em_build_wonder_1b"
+    },
+    {
+      "key": "_8",
+      "value": "drop_attached_entity"
+    },
+    {
+      "key": "_21",
+      "value": "em_build_wonder_1a"
+    },
+    {
+      "key": "_13",
+      "value": "em_build_hand_cannon"
+    },
+    {
+      "key": "_45",
+      "value": "official_return_tax_chi"
+    },
+    {
+      "key": "_19",
+      "value": "em_build_spearman"
+    },
+    {
+      "key": "_31",
+      "value": "gate_capture"
+    },
+    {
+      "key": "_11",
+      "value": "em_build_crossbowman"
+    },
+    {
+      "key": "_53",
+      "value": "return_to_work"
+    },
+    {
+      "key": "_43",
+      "value": "official_collect_tax_auto_chi"
+    },
+    {
+      "key": "_35",
+      "value": "keep_construct_wall"
+    },
+    {
+      "key": "_61",
+      "value": "trade_home"
+    },
+    {
+      "key": "_2",
+      "value": "building_unpack"
+    },
+    {
+      "key": "_47",
+      "value": "pickup_attach_entity"
+    },
+    {
+      "key": "_20",
+      "value": "em_build_trade_cart"
+    },
+    {
+      "key": "_41",
+      "value": "naval_pickup_squads"
+    },
+    {
+      "key": "_56",
+      "value": "seige_tower_unload_on_wall"
+    },
+    {
+      "key": "_37",
+      "value": "longbow_setup_camp_id"
+    },
+    {
+      "key": "_46",
+      "value": "official_supervise_chi"
+    },
+    {
+      "key": "_34",
+      "value": "keep_construct_outpost"
+    },
+    {
+      "key": "_60",
+      "value": "trade_cart_escape_fre"
+    },
+    {
+      "key": "_29",
+      "value": "gaia_herd_to_target"
+    },
+    {
+      "key": "_38",
+      "value": "militarize"
+    },
+    {
+      "key": "_30",
+      "value": "gaia_herd_to_target_transfer"
+    },
+    {
+      "key": "_27",
+      "value": "fireship_detonate"
+    },
+    {
+      "key": "_15",
+      "value": "em_build_knight"
+    },
+    {
+      "key": "_28",
+      "value": "follow_general"
+    },
+    {
+      "key": "_51",
+      "value": "remove_relic"
+    },
+    {
+      "key": "_23",
+      "value": "em_build_wonder_2a"
+    },
+    {
+      "key": "_14",
+      "value": "em_build_horseman"
+    },
+    {
+      "key": "_25",
+      "value": "em_build_wonder_3a"
+    },
+    {
+      "key": "_39",
+      "value": "monk_heal"
+    },
+    {
+      "key": "_59",
+      "value": "town_bell"
+    },
+    {
+      "key": "_12",
+      "value": "em_build_general"
+    },
+    {
+      "key": "_6",
+      "value": "deposit_raid_bounty"
+    },
+    {
+      "key": "_1",
+      "value": "building_pack"
+    },
+    {
+      "key": "_32",
+      "value": "gate_liberate"
+    },
+    {
+      "key": "_44",
+      "value": "official_collect_tax_chi"
+    },
+    {
+      "key": "_40",
+      "value": "monk_inspire_hre"
+    },
+    {
+      "key": "_55",
+      "value": "scout_drop_off_herd"
+    },
+    {
+      "key": "_33",
+      "value": "improve"
+    },
+    {
+      "key": "_58",
+      "value": "siege_weapon_incendiary"
+    },
+    {
+      "key": "_5",
+      "value": "deploy_pavise_fre"
+    },
+    {
+      "key": "_62",
+      "value": "weapon_setup"
+    },
+    {
+      "key": "_26",
+      "value": "em_build_wonder_3b"
+    },
+    {
+      "key": "_10",
+      "value": "em_build_archer"
+    }
+  ]
+}

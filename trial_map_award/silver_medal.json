@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "key": "trial_map_award",
+      "value": [
+        {
+          "key": "name",
+          "value": 11171868
+        },
+        {
+          "key": "short_name",
+          "value": 11172178
+        },
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "video",
+          "value": "challenge_medal_silver"
+        },
+        {
+          "key": "image",
+          "value": "fe\\medal_silver"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 196838
+    }
+  ]
+}

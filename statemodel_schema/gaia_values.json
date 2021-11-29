@@ -1,0 +1,434 @@
+{
+  "data": [
+    {
+      "key": "schema_bag",
+      "value": [
+        {
+          "key": "pbgid_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "int_properties",
+          "value": [
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 8
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "gaia_wander_delay_min"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 10
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "gaia_wander_delay_max"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "time_of_last_charge"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "time_of_next_available_charge"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "sub_schemas",
+          "value": [
+          ]
+        },
+        {
+          "key": "target_properties",
+          "value": [
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "claiming_ovoo_mon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "list_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "float_properties",
+          "value": [
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 5
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "Gaia_Wander_Distance_To_Wander_Min"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 30
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "Gaia_Wander_Distance_To_Wander_Max"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": -1
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "gaia_wander_leash_distance"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0.5
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "gaia_wander_delay_probability"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 2
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "resource_depleted_delay_before_delete"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "stone_gold_piece_depleted"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 4
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "max_flee_time"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "vector3f_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "generic_handle_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "attribute_enum_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "enum_table_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "bool_properties",
+          "value": [
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "farm_reseed_signal"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "UninterruptibleAttack"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "gaia_hunters_bounty_rus"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "boar_killed_sul"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "ovoo_is_claimed"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "berry_bush_upgraded_sul"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "allow_evacuation"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "improved_resource_deposit_abb"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "is_charging"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 156242
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

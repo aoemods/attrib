@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 199910
+    },
+    {
+      "key": "global_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_loose_freshwater_shoreline"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "key": "trial_map",
+      "value": [
+        {
+          "key": "name",
+          "value": 11185949
+        },
+        {
+          "key": "award_kpi_type",
+          "value": "seconds"
+        },
+        {
+          "key": "debrief_description",
+          "value": 11171873
+        },
+        {
+          "key": "short_description",
+          "value": 11171873
+        },
+        {
+          "key": "debrief_tip",
+          "value": 11185950
+        },
+        {
+          "key": "match_type",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "trial"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "multiplayer\\match_type"
+            }
+          ]
+        },
+        {
+          "key": "generic_loading_screen",
+          "value": false
+        },
+        {
+          "key": "first_time_user_experience",
+          "value": false
+        },
+        {
+          "key": "default_award",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "no_medal"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "trial_map_award"
+            }
+          ]
+        },
+        {
+          "key": "categories",
+          "value": [
+            {
+              "key": "category",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "learning"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "trial_map_category"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "counter_id",
+          "value": 9005
+        },
+        {
+          "key": "scenario",
+          "value": "cdn_challenge_missions\\challenge_mission_lateeconomy\\challenge_mission_lateeconomy"
+        },
+        {
+          "key": "loading_tips",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "late_economy_tips"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "load_tip_group"
+            }
+          ]
+        },
+        {
+          "key": "counter_name",
+          "value": "trial_lateeconomy"
+        },
+        {
+          "key": "loading_description",
+          "value": 11171873
+        },
+        {
+          "key": "select_highest_threshold",
+          "value": false
+        },
+        {
+          "key": "image",
+          "value": "campaign\\campaign_loading_screens\\normans_campaign\\normans_08_dover_00"
+        },
+        {
+          "key": "description",
+          "value": 11171873
+        },
+        {
+          "key": "awards",
+          "value": [
+            {
+              "key": "award",
+              "value": [
+                {
+                  "key": "award",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "bronze_medal"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "trial_map_award"
+                    }
+                  ]
+                },
+                {
+                  "key": "kpi_threshold",
+                  "value": 1170
+                }
+              ]
+            },
+            {
+              "key": "award",
+              "value": [
+                {
+                  "key": "award",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "silver_medal"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "trial_map_award"
+                    }
+                  ]
+                },
+                {
+                  "key": "kpi_threshold",
+                  "value": 930
+                }
+              ]
+            },
+            {
+              "key": "award",
+              "value": [
+                {
+                  "key": "award",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "gold_medal"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "trial_map_award"
+                    }
+                  ]
+                },
+                {
+                  "key": "kpi_threshold",
+                  "value": 630
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_priority",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 196840
+    }
+  ]
+}

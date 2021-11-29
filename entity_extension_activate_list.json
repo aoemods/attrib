@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "health_ext"
+    },
+    {
+      "key": "_4",
+      "value": "hold_ext"
+    },
+    {
+      "key": "_7",
+      "value": "market_ext"
+    },
+    {
+      "key": "_9",
+      "value": "production_queue_ext"
+    },
+    {
+      "key": "_0",
+      "value": "burn_ext"
+    },
+    {
+      "key": "_8",
+      "value": "moving_ext"
+    },
+    {
+      "key": "_13",
+      "value": "sight_ext"
+    },
+    {
+      "key": "_11",
+      "value": "resource_drop_off_ext"
+    },
+    {
+      "key": "_2",
+      "value": "entity_targeting_ext"
+    },
+    {
+      "key": "_12",
+      "value": "resource_gatherer_ext"
+    },
+    {
+      "key": "_6",
+      "value": "interactive_object_ext"
+    },
+    {
+      "key": "_1",
+      "value": "combat_ext"
+    },
+    {
+      "key": "_5",
+      "value": "holdable_ext"
+    },
+    {
+      "key": "_10",
+      "value": "resource_deposit_ext"
+    }
+  ]
+}

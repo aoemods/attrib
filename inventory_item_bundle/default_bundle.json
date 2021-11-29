@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": "DefaultItems"
+    },
+    {
+      "key": "items",
+      "value": [
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "english"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "racebps"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mongol"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "racebps"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "chinese"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "racebps"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "french"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "racebps"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "hre"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "racebps"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "rus"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "racebps"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "sultanate"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "racebps"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "coat_of_arms"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "generic_inventory_item"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_monument"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "monument"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_01_shield"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "player_portrait"
+            }
+          ]
+        },
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "abbasid"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "racebps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "inventory_item_bundle_type",
+      "value": "DefaultItems"
+    },
+    {
+      "key": "server_id",
+      "value": 828
+    }
+  ]
+}

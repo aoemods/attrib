@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": ""
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "default"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "default"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "stamp_attachment",
+                      "value": [
+                        {
+                          "key": "stamp",
+                          "value": "art\\stamps\\civ_french\\fre_university"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\stamp_attachment"
+                        },
+                        {
+                          "key": "add_impass_blockers",
+                          "value": false
+                        }
+                      ]
+                    },
+                    {
+                      "key": "stamp_attachment",
+                      "value": [
+                        {
+                          "key": "stamp",
+                          "value": "art\\stamps\\const_dest\\dest_university_stone"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\stamp_attachment"
+                        },
+                        {
+                          "key": "add_impass_blockers",
+                          "value": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1163304
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

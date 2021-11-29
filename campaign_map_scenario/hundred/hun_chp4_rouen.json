@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 173633
+    },
+    {
+      "key": "campaign_map_scenario_bag",
+      "value": [
+        {
+          "key": "completion_achievement",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "scenario_name",
+          "value": ""
+        },
+        {
+          "key": "bypass_unit_selection",
+          "value": false
+        },
+        {
+          "key": "slot_rules",
+          "value": [
+          ]
+        },
+        {
+          "key": "briefing",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "hun_chp4_rouen"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "briefing"
+            }
+          ]
+        },
+        {
+          "key": "item_rules",
+          "value": [
+          ]
+        },
+        {
+          "key": "challenge_list",
+          "value": [
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "m07_retake_normandy"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "debriefing",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "army_slot_layout_override",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "ui",
+          "value": [
+            {
+              "key": "name",
+              "value": 11155589
+            },
+            {
+              "key": "chapter_name",
+              "value": 11155750
+            },
+            {
+              "key": "chapter_image",
+              "value": "..\\icons\\campaign\\campaign_hundred_ascendancy"
+            },
+            {
+              "key": "timeline_spacing_order",
+              "value": 1440
+            },
+            {
+              "key": "short_name",
+              "value": 11156662
+            },
+            {
+              "key": "year",
+              "value": 1448
+            },
+            {
+              "key": "tagline",
+              "value": 11155783
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

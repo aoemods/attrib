@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": "art\\civilizations\\common\\weapons\\ranged\\bow_long\\bow_long"
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 158737
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "wpn_range_archer_3"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "attachments\\attachment_lists"
+        }
+      ]
+    }
+  ]
+}

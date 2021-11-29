@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 177483
+    },
+    {
+      "key": "coat_of_arm_part_bag",
+      "value": [
+        {
+          "key": "colour_source_category",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "sigil_frame_colour"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "inventory_item_category"
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11170899
+        },
+        {
+          "key": "icon",
+          "value": "coat_of_arms\\sigil_frame\\sigil_background_diamond"
+        },
+        {
+          "key": "icon_secondary",
+          "value": ""
+        },
+        {
+          "key": "colour",
+          "value": -1
+        },
+        {
+          "key": "description",
+          "value": 11193155
+        },
+        {
+          "key": "inventory_item",
+          "value": [
+            {
+              "key": "search_tags",
+              "value": [
+              ]
+            },
+            {
+              "key": "required_level",
+              "value": 1
+            },
+            {
+              "key": "droppable",
+              "value": true
+            },
+            {
+              "key": "inventory_item_attributes",
+              "value": [
+                {
+                  "key": "inventory_item_attribute",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "is_new"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "inventory_item_attribute"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "inventory_item"
+            },
+            {
+              "key": "inventory_item_equip_modifiers",
+              "value": [
+              ]
+            },
+            {
+              "key": "races",
+              "value": [
+              ]
+            },
+            {
+              "key": "default_metadata",
+              "value": [
+              ]
+            },
+            {
+              "key": "inventory_item_categories",
+              "value": [
+                {
+                  "key": "inventory_item_category",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "sigil_frame"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "inventory_item_category"
+                    }
+                  ]
+                },
+                {
+                  "key": "inventory_item_category",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "activity_feed_coat_of_arms"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "inventory_item_category"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "server_id",
+              "value": 451944
+            },
+            {
+              "key": "inventory_item_slots",
+              "value": [
+              ]
+            },
+            {
+              "key": "level_table",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ui_priority",
+              "value": 490
+            },
+            {
+              "key": "inventory_item_equip_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "inventory_item_requirements\\requirements\\requirement_none"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

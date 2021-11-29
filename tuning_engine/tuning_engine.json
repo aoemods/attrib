@@ -1,0 +1,562 @@
+{
+  "data": [
+    {
+      "key": "terrain",
+      "value": [
+        {
+          "key": "terrain_constants",
+          "value": [
+            {
+              "key": "terrain_size_var",
+              "value": ""
+            },
+            {
+              "key": "terrain_duration_var",
+              "value": ""
+            },
+            {
+              "key": "terrain_rotation_var",
+              "value": ""
+            },
+            {
+              "key": "terrain_apply_splat_orphan_action",
+              "value": ""
+            },
+            {
+              "key": "terrain_apply_splat_attach_action",
+              "value": ""
+            },
+            {
+              "key": "terrain_image_var",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "material",
+      "value": [
+        {
+          "key": "splat_regex_filter",
+          "value": ".+"
+        },
+        {
+          "key": "texture_tiling_distance_in_meters",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "key": "charred_effect",
+      "value": [
+        {
+          "key": "charred_terrain_desaturate_amount",
+          "value": 0.8
+        },
+        {
+          "key": "charred_grass_erosion_height_ref",
+          "value": 0.5
+        },
+        {
+          "key": "charred_grass_desaturated_colour",
+          "value": -6917308
+        },
+        {
+          "key": "charred_terrain_darken_scale",
+          "value": 0.75
+        }
+      ]
+    },
+    {
+      "key": "territory_settings",
+      "value": [
+        {
+          "key": "territory_enabled",
+          "value": false
+        },
+        {
+          "key": "territory_pattern_radius",
+          "value": 0.12
+        },
+        {
+          "key": "territory_tint_colour",
+          "value": -1
+        },
+        {
+          "key": "territory_circle_gap",
+          "value": 0.03
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1428515
+    },
+    {
+      "key": "stealth_effect",
+      "value": [
+        {
+          "key": "player1_saturation",
+          "value": 0.5
+        },
+        {
+          "key": "neutral_saturation",
+          "value": 0.5
+        },
+        {
+          "key": "threshold_value_for_edge_detection",
+          "value": 2
+        },
+        {
+          "key": "player0_saturation",
+          "value": 0.5
+        },
+        {
+          "key": "player2_saturation",
+          "value": 0.5
+        },
+        {
+          "key": "self_saturation",
+          "value": 0.5
+        },
+        {
+          "key": "ally_saturation",
+          "value": 0.5
+        },
+        {
+          "key": "player7_saturation",
+          "value": 0.5
+        },
+        {
+          "key": "player6_saturation",
+          "value": 0.5
+        },
+        {
+          "key": "enemy_saturation",
+          "value": 0.5
+        },
+        {
+          "key": "player5_saturation",
+          "value": 0.5
+        },
+        {
+          "key": "player3_saturation",
+          "value": 0.5
+        },
+        {
+          "key": "player4_saturation",
+          "value": 0.5
+        }
+      ]
+    },
+    {
+      "key": "occlusion_settings",
+      "value": [
+        {
+          "key": "team_occlusions",
+          "value": [
+            {
+              "key": "enemy_3",
+              "value": 4
+            },
+            {
+              "key": "ally",
+              "value": 3
+            },
+            {
+              "key": "ally_4",
+              "value": 3
+            },
+            {
+              "key": "neutral",
+              "value": 1
+            },
+            {
+              "key": "enemy_4",
+              "value": 4
+            },
+            {
+              "key": "enemy",
+              "value": 4
+            },
+            {
+              "key": "ally_3",
+              "value": 3
+            },
+            {
+              "key": "enemy_1",
+              "value": 4
+            },
+            {
+              "key": "enemy_2",
+              "value": 4
+            },
+            {
+              "key": "ally_1",
+              "value": 3
+            },
+            {
+              "key": "ally_2",
+              "value": 3
+            },
+            {
+              "key": "self",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "key": "occlusions",
+          "value": [
+            {
+              "key": "occlusion_14",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -14013910
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_12",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -14013910
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_05",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -16726272
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_08",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -39424
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_15",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -14013910
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_03",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -1322240
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_13",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -14013910
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_01",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -7829368
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_11",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -14013910
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_04",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -50384
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_06",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -16717592
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_09",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -631886
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_10",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -14013910
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_02",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -15168257
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "occlusion_07",
+              "value": [
+                {
+                  "key": "style",
+                  "value": 1
+                },
+                {
+                  "key": "colour",
+                  "value": -5346305
+                },
+                {
+                  "key": "alpha",
+                  "value": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "player_occlusions",
+          "value": [
+            {
+              "key": "player_occlusion",
+              "value": [
+                {
+                  "key": "occlusion",
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "key": "player_occlusion",
+              "value": [
+                {
+                  "key": "occlusion",
+                  "value": 4
+                }
+              ]
+            },
+            {
+              "key": "player_occlusion",
+              "value": [
+                {
+                  "key": "occlusion",
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "key": "player_occlusion",
+              "value": [
+                {
+                  "key": "occlusion",
+                  "value": 5
+                }
+              ]
+            },
+            {
+              "key": "player_occlusion",
+              "value": [
+                {
+                  "key": "occlusion",
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "key": "player_occlusion",
+              "value": [
+                {
+                  "key": "occlusion",
+                  "value": 7
+                }
+              ]
+            },
+            {
+              "key": "player_occlusion",
+              "value": [
+                {
+                  "key": "occlusion",
+                  "value": 8
+                }
+              ]
+            },
+            {
+              "key": "player_occlusion",
+              "value": [
+                {
+                  "key": "occlusion",
+                  "value": 9
+                }
+              ]
+            },
+            {
+              "key": "player_occlusion",
+              "value": [
+                {
+                  "key": "occlusion",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "is_selection_silhouette_enabled",
+          "value": false
+        }
+      ]
+    }
+  ]
+}

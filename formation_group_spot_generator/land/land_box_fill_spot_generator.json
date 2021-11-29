@@ -1,0 +1,501 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 196912
+    },
+    {
+      "key": "formation_group_spot_generator_bag",
+      "value": [
+        {
+          "key": "master_width_restriction",
+          "value": 0
+        },
+        {
+          "key": "cohesion",
+          "value": [
+            {
+              "key": "formation_merge_delay_seconds",
+              "value": 0.5
+            },
+            {
+              "key": "formation_regroup_on_squad_removal_delay_seconds",
+              "value": 2
+            },
+            {
+              "key": "distance_between_squads_for_move_clustering",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "key": "allowed_pass_type",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "infantry"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "pass_types"
+            }
+          ]
+        },
+        {
+          "key": "ranks",
+          "value": [
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": false
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 3
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 3
+                    },
+                    {
+                      "key": "x",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 3
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "scout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": false
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 3
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 6
+                    },
+                    {
+                      "key": "x",
+                      "value": 5
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 3
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "ram"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "siege_tower"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "war_elephant"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": false
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 2
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 5
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 3.5
+                    },
+                    {
+                      "key": "x",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 1
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "cavalry_armored"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "cavalry_light"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "firelancer"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "cavalry_archer"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": false
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 3
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 1.5
+                    },
+                    {
+                      "key": "x",
+                      "value": 1.5
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 0
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "infantry"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "archer"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "crossbowman"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "handcannon"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": false
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 3
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 5
+                    },
+                    {
+                      "key": "x",
+                      "value": 5
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 3
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "siege"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": false
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 3
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 1.8
+                    },
+                    {
+                      "key": "x",
+                      "value": 1.8
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 3
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "monk"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "official"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "supply_cart"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": false
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 3
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 3
+                    },
+                    {
+                      "key": "x",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 3
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "khan"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "hero"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "associated_ability_bag",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

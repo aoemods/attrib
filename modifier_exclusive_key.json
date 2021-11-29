@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "key": "_42",
+      "value": "zweihander_charge_armor_bonus"
+    },
+    {
+      "key": "_18",
+      "value": "static_deployment_3"
+    },
+    {
+      "key": "_3",
+      "value": "influence_bonus_fre"
+    },
+    {
+      "key": "_36",
+      "value": "upgrade_melee_penetration"
+    },
+    {
+      "key": "_17",
+      "value": "static_deployment_2"
+    },
+    {
+      "key": "_4",
+      "value": "influence_production_research_cost_fre"
+    },
+    {
+      "key": "_7",
+      "value": "khan_melee_armor_arrow_mon"
+    },
+    {
+      "key": "_9",
+      "value": "khan_speed_arrow_mon"
+    },
+    {
+      "key": "_16",
+      "value": "static_deployment_1"
+    },
+    {
+      "key": "_24",
+      "value": "team_trait_rus"
+    },
+    {
+      "key": "_0",
+      "value": "chain_shot_slow"
+    },
+    {
+      "key": "_22",
+      "value": "team_trait_hre"
+    },
+    {
+      "key": "_8",
+      "value": "khan_ranged_armor_arrow_mon"
+    },
+    {
+      "key": "_21",
+      "value": "team_trait_fre"
+    },
+    {
+      "key": "_13",
+      "value": "rapid_fire_buff_chi"
+    },
+    {
+      "key": "_19",
+      "value": "team_trait_chi"
+    },
+    {
+      "key": "_31",
+      "value": "upgrade_charge_damage_mon"
+    },
+    {
+      "key": "_11",
+      "value": "network_bonus_eng"
+    },
+    {
+      "key": "_35",
+      "value": "upgrade_melee_damage_mon"
+    },
+    {
+      "key": "_2",
+      "value": "gulyay_gorod"
+    },
+    {
+      "key": "_20",
+      "value": "team_trait_eng"
+    },
+    {
+      "key": "_41",
+      "value": "zweihander_armor_modifier"
+    },
+    {
+      "key": "_37",
+      "value": "upgrade_ranged_armor"
+    },
+    {
+      "key": "_34",
+      "value": "upgrade_melee_damage"
+    },
+    {
+      "key": "_29",
+      "value": "upgrade_cavalry_hp_rus"
+    },
+    {
+      "key": "_38",
+      "value": "upgrade_ranged_armor_mon"
+    },
+    {
+      "key": "_30",
+      "value": "upgrade_charge_damage"
+    },
+    {
+      "key": "_27",
+      "value": "trade_ship_wood_modifier"
+    },
+    {
+      "key": "_15",
+      "value": "saints_blessing_damage_rus"
+    },
+    {
+      "key": "_28",
+      "value": "upgrade_armored_hull"
+    },
+    {
+      "key": "_23",
+      "value": "team_trait_mon"
+    },
+    {
+      "key": "_14",
+      "value": "saints_blessing_armour_rus"
+    },
+    {
+      "key": "_25",
+      "value": "team_trait_sul"
+    },
+    {
+      "key": "_39",
+      "value": "upgrade_ranged_damage"
+    },
+    {
+      "key": "_12",
+      "value": "ortoo_speed_aura_mon"
+    },
+    {
+      "key": "_6",
+      "value": "khan_attack_arrow_mon"
+    },
+    {
+      "key": "_1",
+      "value": "greatwall_damage_buff"
+    },
+    {
+      "key": "_32",
+      "value": "upgrade_melee_armor"
+    },
+    {
+      "key": "_40",
+      "value": "upgrade_ranged_damage_mon"
+    },
+    {
+      "key": "_33",
+      "value": "upgrade_melee_armor_mon"
+    },
+    {
+      "key": "_5",
+      "value": "influence_production_unit_cost_fre"
+    },
+    {
+      "key": "_26",
+      "value": "trade_ship_gold_modifier"
+    },
+    {
+      "key": "_10",
+      "value": "kurultai_aura_buff_rus"
+    }
+  ]
+}

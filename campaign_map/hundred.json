@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 130351
+    },
+    {
+      "key": "campaign_map_bag",
+      "value": [
+        {
+          "key": "image_path",
+          "value": "campaign\\campaign_thumb_hundred_year_war"
+        },
+        {
+          "key": "fe_priority",
+          "value": 1
+        },
+        {
+          "key": "music_layer_event",
+          "value": "mus_fe_set_civ_fre"
+        },
+        {
+          "key": "campaign_map_scenarios",
+          "value": [
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hun_chp1_combat30"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hun_chp1_paris"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hun_chp2_cocherel"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hun_chp2_pontvallain"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hun_chp3_orleans"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hun_chp3_patay"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hun_chp4_rouen"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hun_chp4_formigny"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_name",
+          "value": 11143653
+        },
+        {
+          "key": "id",
+          "value": "hundred"
+        },
+        {
+          "key": "debug",
+          "value": false
+        },
+        {
+          "key": "node_packs",
+          "value": [
+          ]
+        },
+        {
+          "key": "ui_description",
+          "value": 11143654
+        }
+      ]
+    }
+  ]
+}

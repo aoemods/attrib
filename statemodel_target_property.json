@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "key": "_18",
+      "value": "house_of_wisdom"
+    },
+    {
+      "key": "_3",
+      "value": "crossbow_pavise_fre"
+    },
+    {
+      "key": "_17",
+      "value": "horse_of_this_rider"
+    },
+    {
+      "key": "_4",
+      "value": "current_wing_being_built_abb"
+    },
+    {
+      "key": "_7",
+      "value": "empire_defender"
+    },
+    {
+      "key": "_9",
+      "value": "gold_claim_sul"
+    },
+    {
+      "key": "_16",
+      "value": "horse_idle_aggro_target"
+    },
+    {
+      "key": "_24",
+      "value": "owner_player"
+    },
+    {
+      "key": "_0",
+      "value": "ai_ovoo_target"
+    },
+    {
+      "key": "_22",
+      "value": "last_resource_dropoff_target"
+    },
+    {
+      "key": "_8",
+      "value": "food_claim_sul"
+    },
+    {
+      "key": "_21",
+      "value": "last_construction_target"
+    },
+    {
+      "key": "_13",
+      "value": "horse_charge_blocker_target"
+    },
+    {
+      "key": "_19",
+      "value": "khan_active_spawner_mon"
+    },
+    {
+      "key": "_31",
+      "value": "stone_claim_sul"
+    },
+    {
+      "key": "_11",
+      "value": "held_ability_target"
+    },
+    {
+      "key": "_2",
+      "value": "claiming_ovoo_mon"
+    },
+    {
+      "key": "_20",
+      "value": "khan_mon"
+    },
+    {
+      "key": "_29",
+      "value": "rider_last_range_target"
+    },
+    {
+      "key": "_30",
+      "value": "rider_of_this_horse"
+    },
+    {
+      "key": "_27",
+      "value": "resource_claim_sul"
+    },
+    {
+      "key": "_15",
+      "value": "horse_forced_engaged_target"
+    },
+    {
+      "key": "_28",
+      "value": "return_to_work_location"
+    },
+    {
+      "key": "_23",
+      "value": "ovoo_is_active"
+    },
+    {
+      "key": "_14",
+      "value": "horse_charge_target"
+    },
+    {
+      "key": "_25",
+      "value": "pilgrim_destination"
+    },
+    {
+      "key": "_12",
+      "value": "horse_attack_move_target"
+    },
+    {
+      "key": "_6",
+      "value": "empire_attacker"
+    },
+    {
+      "key": "_1",
+      "value": "archer_palings_eng"
+    },
+    {
+      "key": "_32",
+      "value": "temp_target"
+    },
+    {
+      "key": "_33",
+      "value": "wood_claim_sul"
+    },
+    {
+      "key": "_5",
+      "value": "empire_attack_target"
+    },
+    {
+      "key": "_26",
+      "value": "ransom_location"
+    },
+    {
+      "key": "_10",
+      "value": "gulay_gorod_blocker_rus"
+    }
+  ]
+}

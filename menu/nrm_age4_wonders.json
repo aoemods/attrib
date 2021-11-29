@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "key": "menu_bag",
+      "value": [
+        {
+          "key": "screen_name_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "ui_position",
+          "value": [
+            {
+              "key": "ui_position_column",
+              "value": 5
+            },
+            {
+              "key": "ui_position_row",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "icon_alternate_name",
+          "value": ""
+        },
+        {
+          "key": "behaviour",
+          "value": [
+            {
+              "key": "auto_exit",
+              "value": true
+            },
+            {
+              "key": "columns",
+              "value": 2
+            },
+            {
+              "key": "$REF",
+              "value": "options\\menu\\modal"
+            },
+            {
+              "key": "rows",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_modal_info"
+        },
+        {
+          "key": "icon_name",
+          "value": ""
+        },
+        {
+          "key": "ui_combine_type",
+          "value": "union"
+        },
+        {
+          "key": "hotkey_name",
+          "value": "T"
+        },
+        {
+          "key": "tooltip_data_template",
+          "value": "WonderTemplate"
+        },
+        {
+          "key": "help_text_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "requirements",
+          "value": [
+            {
+              "key": "required_player_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "include_queued",
+                  "value": false
+                },
+                {
+                  "key": "include_completed",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_player_upgrade"
+                },
+                {
+                  "key": "max_completed",
+                  "value": 100
+                },
+                {
+                  "key": "min_completed",
+                  "value": 1
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "imperial_age"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage_and_display"
+                },
+                {
+                  "key": "is_present",
+                  "value": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 618820
+    }
+  ]
+}

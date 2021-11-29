@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": "art\\civilizations\\common\\weapons\\ranged\\bow_recurve_gold\\bow_recurve_gold"
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 159167
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "wpn_range_archer_2"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "attachments\\attachment_lists"
+        }
+      ]
+    }
+  ]
+}

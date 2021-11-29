@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\upgrades\\hand_cart"
+        },
+        {
+          "key": "description",
+          "value": 11204544
+        },
+        {
+          "key": "title",
+          "value": 11204545
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2037716
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "key": "weights",
+      "value": [
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "complete_any_02"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "value": 1430583
+    }
+  ]
+}

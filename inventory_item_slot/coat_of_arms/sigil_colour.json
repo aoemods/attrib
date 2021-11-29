@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "inventory_item_slot_bag",
+      "value": [
+        {
+          "key": "unlock_level",
+          "value": 0
+        },
+        {
+          "key": "slot_index",
+          "value": 0
+        },
+        {
+          "key": "inventory_item_category",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "sigil_colour"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "inventory_item_category"
+            }
+          ]
+        },
+        {
+          "key": "background_icon",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 177887
+    }
+  ]
+}

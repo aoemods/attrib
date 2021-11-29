@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "key": "region_distribution",
+      "value": [
+        {
+          "key": "search_for_open_area_radius",
+          "value": 8
+        },
+        {
+          "key": "min_placements_per_region",
+          "value": 4
+        },
+        {
+          "key": "debug_colour",
+          "value": -3538973
+        },
+        {
+          "key": "max_placements_per_region",
+          "value": 4
+        },
+        {
+          "key": "mark_entire_region_occupied",
+          "value": true
+        },
+        {
+          "key": "distribution_radius",
+          "value": 10
+        },
+        {
+          "key": "distribution",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "dist_gaia_sheep_large"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\distribution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 166679
+    }
+  ]
+}

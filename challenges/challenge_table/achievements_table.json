@@ -1,0 +1,3093 @@
+{
+  "data": [
+    {
+      "key": "weights",
+      "value": [
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a038_game_mode"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a039_game_mode"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a040_game_mode"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a041_game_mode"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a042_game_mode"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a043_game_mode"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a047_vs_ai"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a048_vs_ai"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a049_vs_ai"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a050_vs_ai"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a051_civ_abbasid"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a052_civ_abbasid"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a053_civ_abbasid"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a054_civ_abbasid"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a059_civ_french"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a060_civ_french"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a061_civ_french"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a062_civ_french"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a063_civ_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a064_civ_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a065_civ_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a066_civ_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a067_civ_mongol"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a068_civ_mongol"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a069_civ_mongol"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a070_civ_mongol"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a071_civ_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a072_civ_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a073_civ_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a075_civ_sultanate"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a076_civ_sultanate"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a077_civ_sultanate"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a078_civ_sultanate"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a079_civ_chinese"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a080_civ_chinese"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a081_civ_chinese"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a082_civ_chinese"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a055_civ_english"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a056_civ_english"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a057_civ_english"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a058_civ_english"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a009_counter_raider"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a004_norman_conquest"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a005_hundred_years_war"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a006_mongol_horde"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a007_rise_of_moscow"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a083_gameplay_moment"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a084_gameplay_moment"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a085_gameplay_moment"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a086_gameplay_moment"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a087_gameplay_moment"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a017_cpg_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a019_cpg_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a020_cpg_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a018_cpg_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a010_cpg_norman"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a011_cpg_norman"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a012_cpg_norman"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a044_aow_medal"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a045_aow_medal"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a046_aow_medal"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a088_misc_feature"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a089_misc_feature"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a090_misc_feature"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a013_cpg_hundred"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a014_cpg_hundred"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a015_cpg_hundred"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a016_cpg_hundred"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a021_cpg_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a022_cpg_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a023_cpg_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a024_cpg_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a036_misc_feature"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a001_mission_zero"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a002_mission_zero"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a003_mission_zero"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a074_civ_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "value": 1464935
+    }
+  ]
+}

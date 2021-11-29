@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\clamp_min"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\weighted_sum"
+                },
+                {
+                  "key": "inputs",
+                  "value": [
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "value",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\water_height"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "weight",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "value",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\land_height"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "weight",
+                          "value": -1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "min",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 193989
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "key": "trial_map",
+      "value": [
+        {
+          "key": "name",
+          "value": 11191169
+        },
+        {
+          "key": "award_kpi_type",
+          "value": "seconds"
+        },
+        {
+          "key": "debrief_description",
+          "value": 11191171
+        },
+        {
+          "key": "debrief_tip",
+          "value": 11180004
+        },
+        {
+          "key": "match_type",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "trial"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "multiplayer\\match_type"
+            }
+          ]
+        },
+        {
+          "key": "generic_loading_screen",
+          "value": true
+        },
+        {
+          "key": "first_time_user_experience",
+          "value": true
+        },
+        {
+          "key": "default_award",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "no_medal"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "trial_map_award"
+            }
+          ]
+        },
+        {
+          "key": "categories",
+          "value": [
+          ]
+        },
+        {
+          "key": "counter_id",
+          "value": 0
+        },
+        {
+          "key": "scenario",
+          "value": "campaign\\angevin\\ang_chp0_intro\\ang_chp0_intro"
+        },
+        {
+          "key": "loading_tips",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "basic_trial_map_tips"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "load_tip_group"
+            }
+          ]
+        },
+        {
+          "key": "counter_name",
+          "value": ""
+        },
+        {
+          "key": "select_highest_threshold",
+          "value": false
+        },
+        {
+          "key": "image",
+          "value": ""
+        },
+        {
+          "key": "awards",
+          "value": [
+          ]
+        },
+        {
+          "key": "ui_priority",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 197500
+    }
+  ]
+}

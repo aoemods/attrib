@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "ai_monk_with_relic_handle"
+    },
+    {
+      "key": "_4",
+      "value": "ai_outside_wall_target_handle"
+    },
+    {
+      "key": "_7",
+      "value": "ai_stats_object_handles"
+    },
+    {
+      "key": "_9",
+      "value": "relocation_handle"
+    },
+    {
+      "key": "_0",
+      "value": "ai_ally_defend_area_handle"
+    },
+    {
+      "key": "_8",
+      "value": "naval_transport_handle"
+    },
+    {
+      "key": "_2",
+      "value": "ai_formup_spot_handle"
+    },
+    {
+      "key": "_6",
+      "value": "ai_safe_field_construct_target_handle"
+    },
+    {
+      "key": "_1",
+      "value": "ai_demoship_target_handle"
+    },
+    {
+      "key": "_5",
+      "value": "ai_repair_spot_handle"
+    }
+  ]
+}

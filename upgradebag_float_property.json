@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "key": "_18",
+      "value": "wing_build_time_abb"
+    },
+    {
+      "key": "_3",
+      "value": "damage"
+    },
+    {
+      "key": "_17",
+      "value": "single_cast_damage"
+    },
+    {
+      "key": "_4",
+      "value": "Debug"
+    },
+    {
+      "key": "_7",
+      "value": "full_modifier"
+    },
+    {
+      "key": "_9",
+      "value": "idle_damage"
+    },
+    {
+      "key": "_16",
+      "value": "siege_damage"
+    },
+    {
+      "key": "_0",
+      "value": "auto_cast_damage"
+    },
+    {
+      "key": "_8",
+      "value": "heal_rate"
+    },
+    {
+      "key": "_13",
+      "value": "raid_bounty_gold"
+    },
+    {
+      "key": "_11",
+      "value": "normal_modifier"
+    },
+    {
+      "key": "_2",
+      "value": "charge_damage"
+    },
+    {
+      "key": "_15",
+      "value": "ranged_damage"
+    },
+    {
+      "key": "_14",
+      "value": "raid_bounty_wood"
+    },
+    {
+      "key": "_12",
+      "value": "raid_bounty_food"
+    },
+    {
+      "key": "_6",
+      "value": "duration"
+    },
+    {
+      "key": "_1",
+      "value": "brace_damage"
+    },
+    {
+      "key": "_5",
+      "value": "dummy_damage"
+    },
+    {
+      "key": "_10",
+      "value": "melee_damage"
+    }
+  ]
+}

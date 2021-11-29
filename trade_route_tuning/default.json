@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "key": "trade_route_bag",
+      "value": [
+        {
+          "key": "final_multiplier",
+          "value": 1
+        },
+        {
+          "key": "settlement_multiplier",
+          "value": 1.2
+        },
+        {
+          "key": "trade_cart_type",
+          "value": "trade_cart"
+        },
+        {
+          "key": "delay_before_return_home",
+          "value": 1
+        },
+        {
+          "key": "z_multiplier",
+          "value": 0.95
+        },
+        {
+          "key": "distance_delta_power",
+          "value": 2
+        },
+        {
+          "key": "trade_building_types",
+          "value": [
+            {
+              "key": "market_building",
+              "value": "market"
+            },
+            {
+              "key": "settlement_building",
+              "value": "settlement"
+            }
+          ]
+        },
+        {
+          "key": "minimm_d_distance",
+          "value": 1
+        },
+        {
+          "key": "d_multiplier",
+          "value": 0.138
+        },
+        {
+          "key": "OnChanged_StateTree",
+          "value": "trade_route_changed"
+        },
+        {
+          "key": "delay_before_move_to_destination",
+          "value": 1
+        },
+        {
+          "key": "meters_per_cell",
+          "value": 7
+        },
+        {
+          "key": "resource_generation",
+          "value": [
+            {
+              "key": "enabled",
+              "value": true
+            },
+            {
+              "key": "resource_to_generate",
+              "value": "gold"
+            },
+            {
+              "key": "resource_bonuses_modifiers",
+              "value": [
+                {
+                  "key": "food",
+                  "value": "trade_cart_bonus_food_modifier"
+                },
+                {
+                  "key": "action",
+                  "value": ""
+                },
+                {
+                  "key": "gold",
+                  "value": "trade_cart_bonus_gold_modifier"
+                },
+                {
+                  "key": "militia_hre",
+                  "value": ""
+                },
+                {
+                  "key": "popcap",
+                  "value": ""
+                },
+                {
+                  "key": "stone",
+                  "value": "trade_cart_bonus_stone_modifier"
+                },
+                {
+                  "key": "command",
+                  "value": ""
+                },
+                {
+                  "key": "wood",
+                  "value": "trade_cart_bonus_wood_modifier"
+                }
+              ]
+            },
+            {
+              "key": "modifier_type",
+              "value": "trade_route_resource_generation_modifier"
+            }
+          ]
+        },
+        {
+          "key": "d_minimum",
+          "value": 0.1
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 829094
+    }
+  ]
+}

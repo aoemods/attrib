@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "base_siege_animset"
+    },
+    {
+      "key": "_4",
+      "value": "cavalry_melee_animset"
+    },
+    {
+      "key": "_7",
+      "value": "gaia_base_animset"
+    },
+    {
+      "key": "_9",
+      "value": "hitreact_animset"
+    },
+    {
+      "key": "_0",
+      "value": "ai_attack_behavior"
+    },
+    {
+      "key": "_8",
+      "value": "gather_animset"
+    },
+    {
+      "key": "_13",
+      "value": "ranged_attack_animset"
+    },
+    {
+      "key": "_11",
+      "value": "melee_attack_animset"
+    },
+    {
+      "key": "_2",
+      "value": "base_cavalry_animset"
+    },
+    {
+      "key": "_15",
+      "value": "stop_anim_selection"
+    },
+    {
+      "key": "_14",
+      "value": "siege_attack_animset"
+    },
+    {
+      "key": "_12",
+      "value": "naval_transport_death"
+    },
+    {
+      "key": "_6",
+      "value": "combat_root"
+    },
+    {
+      "key": "_1",
+      "value": "base_animset"
+    },
+    {
+      "key": "_5",
+      "value": "cavalry_ranged_animset"
+    },
+    {
+      "key": "_10",
+      "value": "idle_root"
+    }
+  ]
+}

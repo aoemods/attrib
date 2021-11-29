@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 130350
+    },
+    {
+      "key": "campaign_map_bag",
+      "value": [
+        {
+          "key": "image_path",
+          "value": "campaign\\campaign_thumb_mongol"
+        },
+        {
+          "key": "fe_priority",
+          "value": 2
+        },
+        {
+          "key": "music_layer_event",
+          "value": "mus_fe_set_civ_mon"
+        },
+        {
+          "key": "campaign_map_scenarios",
+          "value": [
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mon_chp1_kalka_river"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mon_chp1_juyong"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mon_chp1_zhongdu"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mon_chp2_kiev"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mon_chp2_liegnitz"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mon_chp2_mohi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mon_chp3_xiangyang_1267"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mon_chp3_lumen_shan"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mon_chp3_xiangyang_1273"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_name",
+          "value": 11143651
+        },
+        {
+          "key": "id",
+          "value": "mongol"
+        },
+        {
+          "key": "debug",
+          "value": false
+        },
+        {
+          "key": "node_packs",
+          "value": [
+          ]
+        },
+        {
+          "key": "ui_description",
+          "value": 11143652
+        }
+      ]
+    }
+  ]
+}

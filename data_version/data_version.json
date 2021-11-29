@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "key": "value_bag",
+      "value": [
+        {
+          "key": "check_exe_version_stamp_and_data_crc",
+          "value": true
+        },
+        {
+          "key": "cur_gamesave_data_version",
+          "value": 3637877
+        },
+        {
+          "key": "min_gamesave_data_version",
+          "value": 3637877
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2028839
+    }
+  ]
+}

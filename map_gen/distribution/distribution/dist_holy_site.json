@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 201672
+    },
+    {
+      "key": "distribution",
+      "value": [
+        {
+          "key": "spawn_orientation",
+          "value": 0
+        },
+        {
+          "key": "balanced_distribution",
+          "value": [
+            {
+              "key": "balance_type",
+              "value": "holy_sites"
+            },
+            {
+              "key": "relative_weight",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "biome_asset_mapping",
+          "value": "holy_site"
+        },
+        {
+          "key": "spawn_rotation",
+          "value": 1
+        },
+        {
+          "key": "score_map",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\reference"
+            },
+            {
+              "key": "score_map",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "basic_land_resource_placement"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\score_map\\score_map"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "spawn_position",
+          "value": 0
+        },
+        {
+          "key": "ignores_global_blocking_regions",
+          "value": false
+        }
+      ]
+    }
+  ]
+}

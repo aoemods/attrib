@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "key": "global_cell_distribution",
+      "value": [
+        {
+          "key": "quantity",
+          "value": [
+            {
+              "key": "base_instance_count",
+              "value": 50
+            },
+            {
+              "key": "additional_instances_per_player",
+              "value": 50
+            },
+            {
+              "key": "additional_instances_per_km_squared",
+              "value": 30
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\distribution\\quantity"
+            },
+            {
+              "key": "additional_instances_per_scored_km_squared",
+              "value": 2000
+            },
+            {
+              "key": "minimum_for_per_scored_km_squared",
+              "value": 0.05
+            },
+            {
+              "key": "additional_instances_per_million_score",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "distribution",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "dist_fish_shore"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\distribution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 194153
+    }
+  ]
+}

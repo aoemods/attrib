@@ -1,0 +1,258 @@
+{
+  "data": [
+    {
+      "key": "ai_personality_bag",
+      "value": [
+        {
+          "key": "difficulty",
+          "value": [
+            {
+              "key": "hard",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "ai\\ai_personality_per_difficulty_info"
+                },
+                {
+                  "key": "statemodel_tunings",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "planner_statetree_node",
+                  "value": "ai_smoketest_default"
+                },
+                {
+                  "key": "settings",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "default_skirmish_hard"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ai\\ai_settings"
+                    }
+                  ]
+                },
+                {
+                  "key": "economy",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "default_economy_group"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ai\\ai_economy_group"
+                    }
+                  ]
+                },
+                {
+                  "key": "strategizer_statetree_node",
+                  "value": "ai_strategy_default"
+                },
+                {
+                  "key": "lua_script",
+                  "value": "cardinal_default_smoketest"
+                }
+              ]
+            },
+            {
+              "key": "hardest",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "ai\\ai_personality_per_difficulty_info"
+                },
+                {
+                  "key": "statemodel_tunings",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "planner_statetree_node",
+                  "value": "ai_smoketest_default"
+                },
+                {
+                  "key": "settings",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "default_skirmish_hardest"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ai\\ai_settings"
+                    }
+                  ]
+                },
+                {
+                  "key": "economy",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "default_economy_group"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ai\\ai_economy_group"
+                    }
+                  ]
+                },
+                {
+                  "key": "strategizer_statetree_node",
+                  "value": "ai_strategy_default"
+                },
+                {
+                  "key": "lua_script",
+                  "value": "cardinal_default_smoketest"
+                }
+              ]
+            },
+            {
+              "key": "standard",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "ai\\ai_personality_per_difficulty_info"
+                },
+                {
+                  "key": "statemodel_tunings",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "planner_statetree_node",
+                  "value": "ai_smoketest_default"
+                },
+                {
+                  "key": "settings",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "default_skirmish_standard"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ai\\ai_settings"
+                    }
+                  ]
+                },
+                {
+                  "key": "economy",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "default_economy_group"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ai\\ai_economy_group"
+                    }
+                  ]
+                },
+                {
+                  "key": "strategizer_statetree_node",
+                  "value": "ai_strategy_default"
+                },
+                {
+                  "key": "lua_script",
+                  "value": "cardinal_default_smoketest"
+                }
+              ]
+            },
+            {
+              "key": "easy",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "ai\\ai_personality_per_difficulty_info"
+                },
+                {
+                  "key": "statemodel_tunings",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "planner_statetree_node",
+                  "value": "ai_smoketest_default"
+                },
+                {
+                  "key": "settings",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "default_skirmish_easy"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ai\\ai_settings"
+                    }
+                  ]
+                },
+                {
+                  "key": "economy",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "default_economy_group"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ai\\ai_economy_group"
+                    }
+                  ]
+                },
+                {
+                  "key": "strategizer_statetree_node",
+                  "value": "ai_strategy_default"
+                },
+                {
+                  "key": "lua_script",
+                  "value": "cardinal_default_smoketest"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 136228
+    }
+  ]
+}

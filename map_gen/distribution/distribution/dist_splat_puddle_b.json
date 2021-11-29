@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 166580
+    },
+    {
+      "key": "distribution",
+      "value": [
+        {
+          "key": "spawn_orientation",
+          "value": 0
+        },
+        {
+          "key": "balanced_distribution",
+          "value": [
+            {
+              "key": "balance_type",
+              "value": "none"
+            },
+            {
+              "key": "relative_weight",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "biome_asset_mapping",
+          "value": "splat_wet_2"
+        },
+        {
+          "key": "spawn_rotation",
+          "value": 2
+        },
+        {
+          "key": "score_map",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\product"
+            },
+            {
+              "key": "inputs",
+              "value": [
+                {
+                  "key": "weighted_sum",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\weighted_sum"
+                    },
+                    {
+                      "key": "inputs",
+                      "value": [
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\reference"
+                                },
+                                {
+                                  "key": "score_map",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "rachable_land_curvature_medium_flipped_noise_positive_plus_passable_low_flat"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "map_gen\\score_map\\score_map"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "weight",
+                              "value": 1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\reference"
+                                },
+                                {
+                                  "key": "score_map",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "river_wet_and_ford"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "map_gen\\score_map\\score_map"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "weight",
+                              "value": -1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "impasse_proximity_reachable_furthest_plus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "spawn_position",
+          "value": 1
+        },
+        {
+          "key": "ignores_global_blocking_regions",
+          "value": false
+        }
+      ]
+    }
+  ]
+}

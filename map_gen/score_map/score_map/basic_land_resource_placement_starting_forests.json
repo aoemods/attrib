@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\product"
+            },
+            {
+              "key": "inputs",
+              "value": [
+                {
+                  "key": "filter_edge_of_map",
+                  "value": [
+                    {
+                      "key": "playable_area_only",
+                      "value": true
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\filter_edge_of_map"
+                    },
+                    {
+                      "key": "set_values_to",
+                      "value": 0
+                    },
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\all_1"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "value_is_percent_instead_of_cells",
+                      "value": false
+                    },
+                    {
+                      "key": "from_edge_threshold",
+                      "value": 32
+                    },
+                    {
+                      "key": "filter_inner_instead_of_outer",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "water_far_inverse"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "flip_min_max_normalized",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\flip_min_max_normalized"
+                    },
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\filter_min_max"
+                        },
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\filter_min_max"
+                            },
+                            {
+                              "key": "input",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\impass_proximity"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "max",
+                              "value": 1.1
+                            },
+                            {
+                              "key": "min",
+                              "value": 0.1
+                            },
+                            {
+                              "key": "set_values_outside_range_to",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "max",
+                          "value": 0.05
+                        },
+                        {
+                          "key": "min",
+                          "value": 0
+                        },
+                        {
+                          "key": "set_values_outside_range_to",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "impass_requirement_reachable"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "passable_no_crossings_very_far"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "start_position_avoidance"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2032194
+    }
+  ]
+}

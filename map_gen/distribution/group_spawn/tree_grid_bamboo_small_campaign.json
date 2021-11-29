@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 188159
+    },
+    {
+      "key": "group_spawn",
+      "value": [
+        {
+          "key": "spawn_layout",
+          "value": [
+            {
+              "key": "max_spawn_count",
+              "value": 50
+            },
+            {
+              "key": "assets",
+              "value": [
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "group_spawn_layout\\scattered"
+            },
+            {
+              "key": "randomness",
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "key": "allowed_pass_types",
+          "value": [
+            {
+              "key": "pass_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "infantry"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "pass_types"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "occupation_radius",
+          "value": 0
+        },
+        {
+          "key": "max_height_difference",
+          "value": 0
+        },
+        {
+          "key": "spawn_area_additional_radius_to_terrain_snap",
+          "value": 5
+        },
+        {
+          "key": "center_asset",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "spawn_area_radius",
+          "value": 18
+        }
+      ]
+    }
+  ]
+}

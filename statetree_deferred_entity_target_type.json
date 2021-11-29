@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "key": "_18",
+      "value": "DEFERRED_RESOURCE_DROPOFF"
+    },
+    {
+      "key": "_3",
+      "value": "DEFERRED_CHARGE_BLOCK_TARGET"
+    },
+    {
+      "key": "_17",
+      "value": "DEFERRED_RESOURCE_DEPOSIT"
+    },
+    {
+      "key": "_4",
+      "value": "DEFERRED_CHARGE_TARGET"
+    },
+    {
+      "key": "_7",
+      "value": "DEFERRED_DEPLOYED_STRUCTURE"
+    },
+    {
+      "key": "_9",
+      "value": "DEFERRED_ENTITY_MOVE_TARGET"
+    },
+    {
+      "key": "_16",
+      "value": "DEFERRED_PICK_UP_TARGET"
+    },
+    {
+      "key": "_0",
+      "value": "DEFERRED_ABILITY"
+    },
+    {
+      "key": "_22",
+      "value": "DEFERRED_VEHICLE_TARGET"
+    },
+    {
+      "key": "_8",
+      "value": "DEFERRED_ENTITY_COMBAT_TARGET"
+    },
+    {
+      "key": "_21",
+      "value": "DEFERRED_UNLOAD_SQUAD"
+    },
+    {
+      "key": "_13",
+      "value": "DEFERRED_INTERACT"
+    },
+    {
+      "key": "_19",
+      "value": "DEFERRED_RIDER_0_TARGET"
+    },
+    {
+      "key": "_11",
+      "value": "DEFERRED_HOLD"
+    },
+    {
+      "key": "_2",
+      "value": "DEFERRED_BRACE_TARGET"
+    },
+    {
+      "key": "_20",
+      "value": "DEFERRED_UNLOAD_DESTINATION"
+    },
+    {
+      "key": "_15",
+      "value": "DEFERRED_MOVE_DESTINATION"
+    },
+    {
+      "key": "_14",
+      "value": "DEFERRED_INTERACT_FACE"
+    },
+    {
+      "key": "_12",
+      "value": "DEFERRED_HOLD_CACHE"
+    },
+    {
+      "key": "_6",
+      "value": "DEFERRED_COVER_TARGET"
+    },
+    {
+      "key": "_1",
+      "value": "DEFERRED_ATTACH"
+    },
+    {
+      "key": "_5",
+      "value": "DEFERRED_CONSTRUCT"
+    },
+    {
+      "key": "_10",
+      "value": "DEFERRED_HERDER_TARGET"
+    }
+  ]
+}

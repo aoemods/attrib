@@ -1,0 +1,2092 @@
+{
+  "data": [
+    {
+      "key": "posture_bag",
+      "value": [
+        {
+          "key": "anim_state_name_default",
+          "value": "Stand"
+        },
+        {
+          "key": "anim_state_machine_name",
+          "value": "Posture"
+        },
+        {
+          "key": "transitions",
+          "value": [
+            {
+              "key": "crouch_fast_to_stand_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_veryfast_to_stand_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_stopped_to_crouch_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_fast_to_crouch_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_stopped_to_crouch_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_veryfast_to_stand_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_medium_to_stand_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_veryslow_to_stand_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_fast_to_crouch_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_slow_to_prone_veryslow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_fast_to_crouch_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_slow_to_stand_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "prone_veryslow_to_stand_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_medium_to_crouch_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "stand_stopped_to_stand_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_fast_to_prone_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_medium_to_prone_veryslow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_slow_to_crouch_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_stopped_to_crouch_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_veryfast_to_prone_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "stand_medium_to_stand_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_stopped_to_crouch_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_veryslow_to_crouch_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_medium_to_stand_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_fast_to_stand_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_slow_to_prone_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "stand_veryfast_to_prone_veryslow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_stopped_to_stand_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_stopped_to_crouch_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_medium_to_stand_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "stand_slow_to_stand_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_medium_to_crouch_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_veryfast_to_stand_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_medium_to_stand_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_stopped_to_stand_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_stopped_to_crouch_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_slow_to_stand_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_slow_to_stand_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_veryfast_to_stand_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_stopped_to_crouch_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_medium_to_stand_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_medium_to_crouch_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_fast_to_crouch_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_medium_to_prone_veryslow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_stopped_to_crouch_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_medium_to_stand_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_veryfast_to_stand_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_slow_to_crouch_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "stand_fast_to_crouch_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_stopped_to_crouch_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_medium_to_crouch_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_medium_to_crouch_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_slow_to_crouch_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_stopped_to_stand_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_medium_to_crouch_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_veryslow_to_stand_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_slow_to_crouch_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_stopped_to_prone_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_slow_to_stand_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_stopped_to_stand_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_slow_to_stand_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_slow_to_crouch_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_medium_to_crouch_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_veryfast_to_crouch_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_slow_to_stand_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_stopped_to_stand_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_stopped_to_prone_veryslow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_fast_to_stand_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_stopped_to_stand_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_stopped_to_stand_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_stopped_to_crouch_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_veryfast_to_crouch_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_fast_to_stand_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_fast_to_crouch_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_veryfast_to_prone_veryslow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_fast_to_stand_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_veryslow_to_stand_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "stand_slow_to_prone_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "prone_veryslow_to_crouch_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_slow_to_crouch_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_fast_to_prone_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_veryfast_to_crouch_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "stand_veryfast_to_crouch_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_veryfast_to_stand_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_slow_to_prone_veryslow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_stopped_to_stand_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_veryfast_to_crouch_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_stopped_to_stand_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_medium_to_prone_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_slow_to_stand_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_stopped_to_crouch_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_veryslow_to_stand_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_slow_to_crouch_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_fast_to_stand_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_stopped_to_stand_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_fast_to_stand_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_veryfast_to_prone_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "prone_stopped_to_crouch_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_veryfast_to_crouch_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_veryfast_to_crouch_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "stand_fast_to_crouch_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "stand_fast_to_crouch_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_stopped_to_crouch_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_slow_to_crouch_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_veryfast_to_crouch_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_veryfast_to_stand_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_medium_to_prone_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "stand_veryfast_to_stand_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_veryslow_to_crouch_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "crouch_fast_to_stand_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_slow_to_crouch_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_fast_to_prone_veryslow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_veryslow_to_prone_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                },
+                {
+                  "key": "stop_translation_frame",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "stand_stopped_to_prone_stopped",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_veryslow_to_crouch_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_fast_to_stand_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_veryfast_to_stand_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_stopped_to_prone_veryslow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_fast_to_prone_veryslow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "stand_fast_to_crouch_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_veryfast_to_crouch_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_stopped_to_stand_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_medium_to_stand_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_veryslow_to_crouch_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_stopped_to_prone_veryslow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_stopped_to_stand_fast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_medium_to_crouch_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_slow_to_stand_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "prone_stopped_to_stand_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stand_medium_to_stand_slow",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_stopped_to_crouch_medium",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "motion_delay_and_rotation_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "crouch_medium_to_crouch_veryfast",
+              "value": [
+                {
+                  "key": "total_frames",
+                  "value": 0
+                },
+                {
+                  "key": "weapon_pause",
+                  "value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "anim_locomotion_state_machine_name",
+          "value": "Locomotion"
+        },
+        {
+          "key": "pivots",
+          "value": [
+            {
+              "key": "pivot",
+              "value": [
+                {
+                  "key": "angle_end",
+                  "value": 65
+                },
+                {
+                  "key": "angle_begin",
+                  "value": 45
+                },
+                {
+                  "key": "turn_time_second",
+                  "value": 0.2
+                }
+              ]
+            },
+            {
+              "key": "pivot",
+              "value": [
+                {
+                  "key": "angle_end",
+                  "value": 113
+                },
+                {
+                  "key": "angle_begin",
+                  "value": 65
+                },
+                {
+                  "key": "turn_time_second",
+                  "value": 0.2
+                }
+              ]
+            },
+            {
+              "key": "pivot",
+              "value": [
+                {
+                  "key": "angle_end",
+                  "value": 148
+                },
+                {
+                  "key": "angle_begin",
+                  "value": 113
+                },
+                {
+                  "key": "turn_time_second",
+                  "value": 0.2
+                }
+              ]
+            },
+            {
+              "key": "pivot",
+              "value": [
+                {
+                  "key": "angle_end",
+                  "value": 180
+                },
+                {
+                  "key": "angle_begin",
+                  "value": 148
+                },
+                {
+                  "key": "turn_time_second",
+                  "value": 0.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "locomotion_names",
+          "value": [
+            {
+              "key": "locomotion_crouch_slow",
+              "value": "Crouch_Slow"
+            },
+            {
+              "key": "locomotion_stand_medium",
+              "value": "Stand_Medium"
+            },
+            {
+              "key": "locomotion_stand_stopped",
+              "value": "Stand_Stop"
+            },
+            {
+              "key": "locomotion_crouch_stopped",
+              "value": "Crouch_Stop"
+            },
+            {
+              "key": "locomotion_prone_stopped",
+              "value": "Prone_Stop"
+            },
+            {
+              "key": "locomotion_crouch_medium",
+              "value": "Crouch_Medium"
+            },
+            {
+              "key": "locomotion_crouch_stopped_alt",
+              "value": "Kneel_Stop"
+            },
+            {
+              "key": "locomotion_stand_veryfast",
+              "value": "Stand_V_Fast"
+            },
+            {
+              "key": "locomotion_prone_veryslow",
+              "value": "Prone_V_Slow"
+            },
+            {
+              "key": "locomotion_crouch_veryfast",
+              "value": "Crouch_V_Fast"
+            },
+            {
+              "key": "locomotion_stand_slow",
+              "value": "Stand_Slow"
+            },
+            {
+              "key": "locomotion_stand_fast",
+              "value": "Stand_Fast"
+            },
+            {
+              "key": "locomotion_crouch_fast",
+              "value": "Crouch_Fast"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 112779
+    }
+  ]
+}

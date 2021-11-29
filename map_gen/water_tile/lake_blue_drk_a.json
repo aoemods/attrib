@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "key": "water_tile",
+      "value": [
+        {
+          "key": "bumpiness",
+          "value": 0.5
+        },
+        {
+          "key": "texture_flow",
+          "value": [
+            {
+              "key": "texture",
+              "value": "water_waves_rolling_a"
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\map_gen_moving_water_texture"
+            },
+            {
+              "key": "uv_scale",
+              "value": 2
+            },
+            {
+              "key": "reset_period",
+              "value": 6
+            },
+            {
+              "key": "strength",
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "key": "texture_foam",
+          "value": [
+            {
+              "key": "texture",
+              "value": "foam_surf_a"
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\map_gen_moving_water_texture"
+            },
+            {
+              "key": "uv_scale",
+              "value": 2
+            },
+            {
+              "key": "reset_period",
+              "value": 6
+            },
+            {
+              "key": "strength",
+              "value": 0.06
+            }
+          ]
+        },
+        {
+          "key": "deep_water_colour",
+          "value": -14269093
+        },
+        {
+          "key": "deep_water_depth",
+          "value": 3.25
+        },
+        {
+          "key": "texture_wind",
+          "value": [
+            {
+              "key": "wind_strength",
+              "value": 0.002
+            },
+            {
+              "key": "texture",
+              "value": "water_calm"
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\map_gen_wind_texture"
+            },
+            {
+              "key": "uv_scale",
+              "value": 64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2035604
+    }
+  ]
+}

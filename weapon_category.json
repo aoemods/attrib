@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "4charge"
+    },
+    {
+      "key": "_4",
+      "value": "5brace"
+    },
+    {
+      "key": "_7",
+      "value": "8dummy"
+    },
+    {
+      "key": "_0",
+      "value": "1melee"
+    },
+    {
+      "key": "_8",
+      "value": "9idle"
+    },
+    {
+      "key": "_2",
+      "value": "3siege"
+    },
+    {
+      "key": "_6",
+      "value": "7single_cast_ability"
+    },
+    {
+      "key": "_1",
+      "value": "2ranged"
+    },
+    {
+      "key": "_5",
+      "value": "6auto_ability_cast"
+    }
+  ]
+}

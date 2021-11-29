@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 172005
+    },
+    {
+      "key": "global_region_distribution",
+      "value": [
+        {
+          "key": "quantity",
+          "value": [
+            {
+              "key": "base_instance_count",
+              "value": 1000
+            },
+            {
+              "key": "additional_instances_per_player",
+              "value": 0
+            },
+            {
+              "key": "additional_instances_per_km_squared",
+              "value": 2000
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\distribution\\quantity"
+            },
+            {
+              "key": "additional_instances_per_scored_km_squared",
+              "value": 0
+            },
+            {
+              "key": "minimum_for_per_scored_km_squared",
+              "value": 0.05
+            },
+            {
+              "key": "additional_instances_per_million_score",
+              "value": 100000
+            }
+          ]
+        },
+        {
+          "key": "distribution",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "region_dist_forest_performance_test"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\region_distribution"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

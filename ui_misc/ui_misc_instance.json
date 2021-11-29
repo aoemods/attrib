@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "key": "ui_misc_bag",
+      "value": [
+        {
+          "key": "max_activity_feed",
+          "value": 30
+        },
+        {
+          "key": "max_recently_played_display",
+          "value": 6
+        },
+        {
+          "key": "win_condition_victory_reason_loc",
+          "value": [
+            {
+              "key": "Surrender",
+              "value": 11204538
+            },
+            {
+              "key": "Conquest",
+              "value": 11204536
+            },
+            {
+              "key": "ObjectiveComplete",
+              "value": 11204540
+            },
+            {
+              "key": "Annihilation",
+              "value": 11204535
+            },
+            {
+              "key": "Wonder",
+              "value": 11204539
+            },
+            {
+              "key": "Religious",
+              "value": 11204537
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 195613
+    }
+  ]
+}

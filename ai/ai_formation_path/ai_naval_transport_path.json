@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "key": "ai_formation_path",
+      "value": [
+        {
+          "key": "formation_path_query_option",
+          "value": [
+            {
+              "key": "secondary_combat_fitness_max",
+              "value": 1
+            },
+            {
+              "key": "combat_fitness_min",
+              "value": 0.1
+            },
+            {
+              "key": "threat_cost_max",
+              "value": 100000
+            },
+            {
+              "key": "secondary_combat_fitness_min",
+              "value": 0.4
+            },
+            {
+              "key": "threat_cost_min",
+              "value": 0
+            },
+            {
+              "key": "enemy_unit_type_scores",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "secondary_threat_cost_min",
+              "value": 0
+            },
+            {
+              "key": "path_recalculate_interval_seconds",
+              "value": 3
+            },
+            {
+              "key": "$REF",
+              "value": "options\\ai\\encounters\\formation_merged_threat_path_option"
+            },
+            {
+              "key": "use_threat_history",
+              "value": false
+            },
+            {
+              "key": "secondary_threat_cost_max",
+              "value": 100
+            },
+            {
+              "key": "threat_weight_outside_area",
+              "value": 1
+            },
+            {
+              "key": "combat_fitness_max",
+              "value": 1
+            },
+            {
+              "key": "leaving_area_multiplier",
+              "value": 0
+            },
+            {
+              "key": "threat_weight_inside_area",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2054109
+    }
+  ]
+}

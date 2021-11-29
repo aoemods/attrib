@@ -1,0 +1,636 @@
+{
+  "data": [
+    {
+      "key": "entity_blueprint_ext",
+      "value": [
+        {
+          "key": "default_spawn_type",
+          "value": ""
+        },
+        {
+          "key": "entity_scale",
+          "value": 100
+        },
+        {
+          "key": "is_visible_in_game",
+          "value": true
+        },
+        {
+          "key": "animator_scale",
+          "value": 100
+        },
+        {
+          "key": "browsable_in_editor",
+          "value": false
+        },
+        {
+          "key": "alternate_sua",
+          "value": ""
+        },
+        {
+          "key": "is_wreck",
+          "value": false
+        },
+        {
+          "key": "unit_badge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\entity_blueprint_ext"
+        },
+        {
+          "key": "always_revealed_in_fow",
+          "value": false
+        },
+        {
+          "key": "precise_size",
+          "value": -1
+        },
+        {
+          "key": "animator_attachments",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "_invisible_object"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "attachments\\attachment_lists"
+            }
+          ]
+        },
+        {
+          "key": "subclass_type",
+          "value": 0
+        },
+        {
+          "key": "is_spawned_when_not_in_interactive_area",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "entity_targeting_ext",
+      "value": [
+        {
+          "key": "allow_entity_scan_close_enemies",
+          "value": false
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\entity_targeting_ext"
+        },
+        {
+          "key": "history_size",
+          "value": 2
+        },
+        {
+          "key": "allow_weapon_target_scanning",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "sim_entity_ext",
+      "value": [
+        {
+          "key": "rotate_snap",
+          "value": 360
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\sim_entity_ext"
+        },
+        {
+          "key": "transferable",
+          "value": 0
+        },
+        {
+          "key": "kill_paradrop",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "type_ext",
+      "value": [
+        {
+          "key": "intersection_testing",
+          "value": true
+        },
+        {
+          "key": "weapon_targeting",
+          "value": "no_targeting"
+        },
+        {
+          "key": "unit_type_list_selection_keybind_only",
+          "value": [
+          ]
+        },
+        {
+          "key": "weapon_category_targeting_filter",
+          "value": [
+            {
+              "key": "8dummy",
+              "value": false
+            },
+            {
+              "key": "4charge",
+              "value": true
+            },
+            {
+              "key": "9idle",
+              "value": true
+            },
+            {
+              "key": "1melee",
+              "value": true
+            },
+            {
+              "key": "3siege",
+              "value": false
+            },
+            {
+              "key": "5brace",
+              "value": true
+            },
+            {
+              "key": "7single_cast_ability",
+              "value": true
+            },
+            {
+              "key": "6auto_ability_cast",
+              "value": true
+            },
+            {
+              "key": "2ranged",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "attack_target_restriction_on_victim",
+          "value": [
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\type_ext"
+        },
+        {
+          "key": "unit_type_list",
+          "value": [
+          ]
+        },
+        {
+          "key": "race_type_list",
+          "value": [
+          ]
+        },
+        {
+          "key": "attack_target_restriction_on_attacker",
+          "value": [
+          ]
+        },
+        {
+          "key": "unit_type_list_ui_appear_as_only",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ui_ext",
+      "value": [
+        {
+          "key": "skin_summer",
+          "value": ""
+        },
+        {
+          "key": "debug_text",
+          "value": ""
+        },
+        {
+          "key": "screen_name_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "decorator_visibility",
+          "value": 2
+        },
+        {
+          "key": "selection_grouping_ledger_key",
+          "value": ""
+        },
+        {
+          "key": "ui_extra_infos",
+          "value": [
+          ]
+        },
+        {
+          "key": "is_armoured",
+          "value": false
+        },
+        {
+          "key": "use_construction_range_on_selection",
+          "value": false
+        },
+        {
+          "key": "screen_name_short_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "reveal_for_decryption",
+          "value": false
+        },
+        {
+          "key": "selection_datatemplate",
+          "value": ""
+        },
+        {
+          "key": "selection_group",
+          "value": ""
+        },
+        {
+          "key": "ghost_enable",
+          "value": true
+        },
+        {
+          "key": "selection_name_squad_override",
+          "value": -1
+        },
+        {
+          "key": "show_entity_appearance",
+          "value": true
+        },
+        {
+          "key": "ui_codex_info",
+          "value": [
+            {
+              "key": "ui_position",
+              "value": [
+                {
+                  "key": "ui_position_column",
+                  "value": -1
+                },
+                {
+                  "key": "ui_position_row",
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "key": "exclusive",
+              "value": false
+            },
+            {
+              "key": "priority",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "decorator_ledger_key",
+          "value": ""
+        },
+        {
+          "key": "minimap_enable",
+          "value": false
+        },
+        {
+          "key": "portrait_name",
+          "value": ""
+        },
+        {
+          "key": "brief_text_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "custom_selection_obbs",
+          "value": [
+          ]
+        },
+        {
+          "key": "minimap_icon",
+          "value": ""
+        },
+        {
+          "key": "kill_type",
+          "value": ""
+        },
+        {
+          "key": "help_text_world_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "sound",
+          "value": ""
+        },
+        {
+          "key": "symbol_icon_name",
+          "value": ""
+        },
+        {
+          "key": "selection_scale",
+          "value": 1
+        },
+        {
+          "key": "extra_text_world_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\ui_ext"
+        },
+        {
+          "key": "icon_name",
+          "value": ""
+        },
+        {
+          "key": "minimap_teamcolor",
+          "value": false
+        },
+        {
+          "key": "minimap_team_only",
+          "value": false
+        },
+        {
+          "key": "map_layer",
+          "value": 0
+        },
+        {
+          "key": "use_combat_range_on_selection",
+          "value": true
+        },
+        {
+          "key": "is_unique_to_race",
+          "value": false
+        },
+        {
+          "key": "screen_name_world_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "minimap_icon_scale",
+          "value": 1
+        },
+        {
+          "key": "ui_combine_type",
+          "value": "intersection"
+        },
+        {
+          "key": "overlay_name",
+          "value": ""
+        },
+        {
+          "key": "hotkey_name",
+          "value": ""
+        },
+        {
+          "key": "occlusion_state",
+          "value": "can_be_occluded"
+        },
+        {
+          "key": "show_in_build_log",
+          "value": true
+        },
+        {
+          "key": "selection_method",
+          "value": "obb"
+        },
+        {
+          "key": "sound_alternative",
+          "value": ""
+        },
+        {
+          "key": "kicker_offset",
+          "value": 0
+        },
+        {
+          "key": "selection_secondary_bounds_scale",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "decorator_ledger_bar_style",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "decorator_height",
+          "value": 2
+        },
+        {
+          "key": "help_text_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "targeting_and_bandbox_selection_priority",
+          "value": 3
+        },
+        {
+          "key": "map_rotation_type_override",
+          "value": "no_override"
+        },
+        {
+          "key": "extra_text_formatter",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "decorator_data_template",
+          "value": ""
+        },
+        {
+          "key": "minimap_color",
+          "value": -1
+        },
+        {
+          "key": "selection_type",
+          "value": "no_select"
+        },
+        {
+          "key": "extra_text_deprecated",
+          "value": ""
+        },
+        {
+          "key": "ap_loss_kicker",
+          "value": true
+        },
+        {
+          "key": "skin_winter",
+          "value": ""
+        },
+        {
+          "key": "terrain_info_display_offset",
+          "value": [
+            {
+              "key": "y",
+              "value": 0
+            },
+            {
+              "key": "x",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "force_facing_and_range_visual_to_center_on_entity",
+          "value": false
+        },
+        {
+          "key": "decorator",
+          "value": ""
+        },
+        {
+          "key": "spotted_on_spawn",
+          "value": false
+        },
+        {
+          "key": "telemetry_name",
+          "value": ""
+        },
+        {
+          "key": "selection_name",
+          "value": 1
+        },
+        {
+          "key": "map_mark",
+          "value": ""
+        },
+        {
+          "key": "skin_pack_override",
+          "value": false
+        },
+        {
+          "key": "ui_priority",
+          "value": 0
+        },
+        {
+          "key": "portrait_icon",
+          "value": ""
+        },
+        {
+          "key": "district_info",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "selection_obb_size",
+          "value": [
+            {
+              "key": "y",
+              "value": 1
+            },
+            {
+              "key": "x",
+              "value": 1
+            },
+            {
+              "key": "z",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "ap_killed_kicker",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 194203
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

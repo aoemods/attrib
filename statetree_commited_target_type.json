@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "key": "_18",
+      "value": "COMMITTED_RESOURCE_DEPOSIT"
+    },
+    {
+      "key": "_3",
+      "value": "COMMITTED_CHARGE_BLOCK_TARGET"
+    },
+    {
+      "key": "_17",
+      "value": "COMMITTED_PICK_UP_TARGET"
+    },
+    {
+      "key": "_4",
+      "value": "COMMITTED_CHARGE_TARGET"
+    },
+    {
+      "key": "_7",
+      "value": "COMMITTED_COVER_TARGET"
+    },
+    {
+      "key": "_9",
+      "value": "COMMITTED_ENTITY_COMBAT_TARGET"
+    },
+    {
+      "key": "_16",
+      "value": "COMMITTED_LEASH_TARGET"
+    },
+    {
+      "key": "_24",
+      "value": "COMMITTED_RIDER_SPEARMAN_TARGET"
+    },
+    {
+      "key": "_0",
+      "value": "COMMITTED_ABILITY"
+    },
+    {
+      "key": "_22",
+      "value": "COMMITTED_RIDER_ARCHER_1_TARGET"
+    },
+    {
+      "key": "_8",
+      "value": "COMMITTED_CREATOR"
+    },
+    {
+      "key": "_21",
+      "value": "COMMITTED_RIDER_0_TARGET"
+    },
+    {
+      "key": "_13",
+      "value": "COMMITTED_HERDER_TARGET"
+    },
+    {
+      "key": "_19",
+      "value": "COMMITTED_RESOURCE_DROPOFF"
+    },
+    {
+      "key": "_11",
+      "value": "COMMITTED_ENTITY_MOVE_TARGET"
+    },
+    {
+      "key": "_2",
+      "value": "COMMITTED_BRACE_TARGET"
+    },
+    {
+      "key": "_20",
+      "value": "COMMITTED_RETALIATE_TARGET"
+    },
+    {
+      "key": "_29",
+      "value": "COMMITTED_VEHICLE_TARGET"
+    },
+    {
+      "key": "_27",
+      "value": "COMMITTED_UNLOAD_DESTINATION"
+    },
+    {
+      "key": "_15",
+      "value": "COMMITTED_IDLE_AGGRO_TARGET"
+    },
+    {
+      "key": "_28",
+      "value": "COMMITTED_UNLOAD_SQUAD"
+    },
+    {
+      "key": "_23",
+      "value": "COMMITTED_RIDER_ARCHER_2_TARGET"
+    },
+    {
+      "key": "_14",
+      "value": "COMMITTED_HOLD"
+    },
+    {
+      "key": "_25",
+      "value": "COMMITTED_SIEGE_SETUP_AGGRO"
+    },
+    {
+      "key": "_12",
+      "value": "COMMITTED_FORCED_ENGAGEMENT"
+    },
+    {
+      "key": "_6",
+      "value": "COMMITTED_CONSTRUCT"
+    },
+    {
+      "key": "_1",
+      "value": "COMMITTED_ATTACK_MOVE_TARGET"
+    },
+    {
+      "key": "_5",
+      "value": "COMMITTED_COMMANDED_COMBAT_TARGET"
+    },
+    {
+      "key": "_26",
+      "value": "COMMITTED_TRADE_HOME"
+    },
+    {
+      "key": "_10",
+      "value": "COMMITTED_ENTITY_FACE_TARGET"
+    }
+  ]
+}

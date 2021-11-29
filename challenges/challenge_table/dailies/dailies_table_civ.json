@@ -1,0 +1,653 @@
+{
+  "data": [
+    {
+      "key": "weights",
+      "value": [
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "win_civ_chinese"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "win_civ_english_02"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "win_civ_french"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "win_civ_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "win_civ_mongols"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "win_civ_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "win_civ_sultanate"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "win_civ_abbasid"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "civ_mechanic_abb"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "civ_mechanic_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "civ_mechanic_eng"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "civ_mechanic_fre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "civ_mechanic_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "civ_mechanic_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "civ_mechanic_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "civ_mechanic_sul"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "value": 1430589
+    }
+  ]
+}

@@ -1,0 +1,1801 @@
+{
+  "data": [
+    {
+      "key": "squad_engineer_ext",
+      "value": [
+        {
+          "key": "construction_rate_multiplier",
+          "value": 1
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_engineer_ext"
+        },
+        {
+          "key": "construction_groups",
+          "value": [
+            {
+              "key": "construction_group",
+              "value": [
+                {
+                  "key": "construction_menu",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "siege_engineer"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "menu"
+                    }
+                  ]
+                },
+                {
+                  "key": "construction_type",
+                  "value": "tp_construction_base"
+                },
+                {
+                  "key": "construction_items",
+                  "value": [
+                    {
+                      "key": "construction_item",
+                      "value": [
+                        {
+                          "key": "associated_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "ui_position",
+                          "value": [
+                            {
+                              "key": "ui_position_column",
+                              "value": 1
+                            },
+                            {
+                              "key": "ui_position_row",
+                              "value": 1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "ebp",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_ram_3_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "ebps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "construction_item",
+                      "value": [
+                        {
+                          "key": "associated_ebps",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "ui_position",
+                          "value": [
+                            {
+                              "key": "ui_position_column",
+                              "value": 2
+                            },
+                            {
+                              "key": "ui_position_row",
+                              "value": 1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "ebp",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "unit_siege_tower_3_eng"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "ebps"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "squad_loadout_ext",
+      "value": [
+        {
+          "key": "unit_list",
+          "value": [
+            {
+              "key": "loadout_data",
+              "value": [
+                {
+                  "key": "num",
+                  "value": 1
+                },
+                {
+                  "key": "is_default_unit",
+                  "value": true
+                },
+                {
+                  "key": "type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "unit_spearman_2_eng"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ebps"
+                    }
+                  ]
+                },
+                {
+                  "key": "unit_attachments",
+                  "value": [
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_loadout_ext"
+        },
+        {
+          "key": "squad_female_chance",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "squad_speech_ext",
+      "value": [
+        {
+          "key": "is_idle_battle_chatter_enabled",
+          "value": false
+        },
+        {
+          "key": "squad_speech_parameters",
+          "value": [
+            {
+              "key": "squad_unit_code",
+              "value": "non_mounted"
+            },
+            {
+              "key": "squad_class_code",
+              "value": "military"
+            },
+            {
+              "key": "squad_name_code",
+              "value": "spearman"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_speech_ext"
+        },
+        {
+          "key": "age_mapping",
+          "value": [
+            {
+              "key": "age_number",
+              "value": 2
+            },
+            {
+              "key": "age_number",
+              "value": 2
+            },
+            {
+              "key": "age_number",
+              "value": 3
+            },
+            {
+              "key": "age_number",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "key": "squad_speaker_code",
+          "value": "spearman"
+        },
+        {
+          "key": "importance",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "key": "squad_formation_group_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_formation_group_ext"
+        },
+        {
+          "key": "default_formation_group_spot_generator",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "land_box_fill_spot_generator"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "formation_group_spot_generator"
+            }
+          ]
+        },
+        {
+          "key": "desired_protection_level_in_formation",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "key": "squad_ability_ext",
+      "value": [
+        {
+          "key": "abilities",
+          "value": [
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "core_unit_death"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "core_formation_line"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "core_formation_spread"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "core_formation_wedge"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "military_neutralize_holy_site"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "military_spearwall"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "military_charge"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_ability_ext"
+        },
+        {
+          "key": "squad_orders",
+          "value": [
+            {
+              "key": "unload_here",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "attack_move",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "pickup_item",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "reverse_move",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stop",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "retire",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "trade",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "attack_ground",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "prefer_ranged",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "load",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "unload",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "vault",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "hold_fire_on",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "hold_position",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "retreat",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "plant_demolitions",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "cancel_construction",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "hold_fire_off",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "move",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "prefer_melee",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "abandon_team_weapon",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_combine_priority",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "squad_capture_strategic_point_ext",
+      "value": [
+        {
+          "key": "capture_rate_multiplier",
+          "value": 0
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_capture_strategic_point_ext"
+        },
+        {
+          "key": "revert_rate_multiplier",
+          "value": 1
+        },
+        {
+          "key": "capture_distance",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "key": "squad_audio_ext",
+      "value": [
+        {
+          "key": "potential_damage",
+          "value": 0
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_audio_ext"
+        },
+        {
+          "key": "in_fow_distance_to_enemy_rtpc_enabled",
+          "value": false
+        },
+        {
+          "key": "kill_streak_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "sound_banks",
+          "value": [
+          ]
+        },
+        {
+          "key": "unit_type",
+          "value": "poleaxe"
+        },
+        {
+          "key": "rtpc_events",
+          "value": [
+            {
+              "key": "rtpc_event",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "rtpc_event"
+                },
+                {
+                  "key": "trigger_when_increasing",
+                  "value": true
+                },
+                {
+                  "key": "threshold",
+                  "value": 15
+                },
+                {
+                  "key": "rtpc",
+                  "value": "camera_movement_rtpc"
+                },
+                {
+                  "key": "pbgid",
+                  "value": 166416
+                },
+                {
+                  "key": "trigger_when_decreasing",
+                  "value": false
+                },
+                {
+                  "key": "event",
+                  "value": "sfx_test_rtpc_event_walla"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "death_event_type",
+          "value": ""
+        },
+        {
+          "key": "music_importance",
+          "value": 5
+        },
+        {
+          "key": "initial_spawn_event_type",
+          "value": ""
+        },
+        {
+          "key": "importance",
+          "value": 5
+        },
+        {
+          "key": "is_dynamic_audio_object",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "squad_blueprint_ext",
+      "value": [
+        {
+          "key": "browsable_in_editor",
+          "value": true
+        },
+        {
+          "key": "QueryTree_States",
+          "value": [
+            {
+              "key": "squad_state_move",
+              "value": "unit_squad_query\\Move"
+            },
+            {
+              "key": "squad_state_gather_stone",
+              "value": "unit_squad_query\\GatherStone"
+            },
+            {
+              "key": "squad_state_retreat",
+              "value": ""
+            },
+            {
+              "key": "squad_state_gather_gold",
+              "value": "unit_squad_query\\GatherGold"
+            },
+            {
+              "key": "squad_state_evacuate",
+              "value": "unit_squad_query\\Evacuating"
+            },
+            {
+              "key": "squad_state_gather_wood",
+              "value": "unit_squad_query\\GatherWood"
+            },
+            {
+              "key": "squad_state_truly_idle",
+              "value": "unit_squad_query\\TrulyIdle"
+            },
+            {
+              "key": "squad_state_ability",
+              "value": ""
+            },
+            {
+              "key": "squad_state_gather_food",
+              "value": "unit_squad_query\\GatherFood"
+            },
+            {
+              "key": "squad_state_attack_move",
+              "value": "unit_squad_query\\AttackMove"
+            },
+            {
+              "key": "squad_state_idle_villager",
+              "value": "unit_squad_query\\IdleVillager"
+            },
+            {
+              "key": "squad_state_gather",
+              "value": "unit_squad_query\\Gather"
+            },
+            {
+              "key": "squad_state_idle",
+              "value": "unit_squad_query\\Idle"
+            },
+            {
+              "key": "squad_state_attack",
+              "value": "unit_squad_query\\Attack"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_blueprint_ext"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 166417
+    },
+    {
+      "key": "squad_combat_behaviour_ext",
+      "value": [
+        {
+          "key": "reveal_defender_time",
+          "value": 0
+        },
+        {
+          "key": "heavy_weapon_setup_delay",
+          "value": 999
+        },
+        {
+          "key": "can_be_tied_up",
+          "value": false
+        },
+        {
+          "key": "accept_move_commands_while_combat",
+          "value": false
+        },
+        {
+          "key": "reveal_defender_time_use",
+          "value": false
+        },
+        {
+          "key": "reveal_self_attacker_time",
+          "value": 0
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_combat_behaviour_ext"
+        },
+        {
+          "key": "suppression",
+          "value": [
+            {
+              "key": "pin_down_activate_threshold",
+              "value": 0.6
+            },
+            {
+              "key": "noncombat_recover_multiplier",
+              "value": 50
+            },
+            {
+              "key": "recover_rate",
+              "value": 0.008
+            },
+            {
+              "key": "suppressed_activate_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "noncombat_delay",
+              "value": 7
+            },
+            {
+              "key": "cover_info",
+              "value": [
+                {
+                  "key": "plain",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "forest",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "hill",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "mountain",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "tp_defcover",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "water",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "suppressed_recover_threshold",
+              "value": 0.15
+            },
+            {
+              "key": "suppressed_activate_threshold",
+              "value": 0.2
+            },
+            {
+              "key": "pin_down_recover_threshold",
+              "value": 0.5
+            },
+            {
+              "key": "pin_down_activate_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "can_be_suppressed",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "charge_option",
+          "value": [
+            {
+              "key": "target_requirements",
+              "value": [
+                {
+                  "key": "required_not",
+                  "value": [
+                    {
+                      "key": "requirement_table",
+                      "value": [
+                        {
+                          "key": "required_unit_type",
+                          "value": [
+                            {
+                              "key": "qualify_option",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "options\\none"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "requirements\\required_unit_type"
+                            },
+                            {
+                              "key": "unit_type",
+                              "value": "building"
+                            },
+                            {
+                              "key": "search_load_out",
+                              "value": false
+                            },
+                            {
+                              "key": "reason",
+                              "value": "usage"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "requirements\\required_not"
+                    },
+                    {
+                      "key": "reason",
+                      "value": "usage"
+                    }
+                  ]
+                },
+                {
+                  "key": "required_ownership",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "requirements\\required_ownership"
+                    },
+                    {
+                      "key": "ownership_type",
+                      "value": 1
+                    },
+                    {
+                      "key": "reason",
+                      "value": "usage"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "cooldown_seconds",
+              "value": 10
+            },
+            {
+              "key": "charge_destination_offset",
+              "value": 0
+            },
+            {
+              "key": "$REF",
+              "value": "options\\charge\\charge_options"
+            },
+            {
+              "key": "on_charge_target_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "max_duration_seconds",
+              "value": 5
+            },
+            {
+              "key": "min_trigger_distance",
+              "value": 8
+            },
+            {
+              "key": "self_requirements",
+              "value": [
+              ]
+            },
+            {
+              "key": "on_hit_target_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "max_trigger_distance",
+              "value": 20
+            },
+            {
+              "key": "charge_path_side_clearance",
+              "value": 1
+            },
+            {
+              "key": "on_charge_self_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "reaction_combat_delay_seconds",
+          "value": 30
+        },
+        {
+          "key": "reveal_self_attacker_time_use",
+          "value": false
+        },
+        {
+          "key": "range_reticule",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "reaction_delay_seconds",
+          "value": 25
+        },
+        {
+          "key": "can_recrew_abandoned_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\sbpextensions\\squad_combat_behaviour_ext\\can_recrew_abandoned"
+            },
+            {
+              "key": "is_mobile_driver_option",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "options\\none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ranged_weapons_prefer_single_squad_target",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "squad_modifier_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_modifier_ext"
+        }
+      ]
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "unit_spearman_2"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "sbps"
+        }
+      ]
+    },
+    {
+      "key": "squad_command_forwarding_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_command_forwarding_ext"
+        },
+        {
+          "key": "default_command_weight",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "default_command_weight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "squad_statemodel_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_statemodel_ext"
+        },
+        {
+          "key": "schema",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "spearman"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "statemodel_schema"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "squad_type_ext",
+      "value": [
+        {
+          "key": "squad_race_type_list",
+          "value": [
+            {
+              "key": "squad_race_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "english"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "racebps"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_type_ext"
+        },
+        {
+          "key": "squad_type_list",
+          "value": [
+            {
+              "key": "squad_type",
+              "value": "military"
+            },
+            {
+              "key": "squad_type",
+              "value": "spearman"
+            },
+            {
+              "key": "squad_type",
+              "value": "infantry"
+            },
+            {
+              "key": "squad_type",
+              "value": "scar_age2"
+            },
+            {
+              "key": "squad_type",
+              "value": "scar_spearman"
+            },
+            {
+              "key": "squad_type",
+              "value": "melee"
+            },
+            {
+              "key": "squad_type",
+              "value": "can_be_converted"
+            },
+            {
+              "key": "squad_type",
+              "value": "scar_military"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "squad_requirement_ext",
+      "value": [
+        {
+          "key": "requirement_table",
+          "value": [
+            {
+              "key": "required_player_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "include_queued",
+                  "value": false
+                },
+                {
+                  "key": "include_completed",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_player_upgrade"
+                },
+                {
+                  "key": "max_completed",
+                  "value": 100
+                },
+                {
+                  "key": "min_completed",
+                  "value": 1
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "upgrade_unit_spearman_3_eng"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage_and_display"
+                },
+                {
+                  "key": "is_present",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "required_player_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "include_queued",
+                  "value": false
+                },
+                {
+                  "key": "include_completed",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_player_upgrade"
+                },
+                {
+                  "key": "max_completed",
+                  "value": 100
+                },
+                {
+                  "key": "min_completed",
+                  "value": 1
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "upgrade_unit_spearman_4_eng"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage_and_display"
+                },
+                {
+                  "key": "is_present",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "required_player_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "include_queued",
+                  "value": false
+                },
+                {
+                  "key": "include_completed",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_player_upgrade"
+                },
+                {
+                  "key": "max_completed",
+                  "value": 100
+                },
+                {
+                  "key": "min_completed",
+                  "value": 1
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "feudal_age"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                },
+                {
+                  "key": "is_present",
+                  "value": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_requirement_ext"
+        },
+        {
+          "key": "requirement_statetree",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "squad_ui_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_ui_ext"
+        },
+        {
+          "key": "race_list",
+          "value": [
+            {
+              "key": "race_data",
+              "value": [
+                {
+                  "key": "info",
+                  "value": [
+                    {
+                      "key": "debug_text",
+                      "value": ""
+                    },
+                    {
+                      "key": "minimap_texture_scale",
+                      "value": 1
+                    },
+                    {
+                      "key": "screen_name_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "decorator_visibility",
+                      "value": 3
+                    },
+                    {
+                      "key": "screen_name_short_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ui_decorator",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "reveal_for_decryption",
+                      "value": true
+                    },
+                    {
+                      "key": "selection_datatemplate",
+                      "value": "MilitaryUnitSelectionDataTemplate"
+                    },
+                    {
+                      "key": "selection_group",
+                      "value": "spearman"
+                    },
+                    {
+                      "key": "use_random_entity_speaker",
+                      "value": false
+                    },
+                    {
+                      "key": "respawn_progress",
+                      "value": ""
+                    },
+                    {
+                      "key": "hide_ucs",
+                      "value": false
+                    },
+                    {
+                      "key": "ui_codex_info",
+                      "value": [
+                        {
+                          "key": "ui_position",
+                          "value": [
+                            {
+                              "key": "ui_position_column",
+                              "value": -1
+                            },
+                            {
+                              "key": "ui_position_row",
+                              "value": -1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "exclusive",
+                          "value": false
+                        },
+                        {
+                          "key": "priority",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "show_production",
+                      "value": true
+                    },
+                    {
+                      "key": "portrait_name",
+                      "value": ""
+                    },
+                    {
+                      "key": "respawn_unit_class",
+                      "value": ""
+                    },
+                    {
+                      "key": "brief_text_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "extra_text",
+                      "value": 11141782
+                    },
+                    {
+                      "key": "sound",
+                      "value": "sfx_ui_produce_unit_click"
+                    },
+                    {
+                      "key": "symbol_icon_name",
+                      "value": ""
+                    },
+                    {
+                      "key": "minimap_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "icon_name",
+                      "value": "races\\common\\units\\spearman_2"
+                    },
+                    {
+                      "key": "minimap_team_only",
+                      "value": false
+                    },
+                    {
+                      "key": "map_layer",
+                      "value": -1
+                    },
+                    {
+                      "key": "is_unique_to_race",
+                      "value": false
+                    },
+                    {
+                      "key": "ui_combine_type",
+                      "value": "intersection"
+                    },
+                    {
+                      "key": "help_text",
+                      "value": 11121190
+                    },
+                    {
+                      "key": "extra_icon",
+                      "value": ""
+                    },
+                    {
+                      "key": "hotkey_name",
+                      "value": "S"
+                    },
+                    {
+                      "key": "show_in_build_log",
+                      "value": true
+                    },
+                    {
+                      "key": "sound_alternative",
+                      "value": ""
+                    },
+                    {
+                      "key": "tooltip_data_template",
+                      "value": "BuildingMilitaryDataTemplate"
+                    },
+                    {
+                      "key": "respawn_time",
+                      "value": ""
+                    },
+                    {
+                      "key": "help_text_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "is_respawnable",
+                      "value": false
+                    },
+                    {
+                      "key": "map_rotation_type_override",
+                      "value": "no_override"
+                    },
+                    {
+                      "key": "extra_text_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "stats_info",
+                      "value": [
+                        {
+                          "key": "include_in_lifespan_stat",
+                          "value": true
+                        }
+                      ]
+                    },
+                    {
+                      "key": "decorator_data_template",
+                      "value": ""
+                    },
+                    {
+                      "key": "is_unique",
+                      "value": false
+                    },
+                    {
+                      "key": "flag_icon_override",
+                      "value": ""
+                    },
+                    {
+                      "key": "respawn_location",
+                      "value": ""
+                    },
+                    {
+                      "key": "screen_name",
+                      "value": 11142685
+                    },
+                    {
+                      "key": "decorator_show_reload_progress",
+                      "value": false
+                    },
+                    {
+                      "key": "global_unit_control_row",
+                      "value": 1
+                    },
+                    {
+                      "key": "respawn_datatemplate",
+                      "value": ""
+                    },
+                    {
+                      "key": "modal_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "allow_spawner_production",
+                      "value": false
+                    },
+                    {
+                      "key": "decorator",
+                      "value": "CardinalSquad"
+                    },
+                    {
+                      "key": "map_mark",
+                      "value": "Squad"
+                    },
+                    {
+                      "key": "ui_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "cover_level_icon_postfix",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "ext_key",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "squad_holdable_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_holdable_ext"
+        },
+        {
+          "key": "modifier_table",
+          "value": [
+          ]
+        },
+        {
+          "key": "hold_target_requirement",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

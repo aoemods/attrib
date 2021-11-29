@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "key": "formation_bag",
+      "value": [
+        {
+          "key": "rotation_time_max",
+          "value": 1
+        },
+        {
+          "key": "spots",
+          "value": [
+          ]
+        },
+        {
+          "key": "facing_angle_attention_weight",
+          "value": 0
+        },
+        {
+          "key": "time_to_hold_facing_angle",
+          "value": 0
+        },
+        {
+          "key": "clockwise_facing_angle",
+          "value": 0
+        },
+        {
+          "key": "follower_move_slop",
+          "value": 0
+        },
+        {
+          "key": "scale",
+          "value": 1.1
+        },
+        {
+          "key": "chance_to_use_facing_angle",
+          "value": 0
+        },
+        {
+          "key": "look_ahead_time",
+          "value": 2.5
+        },
+        {
+          "key": "rotation_rate",
+          "value": 60
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 5
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "gather_berries"
+    },
+    {
+      "key": "_4",
+      "value": "gather_deep_water_fish"
+    },
+    {
+      "key": "_7",
+      "value": "gather_herdable"
+    },
+    {
+      "key": "_9",
+      "value": "gather_huntable_danger"
+    },
+    {
+      "key": "_0",
+      "value": "carrying"
+    },
+    {
+      "key": "_8",
+      "value": "gather_huntable"
+    },
+    {
+      "key": "_13",
+      "value": "gather_wood"
+    },
+    {
+      "key": "_11",
+      "value": "gather_shore_fish"
+    },
+    {
+      "key": "_2",
+      "value": "construct"
+    },
+    {
+      "key": "_15",
+      "value": "none"
+    },
+    {
+      "key": "_14",
+      "value": "invalid"
+    },
+    {
+      "key": "_12",
+      "value": "gather_stone"
+    },
+    {
+      "key": "_6",
+      "value": "gather_gold"
+    },
+    {
+      "key": "_1",
+      "value": "combat"
+    },
+    {
+      "key": "_5",
+      "value": "gather_farm"
+    },
+    {
+      "key": "_10",
+      "value": "gather_luxury"
+    }
+  ]
+}

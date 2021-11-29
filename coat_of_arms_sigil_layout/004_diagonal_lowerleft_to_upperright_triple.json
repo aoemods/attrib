@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "key": "coat_of_arms_sigil_layout_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11193168
+        },
+        {
+          "key": "sigils",
+          "value": [
+            {
+              "key": "sigil",
+              "value": [
+                {
+                  "key": "rotation",
+                  "value": 0
+                },
+                {
+                  "key": "scaleX",
+                  "value": 0.55
+                },
+                {
+                  "key": "positionX",
+                  "value": 0.15
+                },
+                {
+                  "key": "scaleY",
+                  "value": 0.55
+                },
+                {
+                  "key": "positionY",
+                  "value": -0.18
+                }
+              ]
+            },
+            {
+              "key": "sigil",
+              "value": [
+                {
+                  "key": "rotation",
+                  "value": 0
+                },
+                {
+                  "key": "scaleX",
+                  "value": 0.55
+                },
+                {
+                  "key": "positionX",
+                  "value": -0.15
+                },
+                {
+                  "key": "scaleY",
+                  "value": 0.55
+                },
+                {
+                  "key": "positionY",
+                  "value": 0.18
+                }
+              ]
+            },
+            {
+              "key": "sigil",
+              "value": [
+                {
+                  "key": "rotation",
+                  "value": 0
+                },
+                {
+                  "key": "scaleX",
+                  "value": 0.55
+                },
+                {
+                  "key": "positionX",
+                  "value": 0
+                },
+                {
+                  "key": "scaleY",
+                  "value": 0.55
+                },
+                {
+                  "key": "positionY",
+                  "value": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "icon",
+          "value": "coat_of_arms\\layouts\\diagonal_lowerleft_to_upperright_triple"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 197354
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "key": "ui_reticule_bag",
+      "value": [
+        {
+          "key": "pulsing",
+          "value": [
+            {
+              "key": "pulse_alpha_off",
+              "value": 0
+            },
+            {
+              "key": "pulse_seconds",
+              "value": 0
+            },
+            {
+              "key": "pulse_alpha_on",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "texture",
+          "value": "auras\\aura_line_medium"
+        },
+        {
+          "key": "map",
+          "value": [
+            {
+              "key": "colour",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "diffuse",
+          "value": -1
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_reticule_array_data"
+        },
+        {
+          "key": "height_clamp",
+          "value": 50
+        },
+        {
+          "key": "easing",
+          "value": [
+            {
+              "key": "factor",
+              "value": 1
+            },
+            {
+              "key": "speed",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "thickness",
+          "value": 1
+        },
+        {
+          "key": "max_divisions",
+          "value": 90
+        },
+        {
+          "key": "retention",
+          "value": [
+            {
+              "key": "strobe_seconds_on",
+              "value": 1
+            },
+            {
+              "key": "strobe_seconds_off",
+              "value": 1
+            },
+            {
+              "key": "strobe_count",
+              "value": 1
+            },
+            {
+              "key": "strobe_alpha_on",
+              "value": 1
+            },
+            {
+              "key": "strobe_alpha_off",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "rotation_rate",
+          "value": 0.25
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 166013
+    }
+  ]
+}

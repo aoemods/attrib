@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\abilities\\leader_siege_damage"
+        },
+        {
+          "key": "description",
+          "value": 11190137
+        },
+        {
+          "key": "title",
+          "value": 11190136
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 205607
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

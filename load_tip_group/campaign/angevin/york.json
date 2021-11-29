@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "key": "load_tip_group_bag",
+      "value": [
+        {
+          "key": "tips",
+          "value": [
+          ]
+        },
+        {
+          "key": "load_tip_group_type",
+          "value": "standard"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 206064
+    }
+  ]
+}

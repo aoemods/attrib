@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "PHYSICAL_ATTACH_2"
+    },
+    {
+      "key": "_4",
+      "value": "PHYSICAL_ATTACH_3"
+    },
+    {
+      "key": "_7",
+      "value": "PHYSICAL_FACING_TARGET"
+    },
+    {
+      "key": "_9",
+      "value": "PHYSICAL_RESOURCE_DEPOSIT"
+    },
+    {
+      "key": "_0",
+      "value": "MOVE"
+    },
+    {
+      "key": "_8",
+      "value": "PHYSICAL_PICK_UP_TARGET"
+    },
+    {
+      "key": "_11",
+      "value": "PHYSICAL_VEHICLE_TARGET"
+    },
+    {
+      "key": "_2",
+      "value": "PHYSICAL_ATTACH"
+    },
+    {
+      "key": "_6",
+      "value": "PHYSICAL_CONSTRUCT"
+    },
+    {
+      "key": "_1",
+      "value": "PHYSICAL_ABILITY"
+    },
+    {
+      "key": "_5",
+      "value": "PHYSICAL_COMBAT_TARGET"
+    },
+    {
+      "key": "_10",
+      "value": "PHYSICAL_RIDER_0_TARGET"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "key": "achievement_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11197594
+        },
+        {
+          "key": "xbox_achievement_id",
+          "value": "86"
+        },
+        {
+          "key": "prerequisite_tasks",
+          "value": [
+          ]
+        },
+        {
+          "key": "icon",
+          "value": "achievements\\gameplay_moment_city_builder"
+        },
+        {
+          "key": "challenge_definition_id",
+          "value": 1472191
+        },
+        {
+          "key": "prerequisite_achievements",
+          "value": [
+          ]
+        },
+        {
+          "key": "steam_achievement_id",
+          "value": "A086_"
+        },
+        {
+          "key": "reward_xp",
+          "value": 0
+        },
+        {
+          "key": "hidden",
+          "value": false
+        },
+        {
+          "key": "type",
+          "value": 2
+        },
+        {
+          "key": "description",
+          "value": 11197599
+        },
+        {
+          "key": "item_bundle",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1818020
+    }
+  ]
+}

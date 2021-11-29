@@ -1,0 +1,563 @@
+{
+  "data": [
+    {
+      "key": "navigation_info",
+      "value": [
+        {
+          "key": "formations",
+          "value": [
+            {
+              "key": "dynamic_formation_speed_type",
+              "value": 4
+            },
+            {
+              "key": "formation_acceptable_goal_proximity_margin_metres",
+              "value": 1
+            },
+            {
+              "key": "row_vertical_width_in_formation_space",
+              "value": 0.2
+            },
+            {
+              "key": "default_formation_info",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "formation_default"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "navigation\\formation_info"
+                }
+              ]
+            },
+            {
+              "key": "dynamic_formation_speed_type_threshold",
+              "value": 0
+            },
+            {
+              "key": "stationary_formation_velocity_theshold",
+              "value": 0.5
+            },
+            {
+              "key": "stalled_formation_threshold_seconds",
+              "value": 2
+            },
+            {
+              "key": "num_formation_position_delta_averaging_frames",
+              "value": 8
+            },
+            {
+              "key": "formation_move_to_goal_speed_type",
+              "value": 0
+            },
+            {
+              "key": "formation_min_agent_speed_multiplier",
+              "value": 1
+            },
+            {
+              "key": "cone_angle_in_degrees_for_spot_reassignment",
+              "value": 90
+            }
+          ]
+        },
+        {
+          "key": "stationary_agent_cost_rasterization",
+          "value": [
+            {
+              "key": "pass_types_to_affected_pass_types",
+              "value": [
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "stationary_agent_pass_type",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "infantry"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "pass_types"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "target_pass_types",
+                      "value": [
+                        {
+                          "key": "target_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "infantry"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "target_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "vehicle"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "entry",
+                  "value": [
+                    {
+                      "key": "stationary_agent_pass_type",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "vehicle"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "pass_types"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "target_pass_types",
+                      "value": [
+                        {
+                          "key": "target_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "infantry"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "target_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "vehicle"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "cost_circles",
+              "value": [
+              ]
+            }
+          ]
+        },
+        {
+          "key": "agent_movement",
+          "value": [
+            {
+              "key": "steer_min_length_threshold",
+              "value": 0.001
+            },
+            {
+              "key": "intention_move_state",
+              "value": "move"
+            },
+            {
+              "key": "optimal_proximity_ratio",
+              "value": 0.75
+            },
+            {
+              "key": "intention_pushed_state",
+              "value": "push_shuffle"
+            },
+            {
+              "key": "pivot_tolerance_degrees",
+              "value": 15
+            },
+            {
+              "key": "bounday_cell_avoidance_radius_multiplier",
+              "value": 3
+            },
+            {
+              "key": "delta_position_threshold_for_heading_change_meters",
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "key": "agent_layers",
+          "value": [
+            {
+              "key": "pass_types_to_collision_pass_types",
+              "value": [
+                {
+                  "key": "pass_type_collision_entry",
+                  "value": [
+                    {
+                      "key": "to_pass_types",
+                      "value": [
+                        {
+                          "key": "collides_with_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "infantry"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "collides_with_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "vehicle"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "collides_with_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "water_default"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "pass_type",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "infantry"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "pass_types"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "pass_type_collision_entry",
+                  "value": [
+                    {
+                      "key": "to_pass_types",
+                      "value": [
+                        {
+                          "key": "collides_with_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "infantry"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "collides_with_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "vehicle"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "collides_with_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "water_default"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "pass_type",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "vehicle"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "pass_types"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "pass_type_collision_entry",
+                  "value": [
+                    {
+                      "key": "to_pass_types",
+                      "value": [
+                        {
+                          "key": "collides_with_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "infantry"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "collides_with_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "vehicle"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "collides_with_pass_type",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "water_default"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "pass_types"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "pass_type",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "water_default"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "pass_types"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "collision_system",
+          "value": [
+            {
+              "key": "transform_update_limits",
+              "value": [
+                {
+                  "key": "minDistanceTreshold_metres",
+                  "value": 0.001
+                },
+                {
+                  "key": "minFacingAngleTreshold_degrees",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "collision_resolution_enable",
+              "value": false
+            },
+            {
+              "key": "positional_correction_enable",
+              "value": true
+            },
+            {
+              "key": "lateral_slip",
+              "value": [
+                {
+                  "key": "enable",
+                  "value": true
+                },
+                {
+                  "key": "threshold_angle_degrees",
+                  "value": 30
+                },
+                {
+                  "key": "proportion_of_penetration_to_use",
+                  "value": 0.6
+                }
+              ]
+            },
+            {
+              "key": "positional_correction_penetration_percent",
+              "value": 1
+            },
+            {
+              "key": "collision_iterations_substeps_per_frame",
+              "value": 2
+            },
+            {
+              "key": "positional_correction_allowed_penetration_metres",
+              "value": 0
+            },
+            {
+              "key": "rank_tuning",
+              "value": [
+                {
+                  "key": "clearance_threshold_to_trigger_picking_winner",
+                  "value": 4
+                },
+                {
+                  "key": "use_rank",
+                  "value": true
+                },
+                {
+                  "key": "rank_winner_is_infinite_mass",
+                  "value": true
+                },
+                {
+                  "key": "rank_mass_multiplier",
+                  "value": 200
+                }
+              ]
+            },
+            {
+              "key": "collision_overlap_resolution_type",
+              "value": 0
+            },
+            {
+              "key": "collision_iterations_per_frame",
+              "value": 8
+            },
+            {
+              "key": "impasse",
+              "value": [
+                {
+                  "key": "pull_back_fudge_meters",
+                  "value": 0.1
+                },
+                {
+                  "key": "impasse_resolution_max_steps",
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "key": "positional_correction_hit_impasse_penetration_percent",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "flow_calculation",
+          "value": [
+            {
+              "key": "max_portal_tree_bloom_degree",
+              "value": 6
+            },
+            {
+              "key": "fmm_sqrt_early_out_distance",
+              "value": 32
+            },
+            {
+              "key": "connection_cost_max_tolerance",
+              "value": 30
+            },
+            {
+              "key": "use_flow_impasse",
+              "value": false
+            },
+            {
+              "key": "max_segmented_flow_length",
+              "value": 3
+            },
+            {
+              "key": "max_num_unreferenced_cards_per_tile",
+              "value": 15
+            },
+            {
+              "key": "cost_to_portal_tile_cache_size_min",
+              "value": 0
+            },
+            {
+              "key": "max_num_portal_path_calculations_per_tick",
+              "value": 64
+            },
+            {
+              "key": "max_num_flow_card_calculations_per_tick",
+              "value": 32
+            },
+            {
+              "key": "cost_to_portal_tile_cache_size_percentage",
+              "value": 0.25
+            },
+            {
+              "key": "num_unreferenced_cards_removed_per_request",
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 169988
+    }
+  ]
+}

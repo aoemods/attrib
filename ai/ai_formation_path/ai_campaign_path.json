@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "key": "ai_formation_path",
+      "value": [
+        {
+          "key": "formation_path_query_option",
+          "value": [
+            {
+              "key": "combat_fitness_min",
+              "value": 0.4
+            },
+            {
+              "key": "threat_cost_max",
+              "value": 100
+            },
+            {
+              "key": "threat_cost_min",
+              "value": 0
+            },
+            {
+              "key": "enemy_unit_type_scores",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "options\\ai\\encounters\\unit_type_scores"
+                },
+                {
+                  "key": "unit_type_scores",
+                  "value": [
+                    {
+                      "key": "unit_type_score",
+                      "value": [
+                        {
+                          "key": "unit_type",
+                          "value": "castle"
+                        },
+                        {
+                          "key": "score",
+                          "value": 100
+                        }
+                      ]
+                    },
+                    {
+                      "key": "unit_type_score",
+                      "value": [
+                        {
+                          "key": "unit_type",
+                          "value": "tower"
+                        },
+                        {
+                          "key": "score",
+                          "value": 10
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "path_recalculate_interval_seconds",
+              "value": 10
+            },
+            {
+              "key": "$REF",
+              "value": "options\\ai\\encounters\\formation_threat_path_option"
+            },
+            {
+              "key": "use_threat_history",
+              "value": false
+            },
+            {
+              "key": "threat_weight_outside_area",
+              "value": 1
+            },
+            {
+              "key": "combat_fitness_max",
+              "value": 1
+            },
+            {
+              "key": "leaving_area_multiplier",
+              "value": 2
+            },
+            {
+              "key": "threat_weight_inside_area",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2054447
+    }
+  ]
+}

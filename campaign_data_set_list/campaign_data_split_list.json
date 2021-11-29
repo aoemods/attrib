@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "key": "campaign_data_set_list_bag",
+      "value": [
+        {
+          "key": "initial_data_set",
+          "value": "Skirmish"
+        },
+        {
+          "key": "campaign_data_sets",
+          "value": [
+            {
+              "key": "data_set_container",
+              "value": [
+                {
+                  "key": "data_set",
+                  "value": [
+                    {
+                      "key": "name",
+                      "value": "Skirmish"
+                    },
+                    {
+                      "key": "state_tree_root_node_prefix",
+                      "value": ""
+                    },
+                    {
+                      "key": "tensor_flow_prefix",
+                      "value": ""
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "campaign_data_set"
+                    },
+                    {
+                      "key": "tuning_pack_guid",
+                      "value": ""
+                    },
+                    {
+                      "key": "state_tree_folder_prefix",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "data_set_container",
+              "value": [
+                {
+                  "key": "data_set",
+                  "value": [
+                    {
+                      "key": "name",
+                      "value": "Campaign"
+                    },
+                    {
+                      "key": "state_tree_root_node_prefix",
+                      "value": "campaignMod_"
+                    },
+                    {
+                      "key": "tensor_flow_prefix",
+                      "value": "campaign_"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "campaign_data_set"
+                    },
+                    {
+                      "key": "tuning_pack_guid",
+                      "value": "2b68be0ca3f34580bb867f188bb77459"
+                    },
+                    {
+                      "key": "state_tree_folder_prefix",
+                      "value": "campaign_"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2033333
+    }
+  ]
+}

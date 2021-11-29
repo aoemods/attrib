@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": ""
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "default"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "default"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_merge_mesh_attachment",
+                      "value": [
+                        {
+                          "key": "meshes",
+                          "value": [
+                            {
+                              "key": "animator0",
+                              "value": "art\\civilizations\\sultanate\\animals\\sul_elephant_combined_armor_age04\\sul_elephant_combined_armor_age04"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_merge_mesh_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1408165
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "core_elephant"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "attachments\\attachment_lists"
+        }
+      ]
+    }
+  ]
+}

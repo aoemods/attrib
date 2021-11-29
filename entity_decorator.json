@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "EntityBoobyTrap"
+    },
+    {
+      "key": "_4",
+      "value": "EntityDemolitionCharge"
+    },
+    {
+      "key": "_7",
+      "value": "EntityMission"
+    },
+    {
+      "key": "_9",
+      "value": "EntityProjectile"
+    },
+    {
+      "key": "_0",
+      "value": "DistrictLandmarkUnderConstruction"
+    },
+    {
+      "key": "_8",
+      "value": "EntityPickup"
+    },
+    {
+      "key": "_13",
+      "value": "EntityUnderConstruction"
+    },
+    {
+      "key": "_11",
+      "value": "EntityStructure"
+    },
+    {
+      "key": "_2",
+      "value": "EntityAbandonedRecrewable"
+    },
+    {
+      "key": "_14",
+      "value": "EntityWreck"
+    },
+    {
+      "key": "_12",
+      "value": "EntityTeamWeapon"
+    },
+    {
+      "key": "_6",
+      "value": "EntityInProduction"
+    },
+    {
+      "key": "_1",
+      "value": "Entity"
+    },
+    {
+      "key": "_5",
+      "value": "EntityDistrictLandmark"
+    },
+    {
+      "key": "_10",
+      "value": "EntityStrategicPoint"
+    }
+  ]
+}

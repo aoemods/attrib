@@ -1,0 +1,472 @@
+{
+  "data": [
+    {
+      "key": "stealth_sim_world_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\stealth_sim_world_module"
+        },
+        {
+          "key": "mesh_types",
+          "value": [
+            {
+              "key": "mesh_type",
+              "value": "stealth_woods"
+            },
+            {
+              "key": "mesh_type",
+              "value": "ocean_stealth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "road_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\road_module"
+        }
+      ]
+    },
+    {
+      "key": "navigation_module",
+      "value": [
+        {
+          "key": "navigation_info",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "navigation_default"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "navigation\\navigation_info"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "world_modules\\navigation_module"
+        }
+      ]
+    },
+    {
+      "key": "clearable_game_objects_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\clearable_game_objects_module"
+        }
+      ]
+    },
+    {
+      "key": "territory_module",
+      "value": [
+        {
+          "key": "territory_fow_reveal_type",
+          "value": "none"
+        },
+        {
+          "key": "territory_type",
+          "value": 1
+        },
+        {
+          "key": "territory_sectors_check_fow",
+          "value": true
+        },
+        {
+          "key": "show_enemy_territory_multiplayer",
+          "value": true
+        },
+        {
+          "key": "show_enemy_territory_minimap",
+          "value": true
+        },
+        {
+          "key": "$REF",
+          "value": "world_modules\\territory_module"
+        },
+        {
+          "key": "conforming_square_to_preserve_side_length_meters",
+          "value": 14
+        },
+        {
+          "key": "show_enemy_territory_singleplayer",
+          "value": true
+        },
+        {
+          "key": "min_polygon_simplification_distance_threshold",
+          "value": 2
+        },
+        {
+          "key": "merge_frontlines",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "globalstatetree_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\globalstatetree_module"
+        }
+      ]
+    },
+    {
+      "key": "trade_route_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\trade_route_module"
+        },
+        {
+          "key": "pbgid",
+          "value": 156159
+        },
+        {
+          "key": "trade_route_tuning",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "trade_route_tuning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "formation_squad_group_module",
+      "value": [
+        {
+          "key": "global_scanning",
+          "value": [
+            {
+              "key": "global_scanning_interval",
+              "value": 1
+            },
+            {
+              "key": "global_scanning_circle_merge_max_radius_difference",
+              "value": 5
+            },
+            {
+              "key": "global_scanning_min_distance_to_trigger_frequent_scan",
+              "value": 0.3
+            },
+            {
+              "key": "global_scanning_circle_merge_max_distance",
+              "value": 5
+            },
+            {
+              "key": "use_formation_global_scanning",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "world_modules\\formation_squad_group_module"
+        },
+        {
+          "key": "formation_combat_charge_distance",
+          "value": 25
+        },
+        {
+          "key": "update_destination_delay_seconds",
+          "value": 0.5
+        }
+      ]
+    },
+    {
+      "key": "basic_fog_of_war_module",
+      "value": [
+        {
+          "key": "painted_shroud_effect_layer",
+          "value": "sight_plus_shroud"
+        },
+        {
+          "key": "painted_fow_visibility_layer_name",
+          "value": "fow_visibility"
+        },
+        {
+          "key": "painted_explored_layer",
+          "value": "explored"
+        },
+        {
+          "key": "resolution_scale",
+          "value": 2
+        },
+        {
+          "key": "$REF",
+          "value": "world_modules\\basic_fog_of_war_module"
+        },
+        {
+          "key": "painted_visible_layer",
+          "value": "visible"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 156158
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "initialization_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\initialization_module"
+        }
+      ]
+    },
+    {
+      "key": "districts_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\districts_module"
+        },
+        {
+          "key": "ui",
+          "value": [
+            {
+              "key": "district_outline_line_alpha",
+              "value": 1
+            },
+            {
+              "key": "highlight_state_alpha",
+              "value": 0.15
+            },
+            {
+              "key": "district_colour_alpha",
+              "value": 0.05
+            },
+            {
+              "key": "district_gap",
+              "value": 0.035
+            },
+            {
+              "key": "district_outline_line_thickness",
+              "value": 0.03
+            },
+            {
+              "key": "district_colours",
+              "value": [
+                {
+                  "key": "colour",
+                  "value": -32198
+                },
+                {
+                  "key": "colour",
+                  "value": -1686580891
+                },
+                {
+                  "key": "colour",
+                  "value": -9075232
+                },
+                {
+                  "key": "colour",
+                  "value": -3576934
+                }
+              ]
+            },
+            {
+              "key": "neutral_district_colour",
+              "value": -32944
+            },
+            {
+              "key": "district_colour_alpha_max",
+              "value": 0.3
+            },
+            {
+              "key": "district_fade_width",
+              "value": 0.6
+            },
+            {
+              "key": "district_outline_colour",
+              "value": -31681
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "entity_visibility_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\entity_visibility_module"
+        }
+      ]
+    },
+    {
+      "key": "market_trade_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\market_trade_module"
+        },
+        {
+          "key": "market_tuning",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "market_tuning"
+            }
+          ]
+        },
+        {
+          "key": "pbgid",
+          "value": 137043
+        }
+      ]
+    },
+    {
+      "key": "mesh_area_module",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "world_modules\\mesh_area_module"
+        },
+        {
+          "key": "default_mesh_area_visuals",
+          "value": [
+            {
+              "key": "stealth_woods",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "temperate_stealth_woods"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "mesh_area_visuals"
+                }
+              ]
+            },
+            {
+              "key": "ocean_stealth",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ocean_stealth_fog"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "mesh_area_visuals"
+                }
+              ]
+            },
+            {
+              "key": "none",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "dense_woods",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "taiga_dense_woods"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "mesh_area_visuals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "default_mesh_area_properties",
+          "value": [
+            {
+              "key": "stealth_woods",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "standard_stealth_woods"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "mesh_area_properties"
+                }
+              ]
+            },
+            {
+              "key": "ocean_stealth",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "standard_ocean_stealth"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "mesh_area_properties"
+                }
+              ]
+            },
+            {
+              "key": "none",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "dense_woods",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "standard_dense_woods"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "mesh_area_properties"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

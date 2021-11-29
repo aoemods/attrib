@@ -1,0 +1,1660 @@
+{
+  "data": [
+    {
+      "key": "weapon_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": "Archer Melee"
+        },
+        {
+          "key": "weapon_class",
+          "value": "cdn_1h_sword"
+        },
+        {
+          "key": "fog_of_war",
+          "value": [
+            {
+              "key": "reveal_self_on_attack",
+              "value": true
+            },
+            {
+              "key": "reveal_target_on_hit",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "ui_map_colour",
+          "value": [
+            {
+              "key": "red",
+              "value": 0
+            },
+            {
+              "key": "green",
+              "value": 0
+            },
+            {
+              "key": "blue",
+              "value": 0
+            },
+            {
+              "key": "alpha",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "accuracy",
+          "value": [
+            {
+              "key": "mid",
+              "value": 1
+            },
+            {
+              "key": "near",
+              "value": 1
+            },
+            {
+              "key": "far",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "animation_role_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "projectile",
+          "value": [
+            {
+              "key": "projectile",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "terrain_elevation_option",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "options\\none"
+                }
+              ]
+            },
+            {
+              "key": "delete_previous_on_hit",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "fx_tracer_speed",
+          "value": 0
+        },
+        {
+          "key": "area_effect",
+          "value": [
+            {
+              "key": "accuracy",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 1
+                },
+                {
+                  "key": "near",
+                  "value": 1
+                },
+                {
+                  "key": "far",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "suppression_friendly",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 0
+                },
+                {
+                  "key": "near",
+                  "value": 0
+                },
+                {
+                  "key": "far",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "area_over_time_option",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "damage",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 1
+                },
+                {
+                  "key": "near",
+                  "value": 1
+                },
+                {
+                  "key": "far",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "damage_friendly",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 1
+                },
+                {
+                  "key": "near",
+                  "value": 1
+                },
+                {
+                  "key": "far",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "distance",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 0
+                },
+                {
+                  "key": "near",
+                  "value": 0
+                },
+                {
+                  "key": "far",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "aoe_origin_and_direction",
+              "value": 0
+            },
+            {
+              "key": "aoe_penetration",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "tables\\range_table"
+                },
+                {
+                  "key": "near",
+                  "value": 0
+                },
+                {
+                  "key": "far",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "suppression",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 0
+                },
+                {
+                  "key": "near",
+                  "value": 0
+                },
+                {
+                  "key": "far",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "fx",
+              "value": [
+                {
+                  "key": "num_randomized_ground_hit_fx",
+                  "value": 0
+                },
+                {
+                  "key": "exponential_distribution_lambda",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "area_info",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "options\\area_info_options\\point_area_option"
+                }
+              ]
+            },
+            {
+              "key": "damage_max_members_per_squad",
+              "value": -1
+            },
+            {
+              "key": "has_friendly_fire",
+              "value": false
+            },
+            {
+              "key": "damage_all_in_hold",
+              "value": false
+            },
+            {
+              "key": "can_harm_shooter",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "fx_aoe_munition_name",
+          "value": ""
+        },
+        {
+          "key": "ui_range",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "priority",
+          "value": [
+            {
+              "key": "rotation",
+              "value": 0
+            },
+            {
+              "key": "target",
+              "value": [
+                {
+                  "key": "in_cover",
+                  "value": 0
+                },
+                {
+                  "key": "dps",
+                  "value": 0
+                },
+                {
+                  "key": "max_health",
+                  "value": 0
+                },
+                {
+                  "key": "out_of_los",
+                  "value": -100
+                },
+                {
+                  "key": "penetration",
+                  "value": 0
+                },
+                {
+                  "key": "current_health_percentage",
+                  "value": 0
+                },
+                {
+                  "key": "vs_armor_type",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "suggested_target",
+              "value": 0
+            },
+            {
+              "key": "window_bonus",
+              "value": 0
+            },
+            {
+              "key": "distance",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 1
+                },
+                {
+                  "key": "near",
+                  "value": 1
+                },
+                {
+                  "key": "far",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "randomly_target_squad_mates_of_best_priority_entity",
+              "value": false
+            },
+            {
+              "key": "untargeted_by_formation_melee",
+              "value": 0
+            },
+            {
+              "key": "penetration",
+              "value": 0
+            },
+            {
+              "key": "current_target",
+              "value": 0
+            },
+            {
+              "key": "over_penetration_priority_penalty",
+              "value": false
+            },
+            {
+              "key": "vs_armor_type",
+              "value": 0
+            },
+            {
+              "key": "untargeted_by_formation_ranged",
+              "value": 0
+            },
+            {
+              "key": "current_target_squad",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "damage",
+          "value": [
+            {
+              "key": "damage_type",
+              "value": "Melee"
+            },
+            {
+              "key": "allow_overkill",
+              "value": false
+            },
+            {
+              "key": "max",
+              "value": 8
+            },
+            {
+              "key": "min",
+              "value": 8
+            },
+            {
+              "key": "on_penetrated_state_trees",
+              "value": [
+              ]
+            }
+          ]
+        },
+        {
+          "key": "suppressed",
+          "value": [
+            {
+              "key": "pinned_cooldown_multiplier",
+              "value": 0
+            },
+            {
+              "key": "pinned_reload_multiplier",
+              "value": 0
+            },
+            {
+              "key": "suppressed_cooldown_multiplier",
+              "value": 0
+            },
+            {
+              "key": "suppressed_reload_multiplier",
+              "value": 0
+            },
+            {
+              "key": "pinned_burst_multiplier",
+              "value": 0
+            },
+            {
+              "key": "suppressed_burst_multiplier",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "weapon_options",
+          "value": [
+            {
+              "key": "windup_extended_range_override",
+              "value": -1
+            },
+            {
+              "key": "$REF",
+              "value": "options\\weapon\\melee_options"
+            },
+            {
+              "key": "attack_animation_chain_length",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "fx_delay_in_building",
+          "value": 0
+        },
+        {
+          "key": "burst",
+          "value": [
+            {
+              "key": "duration",
+              "value": [
+                {
+                  "key": "max",
+                  "value": 0
+                },
+                {
+                  "key": "min",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "convert_target_to_position_before_firing",
+              "value": false
+            },
+            {
+              "key": "rate_of_fire_multiplier",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 1
+                },
+                {
+                  "key": "near",
+                  "value": 1
+                },
+                {
+                  "key": "far",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "duration_multiplier",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 1
+                },
+                {
+                  "key": "near",
+                  "value": 1
+                },
+                {
+                  "key": "far",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "focus_fire",
+              "value": false
+            },
+            {
+              "key": "can_burst",
+              "value": false
+            },
+            {
+              "key": "rate_of_fire",
+              "value": [
+                {
+                  "key": "max",
+                  "value": 0
+                },
+                {
+                  "key": "min",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "incremental_target_table",
+              "value": [
+                {
+                  "key": "accuracy_multiplier",
+                  "value": 0
+                },
+                {
+                  "key": "search_radius",
+                  "value": [
+                    {
+                      "key": "mid",
+                      "value": 0
+                    },
+                    {
+                      "key": "near",
+                      "value": 0
+                    },
+                    {
+                      "key": "far",
+                      "value": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "behaviour",
+          "value": [
+            {
+              "key": "ignore_shot_blocking",
+              "value": false
+            },
+            {
+              "key": "aa_weapon",
+              "value": false
+            },
+            {
+              "key": "reaction_radius",
+              "value": 0
+            },
+            {
+              "key": "can_be_substituted",
+              "value": false
+            },
+            {
+              "key": "ground_hit_rate",
+              "value": 0
+            },
+            {
+              "key": "non_moving_setup_requires_facing",
+              "value": false
+            },
+            {
+              "key": "artillery_force_obey_los",
+              "value": false
+            },
+            {
+              "key": "causes_combat",
+              "value": true
+            },
+            {
+              "key": "can_abort_winddown_on_weapon_switch",
+              "value": true
+            },
+            {
+              "key": "non_moving_setup",
+              "value": false
+            },
+            {
+              "key": "can_be_offhanded",
+              "value": false
+            },
+            {
+              "key": "reaction_type",
+              "value": "normal"
+            },
+            {
+              "key": "single_handed_weapon",
+              "value": false
+            },
+            {
+              "key": "combat_slot_offset",
+              "value": -20
+            },
+            {
+              "key": "enable_auto_target_search",
+              "value": false
+            },
+            {
+              "key": "substitute_weapon",
+              "value": false
+            },
+            {
+              "key": "attack_team_weapon_user",
+              "value": false
+            },
+            {
+              "key": "fire_at_building_combat_slot",
+              "value": false
+            },
+            {
+              "key": "attack_ground_type",
+              "value": 0
+            },
+            {
+              "key": "can_damage_allies",
+              "value": false
+            },
+            {
+              "key": "wants_prone_firing_option",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "options\\none"
+                }
+              ]
+            },
+            {
+              "key": "hit_pos_behaviour",
+              "value": 0
+            },
+            {
+              "key": "support_weapon",
+              "value": false
+            },
+            {
+              "key": "aa_weapon_shoot_through",
+              "value": false
+            },
+            {
+              "key": "hit_everything_on_hit",
+              "value": false
+            },
+            {
+              "key": "point_blank",
+              "value": false
+            },
+            {
+              "key": "ignore_relations",
+              "value": false
+            },
+            {
+              "key": "can_abort_winddown_on_move_command",
+              "value": false
+            },
+            {
+              "key": "reset_rotation_on_teardown",
+              "value": false
+            },
+            {
+              "key": "hit_everything_on_miss",
+              "value": false
+            },
+            {
+              "key": "share_parent_anim",
+              "value": false
+            },
+            {
+              "key": "prevents_prone",
+              "value": false
+            },
+            {
+              "key": "piercing",
+              "value": false
+            },
+            {
+              "key": "surprises_idle",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "weapon_tags",
+          "value": [
+          ]
+        },
+        {
+          "key": "fx_munition_name",
+          "value": "common_dagger"
+        },
+        {
+          "key": "icon_name",
+          "value": ""
+        },
+        {
+          "key": "suppression",
+          "value": [
+            {
+              "key": "target_suppressed_multipliers",
+              "value": [
+                {
+                  "key": "suppression_multiplier",
+                  "value": 0
+                },
+                {
+                  "key": "penetration_multiplier",
+                  "value": 0
+                },
+                {
+                  "key": "accuracy_multiplier",
+                  "value": 0
+                },
+                {
+                  "key": "damage_multiplier",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "target_pinned_multipliers",
+              "value": [
+                {
+                  "key": "suppression_multiplier",
+                  "value": 0
+                },
+                {
+                  "key": "penetration_multiplier",
+                  "value": 0
+                },
+                {
+                  "key": "accuracy_multiplier",
+                  "value": 0
+                },
+                {
+                  "key": "damage_multiplier",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "nearby_suppression_radius",
+              "value": 0
+            },
+            {
+              "key": "nearby_suppression_multiplier",
+              "value": 0
+            },
+            {
+              "key": "amount",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "kill_unit_types_on_hit",
+          "value": [
+          ]
+        },
+        {
+          "key": "tracking",
+          "value": [
+            {
+              "key": "normal",
+              "value": [
+                {
+                  "key": "speed_horizontal",
+                  "value": 180
+                },
+                {
+                  "key": "max_right",
+                  "value": 0
+                },
+                {
+                  "key": "max_down",
+                  "value": 0
+                },
+                {
+                  "key": "max_up",
+                  "value": 0
+                },
+                {
+                  "key": "speed_vertical",
+                  "value": 180
+                },
+                {
+                  "key": "max_left",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "fire_cone_angle",
+              "value": 90
+            },
+            {
+              "key": "pivot_end_time",
+              "value": 0
+            },
+            {
+              "key": "fire_cone_angle_vert",
+              "value": 2
+            },
+            {
+              "key": "pivot_start_time",
+              "value": 0
+            },
+            {
+              "key": "pivot_only",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "cooldown",
+          "value": [
+            {
+              "key": "duration",
+              "value": [
+                {
+                  "key": "max",
+                  "value": 0.5
+                },
+                {
+                  "key": "min",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "duration_multiplier",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 1
+                },
+                {
+                  "key": "near",
+                  "value": 1
+                },
+                {
+                  "key": "far",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "persistent_cooldownticks",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "fx_piercing_munition_name",
+          "value": ""
+        },
+        {
+          "key": "charge_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "ui_setfacing",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "fx_always_visible",
+          "value": false
+        },
+        {
+          "key": "fx_action_target_name",
+          "value": ""
+        },
+        {
+          "key": "moving",
+          "value": [
+            {
+              "key": "cooldown_multiplier",
+              "value": 1
+            },
+            {
+              "key": "can_fire_while_moving",
+              "value": false
+            },
+            {
+              "key": "moving_start_time",
+              "value": 0
+            },
+            {
+              "key": "accuracy_multiplier",
+              "value": 1
+            },
+            {
+              "key": "moving_end_time",
+              "value": 0
+            },
+            {
+              "key": "burst_multiplier",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "ui_name",
+          "value": 11164722
+        },
+        {
+          "key": "fire",
+          "value": [
+            {
+              "key": "animation_impact_frame_time",
+              "value": 0.375
+            },
+            {
+              "key": "wind_up",
+              "value": 0.25
+            },
+            {
+              "key": "wind_down",
+              "value": 0.75
+            }
+          ]
+        },
+        {
+          "key": "penetration",
+          "value": [
+            {
+              "key": "mid",
+              "value": 0
+            },
+            {
+              "key": "near",
+              "value": 0
+            },
+            {
+              "key": "far",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "default_attack_type",
+          "value": "default"
+        },
+        {
+          "key": "anim_table",
+          "value": [
+            {
+              "key": "cooldown_time_name",
+              "value": ""
+            },
+            {
+              "key": "target_range_name",
+              "value": ""
+            },
+            {
+              "key": "track_vertical_speed",
+              "value": ""
+            },
+            {
+              "key": "track_horizontal_speed",
+              "value": ""
+            },
+            {
+              "key": "track_world_pos_z_name",
+              "value": ""
+            },
+            {
+              "key": "ability_state",
+              "value": ""
+            },
+            {
+              "key": "track_horizontal",
+              "value": ""
+            },
+            {
+              "key": "track_vertical",
+              "value": ""
+            },
+            {
+              "key": "state_name",
+              "value": "melee_weapon_state"
+            },
+            {
+              "key": "track_world_pos_x_name",
+              "value": ""
+            },
+            {
+              "key": "variety_name",
+              "value": ""
+            },
+            {
+              "key": "attack_speed_scale_value",
+              "value": 1
+            },
+            {
+              "key": "visibility_name",
+              "value": ""
+            },
+            {
+              "key": "attack_speed_scale_name",
+              "value": "melee_speed_scale"
+            },
+            {
+              "key": "track_world_pos_y_name",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "cover_table",
+          "value": [
+            {
+              "key": "plain",
+              "value": [
+                {
+                  "key": "suppression_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "penetration_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "weapon_cover_info"
+                },
+                {
+                  "key": "accuracy_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "damage_multiplier",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "forest",
+              "value": [
+                {
+                  "key": "suppression_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "penetration_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "weapon_cover_info"
+                },
+                {
+                  "key": "accuracy_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "damage_multiplier",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "hill",
+              "value": [
+                {
+                  "key": "suppression_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "penetration_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "weapon_cover_info"
+                },
+                {
+                  "key": "accuracy_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "damage_multiplier",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "mountain",
+              "value": [
+                {
+                  "key": "suppression_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "penetration_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "weapon_cover_info"
+                },
+                {
+                  "key": "accuracy_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "damage_multiplier",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "tp_defcover",
+              "value": [
+                {
+                  "key": "suppression_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "penetration_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "weapon_cover_info"
+                },
+                {
+                  "key": "accuracy_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "damage_multiplier",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "water",
+              "value": [
+                {
+                  "key": "suppression_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "penetration_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "weapon_cover_info"
+                },
+                {
+                  "key": "accuracy_multiplier",
+                  "value": 1
+                },
+                {
+                  "key": "damage_multiplier",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "setup",
+          "value": [
+            {
+              "key": "duration",
+              "value": 0
+            },
+            {
+              "key": "has_instant_setup",
+              "value": false
+            },
+            {
+              "key": "requires_aim_elevation",
+              "value": false
+            },
+            {
+              "key": "attach_duration",
+              "value": 0
+            },
+            {
+              "key": "can_interrupt_setup",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "scatter",
+          "value": [
+            {
+              "key": "distance_scatter_obj_hit_min",
+              "value": 0
+            },
+            {
+              "key": "distance_guaranteed_before_hit_percentage",
+              "value": 0
+            },
+            {
+              "key": "distance_bracket_count_air",
+              "value": 0
+            },
+            {
+              "key": "angle_scatter",
+              "value": 0
+            },
+            {
+              "key": "movement_scatter_angle_multiplier",
+              "value": 1
+            },
+            {
+              "key": "max_tilt_angle",
+              "value": 0
+            },
+            {
+              "key": "distance_scatter_ratio",
+              "value": 0
+            },
+            {
+              "key": "fow_angle_multiplier",
+              "value": 0
+            },
+            {
+              "key": "tilt_max_distance",
+              "value": 0
+            },
+            {
+              "key": "distance_bracket_count_ground",
+              "value": 1
+            },
+            {
+              "key": "delay_bracket_change_chance",
+              "value": 0
+            },
+            {
+              "key": "min_tilt_angle",
+              "value": 0
+            },
+            {
+              "key": "movement_scatter_distance_multiplier",
+              "value": 1
+            },
+            {
+              "key": "burst_pattern_enable",
+              "value": false
+            },
+            {
+              "key": "area_scatter_option",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "options\\none"
+                }
+              ]
+            },
+            {
+              "key": "tilt_scatter_chance",
+              "value": 0
+            },
+            {
+              "key": "distance_scatter_offset",
+              "value": 0
+            },
+            {
+              "key": "fow_distance_multiplier",
+              "value": 0
+            },
+            {
+              "key": "distance_scatter_max",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "avoid_blockers_of_relationship",
+          "value": [
+            {
+              "key": "ally",
+              "value": true
+            },
+            {
+              "key": "neutral",
+              "value": true
+            },
+            {
+              "key": "enemy",
+              "value": true
+            },
+            {
+              "key": "undefined",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "teardown",
+          "value": [
+            {
+              "key": "duration",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "fx_building_hit_delay",
+          "value": 0
+        },
+        {
+          "key": "brace_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "fx_tracer_name",
+          "value": ""
+        },
+        {
+          "key": "flinch_radius",
+          "value": 0
+        },
+        {
+          "key": "aim",
+          "value": [
+            {
+              "key": "aim_time_multiplier",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 1
+                },
+                {
+                  "key": "near",
+                  "value": 1
+                },
+                {
+                  "key": "far",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "fire_aim_time",
+              "value": [
+                {
+                  "key": "max",
+                  "value": 0
+                },
+                {
+                  "key": "min",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "post_firing_aim_time_seconds",
+              "value": 0
+            },
+            {
+              "key": "post_firing_cooldown_interval_seconds",
+              "value": 0
+            },
+            {
+              "key": "ready_aim_time",
+              "value": [
+                {
+                  "key": "max",
+                  "value": 0
+                },
+                {
+                  "key": "min",
+                  "value": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "height_bonuses",
+          "value": [
+            {
+              "key": "height_advantage",
+              "value": [
+                {
+                  "key": "multipliers",
+                  "value": [
+                    {
+                      "key": "suppression_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "penetration_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "accuracy_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "damage_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "height_threshold",
+                  "value": 0
+                },
+                {
+                  "key": "negates_cover",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "height_disadvantage",
+              "value": [
+                {
+                  "key": "multipliers",
+                  "value": [
+                    {
+                      "key": "suppression_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "penetration_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "accuracy_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "damage_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "height_threshold",
+                  "value": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "range",
+          "value": [
+            {
+              "key": "distance",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": -1
+                },
+                {
+                  "key": "near",
+                  "value": -1
+                },
+                {
+                  "key": "far",
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "key": "max",
+              "value": 1.18
+            },
+            {
+              "key": "min",
+              "value": 0
+            },
+            {
+              "key": "max_height",
+              "value": 5
+            },
+            {
+              "key": "max_animation_angle_distance",
+              "value": 45
+            }
+          ]
+        },
+        {
+          "key": "deflection",
+          "value": [
+            {
+              "key": "has_deflection_damage",
+              "value": false
+            },
+            {
+              "key": "deflection_damage_multiplier",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "fx_use_building_panel_normal",
+          "value": false
+        },
+        {
+          "key": "reload",
+          "value": [
+            {
+              "key": "duration",
+              "value": [
+                {
+                  "key": "max",
+                  "value": 0
+                },
+                {
+                  "key": "min",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "duration_multiplier",
+              "value": [
+                {
+                  "key": "mid",
+                  "value": 1
+                },
+                {
+                  "key": "near",
+                  "value": 1
+                },
+                {
+                  "key": "far",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "frequency",
+              "value": [
+                {
+                  "key": "max",
+                  "value": 0
+                },
+                {
+                  "key": "min",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "persistent_reloadticks",
+              "value": false
+            },
+            {
+              "key": "require_reload_after_switch",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "siege_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "target_type_table",
+          "value": [
+          ]
+        },
+        {
+          "key": "speech_code",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 168452
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "weapon_archer_4_melee"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "weapon"
+        }
+      ]
+    }
+  ]
+}

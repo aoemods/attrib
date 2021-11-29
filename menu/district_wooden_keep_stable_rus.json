@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "key": "menu_bag",
+      "value": [
+        {
+          "key": "ui_position",
+          "value": [
+            {
+              "key": "ui_position_column",
+              "value": 2
+            },
+            {
+              "key": "ui_position_row",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "behaviour",
+          "value": [
+            {
+              "key": "auto_exit",
+              "value": true
+            },
+            {
+              "key": "columns",
+              "value": 2
+            },
+            {
+              "key": "$REF",
+              "value": "options\\menu\\inline"
+            },
+            {
+              "key": "rows",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "key": "hotkey_group",
+          "value": ""
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_info"
+        },
+        {
+          "key": "icon_name",
+          "value": "races\\common\\buildings\\stable"
+        },
+        {
+          "key": "hotkey_name",
+          "value": "C"
+        },
+        {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
+          "key": "requirements",
+          "value": [
+            {
+              "key": "required_statemodelbool",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "district_spec_wooden_keep_druzhina_production_rus"
+                },
+                {
+                  "key": "default_value",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_statemodelbool"
+                },
+                {
+                  "key": "data_source_type",
+                  "value": "player_datasource"
+                },
+                {
+                  "key": "compare_to_value",
+                  "value": true
+                },
+                {
+                  "key": "reason",
+                  "value": "usage_and_display"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "screen_name",
+          "value": 11160947
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 181186
+    }
+  ]
+}

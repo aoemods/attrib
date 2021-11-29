@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 184503
+    },
+    {
+      "key": "global_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_dense_low_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_dense_high_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_dense_low_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_scattered_low_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_scattered_low_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_scattered_high_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_loose_high_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_loose_low_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_loose_clifftop_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_sheep"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_deer"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_boar"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_wolf"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "tp_vehicle_collide"
+    },
+    {
+      "key": "_0",
+      "value": "tp_artillery"
+    },
+    {
+      "key": "_2",
+      "value": "tp_piercing_blockers_only"
+    },
+    {
+      "key": "_1",
+      "value": "tp_collide"
+    }
+  ]
+}

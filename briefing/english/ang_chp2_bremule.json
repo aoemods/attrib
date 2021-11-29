@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 130438
+    },
+    {
+      "key": "briefing_bag",
+      "value": [
+        {
+          "key": "campaign_map_scenario",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "background",
+          "value": "pack://application:,,,/images/campaign/campaign_loading_screens/normans_campaign/Normans_05_Bremule_00.png"
+        },
+        {
+          "key": "load_tips",
+          "value": [
+            {
+              "key": "load_tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "disengage"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "load_tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "bremule01"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "load_tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "bremule02"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "load_tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "buildforces"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "load_tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hotkey_all"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "rewards",
+          "value": [
+          ]
+        },
+        {
+          "key": "outro_message_short",
+          "value": 11157836
+        },
+        {
+          "key": "highlight",
+          "value": [
+            {
+              "key": "preview_ebpname",
+              "value": ""
+            },
+            {
+              "key": "frontend_ebp_size",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "messages",
+          "value": [
+          ]
+        },
+        {
+          "key": "optional_briefings",
+          "value": [
+          ]
+        },
+        {
+          "key": "objectives",
+          "value": [
+            {
+              "key": "objective",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp2_1119_bremule_obj1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "briefing_objective"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outro_message_long",
+          "value": 11144299
+        },
+        {
+          "key": "briefing_message_short",
+          "value": 11144298
+        }
+      ]
+    }
+  ]
+}

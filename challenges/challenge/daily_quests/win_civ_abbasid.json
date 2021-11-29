@@ -1,0 +1,766 @@
+{
+  "data": [
+    {
+      "key": "challenge_bag",
+      "value": [
+        {
+          "key": "requirement",
+          "value": [
+            {
+              "key": "operator",
+              "value": "and"
+            },
+            {
+              "key": "requirements",
+              "value": [
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "result",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\result"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "result",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\result"
+                            },
+                            {
+                              "key": "value",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\raceid"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\raceid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "abbasid"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "racebps"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "in"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\matchtypeid"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_1v1_ranked"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_1v1_unranked"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_2v2_ai_easy"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_2v2_ai_expert"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_2v2_ai_hard"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_2v2_ai_medium"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_2v2_ranked"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_2v2_unranked"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_3v3_ai_easy"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_3v3_ai_expert"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_3v3_ai_hard"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_3v3_ai_medium"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_3v3_ranked"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_3v3_unranked"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_4v4_ai_easy"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_4v4_ai_expert"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_4v4_ai_hard"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_4v4_ai_medium"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_4v4_ranked"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "slot1_4v4_unranked"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "custom"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "matchtypeid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "skirmish"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "multiplayer\\match_type"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11199696
+        },
+        {
+          "key": "enable",
+          "value": true
+        },
+        {
+          "key": "tip",
+          "value": 11199698
+        },
+        {
+          "key": "fe_priority",
+          "value": 60
+        },
+        {
+          "key": "icon",
+          "value": "daily_quests\\abbasid"
+        },
+        {
+          "key": "award_source",
+          "value": "ServerFromReport"
+        },
+        {
+          "key": "update_rule",
+          "value": [
+            {
+              "key": "value_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "challenges\\requirement_values\\constant\\generic"
+                },
+                {
+                  "key": "value",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "id",
+          "value": 1472535
+        },
+        {
+          "key": "group",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "dailies_group_civ"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge_group"
+            }
+          ]
+        },
+        {
+          "key": "platform_stat_key",
+          "value": ""
+        },
+        {
+          "key": "counters",
+          "value": [
+          ]
+        },
+        {
+          "key": "description",
+          "value": 11199697
+        },
+        {
+          "key": "completion_count",
+          "value": 1
+        },
+        {
+          "key": "reward",
+          "value": [
+            {
+              "key": "achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "item_bundle",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "xp",
+              "value": 300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1472536
+    }
+  ]
+}

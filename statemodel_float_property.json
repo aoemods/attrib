@@ -1,0 +1,1260 @@
+{
+  "data": [
+    {
+      "key": "_163",
+      "value": "mameluke_anti_cavalry_aura_timer"
+    },
+    {
+      "key": "_42",
+      "value": "ai_phase_encounter_idle_at_end_seconds"
+    },
+    {
+      "key": "_84",
+      "value": "enclosure_gold_rate_eng"
+    },
+    {
+      "key": "_205",
+      "value": "raid_bounty_food_mon"
+    },
+    {
+      "key": "_54",
+      "value": "Bounty_Count"
+    },
+    {
+      "key": "_179",
+      "value": "MetaMap_Income_Bonus"
+    },
+    {
+      "key": "_99",
+      "value": "gaia_wander_leash_distance"
+    },
+    {
+      "key": "_311",
+      "value": "villager_tool_test"
+    },
+    {
+      "key": "_221",
+      "value": "repair_cost_wood"
+    },
+    {
+      "key": "_251",
+      "value": "scar_monk"
+    },
+    {
+      "key": "_133",
+      "value": "hunting_cabin_tree_gold_value_rus"
+    },
+    {
+      "key": "_83",
+      "value": "enclosure_food_rate_eng"
+    },
+    {
+      "key": "_76",
+      "value": "defensive_structure_alert_distance"
+    },
+    {
+      "key": "_78",
+      "value": "district_spec_self_repair_rate_hre"
+    },
+    {
+      "key": "_310",
+      "value": "universal_heal_count"
+    },
+    {
+      "key": "_137",
+      "value": "InOverlapResolution"
+    },
+    {
+      "key": "_183",
+      "value": "monk_heal_rate"
+    },
+    {
+      "key": "_215",
+      "value": "relic_gold_income_per_second"
+    },
+    {
+      "key": "_200",
+      "value": "pilgrim_spawn_rate"
+    },
+    {
+      "key": "_123",
+      "value": "hunter_sheep_value_rus"
+    },
+    {
+      "key": "_187",
+      "value": "monk_overheal_max"
+    },
+    {
+      "key": "_219",
+      "value": "relics_in_docks_hre"
+    },
+    {
+      "key": "_18",
+      "value": "ai_difficulty_encounter_fallback_squad_health_threshold"
+    },
+    {
+      "key": "_52",
+      "value": "bijay_mandal_palace_total_elephant_timer_modifier_sul"
+    },
+    {
+      "key": "_260",
+      "value": "scar_trade_cart"
+    },
+    {
+      "key": "_120",
+      "value": "holy_inspiration_villager_buff_value_hre"
+    },
+    {
+      "key": "_266",
+      "value": "scuttle_timer"
+    },
+    {
+      "key": "_103",
+      "value": "Gather_Gold_Upgrade"
+    },
+    {
+      "key": "_182",
+      "value": "military_score"
+    },
+    {
+      "key": "_3",
+      "value": "additional_carry_stone_amount"
+    },
+    {
+      "key": "_36",
+      "value": "ai_phase_encounter_fallback_combat_rating"
+    },
+    {
+      "key": "_48",
+      "value": "ai_wall_fill_gap_time"
+    },
+    {
+      "key": "_50",
+      "value": "animal_harvest_rate_rus"
+    },
+    {
+      "key": "_82",
+      "value": "economy_score"
+    },
+    {
+      "key": "_97",
+      "value": "Gaia_Wander_Distance_To_Wander_Max"
+    },
+    {
+      "key": "_17",
+      "value": "ai_difficulty_encounter_fallback_squad_health_percent_harass"
+    },
+    {
+      "key": "_257",
+      "value": "scar_siege_tower"
+    },
+    {
+      "key": "_115",
+      "value": "has_capital"
+    },
+    {
+      "key": "_267",
+      "value": "secured_relics"
+    },
+    {
+      "key": "_157",
+      "value": "Khan_Spawner"
+    },
+    {
+      "key": "_69",
+      "value": "current_dynasty_chi"
+    },
+    {
+      "key": "_125",
+      "value": "hunting_cabin_base_generation_rus"
+    },
+    {
+      "key": "_245",
+      "value": "scar_knight"
+    },
+    {
+      "key": "_141",
+      "value": "IsBracing"
+    },
+    {
+      "key": "_291",
+      "value": "Total_Followers"
+    },
+    {
+      "key": "_231",
+      "value": "saints_blessing_armour_bonus_rus"
+    },
+    {
+      "key": "_186",
+      "value": "monk_out_of_combat_heal_time"
+    },
+    {
+      "key": "_276",
+      "value": "stone_gold_piece_depleted"
+    },
+    {
+      "key": "_49",
+      "value": "animal_food_carry_capacity_rus"
+    },
+    {
+      "key": "_211",
+      "value": "Relic_Capacity"
+    },
+    {
+      "key": "_4",
+      "value": "additional_carry_wood_amount"
+    },
+    {
+      "key": "_302",
+      "value": "trade_target_changed"
+    },
+    {
+      "key": "_126",
+      "value": "hunting_cabin_generation_rate_rus"
+    },
+    {
+      "key": "_90",
+      "value": "follower_gold_income"
+    },
+    {
+      "key": "_255",
+      "value": "scar_scorpion_tier"
+    },
+    {
+      "key": "_155",
+      "value": "khan_signal_arrow_duration"
+    },
+    {
+      "key": "_119",
+      "value": "holy_inspiration_infantry_buff_value_hre"
+    },
+    {
+      "key": "_67",
+      "value": "Count"
+    },
+    {
+      "key": "_261",
+      "value": "scar_trebuchet_cw"
+    },
+    {
+      "key": "_112",
+      "value": "guild_hall_increment_fre"
+    },
+    {
+      "key": "_7",
+      "value": "age2_wonder1_built"
+    },
+    {
+      "key": "_238",
+      "value": "scar_bombard"
+    },
+    {
+      "key": "_202",
+      "value": "preservation_of_knowledge_cost_reduction_abb"
+    },
+    {
+      "key": "_175",
+      "value": "medical_center_heal_amount_abb"
+    },
+    {
+      "key": "_130",
+      "value": "hunting_cabin_player_gold_rate_rus"
+    },
+    {
+      "key": "_57",
+      "value": "bounty_multiplier_rus"
+    },
+    {
+      "key": "_213",
+      "value": "relic_gold_generation_multiplier"
+    },
+    {
+      "key": "_170",
+      "value": "master_hunter_bounty_level_3_rus"
+    },
+    {
+      "key": "_234",
+      "value": "saints_buff_duration_rus"
+    },
+    {
+      "key": "_128",
+      "value": "hunting_cabin_gold_generation_timer_rus"
+    },
+    {
+      "key": "_190",
+      "value": "network_of_castles_attack_eng"
+    },
+    {
+      "key": "_208",
+      "value": "raid_bounty_wood_mon"
+    },
+    {
+      "key": "_63",
+      "value": "carrying_relics"
+    },
+    {
+      "key": "_282",
+      "value": "tax_collection_cooldown_time_chi"
+    },
+    {
+      "key": "_136",
+      "value": "InDeathThroes"
+    },
+    {
+      "key": "_185",
+      "value": "monk_inspiration_cast_time"
+    },
+    {
+      "key": "_225",
+      "value": "resource_drop_off_time"
+    },
+    {
+      "key": "_89",
+      "value": "follower_count"
+    },
+    {
+      "key": "_293",
+      "value": "total_score"
+    },
+    {
+      "key": "_117",
+      "value": "hit_palings"
+    },
+    {
+      "key": "_9",
+      "value": "age3_wonders_built_chi"
+    },
+    {
+      "key": "_313",
+      "value": "wonder_timer"
+    },
+    {
+      "key": "_124",
+      "value": "hunter_wolf_value_rus"
+    },
+    {
+      "key": "_16",
+      "value": "ai_difficulty_encounter_fallback_squad_health_percent"
+    },
+    {
+      "key": "_109",
+      "value": "golden_gate_caravan_count"
+    },
+    {
+      "key": "_239",
+      "value": "scar_crossbow_tier"
+    },
+    {
+      "key": "_305",
+      "value": "TradeUnitInitialized"
+    },
+    {
+      "key": "_72",
+      "value": "DebugFloat0"
+    },
+    {
+      "key": "_24",
+      "value": "ai_phase_encounter_combat_area"
+    },
+    {
+      "key": "_0",
+      "value": "additional_carry_food_amount"
+    },
+    {
+      "key": "_250",
+      "value": "scar_mangonel_tier"
+    },
+    {
+      "key": "_265",
+      "value": "scout_falcon_duration_mon"
+    },
+    {
+      "key": "_107",
+      "value": "golden_age_level_abb"
+    },
+    {
+      "key": "_87",
+      "value": "flame_douse_cooldown_hre"
+    },
+    {
+      "key": "_108",
+      "value": "golden_age_production_speed_bonus_abb"
+    },
+    {
+      "key": "_226",
+      "value": "resource_pickup_amount_food"
+    },
+    {
+      "key": "_204",
+      "value": "ProdResource"
+    },
+    {
+      "key": "_217",
+      "value": "relic_threshold"
+    },
+    {
+      "key": "_88",
+      "value": "flame_douse_cooldown_progress_hre"
+    },
+    {
+      "key": "_64",
+      "value": "ChargeCooldown"
+    },
+    {
+      "key": "_166",
+      "value": "market_auto_sell_interval"
+    },
+    {
+      "key": "_22",
+      "value": "ai_phase_encounter_cached_path_update_interval_secs"
+    },
+    {
+      "key": "_159",
+      "value": "last_update_trade_route_tick"
+    },
+    {
+      "key": "_8",
+      "value": "age2_wonders_built_chi"
+    },
+    {
+      "key": "_21",
+      "value": "ai_phase_encounter_archer_reposition_time_interval"
+    },
+    {
+      "key": "_13",
+      "value": "ai_difficulty_encounter_cavalry_random_use_threat_path_chance"
+    },
+    {
+      "key": "_188",
+      "value": "monk_relic_ability_range"
+    },
+    {
+      "key": "_207",
+      "value": "raid_bounty_stone_mon"
+    },
+    {
+      "key": "_252",
+      "value": "scar_ram"
+    },
+    {
+      "key": "_212",
+      "value": "Relic_Count"
+    },
+    {
+      "key": "_191",
+      "value": "network_of_castles_duration"
+    },
+    {
+      "key": "_129",
+      "value": "hunting_cabin_nearby_gaia_population"
+    },
+    {
+      "key": "_199",
+      "value": "pasture_sheep_timer_mon"
+    },
+    {
+      "key": "_198",
+      "value": "pasture_default_sheep_spawn_time_mon"
+    },
+    {
+      "key": "_73",
+      "value": "DebugFloat1"
+    },
+    {
+      "key": "_118",
+      "value": "holy_inspiration_current_timer"
+    },
+    {
+      "key": "_280",
+      "value": "stupa_stone_amount_mon"
+    },
+    {
+      "key": "_206",
+      "value": "raid_bounty_gold_mon"
+    },
+    {
+      "key": "_153",
+      "value": "khan_respawn_time_mon"
+    },
+    {
+      "key": "_210",
+      "value": "rapid_fire_count_chi"
+    },
+    {
+      "key": "_309",
+      "value": "universal_buff_count"
+    },
+    {
+      "key": "_45",
+      "value": "ai_phase_encounter_protect_distance"
+    },
+    {
+      "key": "_19",
+      "value": "ai_difficulty_encounter_fallback_squads_remaining_percent"
+    },
+    {
+      "key": "_262",
+      "value": "scar_trebuchet_traction"
+    },
+    {
+      "key": "_240",
+      "value": "scar_crossbowman"
+    },
+    {
+      "key": "_297",
+      "value": "Trade_Cart_Depart_Time"
+    },
+    {
+      "key": "_228",
+      "value": "resource_pickup_amount_stone"
+    },
+    {
+      "key": "_242",
+      "value": "scar_horsearcher"
+    },
+    {
+      "key": "_31",
+      "value": "ai_phase_encounter_destination_required_squads_percent"
+    },
+    {
+      "key": "_237",
+      "value": "scar_armed_villager"
+    },
+    {
+      "key": "_164",
+      "value": "manatarms_attack_count_chi"
+    },
+    {
+      "key": "_94",
+      "value": "Followers_To_Spawn"
+    },
+    {
+      "key": "_277",
+      "value": "stone_rate_mon"
+    },
+    {
+      "key": "_220",
+      "value": "repair_cost_stone"
+    },
+    {
+      "key": "_269",
+      "value": "show_self_repairing_ui"
+    },
+    {
+      "key": "_11",
+      "value": "agriculture_harvest_bonus_rate_abb"
+    },
+    {
+      "key": "_195",
+      "value": "ortoo_aura_radius_mon"
+    },
+    {
+      "key": "_147",
+      "value": "IsSetUp"
+    },
+    {
+      "key": "_169",
+      "value": "master_hunter_bounty_level_2_rus"
+    },
+    {
+      "key": "_232",
+      "value": "saints_blessing_damage_bonus_rus"
+    },
+    {
+      "key": "_53",
+      "value": "boar_spawn_amount_rus"
+    },
+    {
+      "key": "_43",
+      "value": "ai_phase_encounter_monk_desired_ratio"
+    },
+    {
+      "key": "_258",
+      "value": "scar_spearman"
+    },
+    {
+      "key": "_290",
+      "value": "Tithed_Followers"
+    },
+    {
+      "key": "_35",
+      "value": "ai_phase_encounter_enemy_scan_range_enroute"
+    },
+    {
+      "key": "_176",
+      "value": "melee_attack_count_hre"
+    },
+    {
+      "key": "_196",
+      "value": "ortoo_speed_bonus_mon"
+    },
+    {
+      "key": "_160",
+      "value": "longbow_arrow_volley_duration_eng"
+    },
+    {
+      "key": "_284",
+      "value": "technologies_researched"
+    },
+    {
+      "key": "_61",
+      "value": "Building_Is_Packed"
+    },
+    {
+      "key": "_139",
+      "value": "is_charging"
+    },
+    {
+      "key": "_306",
+      "value": "TradingActive"
+    },
+    {
+      "key": "_142",
+      "value": "IsCarryingEntity"
+    },
+    {
+      "key": "_2",
+      "value": "additional_carry_luxury_amount_abb"
+    },
+    {
+      "key": "_47",
+      "value": "ai_wall_detection_range"
+    },
+    {
+      "key": "_20",
+      "value": "ai_difficulty_encounter_fallback_squads_remaining_percent_harass"
+    },
+    {
+      "key": "_114",
+      "value": "guild_hall_resource_type_fre"
+    },
+    {
+      "key": "_244",
+      "value": "scar_horseman_tier"
+    },
+    {
+      "key": "_41",
+      "value": "ai_phase_encounter_formup_timeout"
+    },
+    {
+      "key": "_134",
+      "value": "hunting_cabin_update_rate_rus"
+    },
+    {
+      "key": "_274",
+      "value": "silk_road_tier_4_stone_bonus_mon"
+    },
+    {
+      "key": "_56",
+      "value": "bounty_despawn_time_mon"
+    },
+    {
+      "key": "_243",
+      "value": "scar_horseman"
+    },
+    {
+      "key": "_264",
+      "value": "scar_war_elephant"
+    },
+    {
+      "key": "_37",
+      "value": "ai_phase_encounter_fallback_squad_health_percent"
+    },
+    {
+      "key": "_68",
+      "value": "crossbowmen_attack_count_fre"
+    },
+    {
+      "key": "_46",
+      "value": "ai_phase_encounter_protect_squad_count_proportion"
+    },
+    {
+      "key": "_34",
+      "value": "ai_phase_encounter_enemy_scan_range"
+    },
+    {
+      "key": "_138",
+      "value": "is_capital"
+    },
+    {
+      "key": "_111",
+      "value": "Grow"
+    },
+    {
+      "key": "_60",
+      "value": "Building_Is_Herding"
+    },
+    {
+      "key": "_127",
+      "value": "hunting_cabin_gold_generation_cap_rus"
+    },
+    {
+      "key": "_143",
+      "value": "IsFelling"
+    },
+    {
+      "key": "_66",
+      "value": "conversion_entity"
+    },
+    {
+      "key": "_29",
+      "value": "ai_phase_encounter_destination_area"
+    },
+    {
+      "key": "_296",
+      "value": "Trade_Cart_Carrying_Resource"
+    },
+    {
+      "key": "_304",
+      "value": "TradeShouldGoToPartner"
+    },
+    {
+      "key": "_38",
+      "value": "ai_phase_encounter_fallback_squad_health_threshold"
+    },
+    {
+      "key": "_162",
+      "value": "longbow_arrow_volley_rate_of_fire_eng"
+    },
+    {
+      "key": "_81",
+      "value": "dock_upgrade_aura"
+    },
+    {
+      "key": "_95",
+      "value": "gaia_spawn_timer_rus"
+    },
+    {
+      "key": "_30",
+      "value": "ai_phase_encounter_destination_combat_area"
+    },
+    {
+      "key": "_294",
+      "value": "town_center_militarize_villagers"
+    },
+    {
+      "key": "_301",
+      "value": "Trade_Cart_Wait_Time"
+    },
+    {
+      "key": "_27",
+      "value": "ai_phase_encounter_combat_leash_enroute"
+    },
+    {
+      "key": "_275",
+      "value": "society_score"
+    },
+    {
+      "key": "_152",
+      "value": "khan_respawn_time_max_mon"
+    },
+    {
+      "key": "_100",
+      "value": "Gather"
+    },
+    {
+      "key": "_75",
+      "value": "deer_spawn_amount_rus"
+    },
+    {
+      "key": "_110",
+      "value": "granary_drop_off_amount_chi"
+    },
+    {
+      "key": "_15",
+      "value": "ai_difficulty_encounter_fallback_combat_rating_harass"
+    },
+    {
+      "key": "_96",
+      "value": "gaia_wander_delay_probability"
+    },
+    {
+      "key": "_92",
+      "value": "follower_spawn_period_multiplier"
+    },
+    {
+      "key": "_140",
+      "value": "is_packed"
+    },
+    {
+      "key": "_281",
+      "value": "tax_amount_to_deduct_chi"
+    },
+    {
+      "key": "_70",
+      "value": "Current_Pilgrims"
+    },
+    {
+      "key": "_105",
+      "value": "Gather_Tree_Upgrade"
+    },
+    {
+      "key": "_197",
+      "value": "pack_reserve_pop_mon"
+    },
+    {
+      "key": "_98",
+      "value": "Gaia_Wander_Distance_To_Wander_Min"
+    },
+    {
+      "key": "_256",
+      "value": "scar_scout"
+    },
+    {
+      "key": "_28",
+      "value": "ai_phase_encounter_defend_destination_time"
+    },
+    {
+      "key": "_101",
+      "value": "gather_after_construction"
+    },
+    {
+      "key": "_51",
+      "value": "bijay_mandal_palace_scholar_count_sul"
+    },
+    {
+      "key": "_131",
+      "value": "hunting_cabin_rate_display_rus"
+    },
+    {
+      "key": "_165",
+      "value": "manatarms_max_attack_count_chi"
+    },
+    {
+      "key": "_104",
+      "value": "Gather_Stone_Upgrade"
+    },
+    {
+      "key": "_146",
+      "value": "IsPickingResources"
+    },
+    {
+      "key": "_279",
+      "value": "streltsy_static_deployment_counter_rus"
+    },
+    {
+      "key": "_312",
+      "value": "WeaponChanged"
+    },
+    {
+      "key": "_286",
+      "value": "time_spent_depleted_seconds"
+    },
+    {
+      "key": "_268",
+      "value": "shouldheal"
+    },
+    {
+      "key": "_263",
+      "value": "scar_villager"
+    },
+    {
+      "key": "_192",
+      "value": "Num_Of_Trade_Carts"
+    },
+    {
+      "key": "_80",
+      "value": "dock_repair_rate"
+    },
+    {
+      "key": "_216",
+      "value": "relic_limit"
+    },
+    {
+      "key": "_214",
+      "value": "relic_gold_generation_rate"
+    },
+    {
+      "key": "_93",
+      "value": "follower_threshold"
+    },
+    {
+      "key": "_167",
+      "value": "market_trade_cart_multiplier_bonus"
+    },
+    {
+      "key": "_158",
+      "value": "lancer_charge_bonus_fre"
+    },
+    {
+      "key": "_91",
+      "value": "follower_income_multiplier"
+    },
+    {
+      "key": "_144",
+      "value": "IsGathering"
+    },
+    {
+      "key": "_298",
+      "value": "trade_cart_resource_trade_type_abb"
+    },
+    {
+      "key": "_172",
+      "value": "max_flee_time"
+    },
+    {
+      "key": "_273",
+      "value": "silk_road_tier_4_stone_bonus_improved_mon"
+    },
+    {
+      "key": "_184",
+      "value": "monk_inspiration_buff_time"
+    },
+    {
+      "key": "_303",
+      "value": "TradeShouldGoHome"
+    },
+    {
+      "key": "_23",
+      "value": "ai_phase_encounter_cavalry_random_path"
+    },
+    {
+      "key": "_122",
+      "value": "hunter_deer_value_rus"
+    },
+    {
+      "key": "_203",
+      "value": "ProdLevel"
+    },
+    {
+      "key": "_86",
+      "value": "First_Khan_Spawned"
+    },
+    {
+      "key": "_233",
+      "value": "saints_blessing_radius_rus"
+    },
+    {
+      "key": "_180",
+      "value": "military_building_heal_amount_mon"
+    },
+    {
+      "key": "_145",
+      "value": "IsImproved"
+    },
+    {
+      "key": "_106",
+      "value": "global_relic_count"
+    },
+    {
+      "key": "_14",
+      "value": "ai_difficulty_encounter_fallback_combat_rating"
+    },
+    {
+      "key": "_65",
+      "value": "ChargeCooldownBegin"
+    },
+    {
+      "key": "_249",
+      "value": "scar_mangonel"
+    },
+    {
+      "key": "_248",
+      "value": "scar_manatarms_tier"
+    },
+    {
+      "key": "_25",
+      "value": "ai_phase_encounter_combat_fitness_threshold"
+    },
+    {
+      "key": "_102",
+      "value": "Gather_Farm_Upgrade"
+    },
+    {
+      "key": "_223",
+      "value": "resource_depleted_delay_before_delete"
+    },
+    {
+      "key": "_135",
+      "value": "ImprovementPending"
+    },
+    {
+      "key": "_39",
+      "value": "ai_phase_encounter_fallback_squads_remaining_percent"
+    },
+    {
+      "key": "_209",
+      "value": "raid_value"
+    },
+    {
+      "key": "_224",
+      "value": "resource_drop_off_distance"
+    },
+    {
+      "key": "_59",
+      "value": "building_district_monastery_count_mon"
+    },
+    {
+      "key": "_270",
+      "value": "silk_road_tier_1_food_bonus_mon"
+    },
+    {
+      "key": "_193",
+      "value": "official_collect_tax_reserve_chi"
+    },
+    {
+      "key": "_77",
+      "value": "district_spec_heal_ins_aoe_range_hre"
+    },
+    {
+      "key": "_12",
+      "value": "ai_difficulty_archer_reposition_time_interval"
+    },
+    {
+      "key": "_6",
+      "value": "age2_wonder1_bonus_recalculated"
+    },
+    {
+      "key": "_1",
+      "value": "additional_carry_gold_amount"
+    },
+    {
+      "key": "_230",
+      "value": "royal_cart_relic_modifier_hre"
+    },
+    {
+      "key": "_32",
+      "value": "ai_phase_encounter_destination_required_squads_percent_enroute"
+    },
+    {
+      "key": "_149",
+      "value": "keep_imperial_trait_sul"
+    },
+    {
+      "key": "_44",
+      "value": "ai_phase_encounter_open_path_length_to_look_for_siege_path"
+    },
+    {
+      "key": "_222",
+      "value": "research_counter_sul"
+    },
+    {
+      "key": "_156",
+      "value": "khan_signal_arrow_range"
+    },
+    {
+      "key": "_40",
+      "value": "ai_phase_encounter_formup_required_squads_percent"
+    },
+    {
+      "key": "_236",
+      "value": "scar_archer_tier"
+    },
+    {
+      "key": "_55",
+      "value": "bounty_count_mon"
+    },
+    {
+      "key": "_161",
+      "value": "longbow_arrow_volley_range_eng"
+    },
+    {
+      "key": "_168",
+      "value": "master_hunter_bounty_level_1_rus"
+    },
+    {
+      "key": "_194",
+      "value": "official_max_gold_amount_chi"
+    },
+    {
+      "key": "_116",
+      "value": "HasEnclosure"
+    },
+    {
+      "key": "_113",
+      "value": "guild_hall_resource_bank_fre"
+    },
+    {
+      "key": "_307",
+      "value": "UI_Progress"
+    },
+    {
+      "key": "_308",
+      "value": "undefined_family_id"
+    },
+    {
+      "key": "_33",
+      "value": "ai_phase_encounter_destroyed_wall_opening_ignore_radius"
+    },
+    {
+      "key": "_150",
+      "value": "khan_raid_timer_mon"
+    },
+    {
+      "key": "_74",
+      "value": "DebugFloat2"
+    },
+    {
+      "key": "_289",
+      "value": "times_dropped_off"
+    },
+    {
+      "key": "_292",
+      "value": "total_resources_deposited"
+    },
+    {
+      "key": "_247",
+      "value": "scar_manatarms"
+    },
+    {
+      "key": "_278",
+      "value": "streltsy_double_time_duration_rus"
+    },
+    {
+      "key": "_272",
+      "value": "silk_road_tier_3_gold_bonus_mon"
+    },
+    {
+      "key": "_148",
+      "value": "IsTilling"
+    },
+    {
+      "key": "_79",
+      "value": "district_spec_total_trade_carts_bonus_fre"
+    },
+    {
+      "key": "_295",
+      "value": "Trade_Cart_Arrive_Time"
+    },
+    {
+      "key": "_283",
+      "value": "tax_cooldown_time_remaining_chi"
+    },
+    {
+      "key": "_171",
+      "value": "master_hunter_bounty_total_rus"
+    },
+    {
+      "key": "_253",
+      "value": "scar_ribauldequin"
+    },
+    {
+      "key": "_235",
+      "value": "scar_archer"
+    },
+    {
+      "key": "_300",
+      "value": "trade_cart_trade_range"
+    },
+    {
+      "key": "_201",
+      "value": "player_declared_religious_victory"
+    },
+    {
+      "key": "_71",
+      "value": "Debug"
+    },
+    {
+      "key": "_227",
+      "value": "resource_pickup_amount_gold"
+    },
+    {
+      "key": "_288",
+      "value": "times_depleted_counter"
+    },
+    {
+      "key": "_259",
+      "value": "scar_spearman_tier"
+    },
+    {
+      "key": "_58",
+      "value": "BraceCooldown"
+    },
+    {
+      "key": "_285",
+      "value": "technology_score"
+    },
+    {
+      "key": "_5",
+      "value": "age1_wonders_built_chi"
+    },
+    {
+      "key": "_132",
+      "value": "hunting_cabin_spawn_timer"
+    },
+    {
+      "key": "_62",
+      "value": "can_play_idle_sound"
+    },
+    {
+      "key": "_173",
+      "value": "Max_Followers"
+    },
+    {
+      "key": "_189",
+      "value": "monk_relic_ability_warmup"
+    },
+    {
+      "key": "_299",
+      "value": "trade_cart_resource_trade_type_fre"
+    },
+    {
+      "key": "_181",
+      "value": "military_building_healing_aura_count_mon"
+    },
+    {
+      "key": "_218",
+      "value": "relic_total_generation_rate"
+    },
+    {
+      "key": "_177",
+      "value": "MetaMap_Companies_MaxCapacity"
+    },
+    {
+      "key": "_229",
+      "value": "resource_pickup_amount_wood"
+    },
+    {
+      "key": "_246",
+      "value": "scar_knight_tier"
+    },
+    {
+      "key": "_121",
+      "value": "hunter_boar_value_rus"
+    },
+    {
+      "key": "_151",
+      "value": "khan_respawn_progress_mon"
+    },
+    {
+      "key": "_241",
+      "value": "scar_handcannon"
+    },
+    {
+      "key": "_174",
+      "value": "Max_Pilgrims"
+    },
+    {
+      "key": "_254",
+      "value": "scar_scorpion"
+    },
+    {
+      "key": "_287",
+      "value": "time_spent_dropping_off"
+    },
+    {
+      "key": "_271",
+      "value": "silk_road_tier_2_wood_bonus_mon"
+    },
+    {
+      "key": "_26",
+      "value": "ai_phase_encounter_combat_leash"
+    },
+    {
+      "key": "_85",
+      "value": "Fell"
+    },
+    {
+      "key": "_10",
+      "value": "age4_wonders_built_chi"
+    },
+    {
+      "key": "_178",
+      "value": "MetaMap_Companies_UsedCapacity"
+    },
+    {
+      "key": "_154",
+      "value": "khan_respawn_time_penalty_mon"
+    }
+  ]
+}

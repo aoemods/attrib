@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "key": "region_distribution",
+      "value": [
+        {
+          "key": "search_for_open_area_radius",
+          "value": 17
+        },
+        {
+          "key": "min_placements_per_region",
+          "value": 1
+        },
+        {
+          "key": "debug_colour",
+          "value": -47976
+        },
+        {
+          "key": "max_placements_per_region",
+          "value": 1
+        },
+        {
+          "key": "mark_entire_region_occupied",
+          "value": true
+        },
+        {
+          "key": "distribution_radius",
+          "value": 22
+        },
+        {
+          "key": "distribution",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "dist_berries_large"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\distribution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 202523
+    }
+  ]
+}

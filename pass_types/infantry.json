@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "key": "passability_bag",
+      "value": [
+        {
+          "key": "HeavyCrush",
+          "value": false
+        },
+        {
+          "key": "DeepWater",
+          "value": false
+        },
+        {
+          "key": "Land",
+          "value": true
+        },
+        {
+          "key": "NegativeSpace",
+          "value": false
+        },
+        {
+          "key": "LightCrush",
+          "value": false
+        },
+        {
+          "key": "CantBuild",
+          "value": false
+        },
+        {
+          "key": "ShallowWater",
+          "value": true
+        },
+        {
+          "key": "Unreachable",
+          "value": false
+        },
+        {
+          "key": "MovementBlocker",
+          "value": false
+        },
+        {
+          "key": "MediumCrush",
+          "value": false
+        },
+        {
+          "key": "Entities",
+          "value": false
+        },
+        {
+          "key": "Cliff",
+          "value": false
+        },
+        {
+          "key": "NoStopping",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 112777
+    }
+  ]
+}

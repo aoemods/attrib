@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 130352
+    },
+    {
+      "key": "campaign_map_bag",
+      "value": [
+        {
+          "key": "image_path",
+          "value": "campaign\\campaign_thumb_grand_duchy"
+        },
+        {
+          "key": "fe_priority",
+          "value": 3
+        },
+        {
+          "key": "music_layer_event",
+          "value": "mus_fe_set_civ_rus"
+        },
+        {
+          "key": "campaign_map_scenarios",
+          "value": [
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "gdm_chp1_moscow"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "gdm_chp2_tribute"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "gdm_chp2_kulikovo"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "gdm_chp3_moscow"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "gdm_chp3_novgorod"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "gdm_chp3_ugra"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "gdm_chp4_kazan"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "gdm_chp4_smolensk"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_name",
+          "value": 11143655
+        },
+        {
+          "key": "id",
+          "value": "moscow"
+        },
+        {
+          "key": "debug",
+          "value": false
+        },
+        {
+          "key": "node_packs",
+          "value": [
+          ]
+        },
+        {
+          "key": "ui_description",
+          "value": 11143656
+        }
+      ]
+    }
+  ]
+}

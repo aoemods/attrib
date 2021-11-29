@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\product"
+            },
+            {
+              "key": "inputs",
+              "value": [
+                {
+                  "key": "filter_min_max",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\filter_min_max"
+                    },
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\clamp_max"
+                        },
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\weighted_sum"
+                            },
+                            {
+                              "key": "inputs",
+                              "value": [
+                                {
+                                  "key": "input",
+                                  "value": [
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\reference"
+                                        },
+                                        {
+                                          "key": "score_map",
+                                          "value": [
+                                            {
+                                              "key": "$PBGNAME",
+                                              "value": "river_waterfall"
+                                            },
+                                            {
+                                              "key": "$PBGMAP",
+                                              "value": "map_gen\\score_map\\score_map"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "weight",
+                                      "value": -1
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "input",
+                                  "value": [
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\blur"
+                                        },
+                                        {
+                                          "key": "input",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "map_gen\\score_map\\option\\reference"
+                                            },
+                                            {
+                                              "key": "score_map",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "river_waterfall"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "map_gen\\score_map\\score_map"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "blur_radius",
+                                          "value": 15
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "weight",
+                                      "value": 1.5
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "max",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "max",
+                      "value": 1
+                    },
+                    {
+                      "key": "min",
+                      "value": 0.4
+                    },
+                    {
+                      "key": "set_values_outside_range_to",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "river_wet_and_ford"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 190460
+    }
+  ]
+}

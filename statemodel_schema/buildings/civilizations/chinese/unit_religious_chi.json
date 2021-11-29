@@ -1,0 +1,734 @@
+{
+  "data": [
+    {
+      "key": "schema_bag",
+      "value": [
+        {
+          "key": "pbgid_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "int_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "sub_schemas",
+          "value": [
+            {
+              "key": "schema",
+              "value": [
+                {
+                  "key": "schema_bag",
+                  "value": [
+                    {
+                      "key": "pbgid_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_pbgid_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "20_30_double"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "info\\legacy_info"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_pbgid_property"
+                            },
+                            {
+                              "key": "pbgid_property_id",
+                              "value": "legacy"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "int_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "follower_count"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "evacuation_state"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "population_cap_increase"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "sub_schemas",
+                      "value": [
+                        {
+                          "key": "schema",
+                          "value": [
+                            {
+                              "key": "schema_bag",
+                              "value": [
+                                {
+                                  "key": "pbgid_properties",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "int_properties",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "sub_schemas",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "target_properties",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "list_properties",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "float_properties",
+                                  "value": [
+                                    {
+                                      "key": "statemodel_float_property",
+                                      "value": [
+                                        {
+                                          "key": "default",
+                                          "value": 0
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "value": "statemodel_float_property"
+                                        },
+                                        {
+                                          "key": "float_property_id",
+                                          "value": "UI_Progress"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "vector3f_properties",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "generic_handle_properties",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "attribute_enum_properties",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "enum_table_properties",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "bool_properties",
+                                  "value": [
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "pbgid",
+                              "value": 177302
+                            },
+                            {
+                              "key": "parent_pbg",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": ""
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "target_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "list_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_list_property",
+                          "value": [
+                            {
+                              "key": "data_type",
+                              "value": 5
+                            },
+                            {
+                              "key": "max_list_size",
+                              "value": 8
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_list_property"
+                            },
+                            {
+                              "key": "list_property_id",
+                              "value": "buffs"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "float_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "Relic_Count"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "repair_cost_wood"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "relic_total_generation_rate"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "raid_bounty_stone_mon"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "follower_income_multiplier"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "follower_spawn_period_multiplier"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 200
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "raid_bounty_food_mon"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "repair_cost_stone"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "raid_bounty_gold_mon"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "khan_raid_timer_mon"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "scuttle_timer"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "raid_value"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "Tithed_Followers"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "Total_Followers"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 20
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "Relic_Capacity"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "raid_bounty_wood_mon"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 20
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "relic_limit"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "vector3f_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "generic_handle_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "attribute_enum_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "enum_table_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "bool_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "research_exit"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "pbgid",
+                  "value": 156514
+                },
+                {
+                  "key": "parent_pbg",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "target_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "list_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "float_properties",
+          "value": [
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "additional_carry_gold_amount"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "tax_cooldown_time_remaining_chi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "vector3f_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "generic_handle_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "attribute_enum_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "enum_table_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "bool_properties",
+          "value": [
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "is_supervised_chi"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "district_improved_tax_rate_chi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 188482
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

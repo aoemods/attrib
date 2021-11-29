@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "key": "load_tip_group_bag",
+      "value": [
+        {
+          "key": "tips",
+          "value": [
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "siege_techs"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "madrasa"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "trebuchets"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "cannons"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "war_elephants"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "attack_ground_siege"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "load_tip_group_type",
+          "value": "standard"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2032998
+    }
+  ]
+}

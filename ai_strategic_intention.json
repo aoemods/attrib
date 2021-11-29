@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "defense"
+    },
+    {
+      "key": "_4",
+      "value": "economy"
+    },
+    {
+      "key": "_7",
+      "value": "religion"
+    },
+    {
+      "key": "_9",
+      "value": "upgrade"
+    },
+    {
+      "key": "_0",
+      "value": "age_up"
+    },
+    {
+      "key": "_8",
+      "value": "siege"
+    },
+    {
+      "key": "_2",
+      "value": "combat_naval"
+    },
+    {
+      "key": "_6",
+      "value": "ranged"
+    },
+    {
+      "key": "_1",
+      "value": "combat"
+    },
+    {
+      "key": "_5",
+      "value": "offense"
+    },
+    {
+      "key": "_10",
+      "value": "wall"
+    }
+  ]
+}

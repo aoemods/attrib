@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "playable_area_only",
+              "value": true
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\filter_edge_of_map"
+            },
+            {
+              "key": "set_values_to",
+              "value": 0
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\flip_min_max_normalized"
+                },
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\flip_min_max"
+                    },
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\product"
+                        },
+                        {
+                          "key": "inputs",
+                          "value": [
+                            {
+                              "key": "flip_min_max",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\flip_min_max"
+                                },
+                                {
+                                  "key": "input",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "map_gen\\score_map\\option\\clamp_max"
+                                    },
+                                    {
+                                      "key": "input",
+                                      "value": [
+                                        {
+                                          "key": "multiplier",
+                                          "value": 1000
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\constant_multiplier"
+                                        },
+                                        {
+                                          "key": "input",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "map_gen\\score_map\\option\\blur"
+                                            },
+                                            {
+                                              "key": "input",
+                                              "value": [
+                                                {
+                                                  "key": "$REF",
+                                                  "value": "map_gen\\score_map\\option\\ocean"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "key": "blur_radius",
+                                              "value": 40
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "max",
+                                      "value": 1
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "reference",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\reference"
+                                },
+                                {
+                                  "key": "score_map",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "impass_requirement_reachable"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "map_gen\\score_map\\score_map"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "value_is_percent_instead_of_cells",
+              "value": true
+            },
+            {
+              "key": "from_edge_threshold",
+              "value": 0.15
+            },
+            {
+              "key": "filter_inner_instead_of_outer",
+              "value": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 194672
+    }
+  ]
+}

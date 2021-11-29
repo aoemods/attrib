@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "key": "coat_of_arms_sigil_layout_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11193165
+        },
+        {
+          "key": "sigils",
+          "value": [
+            {
+              "key": "sigil",
+              "value": [
+                {
+                  "key": "rotation",
+                  "value": 0
+                },
+                {
+                  "key": "scaleX",
+                  "value": 1
+                },
+                {
+                  "key": "positionX",
+                  "value": 0
+                },
+                {
+                  "key": "scaleY",
+                  "value": 1
+                },
+                {
+                  "key": "positionY",
+                  "value": -0.11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "icon",
+          "value": "coat_of_arms\\layouts\\upper_middle_single"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 197360
+    }
+  ]
+}

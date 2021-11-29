@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "key": "coat_of_arms_sigil_layout_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11193160
+        },
+        {
+          "key": "sigils",
+          "value": [
+            {
+              "key": "sigil",
+              "value": [
+                {
+                  "key": "rotation",
+                  "value": 0
+                },
+                {
+                  "key": "scaleX",
+                  "value": 0.48
+                },
+                {
+                  "key": "positionX",
+                  "value": -0.17
+                },
+                {
+                  "key": "scaleY",
+                  "value": 0.48
+                },
+                {
+                  "key": "positionY",
+                  "value": -0.03
+                }
+              ]
+            },
+            {
+              "key": "sigil",
+              "value": [
+                {
+                  "key": "rotation",
+                  "value": 0
+                },
+                {
+                  "key": "scaleX",
+                  "value": 0.48
+                },
+                {
+                  "key": "positionX",
+                  "value": 0
+                },
+                {
+                  "key": "scaleY",
+                  "value": 0.48
+                },
+                {
+                  "key": "positionY",
+                  "value": -0.2
+                }
+              ]
+            },
+            {
+              "key": "sigil",
+              "value": [
+                {
+                  "key": "rotation",
+                  "value": 0
+                },
+                {
+                  "key": "scaleX",
+                  "value": 0.48
+                },
+                {
+                  "key": "positionX",
+                  "value": 0.17
+                },
+                {
+                  "key": "scaleY",
+                  "value": 0.48
+                },
+                {
+                  "key": "positionY",
+                  "value": -0.03
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "icon",
+          "value": "coat_of_arms\\layouts\\chevron_faceup_triple"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 197355
+    }
+  ]
+}

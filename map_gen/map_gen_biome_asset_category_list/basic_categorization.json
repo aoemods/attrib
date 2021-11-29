@@ -1,0 +1,1786 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 177278
+    },
+    {
+      "key": "map_gen_biome_asset_category_list",
+      "value": [
+        {
+          "key": "biome_asset_mapping",
+          "value": [
+            {
+              "key": "rock_small_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_high_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 3
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "rock_cliff_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_high_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 3
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_low_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 20
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "fx_water_waterfall",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "rock_small_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "animal_aggressive",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "gaia"
+                }
+              ]
+            },
+            {
+              "key": "rock_guide_stone",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "resources"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_riverbank",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "rock_large_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_high_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_high_4",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "splat_wet_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_high_5",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 3
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_dead_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_high_4",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 3
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_dead_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_dead_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_low_small_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "rock_small_4",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_high_large_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "rock_med_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "bird_no_land_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_low_4",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "rock_cliff_5",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_low_4",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 12
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "fish_deepwater",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_dead_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "fish_river",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_low_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 12
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "rock_cliff_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_high_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "fish_shore",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "rock_med_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_low_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 12
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "rock_large_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "ocean_deco_water_intersection",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "berry_source",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "resources"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_low_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_low_4",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 20
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_low_small",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 4
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense_small"
+                }
+              ]
+            },
+            {
+              "key": "city_town_center",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "animal_herdable_med",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "rock_guide_gold",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "resources"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_dead_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "ocean_beach_high_props",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "splat_dry_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "fx_valley",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "splat_lush_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "splat_lush_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "rock_med_4",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "fx_water_calm",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "splat_dry_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "deposit_stone",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "resources"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_dead_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "rock_cliff_4",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_starting_standard",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "ocean_deco_large",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_dead_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_high_large_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_low_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_high_5",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "animal_herdable",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "gaia"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_high_small_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_low_large",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "lake_deco_shoreline",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_high_4",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_low_5",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 20
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_low_small_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "splat_dry_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "rock_small_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_low_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 20
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "relic",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "resources"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_dead_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_low_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 12
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "ocean_deco_water_offshore",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_high_5",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_low_5",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 12
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_high_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_low_large_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "deposit_gold",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "resources"
+                }
+              ]
+            },
+            {
+              "key": "rock_large_4",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_low_small_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "ocean_deco_shoreline",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "splat_wet_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "rock_large_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "rock_large_5",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_low_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_high_small_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "fx_water_rapids",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "holy_site",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "ocean_beach_props",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "deposit_gold_small",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "resources"
+                }
+              ]
+            },
+            {
+              "key": "bird_city_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_dead_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "unreachable_prop",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_dead_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_low_small",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 6
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth_small"
+                }
+              ]
+            },
+            {
+              "key": "splat_lush_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "city_settlement",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_dead_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "rock_cliff_3",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_low_large_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "bird_wild_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_low_5",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_high_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_low_large_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "fx_mountaintop",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "animal_huntable_flee_large",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "splat_wet_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "rock_river_large",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "wood_scattered_high_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_stealth"
+                }
+              ]
+            },
+            {
+              "key": "rock_river_ford",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "rock_med_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "city_settlement_naval",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "deposit_stone_small",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "resources"
+                }
+              ]
+            },
+            {
+              "key": "lake_deco_large",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "rock_river",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_dead_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "animal_herdable_large",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "animal_huntable_danger_large",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "animal_huntable_flee",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "gaia"
+                }
+              ]
+            },
+            {
+              "key": "fx_cliff",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_other"
+                }
+              ]
+            },
+            {
+              "key": "wood_loose_high_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 3
+                },
+                {
+                  "key": "category",
+                  "value": "trees_loose"
+                }
+              ]
+            },
+            {
+              "key": "rock_med_5",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "unreachable_prop_low",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "ocean_stealth_object",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "rock_small_5",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_rocks"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_high_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "berry_source_large",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_high_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "vegetation_high_large_1",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "deco_foliage"
+                }
+              ]
+            },
+            {
+              "key": "wood_dense_low_2",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "trees_dense"
+                }
+              ]
+            },
+            {
+              "key": "animal_huntable_danger",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "gaia"
+                }
+              ]
+            },
+            {
+              "key": "lake_deco_shallows",
+              "value": [
+                {
+                  "key": "paint_spawn_distance",
+                  "value": 10
+                },
+                {
+                  "key": "category",
+                  "value": "no_category"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

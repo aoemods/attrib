@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "key": "briefing_objective_bag",
+      "value": [
+        {
+          "key": "success_icon",
+          "value": ""
+        },
+        {
+          "key": "failure_icon",
+          "value": ""
+        },
+        {
+          "key": "hidden",
+          "value": true
+        },
+        {
+          "key": "description",
+          "value": 11159679
+        },
+        {
+          "key": "title",
+          "value": 11159678
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 180513
+    }
+  ]
+}

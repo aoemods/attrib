@@ -1,0 +1,258 @@
+{
+  "data": [
+    {
+      "key": "camera_bag",
+      "value": [
+        {
+          "key": "defaults",
+          "value": [
+            {
+              "key": "clip_near",
+              "value": 1
+            },
+            {
+              "key": "projection_start_culling_distance",
+              "value": 95
+            },
+            {
+              "key": "clip_far",
+              "value": 3600
+            },
+            {
+              "key": "validate_position",
+              "value": true
+            },
+            {
+              "key": "projection_mode",
+              "value": "perspective"
+            },
+            {
+              "key": "position",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "basic_data_types\\vector3"
+                },
+                {
+                  "key": "y",
+                  "value": 13
+                },
+                {
+                  "key": "x",
+                  "value": 0
+                },
+                {
+                  "key": "z",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "lookAt",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "basic_data_types\\vector3"
+                },
+                {
+                  "key": "y",
+                  "value": 0
+                },
+                {
+                  "key": "x",
+                  "value": 0
+                },
+                {
+                  "key": "z",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "fov",
+              "value": 60
+            }
+          ]
+        },
+        {
+          "key": "tuning",
+          "value": [
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "pan_scale_keyboard",
+                  "value": 3
+                },
+                {
+                  "key": "pan_scale_screen",
+                  "value": 3
+                },
+                {
+                  "key": "yaw_rate_keyboard",
+                  "value": 1
+                },
+                {
+                  "key": "distance_rate_wheel",
+                  "value": 1.5
+                },
+                {
+                  "key": "tilt_rate_mouse",
+                  "value": 100
+                },
+                {
+                  "key": "yaw_rate_mouse",
+                  "value": 100
+                },
+                {
+                  "key": "distance_rate_wheel_out",
+                  "value": 1.2
+                },
+                {
+                  "key": "distance_rate_wheel_in",
+                  "value": 1
+                },
+                {
+                  "key": "pan_scale_mouse",
+                  "value": 3
+                },
+                {
+                  "key": "tilt_rate_keyboard",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "modules",
+          "value": [
+            {
+              "key": "cam_module_follow_target",
+              "value": [
+                {
+                  "key": "interpolation_time",
+                  "value": -1
+                },
+                {
+                  "key": "$REF",
+                  "value": "camera_modules\\cam_module_follow_target"
+                },
+                {
+                  "key": "use_avg_squad_pos",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "cam_module_thether",
+              "value": [
+                {
+                  "key": "pan_rate_mouse",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "camera_modules\\cam_module_thether"
+                },
+                {
+                  "key": "distance_max",
+                  "value": 5
+                }
+              ]
+            },
+            {
+              "key": "cam_module_orbit",
+              "value": [
+                {
+                  "key": "defaults",
+                  "value": [
+                    {
+                      "key": "yaw",
+                      "value": 16
+                    },
+                    {
+                      "key": "distance",
+                      "value": 15
+                    },
+                    {
+                      "key": "tilt",
+                      "value": 24
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "camera_modules\\cam_module_orbit"
+                },
+                {
+                  "key": "tuning",
+                  "value": [
+                    {
+                      "key": "look_at_offset",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "basic_data_types\\vector3"
+                        },
+                        {
+                          "key": "y",
+                          "value": 1
+                        },
+                        {
+                          "key": "x",
+                          "value": 1
+                        },
+                        {
+                          "key": "z",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "distance_max",
+                      "value": 13
+                    },
+                    {
+                      "key": "tilt_min",
+                      "value": 1
+                    },
+                    {
+                      "key": "distance_min",
+                      "value": 2
+                    },
+                    {
+                      "key": "tilt_max",
+                      "value": 88
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "cam_module_ground_height",
+              "value": [
+                {
+                  "key": "dist_ground_min",
+                  "value": 2
+                },
+                {
+                  "key": "modify_pivot",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "camera_modules\\cam_module_ground_height"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 105538
+    }
+  ]
+}

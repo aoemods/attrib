@@ -1,0 +1,408 @@
+{
+  "data": [
+    {
+      "key": "_42",
+      "value": "gaia_wander_delay_min"
+    },
+    {
+      "key": "_84",
+      "value": "scholars_in_madrasa"
+    },
+    {
+      "key": "_54",
+      "value": "holy_inspiration_time_remaining_hre"
+    },
+    {
+      "key": "_99",
+      "value": "UI_Duration"
+    },
+    {
+      "key": "_83",
+      "value": "scholar_mapping_timer_sul"
+    },
+    {
+      "key": "_76",
+      "value": "relic_capacity"
+    },
+    {
+      "key": "_78",
+      "value": "return_to_work_job"
+    },
+    {
+      "key": "_18",
+      "value": "ai_phase_encounter_required_unit_count"
+    },
+    {
+      "key": "_52",
+      "value": "healing_count"
+    },
+    {
+      "key": "_3",
+      "value": "active_ovoo_count"
+    },
+    {
+      "key": "_36",
+      "value": "evacuation_state"
+    },
+    {
+      "key": "_48",
+      "value": "golden_age_level_3_cost"
+    },
+    {
+      "key": "_50",
+      "value": "golden_age_progress_needed_abb"
+    },
+    {
+      "key": "_82",
+      "value": "scholar_count_sul"
+    },
+    {
+      "key": "_97",
+      "value": "total_scholar_count_sul"
+    },
+    {
+      "key": "_17",
+      "value": "ai_phase_encounter_ram_number_to_build"
+    },
+    {
+      "key": "_69",
+      "value": "ortoo_aura_timer"
+    },
+    {
+      "key": "_49",
+      "value": "golden_age_progress_abb"
+    },
+    {
+      "key": "_4",
+      "value": "active_tool"
+    },
+    {
+      "key": "_90",
+      "value": "specialization_level_1_cost"
+    },
+    {
+      "key": "_67",
+      "value": "num_wood_gatherers"
+    },
+    {
+      "key": "_7",
+      "value": "ai_holy_sites_count_safe"
+    },
+    {
+      "key": "_57",
+      "value": "legacy_level"
+    },
+    {
+      "key": "_63",
+      "value": "num_food_gatherers"
+    },
+    {
+      "key": "_89",
+      "value": "silk_road_requirement_tier_4_mon"
+    },
+    {
+      "key": "_9",
+      "value": "ai_holy_sites_count_total"
+    },
+    {
+      "key": "_16",
+      "value": "ai_phase_encounter_ram_max_passenger_count"
+    },
+    {
+      "key": "_72",
+      "value": "pickup_attachments_max_count"
+    },
+    {
+      "key": "_24",
+      "value": "bijay_mandal_palace_scholar_count_sul"
+    },
+    {
+      "key": "_0",
+      "value": "ability_last_issued_tick"
+    },
+    {
+      "key": "_87",
+      "value": "silk_road_requirement_tier_2_mon"
+    },
+    {
+      "key": "_88",
+      "value": "silk_road_requirement_tier_3_mon"
+    },
+    {
+      "key": "_64",
+      "value": "num_gold_gatherers"
+    },
+    {
+      "key": "_22",
+      "value": "ai_sul_required_scholar_count"
+    },
+    {
+      "key": "_8",
+      "value": "ai_holy_sites_count_threatened"
+    },
+    {
+      "key": "_21",
+      "value": "ai_sul_current_scholar_count"
+    },
+    {
+      "key": "_13",
+      "value": "ai_phase_encounter_engagement_type"
+    },
+    {
+      "key": "_73",
+      "value": "player_max_age"
+    },
+    {
+      "key": "_45",
+      "value": "gather_slots_occupied"
+    },
+    {
+      "key": "_19",
+      "value": "ai_phase_encounter_required_unit_percent"
+    },
+    {
+      "key": "_31",
+      "value": "Debug"
+    },
+    {
+      "key": "_94",
+      "value": "time_of_next_available_charge"
+    },
+    {
+      "key": "_11",
+      "value": "ai_num_ovoo_relocations"
+    },
+    {
+      "key": "_53",
+      "value": "held_relic_last_issued_tick"
+    },
+    {
+      "key": "_43",
+      "value": "gather_phase_semi_idle_ticks_remaining"
+    },
+    {
+      "key": "_35",
+      "value": "enclosure_cooldown"
+    },
+    {
+      "key": "_61",
+      "value": "max_sheep_count_mon"
+    },
+    {
+      "key": "_2",
+      "value": "active_follower_max"
+    },
+    {
+      "key": "_47",
+      "value": "golden_age_level_2_cost"
+    },
+    {
+      "key": "_20",
+      "value": "ai_phase_encounter_siege_tower_max_passenger_count"
+    },
+    {
+      "key": "_41",
+      "value": "gaia_wander_delay_max"
+    },
+    {
+      "key": "_56",
+      "value": "last_active_job"
+    },
+    {
+      "key": "_37",
+      "value": "flame_douse_cooldown_base_hre"
+    },
+    {
+      "key": "_68",
+      "value": "original_owner"
+    },
+    {
+      "key": "_46",
+      "value": "golden_age_level_1_cost"
+    },
+    {
+      "key": "_34",
+      "value": "douse_under_attack_hre"
+    },
+    {
+      "key": "_60",
+      "value": "mangudai_attack_timer"
+    },
+    {
+      "key": "_66",
+      "value": "num_stone_gatherers"
+    },
+    {
+      "key": "_29",
+      "value": "current_charge_duration"
+    },
+    {
+      "key": "_38",
+      "value": "flame_douse_cooldown_hre"
+    },
+    {
+      "key": "_81",
+      "value": "scholar_availability_level_sul"
+    },
+    {
+      "key": "_95",
+      "value": "total_district_tiers"
+    },
+    {
+      "key": "_30",
+      "value": "current_job"
+    },
+    {
+      "key": "_27",
+      "value": "civ_trait_specialization_level"
+    },
+    {
+      "key": "_100",
+      "value": "upgrades_completed"
+    },
+    {
+      "key": "_75",
+      "value": "population_cap_increase"
+    },
+    {
+      "key": "_15",
+      "value": "ai_phase_encounter_override_encounter_id"
+    },
+    {
+      "key": "_96",
+      "value": "total_followers"
+    },
+    {
+      "key": "_92",
+      "value": "specialization_level_3_cost"
+    },
+    {
+      "key": "_70",
+      "value": "ovoo_count"
+    },
+    {
+      "key": "_98",
+      "value": "total_sheep_count_mon"
+    },
+    {
+      "key": "_28",
+      "value": "constructed_town_bell_destinations"
+    },
+    {
+      "key": "_51",
+      "value": "golden_age_time_remaining_abb"
+    },
+    {
+      "key": "_80",
+      "value": "saints_blade_buff_count_rus"
+    },
+    {
+      "key": "_93",
+      "value": "time_of_last_charge"
+    },
+    {
+      "key": "_91",
+      "value": "specialization_level_2_cost"
+    },
+    {
+      "key": "_23",
+      "value": "ai_transplant_island_id"
+    },
+    {
+      "key": "_86",
+      "value": "silk_road_requirement_tier_1_mon"
+    },
+    {
+      "key": "_14",
+      "value": "ai_phase_encounter_notify_rule_id"
+    },
+    {
+      "key": "_65",
+      "value": "num_idle_villagers"
+    },
+    {
+      "key": "_25",
+      "value": "buildings_researching_sul"
+    },
+    {
+      "key": "_39",
+      "value": "follower_count"
+    },
+    {
+      "key": "_59",
+      "value": "mangudai_attack_max_duration"
+    },
+    {
+      "key": "_77",
+      "value": "relic_count"
+    },
+    {
+      "key": "_12",
+      "value": "ai_num_unit_types_to_build"
+    },
+    {
+      "key": "_6",
+      "value": "ai_current_updating_homebase"
+    },
+    {
+      "key": "_1",
+      "value": "active_follower_count"
+    },
+    {
+      "key": "_32",
+      "value": "district_spec_gold_rate_mod_pagoda_chi"
+    },
+    {
+      "key": "_44",
+      "value": "gather_slots_count"
+    },
+    {
+      "key": "_40",
+      "value": "follower_threshold"
+    },
+    {
+      "key": "_55",
+      "value": "is_capital"
+    },
+    {
+      "key": "_33",
+      "value": "district_spec_total_stables_fre"
+    },
+    {
+      "key": "_74",
+      "value": "player_relic_count"
+    },
+    {
+      "key": "_79",
+      "value": "saints_armour_buff_count_rus"
+    },
+    {
+      "key": "_71",
+      "value": "pickup_attachments_count"
+    },
+    {
+      "key": "_58",
+      "value": "madrasa_count"
+    },
+    {
+      "key": "_5",
+      "value": "active_town_bell_unit_count"
+    },
+    {
+      "key": "_62",
+      "value": "network_of_castles_timer"
+    },
+    {
+      "key": "_26",
+      "value": "campfire_count_eng"
+    },
+    {
+      "key": "_85",
+      "value": "scholars_working_sul"
+    },
+    {
+      "key": "_10",
+      "value": "ai_move_gatherer_focued_island"
+    }
+  ]
+}

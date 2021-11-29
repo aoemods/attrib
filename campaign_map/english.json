@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 130349
+    },
+    {
+      "key": "campaign_map_bag",
+      "value": [
+        {
+          "key": "image_path",
+          "value": "campaign\\campaign_thumb_norman"
+        },
+        {
+          "key": "fe_priority",
+          "value": 0
+        },
+        {
+          "key": "music_layer_event",
+          "value": "mus_fe_set_civ_eng"
+        },
+        {
+          "key": "campaign_map_scenarios",
+          "value": [
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp1_hastings"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp1_york"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp2_bayeux"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp2_bremule"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp2_tinchebray"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp3_lincoln"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp3_wallingford"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp4_dover"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp4_lincoln"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            },
+            {
+              "key": "campaign_map_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ang_chp4_rochester"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "campaign_map_scenario"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_name",
+          "value": 11143649
+        },
+        {
+          "key": "id",
+          "value": "english"
+        },
+        {
+          "key": "debug",
+          "value": false
+        },
+        {
+          "key": "node_packs",
+          "value": [
+          ]
+        },
+        {
+          "key": "ui_description",
+          "value": 11143650
+        }
+      ]
+    }
+  ]
+}

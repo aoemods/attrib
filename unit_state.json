@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "gathering_wood"
+    },
+    {
+      "key": "_4",
+      "value": "idle_auxiliary"
+    },
+    {
+      "key": "_7",
+      "value": "idle_villager"
+    },
+    {
+      "key": "_9",
+      "value": "resource_gold"
+    },
+    {
+      "key": "_0",
+      "value": "gathering_food"
+    },
+    {
+      "key": "_8",
+      "value": "resource_food"
+    },
+    {
+      "key": "_11",
+      "value": "resource_wood"
+    },
+    {
+      "key": "_2",
+      "value": "gathering_stone"
+    },
+    {
+      "key": "_6",
+      "value": "idle_infantry"
+    },
+    {
+      "key": "_1",
+      "value": "gathering_gold"
+    },
+    {
+      "key": "_5",
+      "value": "idle_generic"
+    },
+    {
+      "key": "_10",
+      "value": "resource_stone"
+    }
+  ]
+}

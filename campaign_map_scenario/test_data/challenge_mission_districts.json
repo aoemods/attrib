@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 188743
+    },
+    {
+      "key": "campaign_map_scenario_bag",
+      "value": [
+        {
+          "key": "completion_achievement",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "scenario_name",
+          "value": "challenge_mission_districts"
+        },
+        {
+          "key": "bypass_unit_selection",
+          "value": false
+        },
+        {
+          "key": "slot_rules",
+          "value": [
+          ]
+        },
+        {
+          "key": "briefing",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "item_rules",
+          "value": [
+          ]
+        },
+        {
+          "key": "challenge_list",
+          "value": [
+          ]
+        },
+        {
+          "key": "debriefing",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "army_slot_layout_override",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "ui",
+          "value": [
+            {
+              "key": "name",
+              "value": 11166797
+            },
+            {
+              "key": "chapter_name",
+              "value": 11166798
+            },
+            {
+              "key": "chapter_image",
+              "value": "campaign\\chapter_icons\\chapter_icon_conquest"
+            },
+            {
+              "key": "timeline_spacing_order",
+              "value": 0
+            },
+            {
+              "key": "short_name",
+              "value": 11166799
+            },
+            {
+              "key": "year",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

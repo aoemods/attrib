@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "key": "load_tip_group_bag",
+      "value": [
+        {
+          "key": "tips",
+          "value": [
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "villager_production"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "villager_queue"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "scout_herding"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "food_returns"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "house_pop"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "load_tip_group_type",
+          "value": "standard"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2032995
+    }
+  ]
+}

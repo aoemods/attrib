@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\unit_stat_armour"
+        },
+        {
+          "key": "description",
+          "value": 11205428
+        },
+        {
+          "key": "title",
+          "value": 11180936
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 197806
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

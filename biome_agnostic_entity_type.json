@@ -1,0 +1,548 @@
+{
+  "data": [
+    {
+      "key": "_42",
+      "value": "rock_cliff_2"
+    },
+    {
+      "key": "_84",
+      "value": "vegetation_high_small_2"
+    },
+    {
+      "key": "_54",
+      "value": "rock_med_2"
+    },
+    {
+      "key": "_99",
+      "value": "wood_dense_high_4"
+    },
+    {
+      "key": "_133",
+      "value": "wood_scattered_low_5"
+    },
+    {
+      "key": "_83",
+      "value": "vegetation_high_large_3"
+    },
+    {
+      "key": "_76",
+      "value": "unreachable_prop_low"
+    },
+    {
+      "key": "_78",
+      "value": "vegetation_dead_2"
+    },
+    {
+      "key": "_123",
+      "value": "wood_scattered_dead_3"
+    },
+    {
+      "key": "_18",
+      "value": "deposit_stone"
+    },
+    {
+      "key": "_52",
+      "value": "rock_large_5"
+    },
+    {
+      "key": "_120",
+      "value": "wood_loose_low_5"
+    },
+    {
+      "key": "_103",
+      "value": "wood_dense_low_3"
+    },
+    {
+      "key": "_3",
+      "value": "animal_herdable_med"
+    },
+    {
+      "key": "_36",
+      "value": "ocean_deco_shoreline"
+    },
+    {
+      "key": "_48",
+      "value": "rock_large_1"
+    },
+    {
+      "key": "_50",
+      "value": "rock_large_3"
+    },
+    {
+      "key": "_82",
+      "value": "vegetation_high_large_2"
+    },
+    {
+      "key": "_97",
+      "value": "wood_dense_high_2"
+    },
+    {
+      "key": "_17",
+      "value": "deposit_gold_small"
+    },
+    {
+      "key": "_115",
+      "value": "wood_loose_high_5"
+    },
+    {
+      "key": "_69",
+      "value": "splat_lush_1"
+    },
+    {
+      "key": "_125",
+      "value": "wood_scattered_high_2"
+    },
+    {
+      "key": "_49",
+      "value": "rock_large_2"
+    },
+    {
+      "key": "_4",
+      "value": "animal_huntable_danger"
+    },
+    {
+      "key": "_126",
+      "value": "wood_scattered_high_3"
+    },
+    {
+      "key": "_90",
+      "value": "vegetation_low_small_2"
+    },
+    {
+      "key": "_119",
+      "value": "wood_loose_low_4"
+    },
+    {
+      "key": "_67",
+      "value": "splat_dry_2"
+    },
+    {
+      "key": "_112",
+      "value": "wood_loose_high_2"
+    },
+    {
+      "key": "_7",
+      "value": "animal_huntable_flee_large"
+    },
+    {
+      "key": "_130",
+      "value": "wood_scattered_low_2"
+    },
+    {
+      "key": "_57",
+      "value": "rock_med_5"
+    },
+    {
+      "key": "_128",
+      "value": "wood_scattered_high_5"
+    },
+    {
+      "key": "_63",
+      "value": "rock_small_3"
+    },
+    {
+      "key": "_89",
+      "value": "vegetation_low_small_1"
+    },
+    {
+      "key": "_117",
+      "value": "wood_loose_low_2"
+    },
+    {
+      "key": "_9",
+      "value": "berry_source_large"
+    },
+    {
+      "key": "_124",
+      "value": "wood_scattered_high_1"
+    },
+    {
+      "key": "_16",
+      "value": "deposit_gold"
+    },
+    {
+      "key": "_109",
+      "value": "wood_loose_dead_2"
+    },
+    {
+      "key": "_72",
+      "value": "splat_wet_1"
+    },
+    {
+      "key": "_24",
+      "value": "fx_mountaintop"
+    },
+    {
+      "key": "_0",
+      "value": "animal_aggressive"
+    },
+    {
+      "key": "_107",
+      "value": "wood_dense_starting_standard"
+    },
+    {
+      "key": "_87",
+      "value": "vegetation_low_large_2"
+    },
+    {
+      "key": "_108",
+      "value": "wood_loose_dead_1"
+    },
+    {
+      "key": "_88",
+      "value": "vegetation_low_large_3"
+    },
+    {
+      "key": "_64",
+      "value": "rock_small_4"
+    },
+    {
+      "key": "_22",
+      "value": "fish_shore"
+    },
+    {
+      "key": "_8",
+      "value": "berry_source"
+    },
+    {
+      "key": "_21",
+      "value": "fish_river"
+    },
+    {
+      "key": "_13",
+      "value": "city_settlement"
+    },
+    {
+      "key": "_129",
+      "value": "wood_scattered_low_1"
+    },
+    {
+      "key": "_73",
+      "value": "splat_wet_2"
+    },
+    {
+      "key": "_118",
+      "value": "wood_loose_low_3"
+    },
+    {
+      "key": "_45",
+      "value": "rock_cliff_5"
+    },
+    {
+      "key": "_19",
+      "value": "deposit_stone_small"
+    },
+    {
+      "key": "_31",
+      "value": "lake_deco_shallows"
+    },
+    {
+      "key": "_94",
+      "value": "wood_dense_dead_2"
+    },
+    {
+      "key": "_11",
+      "value": "bird_no_land_1"
+    },
+    {
+      "key": "_53",
+      "value": "rock_med_1"
+    },
+    {
+      "key": "_43",
+      "value": "rock_cliff_3"
+    },
+    {
+      "key": "_35",
+      "value": "ocean_deco_large"
+    },
+    {
+      "key": "_61",
+      "value": "rock_small_1"
+    },
+    {
+      "key": "_2",
+      "value": "animal_herdable_large"
+    },
+    {
+      "key": "_47",
+      "value": "rock_guide_stone"
+    },
+    {
+      "key": "_20",
+      "value": "fish_deepwater"
+    },
+    {
+      "key": "_114",
+      "value": "wood_loose_high_4"
+    },
+    {
+      "key": "_41",
+      "value": "rock_cliff_1"
+    },
+    {
+      "key": "_134",
+      "value": "wood_scattered_low_large"
+    },
+    {
+      "key": "_56",
+      "value": "rock_med_4"
+    },
+    {
+      "key": "_37",
+      "value": "ocean_deco_water_intersection"
+    },
+    {
+      "key": "_68",
+      "value": "splat_dry_3"
+    },
+    {
+      "key": "_46",
+      "value": "rock_guide_gold"
+    },
+    {
+      "key": "_34",
+      "value": "ocean_beach_props"
+    },
+    {
+      "key": "_111",
+      "value": "wood_loose_high_1"
+    },
+    {
+      "key": "_60",
+      "value": "rock_river_large"
+    },
+    {
+      "key": "_127",
+      "value": "wood_scattered_high_4"
+    },
+    {
+      "key": "_66",
+      "value": "splat_dry_1"
+    },
+    {
+      "key": "_29",
+      "value": "holy_site"
+    },
+    {
+      "key": "_38",
+      "value": "ocean_deco_water_offshore"
+    },
+    {
+      "key": "_81",
+      "value": "vegetation_high_large_1"
+    },
+    {
+      "key": "_95",
+      "value": "wood_dense_dead_3"
+    },
+    {
+      "key": "_30",
+      "value": "lake_deco_large"
+    },
+    {
+      "key": "_27",
+      "value": "fx_water_rapids"
+    },
+    {
+      "key": "_100",
+      "value": "wood_dense_high_5"
+    },
+    {
+      "key": "_75",
+      "value": "unreachable_prop"
+    },
+    {
+      "key": "_110",
+      "value": "wood_loose_dead_3"
+    },
+    {
+      "key": "_15",
+      "value": "city_town_center"
+    },
+    {
+      "key": "_96",
+      "value": "wood_dense_high_1"
+    },
+    {
+      "key": "_92",
+      "value": "vegetation_riverbank"
+    },
+    {
+      "key": "_70",
+      "value": "splat_lush_2"
+    },
+    {
+      "key": "_105",
+      "value": "wood_dense_low_5"
+    },
+    {
+      "key": "_98",
+      "value": "wood_dense_high_3"
+    },
+    {
+      "key": "_28",
+      "value": "fx_water_waterfall"
+    },
+    {
+      "key": "_101",
+      "value": "wood_dense_low_1"
+    },
+    {
+      "key": "_51",
+      "value": "rock_large_4"
+    },
+    {
+      "key": "_131",
+      "value": "wood_scattered_low_3"
+    },
+    {
+      "key": "_104",
+      "value": "wood_dense_low_4"
+    },
+    {
+      "key": "_80",
+      "value": "vegetation_high_1"
+    },
+    {
+      "key": "_93",
+      "value": "wood_dense_dead_1"
+    },
+    {
+      "key": "_91",
+      "value": "vegetation_low_small_3"
+    },
+    {
+      "key": "_23",
+      "value": "fx_cliff"
+    },
+    {
+      "key": "_122",
+      "value": "wood_scattered_dead_2"
+    },
+    {
+      "key": "_86",
+      "value": "vegetation_low_large_1"
+    },
+    {
+      "key": "_106",
+      "value": "wood_dense_low_small"
+    },
+    {
+      "key": "_14",
+      "value": "city_settlement_naval"
+    },
+    {
+      "key": "_65",
+      "value": "rock_small_5"
+    },
+    {
+      "key": "_25",
+      "value": "fx_valley"
+    },
+    {
+      "key": "_102",
+      "value": "wood_dense_low_2"
+    },
+    {
+      "key": "_135",
+      "value": "wood_scattered_low_small"
+    },
+    {
+      "key": "_39",
+      "value": "ocean_stealth_object"
+    },
+    {
+      "key": "_59",
+      "value": "rock_river_ford"
+    },
+    {
+      "key": "_77",
+      "value": "vegetation_dead_1"
+    },
+    {
+      "key": "_12",
+      "value": "bird_wild_1"
+    },
+    {
+      "key": "_6",
+      "value": "animal_huntable_flee"
+    },
+    {
+      "key": "_1",
+      "value": "animal_herdable"
+    },
+    {
+      "key": "_32",
+      "value": "lake_deco_shoreline"
+    },
+    {
+      "key": "_44",
+      "value": "rock_cliff_4"
+    },
+    {
+      "key": "_40",
+      "value": "relic"
+    },
+    {
+      "key": "_55",
+      "value": "rock_med_3"
+    },
+    {
+      "key": "_116",
+      "value": "wood_loose_low_1"
+    },
+    {
+      "key": "_113",
+      "value": "wood_loose_high_3"
+    },
+    {
+      "key": "_33",
+      "value": "ocean_beach_high_props"
+    },
+    {
+      "key": "_74",
+      "value": "splat_wet_3"
+    },
+    {
+      "key": "_79",
+      "value": "vegetation_dead_3"
+    },
+    {
+      "key": "_71",
+      "value": "splat_lush_3"
+    },
+    {
+      "key": "_58",
+      "value": "rock_river"
+    },
+    {
+      "key": "_5",
+      "value": "animal_huntable_danger_large"
+    },
+    {
+      "key": "_132",
+      "value": "wood_scattered_low_4"
+    },
+    {
+      "key": "_62",
+      "value": "rock_small_2"
+    },
+    {
+      "key": "_121",
+      "value": "wood_scattered_dead_1"
+    },
+    {
+      "key": "_26",
+      "value": "fx_water_calm"
+    },
+    {
+      "key": "_85",
+      "value": "vegetation_high_small_3"
+    },
+    {
+      "key": "_10",
+      "value": "bird_city_1"
+    }
+  ]
+}

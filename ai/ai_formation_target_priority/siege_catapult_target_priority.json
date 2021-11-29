@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "key": "ai_formation_target_priority",
+      "value": [
+        {
+          "key": "exclude_unit_types",
+          "value": [
+          ]
+        },
+        {
+          "key": "formation_priority_options",
+          "value": [
+            {
+              "key": "formation_siege_target_priority_option",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "options\\ai\\encounters\\formation_siege_target_priority_option"
+                },
+                {
+                  "key": "prefer_focus_target",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "formation_target_scorer_option",
+              "value": [
+                {
+                  "key": "time_to_target_scale",
+                  "value": 1
+                },
+                {
+                  "key": "time_to_kill_scale",
+                  "value": 1
+                },
+                {
+                  "key": "current_target_scale",
+                  "value": 1
+                },
+                {
+                  "key": "movement_speed_scale",
+                  "value": -1
+                },
+                {
+                  "key": "can_move_scale",
+                  "value": 0
+                },
+                {
+                  "key": "critical_target_scale",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "options\\ai\\encounters\\formation_target_scorer_option"
+                },
+                {
+                  "key": "already_assigned_scale",
+                  "value": 0
+                },
+                {
+                  "key": "can_shoot_at_scale",
+                  "value": 4
+                },
+                {
+                  "key": "exclude_no_los",
+                  "value": false
+                },
+                {
+                  "key": "target_damage_scale",
+                  "value": 1
+                },
+                {
+                  "key": "unit_type_scores",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\ai\\encounters\\unit_type_scores"
+                    },
+                    {
+                      "key": "unit_type_scores",
+                      "value": [
+                        {
+                          "key": "unit_type_score",
+                          "value": [
+                            {
+                              "key": "unit_type",
+                              "value": "castle"
+                            },
+                            {
+                              "key": "score",
+                              "value": 10
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_score",
+                          "value": [
+                            {
+                              "key": "unit_type",
+                              "value": "human"
+                            },
+                            {
+                              "key": "score",
+                              "value": -1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_score",
+                          "value": [
+                            {
+                              "key": "unit_type",
+                              "value": "cavalry"
+                            },
+                            {
+                              "key": "score",
+                              "value": -1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_score",
+                          "value": [
+                            {
+                              "key": "unit_type",
+                              "value": "tower"
+                            },
+                            {
+                              "key": "score",
+                              "value": 10
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_score",
+                          "value": [
+                            {
+                              "key": "unit_type",
+                              "value": "outpost"
+                            },
+                            {
+                              "key": "score",
+                              "value": 5
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_score",
+                          "value": [
+                            {
+                              "key": "unit_type",
+                              "value": "siegeable"
+                            },
+                            {
+                              "key": "score",
+                              "value": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "target_check_interval_seconds",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 191385
+    }
+  ]
+}

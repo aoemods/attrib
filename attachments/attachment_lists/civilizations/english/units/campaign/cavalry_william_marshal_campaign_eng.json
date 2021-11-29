@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "key": "attachment_lists",
+      "value": [
+        {
+          "key": "parent_animator",
+          "value": ""
+        },
+        {
+          "key": "attachment_lists",
+          "value": [
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "default"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "default"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_skin_attachment",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_skin_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\english\\animals\\eng_horse_combined_william_marshal_age03\\eng_horse_combined_william_marshal_age03"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "MetaRig_LArmPalmSocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\english\\weapons\\eng_shield_william_marshal_age02\\eng_shield_william_marshal_age02"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1412542
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "core_cavalry"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "attachments\\attachment_lists"
+        }
+      ]
+    }
+  ]
+}

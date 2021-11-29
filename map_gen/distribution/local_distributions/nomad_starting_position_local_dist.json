@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "key": "local_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_cell_dist_gaia_sheep_start"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_cell_dist_trees_loose_low_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_cell_dist_trees_loose_low_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_cell_dist_trees_loose_high_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_cell_distribution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 132199
+    }
+  ]
+}

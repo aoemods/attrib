@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 184508
+    },
+    {
+      "key": "global_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_dense_low_desert_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_dense_low_desert_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_scattered_low_desert_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_scattered_low_desert_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_wolf_desert"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_loose_clifftop_desert_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_loose_low_desert_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_loose_high_desert_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_loose_freshwater_shoreline"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "key": "ui_district_info_bag",
+      "value": [
+        {
+          "key": "display_name",
+          "value": 11162080
+        },
+        {
+          "key": "tiers",
+          "value": [
+            {
+              "key": "tier_info",
+              "value": [
+                {
+                  "key": "hide_in_ui",
+                  "value": true
+                },
+                {
+                  "key": "tier_data",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tier_0"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ui_district_tier_data"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "tier_info",
+              "value": [
+                {
+                  "key": "hide_in_ui",
+                  "value": false
+                },
+                {
+                  "key": "tier_data",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tier_1"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ui_district_tier_data"
+                    }
+                  ]
+                },
+                {
+                  "key": "description",
+                  "value": 11162081
+                }
+              ]
+            },
+            {
+              "key": "tier_info",
+              "value": [
+                {
+                  "key": "hide_in_ui",
+                  "value": false
+                },
+                {
+                  "key": "tier_data",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tier_2"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ui_district_tier_data"
+                    }
+                  ]
+                },
+                {
+                  "key": "description",
+                  "value": 11162082
+                }
+              ]
+            },
+            {
+              "key": "tier_info",
+              "value": [
+                {
+                  "key": "hide_in_ui",
+                  "value": false
+                },
+                {
+                  "key": "tier_data",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tier_3"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ui_district_tier_data"
+                    }
+                  ]
+                },
+                {
+                  "key": "description",
+                  "value": 11162083
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 182979
+    }
+  ]
+}

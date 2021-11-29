@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "key": "local_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 167554
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 184926
+    },
+    {
+      "key": "global_region_distribution",
+      "value": [
+        {
+          "key": "quantity",
+          "value": [
+            {
+              "key": "base_instance_count",
+              "value": 0
+            },
+            {
+              "key": "additional_instances_per_player",
+              "value": 0
+            },
+            {
+              "key": "additional_instances_per_km_squared",
+              "value": 0
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\distribution\\quantity"
+            },
+            {
+              "key": "additional_instances_per_scored_km_squared",
+              "value": 0
+            },
+            {
+              "key": "minimum_for_per_scored_km_squared",
+              "value": 0.05
+            },
+            {
+              "key": "additional_instances_per_million_score",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "distribution",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "region_dist_trees_loose_high_1"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\region_distribution"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

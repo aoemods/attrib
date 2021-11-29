@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "key": "ai_formation_target_priority",
+      "value": [
+        {
+          "key": "exclude_unit_types",
+          "value": [
+            {
+              "key": "unit_class",
+              "value": "human"
+            },
+            {
+              "key": "unit_class",
+              "value": "cavalry"
+            }
+          ]
+        },
+        {
+          "key": "formation_priority_options",
+          "value": [
+            {
+              "key": "formation_siege_transport_priority_option",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "options\\ai\\encounters\\formation_siege_transport_priority_option"
+                },
+                {
+                  "key": "require_walkable_target",
+                  "value": false
+                },
+                {
+                  "key": "consider_enemies_on_wall_within_distance",
+                  "value": 0
+                },
+                {
+                  "key": "unit_type_scores",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\ai\\encounters\\unit_type_scores"
+                    },
+                    {
+                      "key": "unit_type_scores",
+                      "value": [
+                        {
+                          "key": "unit_type_score",
+                          "value": [
+                            {
+                              "key": "unit_type",
+                              "value": "gate"
+                            },
+                            {
+                              "key": "score",
+                              "value": 100
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_score",
+                          "value": [
+                            {
+                              "key": "unit_type",
+                              "value": "wall"
+                            },
+                            {
+                              "key": "score",
+                              "value": 1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_score",
+                          "value": [
+                            {
+                              "key": "unit_type",
+                              "value": "human"
+                            },
+                            {
+                              "key": "score",
+                              "value": -1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_score",
+                          "value": [
+                            {
+                              "key": "unit_type",
+                              "value": "cavalry"
+                            },
+                            {
+                              "key": "score",
+                              "value": -1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "target_check_interval_seconds",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 191717
+    }
+  ]
+}

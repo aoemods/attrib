@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\unit_stat_attack_siege"
+        },
+        {
+          "key": "description",
+          "value": 11183148
+        },
+        {
+          "key": "title",
+          "value": 11183147
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 200627
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

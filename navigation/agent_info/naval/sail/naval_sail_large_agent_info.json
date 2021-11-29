@@ -1,0 +1,451 @@
+{
+  "data": [
+    {
+      "key": "agent_info",
+      "value": [
+        {
+          "key": "goal_adjustment_cell_limit",
+          "value": 400
+        },
+        {
+          "key": "collision_info",
+          "value": [
+            {
+              "key": "restitution",
+              "value": 0.25
+            },
+            {
+              "key": "damping",
+              "value": [
+                {
+                  "key": "sideway_damping_factor",
+                  "value": 1
+                },
+                {
+                  "key": "reverse_damping_factor",
+                  "value": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "steering_info",
+          "value": [
+            {
+              "key": "influences",
+              "value": [
+                {
+                  "key": "goal_influence",
+                  "value": [
+                    {
+                      "key": "use_portal_line_of_sight",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "options\\navigation\\influences\\goal_influence"
+                    },
+                    {
+                      "key": "default_weight",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "flow_influence",
+                  "value": [
+                    {
+                      "key": "to_goal_clamp_angle_threshold_degrees",
+                      "value": 85
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "options\\navigation\\influences\\flow_influence"
+                    },
+                    {
+                      "key": "default_weight",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "avoid_influence",
+                  "value": [
+                    {
+                      "key": "vs_stationary",
+                      "value": [
+                        {
+                          "key": "max_iterations",
+                          "value": 4
+                        },
+                        {
+                          "key": "scan_look_ahead_time_seconds",
+                          "value": 0.375
+                        },
+                        {
+                          "key": "enabled",
+                          "value": true
+                        }
+                      ]
+                    },
+                    {
+                      "key": "hold_impasse_surround_time_seconds",
+                      "value": 0.25
+                    },
+                    {
+                      "key": "swept_circle_force_turn_degree",
+                      "value": 60
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "options\\navigation\\influences\\avoid_influence"
+                    },
+                    {
+                      "key": "vs_moving",
+                      "value": [
+                        {
+                          "key": "max_iterations",
+                          "value": 1
+                        },
+                        {
+                          "key": "scan_look_ahead_time_seconds",
+                          "value": 0.125
+                        },
+                        {
+                          "key": "enabled",
+                          "value": true
+                        }
+                      ]
+                    },
+                    {
+                      "key": "vs_stationaryBoundaryCell",
+                      "value": [
+                        {
+                          "key": "max_iterations",
+                          "value": 4
+                        },
+                        {
+                          "key": "scan_look_ahead_time_seconds",
+                          "value": 0.75
+                        },
+                        {
+                          "key": "enabled",
+                          "value": true
+                        }
+                      ]
+                    },
+                    {
+                      "key": "impasse_turn_around_seconds",
+                      "value": 1.5
+                    },
+                    {
+                      "key": "hold_fast_surround_time_seconds",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "default_weight",
+                      "value": 1
+                    },
+                    {
+                      "key": "radius_width_multiplier_for_detection_oobb",
+                      "value": 1
+                    },
+                    {
+                      "key": "max_impasse_avoidance_size",
+                      "value": 32
+                    },
+                    {
+                      "key": "m_gap_detection_use_gap_center",
+                      "value": true
+                    }
+                  ]
+                },
+                {
+                  "key": "separate_influence",
+                  "value": [
+                    {
+                      "key": "maximum_neighbour_count",
+                      "value": 8
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "options\\navigation\\influences\\separate_influence"
+                    },
+                    {
+                      "key": "default_weight",
+                      "value": 1
+                    },
+                    {
+                      "key": "default_desired_separation_metres",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "key": "distance_to_interact_target_influence",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\navigation\\influences\\distance_to_interact_target_influence"
+                    },
+                    {
+                      "key": "default_weight",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "formation_influence",
+                  "value": [
+                    {
+                      "key": "spot_wait_speed_decrease_factor",
+                      "value": 0.7
+                    },
+                    {
+                      "key": "spot_catchup_speed_increase_factor",
+                      "value": 1
+                    },
+                    {
+                      "key": "spot_delta_lookup_distance_meters",
+                      "value": 1
+                    },
+                    {
+                      "key": "flow_angular_tolerance_in_degrees",
+                      "value": 105
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "options\\navigation\\influences\\formation_influence"
+                    },
+                    {
+                      "key": "slowdown_to_flow_direction_when_ahead_of_spot",
+                      "value": true
+                    },
+                    {
+                      "key": "outer_spot_add_radius_metres",
+                      "value": 2
+                    },
+                    {
+                      "key": "inner_spot_add_radius_metres",
+                      "value": 1
+                    },
+                    {
+                      "key": "max_follow_distance_metres",
+                      "value": 100
+                    },
+                    {
+                      "key": "default_weight",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "forced_momentum_influence",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\navigation\\influences\\forced_momentum_influence"
+                    },
+                    {
+                      "key": "minimum_distance_to_goal",
+                      "value": 5
+                    },
+                    {
+                      "key": "speed_falloff_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "default_weight",
+                      "value": 1
+                    },
+                    {
+                      "key": "speed",
+                      "value": 3
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "navigation\\steering_info"
+            },
+            {
+              "key": "max_steering_forces",
+              "value": [
+                {
+                  "key": "max_acceleration",
+                  "value": 1
+                },
+                {
+                  "key": "max_braking",
+                  "value": 4
+                },
+                {
+                  "key": "max_steering",
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "rolling_average_delta_distance_to_goal",
+          "value": [
+            {
+              "key": "baseline",
+              "value": 1000
+            },
+            {
+              "key": "give_up_threshold",
+              "value": 0.0001
+            },
+            {
+              "key": "num_averaging_frames",
+              "value": 120
+            }
+          ]
+        },
+        {
+          "key": "strafe_info",
+          "value": [
+            {
+              "key": "strafe_intention",
+              "value": "move_strafe"
+            },
+            {
+              "key": "forward_motion_angle_degrees",
+              "value": 1
+            },
+            {
+              "key": "strafe_motion_angle_degrees",
+              "value": 95
+            }
+          ]
+        },
+        {
+          "key": "motion_info",
+          "value": [
+            {
+              "key": "intention_pushed_trigger_meters_per_second",
+              "value": 0.25
+            },
+            {
+              "key": "speed_angle_cones",
+              "value": [
+                {
+                  "key": "speed_rear_cone_multiplier",
+                  "value": 0.3
+                },
+                {
+                  "key": "forward_sweep_angle_degrees",
+                  "value": 60
+                }
+              ]
+            },
+            {
+              "key": "steering_mode",
+              "value": 0
+            },
+            {
+              "key": "thrust_steering",
+              "value": [
+                {
+                  "key": "additional_required_clearance",
+                  "value": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "avoidance_info",
+          "value": [
+            {
+              "key": "path_blocked_time_to_min_speed_seconds",
+              "value": 2
+            },
+            {
+              "key": "cooldown_seconds",
+              "value": 1.5
+            },
+            {
+              "key": "avoidance_facing_delay_seconds",
+              "value": 0
+            },
+            {
+              "key": "path_blocked_speed_additional_range_mps",
+              "value": 0
+            },
+            {
+              "key": "same_heading_tolerance",
+              "value": 40
+            },
+            {
+              "key": "path_blocked_exit_timer_additional_range_seconds",
+              "value": 2
+            },
+            {
+              "key": "path_blocked_min_goal_distance_metres",
+              "value": 10
+            },
+            {
+              "key": "equal_angle_tolerance",
+              "value": 30
+            },
+            {
+              "key": "path_blocked_exit_timer_min_seconds",
+              "value": 3
+            },
+            {
+              "key": "propagation_angle",
+              "value": 60
+            },
+            {
+              "key": "path_blocked_speed_min_mps",
+              "value": 7.9
+            }
+          ]
+        },
+        {
+          "key": "mass_kg",
+          "value": 2500
+        },
+        {
+          "key": "arrive",
+          "value": [
+            {
+              "key": "arrive_time_seconds",
+              "value": 1
+            },
+            {
+              "key": "arrive_trigger_agent_radius_factor",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "key": "use_direct_path",
+          "value": true
+        },
+        {
+          "key": "collision_radius_metres",
+          "value": 4
+        },
+        {
+          "key": "max_direct_path_metres",
+          "value": 150
+        },
+        {
+          "key": "collision_radius_multiplier",
+          "value": 0.8
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 196952
+    }
+  ]
+}

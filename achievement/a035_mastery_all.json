@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "key": "achievement_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11196639
+        },
+        {
+          "key": "xbox_achievement_id",
+          "value": "97"
+        },
+        {
+          "key": "prerequisite_tasks",
+          "value": [
+          ]
+        },
+        {
+          "key": "icon",
+          "value": "achievements\\mastery_master_of_the_ages"
+        },
+        {
+          "key": "challenge_definition_id",
+          "value": -1
+        },
+        {
+          "key": "prerequisite_achievements",
+          "value": [
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a027_mastery_eng"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            },
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a028_mastery_fre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            },
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a029_mastery_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            },
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a030_mastery_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            },
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a031_mastery_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            },
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a032_mastery_sul"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            },
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a033_mastery_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            },
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a034_mastery_abb"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "steam_achievement_id",
+          "value": "A097_"
+        },
+        {
+          "key": "reward_xp",
+          "value": 0
+        },
+        {
+          "key": "hidden",
+          "value": false
+        },
+        {
+          "key": "type",
+          "value": 2
+        },
+        {
+          "key": "description",
+          "value": 11196640
+        },
+        {
+          "key": "item_bundle",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1318107
+    }
+  ]
+}

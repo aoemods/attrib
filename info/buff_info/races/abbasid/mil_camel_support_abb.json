@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\abbasid\\upgrades\\camel_support"
+        },
+        {
+          "key": "description",
+          "value": 11196093
+        },
+        {
+          "key": "title",
+          "value": 11183479
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 201147
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

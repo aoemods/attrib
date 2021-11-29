@@ -1,0 +1,380 @@
+{
+  "data": [
+    {
+      "key": "match_preset",
+      "value": [
+        {
+          "key": "name",
+          "value": 11167642
+        },
+        {
+          "key": "start_location",
+          "value": 0
+        },
+        {
+          "key": "narration",
+          "value": 11200284
+        },
+        {
+          "key": "icon",
+          "value": "skirmish\\preset_1v1"
+        },
+        {
+          "key": "scenario",
+          "value": [
+            {
+              "key": "generated_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "scen_warring_islands_micro_coastal_western"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_scenario"
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "multiplayer\\mp_map_generated_scenario"
+            }
+          ]
+        },
+        {
+          "key": "win_condition",
+          "value": [
+            {
+              "key": "win_condition_options",
+              "value": [
+                {
+                  "key": "section",
+                  "value": [
+                    {
+                      "key": "options",
+                      "value": [
+                        {
+                          "key": "option",
+                          "value": [
+                            {
+                              "key": "option",
+                              "value": "option_win_condition_conquest"
+                            },
+                            {
+                              "key": "value",
+                              "value": "true"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "option",
+                          "value": [
+                            {
+                              "key": "option",
+                              "value": "option_win_condition_religious"
+                            },
+                            {
+                              "key": "value",
+                              "value": "true"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "option",
+                          "value": [
+                            {
+                              "key": "option",
+                              "value": "option_win_condition_wonder"
+                            },
+                            {
+                              "key": "value",
+                              "value": "true"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "section_name",
+                      "value": "section_inner_win_conditions"
+                    }
+                  ]
+                },
+                {
+                  "key": "section",
+                  "value": [
+                    {
+                      "key": "options",
+                      "value": [
+                        {
+                          "key": "option",
+                          "value": [
+                            {
+                              "key": "option",
+                              "value": "option_resources"
+                            },
+                            {
+                              "key": "value",
+                              "value": "resources_standard"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "option",
+                          "value": [
+                            {
+                              "key": "option",
+                              "value": "option_start_age"
+                            },
+                            {
+                              "key": "value",
+                              "value": "option_start_age_1"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "option",
+                          "value": [
+                            {
+                              "key": "option",
+                              "value": "option_fow"
+                            },
+                            {
+                              "key": "value",
+                              "value": "option_fow_conceal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "section_name",
+                      "value": "section_starting_conditions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "win_condition",
+              "value": "standard_mode"
+            }
+          ]
+        },
+        {
+          "key": "summaries",
+          "value": [
+            {
+              "key": "summary",
+              "value": [
+                {
+                  "key": "icon",
+                  "value": "fe\\multiplayer_players"
+                },
+                {
+                  "key": "description",
+                  "value": 11168124
+                }
+              ]
+            },
+            {
+              "key": "summary",
+              "value": [
+                {
+                  "key": "icon",
+                  "value": "fe\\icon_battle2"
+                },
+                {
+                  "key": "description",
+                  "value": 11167824
+                }
+              ]
+            },
+            {
+              "key": "summary",
+              "value": [
+                {
+                  "key": "icon",
+                  "value": "fe\\map_star"
+                },
+                {
+                  "key": "description",
+                  "value": 11199747
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "description",
+          "value": 11167640
+        },
+        {
+          "key": "slot",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "match_slot_setup"
+            },
+            {
+              "key": "pbgid",
+              "value": 196738
+            },
+            {
+              "key": "match_slot_setup_bag",
+              "value": [
+                {
+                  "key": "slot_configurations",
+                  "value": [
+                    {
+                      "key": "slot_configuration",
+                      "value": [
+                        {
+                          "key": "ai_difficulty",
+                          "value": 1
+                        },
+                        {
+                          "key": "is_local_player",
+                          "value": true
+                        },
+                        {
+                          "key": "paint_scheme",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "racebps",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "mongol"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "racebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "player_loadout",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "ai_loadout",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "team_id",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "slot_configuration",
+                      "value": [
+                        {
+                          "key": "ai_difficulty",
+                          "value": 1
+                        },
+                        {
+                          "key": "is_local_player",
+                          "value": false
+                        },
+                        {
+                          "key": "paint_scheme",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "racebps",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "french"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "racebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "player_loadout",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "ai_loadout",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "team_id",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 196737
+    }
+  ]
+}

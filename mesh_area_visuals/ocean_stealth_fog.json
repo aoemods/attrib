@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "key": "mesh_area_visuals",
+      "value": [
+        {
+          "key": "ground_tile_tint",
+          "value": -1
+        },
+        {
+          "key": "ground_tile_edge_softness",
+          "value": 1
+        },
+        {
+          "key": "ground_tile",
+          "value": ""
+        },
+        {
+          "key": "ground_tile_orientation",
+          "value": 0
+        },
+        {
+          "key": "ground_tile_scale_U",
+          "value": 1.5
+        },
+        {
+          "key": "grass_type",
+          "value": ""
+        },
+        {
+          "key": "ground_tile_scale_V",
+          "value": 1.5
+        },
+        {
+          "key": "visual_objects",
+          "value": [
+            {
+              "key": "visual_object",
+              "value": [
+                {
+                  "key": "random_placement_area",
+                  "value": 0
+                },
+                {
+                  "key": "placement",
+                  "value": 0
+                },
+                {
+                  "key": "visual_object",
+                  "value": "art\\environment\\biome_tropical_dry\\plants\\seaweed_sargasso\\seaweed_sargasso"
+                },
+                {
+                  "key": "selection_weight",
+                  "value": 0.7
+                },
+                {
+                  "key": "min_area_to_place_visual",
+                  "value": 0.01
+                }
+              ]
+            },
+            {
+              "key": "visual_object",
+              "value": [
+                {
+                  "key": "random_placement_area",
+                  "value": 0
+                },
+                {
+                  "key": "placement",
+                  "value": 0
+                },
+                {
+                  "key": "visual_object",
+                  "value": "art\\environment\\biome_tropical_dry\\plants\\seaweed_kelp_tall\\seaweed_kelp_tall"
+                },
+                {
+                  "key": "selection_weight",
+                  "value": 0.3
+                },
+                {
+                  "key": "min_area_to_place_visual",
+                  "value": 0.01
+                }
+              ]
+            },
+            {
+              "key": "visual_object",
+              "value": [
+                {
+                  "key": "random_placement_area",
+                  "value": 0
+                },
+                {
+                  "key": "placement",
+                  "value": 1
+                },
+                {
+                  "key": "visual_object",
+                  "value": ""
+                },
+                {
+                  "key": "selection_weight",
+                  "value": 0.6
+                },
+                {
+                  "key": "min_area_to_place_visual",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "visual_object",
+              "value": [
+                {
+                  "key": "random_placement_area",
+                  "value": 0
+                },
+                {
+                  "key": "placement",
+                  "value": 1
+                },
+                {
+                  "key": "visual_object",
+                  "value": "art\\fx\\fx_objects\\deciduous_western\\stealth_fog"
+                },
+                {
+                  "key": "selection_weight",
+                  "value": 0.3
+                },
+                {
+                  "key": "min_area_to_place_visual",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "visual_object",
+              "value": [
+                {
+                  "key": "random_placement_area",
+                  "value": 0
+                },
+                {
+                  "key": "placement",
+                  "value": 1
+                },
+                {
+                  "key": "visual_object",
+                  "value": "art\\environment\\biome_tropical_dry\\plants\\seaweed_kelp_tall\\seaweed_kelp_tall"
+                },
+                {
+                  "key": "selection_weight",
+                  "value": 0.2
+                },
+                {
+                  "key": "min_area_to_place_visual",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ground_tile_edge_fade_treshold",
+          "value": 0.5
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 194668
+    }
+  ]
+}

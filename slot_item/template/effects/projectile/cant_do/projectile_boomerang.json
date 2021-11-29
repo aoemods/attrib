@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "key": "slot_item_bag",
+      "value": [
+        {
+          "key": "recharge_time",
+          "value": 0
+        },
+        {
+          "key": "hardpoint",
+          "value": 1
+        },
+        {
+          "key": "can_stack",
+          "value": false
+        },
+        {
+          "key": "slot_size",
+          "value": 0
+        },
+        {
+          "key": "is_entity_user",
+          "value": false
+        },
+        {
+          "key": "package_icon",
+          "value": ""
+        },
+        {
+          "key": "ui_info",
+          "value": [
+            {
+              "key": "reveal_for_decryption",
+              "value": false
+            },
+            {
+              "key": "icon_name",
+              "value": ""
+            },
+            {
+              "key": "overlay_name",
+              "value": ""
+            },
+            {
+              "key": "hotkey_name",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "always_pick_up",
+          "value": false
+        },
+        {
+          "key": "drop_rate",
+          "value": 0
+        },
+        {
+          "key": "item_uses",
+          "value": 0
+        },
+        {
+          "key": "can_stack_max",
+          "value": 1
+        },
+        {
+          "key": "owner_type",
+          "value": "squad"
+        },
+        {
+          "key": "drop_item_is_player_owned",
+          "value": false
+        },
+        {
+          "key": "drop_item_entity",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "weapon",
+          "value": [
+            {
+              "key": "length",
+              "value": 0
+            },
+            {
+              "key": "origin",
+              "value": [
+                {
+                  "key": "y",
+                  "value": 1.5
+                },
+                {
+                  "key": "x",
+                  "value": 0
+                },
+                {
+                  "key": "z",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "type",
+              "value": "accessory"
+            },
+            {
+              "key": "heading",
+              "value": [
+                {
+                  "key": "y",
+                  "value": 0
+                },
+                {
+                  "key": "x",
+                  "value": 0
+                },
+                {
+                  "key": "z",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "weapon",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "speech_code",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 96351
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "key": "weights",
+      "value": [
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "cpg_complete_hundred"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "cpg_complete_mongol"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "cpg_complete_moscow"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weight",
+          "value": [
+            {
+              "key": "prerequisite",
+              "value": [
+                {
+                  "key": "challenge_prerequisite_type",
+                  "value": "any"
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\prerequisite"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "weight",
+              "value": 1
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "cpg_complete_norman"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "value": 1470872
+    }
+  ]
+}

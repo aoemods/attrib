@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "key": "_18",
+      "value": "weapon_setup_modifier"
+    },
+    {
+      "key": "_3",
+      "value": "damage_type_weapon_modifier"
+    },
+    {
+      "key": "_17",
+      "value": "weapon_scatter"
+    },
+    {
+      "key": "_4",
+      "value": "damage_weapon_modifier"
+    },
+    {
+      "key": "_7",
+      "value": "range_weapon_modifier"
+    },
+    {
+      "key": "_9",
+      "value": "vertical_speed_weapon_modifier"
+    },
+    {
+      "key": "_16",
+      "value": "weapon_penetration_modifier"
+    },
+    {
+      "key": "_0",
+      "value": "accuracy_weapon_modifier"
+    },
+    {
+      "key": "_8",
+      "value": "reload_weapon_modifier"
+    },
+    {
+      "key": "_21",
+      "value": "weapon_teardown_modifier"
+    },
+    {
+      "key": "_13",
+      "value": "weapon_horizontal_traverse"
+    },
+    {
+      "key": "_19",
+      "value": "weapon_slot_item_drop_rate"
+    },
+    {
+      "key": "_11",
+      "value": "weapon_burst_rate_of_fire_modifier"
+    },
+    {
+      "key": "_2",
+      "value": "cooldown_weapon_modifier"
+    },
+    {
+      "key": "_20",
+      "value": "weapon_suppression_modifier"
+    },
+    {
+      "key": "_15",
+      "value": "weapon_instant_teardown"
+    },
+    {
+      "key": "_14",
+      "value": "weapon_instant_setup"
+    },
+    {
+      "key": "_12",
+      "value": "weapon_horizontal_fire_cone"
+    },
+    {
+      "key": "_6",
+      "value": "horizontal_speed_weapon_modifier"
+    },
+    {
+      "key": "_1",
+      "value": "auto_target_enable_weapon_modifier"
+    },
+    {
+      "key": "_5",
+      "value": "enable_weapon_modifier"
+    },
+    {
+      "key": "_10",
+      "value": "weapon_burst_length_modifier"
+    }
+  ]
+}

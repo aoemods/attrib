@@ -1,0 +1,645 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 2045192
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "skirmish_attack_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "ai\\ai_statemodel_tunings"
+        }
+      ]
+    },
+    {
+      "key": "ai_statemodel_tunings_bag",
+      "value": [
+        {
+          "key": "special_enum_tunings",
+          "value": [
+            {
+              "key": "unit_class_list",
+              "value": [
+                {
+                  "key": "key_values",
+                  "value": [
+                    {
+                      "key": "key",
+                      "value": "ai_phase_encounter_exclude_unit_types"
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "value",
+                          "value": "wall"
+                        },
+                        {
+                          "key": "value",
+                          "value": "animal_herdable"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "ai_military_engagement_type",
+              "value": [
+                {
+                  "key": "key_value",
+                  "value": [
+                    {
+                      "key": "key",
+                      "value": "ai_phase_encounter_engagement_type"
+                    },
+                    {
+                      "key": "value",
+                      "value": "attack_structure"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bool_tunings",
+          "value": [
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_convert_squad_target_to_position"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_clear_enemy_squads"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_clear_enemy_buildings"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_exit_test_include_unreachable"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_target_destroyed"
+                },
+                {
+                  "key": "value",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_can_help_nearby"
+                },
+                {
+                  "key": "value",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_exit_on_partial_path"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_check_for_open_path_to_enemy_structure"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_uses_targeted_ability"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "teardowns_disabled"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_defend_destination"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_lock_resources"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_can_use_transports"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_exit_on_path_blocker_detected"
+                },
+                {
+                  "key": "value",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_can_accept_reinforcements"
+                },
+                {
+                  "key": "value",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_archers_allow_attack_move"
+                },
+                {
+                  "key": "value",
+                  "value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "special_pbg_tunings",
+          "value": [
+            {
+              "key": "ai_phase_encounter_coordinator_bag",
+              "value": [
+                {
+                  "key": "key_value",
+                  "value": [
+                    {
+                      "key": "key",
+                      "value": "ai_phase_encounter_coordinator_bag"
+                    },
+                    {
+                      "key": "value",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ai_formation_coordinator_basic"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ai\\ai_formation_coordinator"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "ai_phase_encounter_coordinator_bag_enroute",
+              "value": [
+                {
+                  "key": "key_value",
+                  "value": [
+                    {
+                      "key": "key",
+                      "value": "ai_phase_encounter_coordinator_bag_enroute"
+                    },
+                    {
+                      "key": "value",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "ai_formation_coordinator_basic_enroute"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ai\\ai_formation_coordinator"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "ai_phase_encounter_path_bag",
+              "value": [
+                {
+                  "key": "key_value",
+                  "value": [
+                    {
+                      "key": "key",
+                      "value": "ai_phase_encounter_path_bag"
+                    },
+                    {
+                      "key": "value",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "int_tunings",
+          "value": [
+          ]
+        },
+        {
+          "key": "float_tunings",
+          "value": [
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_enemy_scan_range"
+                },
+                {
+                  "key": "value",
+                  "value": 30
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_combat_area"
+                },
+                {
+                  "key": "value",
+                  "value": 40
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_combat_leash"
+                },
+                {
+                  "key": "value",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_formup_required_squads_percent"
+                },
+                {
+                  "key": "value",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_formup_timeout"
+                },
+                {
+                  "key": "value",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_combat_fitness_threshold"
+                },
+                {
+                  "key": "value",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_destination_area"
+                },
+                {
+                  "key": "value",
+                  "value": 40
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_destination_required_squads_percent"
+                },
+                {
+                  "key": "value",
+                  "value": 0.75
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_protect_distance"
+                },
+                {
+                  "key": "value",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_protect_squad_count_proportion"
+                },
+                {
+                  "key": "value",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_idle_at_end_seconds"
+                },
+                {
+                  "key": "value",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_fallback_combat_rating"
+                },
+                {
+                  "key": "value",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_fallback_squad_health_threshold"
+                },
+                {
+                  "key": "value",
+                  "value": 0.3
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_fallback_squad_health_percent"
+                },
+                {
+                  "key": "value",
+                  "value": 0.75
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_fallback_squads_remaining_percent"
+                },
+                {
+                  "key": "value",
+                  "value": 0.5
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_defend_destination_time"
+                },
+                {
+                  "key": "value",
+                  "value": 30
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_cached_path_update_interval_secs"
+                },
+                {
+                  "key": "value",
+                  "value": 5
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_destroyed_wall_opening_ignore_radius"
+                },
+                {
+                  "key": "value",
+                  "value": 60
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_monk_desired_ratio"
+                },
+                {
+                  "key": "value",
+                  "value": 0.15
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_open_path_length_to_look_for_siege_path"
+                },
+                {
+                  "key": "value",
+                  "value": 120
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

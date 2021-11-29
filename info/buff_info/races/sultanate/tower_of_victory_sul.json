@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\sultanate\\buildings\\building_landmark_age1_qutub_minar"
+        },
+        {
+          "key": "description",
+          "value": 11205333
+        },
+        {
+          "key": "title",
+          "value": 11205334
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2044689
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

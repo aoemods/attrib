@@ -1,0 +1,1965 @@
+{
+  "data": [
+    {
+      "key": "schema_bag",
+      "value": [
+        {
+          "key": "pbgid_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "int_properties",
+          "value": [
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "Debug"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ai_transplant_island_id"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "sub_schemas",
+          "value": [
+            {
+              "key": "schema",
+              "value": [
+                {
+                  "key": "schema_bag",
+                  "value": [
+                    {
+                      "key": "pbgid_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_pbgid_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_pbgid_property"
+                            },
+                            {
+                              "key": "pbgid_property_id",
+                              "value": "ai_phase_encounter_coordinator_bag"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_pbgid_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_pbgid_property"
+                            },
+                            {
+                              "key": "pbgid_property_id",
+                              "value": "ai_phase_encounter_path_bag"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_pbgid_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_pbgid_property"
+                            },
+                            {
+                              "key": "pbgid_property_id",
+                              "value": "ai_phase_encounter_coordinator_bag_enroute"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_pbgid_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_pbgid_property"
+                            },
+                            {
+                              "key": "pbgid_property_id",
+                              "value": "ai_phase_encounter_targeted_ability_bag"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "int_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "ai_phase_encounter_engagement_type"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "ai_phase_encounter_required_unit_count"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "ai_phase_encounter_notify_rule_id"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": -1
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "ai_phase_encounter_override_encounter_id"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 20
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "ai_phase_encounter_ram_max_passenger_count"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "ai_phase_encounter_ram_number_to_build"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_int_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 16
+                            },
+                            {
+                              "key": "int_property_id",
+                              "value": "ai_phase_encounter_siege_tower_max_passenger_count"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_int_property"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "sub_schemas",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "target_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "list_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_list_property",
+                          "value": [
+                            {
+                              "key": "data_type",
+                              "value": 1
+                            },
+                            {
+                              "key": "max_list_size",
+                              "value": 10
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_list_property"
+                            },
+                            {
+                              "key": "list_property_id",
+                              "value": "ai_phase_encounter_exclude_unit_types"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_list_property",
+                          "value": [
+                            {
+                              "key": "data_type",
+                              "value": 1
+                            },
+                            {
+                              "key": "max_list_size",
+                              "value": 10
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_list_property"
+                            },
+                            {
+                              "key": "list_property_id",
+                              "value": "ai_phase_encounter_exclude_unit_types_enroute"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "float_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_formup_timeout"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": -1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_monk_desired_ratio"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": -1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_open_path_length_to_look_for_siege_path"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 60
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_destroyed_wall_opening_ignore_radius"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 30
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_enemy_scan_range"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_cached_path_update_interval_secs"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_archer_reposition_time_interval"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_destination_required_squads_percent_enroute"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 30
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_defend_destination_time"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_destination_combat_area"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_idle_at_end_seconds"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_protect_squad_count_proportion"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_combat_leash_enroute"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 10
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_protect_distance"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_destination_required_squads_percent"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_destination_area"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_formup_required_squads_percent"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": -1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_fallback_squad_health_threshold"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_fallback_squads_remaining_percent"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_fallback_combat_rating"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_combat_fitness_threshold"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_combat_leash"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 30
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_combat_area"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 30
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_enemy_scan_range_enroute"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0.99
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_formup_required_squads_percent"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": -1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_fallback_squad_health_percent"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_phase_encounter_cavalry_random_path"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "vector3f_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "generic_handle_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "attribute_enum_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "enum_table_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "bool_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_convert_squad_target_to_position"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_formup_remove_squads_not_in_area_at_end"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": true
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_move_filter_squads_in_hold"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_disable_cavalry_build_rams"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_target_is_behind_stone_walls_with_stairs"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_clear_enemy_squads_enroute"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_clear_enemy_buildings_enroute"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_can_use_transports"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_exit_on_path_blocker_detected"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_attack_final_target"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_should_hold_position"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": true
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_lock_resources"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_uses_targeted_ability"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_trigger_monk_dropoff_relic"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_check_for_open_path_to_enemy_structure"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_exit_on_partial_path"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_defend_destination"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_can_help_nearby"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_target_destroyed"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_clear_enemy_squads"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": false
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_clear_enemy_buildings"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": true
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_exit_test_include_unreachable"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_bool_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": true
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_bool_property"
+                            },
+                            {
+                              "key": "bool_property_id",
+                              "value": "ai_phase_encounter_archers_allow_attack_move"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "pbgid",
+                  "value": 192681
+                },
+                {
+                  "key": "parent_pbg",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "target_properties",
+          "value": [
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "temp_target"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "list_properties",
+          "value": [
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 250
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_best_available_squads"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 40
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_demoships_and_warships"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 10
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_demoships"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 10
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_damaged_ship_and_repairer"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 10
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_transports"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 200
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_passengers_and_transport"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_best_face_targets"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_idle_at_end_targets"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 200
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_large_list_of_things"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 16
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_best_stonewall_targets"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 4
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_best_wallgate_targets"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 16
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_best_wall_targets"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 8
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_best_nearby_threat"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_best_formup_targets"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 200
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_best_military_targets"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 60
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_best_garrison_targets"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 200
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_final_move_targets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "float_properties",
+          "value": [
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "Debug"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "ai_wall_detection_range"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "vector3f_properties",
+          "value": [
+            {
+              "key": "statemodel_vector3f_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 0
+                    },
+                    {
+                      "key": "x",
+                      "value": 0
+                    },
+                    {
+                      "key": "z",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_vector3f_property"
+                },
+                {
+                  "key": "vector3f_property_id",
+                  "value": "ai_ally_pinged_target_position"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_vector3f_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 0
+                    },
+                    {
+                      "key": "x",
+                      "value": 0
+                    },
+                    {
+                      "key": "z",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_vector3f_property"
+                },
+                {
+                  "key": "vector3f_property_id",
+                  "value": "naval_transport_position"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "generic_handle_properties",
+          "value": [
+            {
+              "key": "statemodel_generic_handle_property",
+              "value": [
+                {
+                  "key": "handle_property_id",
+                  "value": "naval_transport_handle"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_generic_handle_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_generic_handle_property",
+              "value": [
+                {
+                  "key": "handle_property_id",
+                  "value": "ai_ally_defend_area_handle"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_generic_handle_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_generic_handle_property",
+              "value": [
+                {
+                  "key": "handle_property_id",
+                  "value": "ai_monk_with_relic_handle"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_generic_handle_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_generic_handle_property",
+              "value": [
+                {
+                  "key": "handle_property_id",
+                  "value": "ai_safe_field_construct_target_handle"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_generic_handle_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_generic_handle_property",
+              "value": [
+                {
+                  "key": "handle_property_id",
+                  "value": "ai_repair_spot_handle"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_generic_handle_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_generic_handle_property",
+              "value": [
+                {
+                  "key": "handle_property_id",
+                  "value": "ai_demoship_target_handle"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_generic_handle_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_generic_handle_property",
+              "value": [
+                {
+                  "key": "handle_property_id",
+                  "value": "ai_outside_wall_target_handle"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_generic_handle_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_generic_handle_property",
+              "value": [
+                {
+                  "key": "handle_property_id",
+                  "value": "ai_formup_spot_handle"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_generic_handle_property"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "attribute_enum_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "enum_table_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "bool_properties",
+          "value": [
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "teardowns_disabled"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "end_behaviour"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "collect_stray_sheep"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "should_ferry_remaining_squads"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "ai_phase_encounter_can_accept_reinforcements"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 184773
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

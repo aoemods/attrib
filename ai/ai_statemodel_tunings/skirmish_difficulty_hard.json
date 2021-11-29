@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 205881
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "skirmish_difficulty_core"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "ai\\ai_statemodel_tunings"
+        }
+      ]
+    },
+    {
+      "key": "ai_statemodel_tunings_bag",
+      "value": [
+        {
+          "key": "special_enum_tunings",
+          "value": [
+            {
+              "key": "unit_class_list",
+              "value": [
+              ]
+            },
+            {
+              "key": "ai_military_engagement_type",
+              "value": [
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bool_tunings",
+          "value": [
+          ]
+        },
+        {
+          "key": "special_pbg_tunings",
+          "value": [
+            {
+              "key": "ai_phase_encounter_coordinator_bag",
+              "value": [
+              ]
+            },
+            {
+              "key": "ai_phase_encounter_coordinator_bag_enroute",
+              "value": [
+              ]
+            },
+            {
+              "key": "ai_phase_encounter_path_bag",
+              "value": [
+              ]
+            }
+          ]
+        },
+        {
+          "key": "int_tunings",
+          "value": [
+          ]
+        },
+        {
+          "key": "float_tunings",
+          "value": [
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_difficulty_archer_reposition_time_interval"
+                },
+                {
+                  "key": "value",
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_difficulty_encounter_fallback_combat_rating"
+                },
+                {
+                  "key": "value",
+                  "value": 0.1
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_difficulty_encounter_fallback_squad_health_threshold"
+                },
+                {
+                  "key": "value",
+                  "value": 0.3
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_difficulty_encounter_fallback_squad_health_percent"
+                },
+                {
+                  "key": "value",
+                  "value": 0.75
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_difficulty_encounter_fallback_squads_remaining_percent"
+                },
+                {
+                  "key": "value",
+                  "value": 0.25
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_difficulty_encounter_fallback_combat_rating_harass"
+                },
+                {
+                  "key": "value",
+                  "value": 0.1
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_difficulty_encounter_fallback_squad_health_percent_harass"
+                },
+                {
+                  "key": "value",
+                  "value": 0.4
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_difficulty_encounter_fallback_squads_remaining_percent_harass"
+                },
+                {
+                  "key": "value",
+                  "value": 0.4
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_difficulty_encounter_cavalry_random_use_threat_path_chance"
+                },
+                {
+                  "key": "value",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

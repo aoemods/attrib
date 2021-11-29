@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 170458
+    },
+    {
+      "key": "global_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_foliage_deco_fern_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_foliage_deco_fern_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_fish_shore"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_fish_deepwater"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_tree_performance_test"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_prop_unreachable_low"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

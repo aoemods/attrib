@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "key": "ai_ability_bag",
+      "value": [
+        {
+          "key": "abilities_substring",
+          "value": ""
+        },
+        {
+          "key": "abilities",
+          "value": [
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "khan_defensive_signal_arrow_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "exclude_abilities",
+          "value": [
+          ]
+        },
+        {
+          "key": "buff_info",
+          "value": [
+            {
+              "key": "buff_allies",
+              "value": true
+            },
+            {
+              "key": "buff_target_filter",
+              "value": ""
+            },
+            {
+              "key": "buff_end_target_filter",
+              "value": ""
+            },
+            {
+              "key": "buff_target_requirements",
+              "value": [
+              ]
+            },
+            {
+              "key": "buff_end_target_requirements",
+              "value": [
+              ]
+            },
+            {
+              "key": "buff_duration",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "wait_other_abilities_end",
+          "value": true
+        },
+        {
+          "key": "tactic_info_overrides",
+          "value": [
+          ]
+        },
+        {
+          "key": "tactic_info_default",
+          "value": [
+            {
+              "key": "tactic_info",
+              "value": [
+                {
+                  "key": "tactic_max_range_override",
+                  "value": 25
+                },
+                {
+                  "key": "tactic_on_start",
+                  "value": ""
+                },
+                {
+                  "key": "max_timeout",
+                  "value": -1
+                },
+                {
+                  "key": "tactic_filter_start",
+                  "value": "CARDINAL_StartFilter_KhanDefensiveArrow"
+                },
+                {
+                  "key": "can_target_enemies",
+                  "value": false
+                },
+                {
+                  "key": "wait_timeout",
+                  "value": -1
+                },
+                {
+                  "key": "can_do_chance",
+                  "value": 1
+                },
+                {
+                  "key": "priority",
+                  "value": 500
+                },
+                {
+                  "key": "tactic_filter_position",
+                  "value": ""
+                },
+                {
+                  "key": "tactic_on_update",
+                  "value": ""
+                },
+                {
+                  "key": "tactic_on_exit",
+                  "value": ""
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": true
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": true
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": true
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_custom_data_table",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "ai\\ai_tactic_info_custom_data_table"
+                    },
+                    {
+                      "key": "table",
+                      "value": [
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "can_target_allies",
+                  "value": true
+                },
+                {
+                  "key": "retry_timeout",
+                  "value": -1
+                },
+                {
+                  "key": "tactic_filter_start_requirements",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "wait_timeout_encounter",
+                  "value": -1
+                },
+                {
+                  "key": "tactic_min_range_override",
+                  "value": -1
+                },
+                {
+                  "key": "target_filter_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\none"
+                    }
+                  ]
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "ai\\tactic_info\\tactic_info_ability"
+            },
+            {
+              "key": "tactic_info_toggle_off",
+              "value": [
+                {
+                  "key": "max_timeout",
+                  "value": -1
+                },
+                {
+                  "key": "tactic_filter_start",
+                  "value": ""
+                },
+                {
+                  "key": "wait_timeout",
+                  "value": -1
+                },
+                {
+                  "key": "priority",
+                  "value": -1
+                },
+                {
+                  "key": "class",
+                  "value": [
+                    {
+                      "key": "tactic_Combat",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_OnTask",
+                      "value": false
+                    },
+                    {
+                      "key": "tactic_Moving",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "retry_timeout",
+                  "value": -1
+                },
+                {
+                  "key": "tactic_filter_abort",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ability_type",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 180308
+    }
+  ]
+}

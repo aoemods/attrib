@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "key": "load_tip_group_bag",
+      "value": [
+        {
+          "key": "tips",
+          "value": [
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "scout_hunting"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hunting_vs_farming"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "animal_decay"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "capture_objective"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "delete_building"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "load_tip_group_type",
+          "value": "standard"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2032994
+    }
+  ]
+}

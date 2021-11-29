@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "key": "tutorial_item_bag",
+      "value": [
+        {
+          "key": "url",
+          "value": "https://aoe.ms/aoeIV_rus"
+        },
+        {
+          "key": "trial",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "featured_image",
+          "value": ""
+        },
+        {
+          "key": "featured_tutorial",
+          "value": false
+        },
+        {
+          "key": "title",
+          "value": 11215401
+        },
+        {
+          "key": "ui_priority",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2059302
+    }
+  ]
+}

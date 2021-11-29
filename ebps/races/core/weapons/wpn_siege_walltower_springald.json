@@ -1,0 +1,240 @@
+{
+  "data": [
+    {
+      "key": "entity_blueprint_ext",
+      "value": [
+        {
+          "key": "default_spawn_type",
+          "value": ""
+        },
+        {
+          "key": "entity_scale",
+          "value": 100
+        },
+        {
+          "key": "is_visible_in_game",
+          "value": true
+        },
+        {
+          "key": "animator_scale",
+          "value": 100
+        },
+        {
+          "key": "browsable_in_editor",
+          "value": false
+        },
+        {
+          "key": "alternate_sua",
+          "value": ""
+        },
+        {
+          "key": "is_wreck",
+          "value": false
+        },
+        {
+          "key": "unit_badge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\entity_blueprint_ext"
+        },
+        {
+          "key": "always_revealed_in_fow",
+          "value": false
+        },
+        {
+          "key": "precise_size",
+          "value": -1
+        },
+        {
+          "key": "animator_attachments",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "wpn_ebps_template"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "attachments\\attachment_lists"
+            }
+          ]
+        },
+        {
+          "key": "subclass_type",
+          "value": 3
+        },
+        {
+          "key": "is_spawned_when_not_in_interactive_area",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "entity_targeting_ext",
+      "value": [
+        {
+          "key": "allow_entity_scan_close_enemies",
+          "value": false
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\entity_targeting_ext"
+        },
+        {
+          "key": "history_size",
+          "value": 2
+        },
+        {
+          "key": "allow_weapon_target_scanning",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "sim_entity_ext",
+      "value": [
+        {
+          "key": "rotate_snap",
+          "value": 90
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\sim_entity_ext"
+        },
+        {
+          "key": "transferable",
+          "value": 0
+        },
+        {
+          "key": "kill_paradrop",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "action_tree_ext",
+      "value": [
+        {
+          "key": "fallback_default_move_command_conditions",
+          "value": ""
+        },
+        {
+          "key": "start_suspended",
+          "value": false
+        },
+        {
+          "key": "stop_on_death",
+          "value": 0
+        },
+        {
+          "key": "ActionTree_OpeningBranch",
+          "value": "weapon_ai"
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\action_tree_ext"
+        },
+        {
+          "key": "events",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "hit_react_tree_ext",
+      "value": [
+        {
+          "key": "ActionTree_OpeningBranch",
+          "value": ""
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\hit_react_tree_ext"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 158526
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "wpn_ebps_template_ai"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "ebps"
+        }
+      ]
+    },
+    {
+      "key": "animation_action_tree_ext",
+      "value": [
+        {
+          "key": "use_root_motion",
+          "value": true
+        },
+        {
+          "key": "start_suspended",
+          "value": false
+        },
+        {
+          "key": "ActionTree_OpeningBranch",
+          "value": "weapon_ranged"
+        },
+        {
+          "key": "speed_scale_threshold",
+          "value": 100
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\animation_action_tree_ext"
+        },
+        {
+          "key": "default_animation",
+          "value": ""
+        },
+        {
+          "key": "entity_statetree_sort_tag",
+          "value": "weapon_default"
+        }
+      ]
+    },
+    {
+      "key": "weapon_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\weapon_ext"
+        },
+        {
+          "key": "weapon",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "weapon_walltower_springald"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "weapon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

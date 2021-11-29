@@ -1,0 +1,312 @@
+{
+  "data": [
+    {
+      "key": "ai_entity_bag",
+      "value": [
+        {
+          "key": "construction",
+          "value": [
+            {
+              "key": "max_num_additional_builders",
+              "value": 0
+            },
+            {
+              "key": "near_to_structure",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "placement_function",
+              "value": ""
+            },
+            {
+              "key": "can_build_multiple_in_parallel",
+              "value": true
+            },
+            {
+              "key": "max_num_incomplete_structures_builders",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "key": "applicable_blueprints",
+          "value": [
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_gate_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_eng"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_gate_eng"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_fre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_gate_fre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_gate_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_gate_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_sul"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_palisade_gate_sul"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_wall_chi"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_wall"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_wall_eng"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_wall_fre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_wall_gate_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_wall_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_wall_rus"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            },
+            {
+              "key": "applicable_blueprint",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "building_defense_wall_sul"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 192791
+    }
+  ]
+}

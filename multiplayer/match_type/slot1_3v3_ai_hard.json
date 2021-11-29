@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "key": "match_type_bag",
+      "value": [
+        {
+          "key": "display_name",
+          "value": 11160914
+        },
+        {
+          "key": "name",
+          "value": "3v3_ai_hard"
+        },
+        {
+          "key": "ai_difficulty",
+          "value": 2
+        },
+        {
+          "key": "match_type",
+          "value": 11
+        },
+        {
+          "key": "is_excluded_from_match_history",
+          "value": false
+        },
+        {
+          "key": "ai_players",
+          "value": 3
+        },
+        {
+          "key": "match_flags",
+          "value": [
+            {
+              "key": "singleplayer",
+              "value": false
+            },
+            {
+              "key": "observer",
+              "value": false
+            },
+            {
+              "key": "vs_easy_ai",
+              "value": false
+            },
+            {
+              "key": "automatch_vs_ai",
+              "value": true
+            },
+            {
+              "key": "vs_expert_ai",
+              "value": false
+            },
+            {
+              "key": "trial",
+              "value": false
+            },
+            {
+              "key": "replay",
+              "value": false
+            },
+            {
+              "key": "3_vs_3",
+              "value": true
+            },
+            {
+              "key": "4_vs_4",
+              "value": false
+            },
+            {
+              "key": "multiplayer",
+              "value": true
+            },
+            {
+              "key": "vs_hard_ai",
+              "value": true
+            },
+            {
+              "key": "1_vs_1",
+              "value": false
+            },
+            {
+              "key": "skirmish",
+              "value": false
+            },
+            {
+              "key": "vs_normal_ai",
+              "value": false
+            },
+            {
+              "key": "automatch_ranked",
+              "value": false
+            },
+            {
+              "key": "2_vs_2",
+              "value": false
+            },
+            {
+              "key": "automatch_vs_players",
+              "value": false
+            },
+            {
+              "key": "automatch_unranked",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "automatch_win_condition",
+          "value": "standard_mode"
+        },
+        {
+          "key": "human_players",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 156290
+    }
+  ]
+}

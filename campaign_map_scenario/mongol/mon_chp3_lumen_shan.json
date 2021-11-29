@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 173636
+    },
+    {
+      "key": "campaign_map_scenario_bag",
+      "value": [
+        {
+          "key": "completion_achievement",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "scenario_name",
+          "value": ""
+        },
+        {
+          "key": "bypass_unit_selection",
+          "value": false
+        },
+        {
+          "key": "slot_rules",
+          "value": [
+          ]
+        },
+        {
+          "key": "briefing",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mon_chp3_lumen_shan"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "briefing"
+            }
+          ]
+        },
+        {
+          "key": "item_rules",
+          "value": [
+          ]
+        },
+        {
+          "key": "challenge_list",
+          "value": [
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "m08_lumen_shan"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "challenges\\challenge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "debriefing",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "army_slot_layout_override",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "ui",
+          "value": [
+            {
+              "key": "name",
+              "value": 11155596
+            },
+            {
+              "key": "chapter_name",
+              "value": 11155758
+            },
+            {
+              "key": "chapter_image",
+              "value": "..\\icons\\campaign\\campaign_mongol_domination"
+            },
+            {
+              "key": "timeline_spacing_order",
+              "value": 1267
+            },
+            {
+              "key": "short_name",
+              "value": 11156669
+            },
+            {
+              "key": "year",
+              "value": 1268
+            },
+            {
+              "key": "tagline",
+              "value": 11155790
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

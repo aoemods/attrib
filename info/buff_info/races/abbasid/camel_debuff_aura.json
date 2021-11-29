@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\abbasid\\abilities\\camel_unease"
+        },
+        {
+          "key": "description",
+          "value": 11204308
+        },
+        {
+          "key": "title",
+          "value": 11204309
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2034841
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

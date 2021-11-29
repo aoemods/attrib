@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "require_none",
+              "value": [
+                {
+                  "key": "surface_flag",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "require_any",
+              "value": [
+              ]
+            },
+            {
+              "key": "require_all",
+              "value": [
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\surface_requirement"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\product"
+                },
+                {
+                  "key": "inputs",
+                  "value": [
+                    {
+                      "key": "constant_multiplier",
+                      "value": [
+                        {
+                          "key": "multiplier",
+                          "value": 3.25
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\constant_multiplier"
+                        },
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\clamp_max"
+                            },
+                            {
+                              "key": "input",
+                              "value": [
+                                {
+                                  "key": "multiplier",
+                                  "value": 1000
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\constant_multiplier"
+                                },
+                                {
+                                  "key": "input",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "map_gen\\score_map\\option\\filter_min_max"
+                                    },
+                                    {
+                                      "key": "input",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\normalize"
+                                        },
+                                        {
+                                          "key": "input",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "map_gen\\score_map\\option\\droplet_erosion_amount"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "max",
+                                          "value": 1
+                                        },
+                                        {
+                                          "key": "min",
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "max",
+                                      "value": 1
+                                    },
+                                    {
+                                      "key": "min",
+                                      "value": 0.0025
+                                    },
+                                    {
+                                      "key": "set_values_outside_range_to",
+                                      "value": 0
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "max",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "reference",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
+                        },
+                        {
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "land_curvature_medium_concave"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "reference",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
+                        },
+                        {
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "land_slope_cant_charge_up"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2027334
+    }
+  ]
+}

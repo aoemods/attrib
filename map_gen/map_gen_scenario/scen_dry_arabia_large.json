@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "key": "map_gen_scenario_bag",
+      "value": [
+        {
+          "key": "biome",
+          "value": [
+            {
+              "key": "biome",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "desert_eastern"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_biome"
+                }
+              ]
+            },
+            {
+              "key": "biome",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "steppes"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_biome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "size",
+          "value": [
+            {
+              "key": "size",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "map_size_768"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_size"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "layout",
+          "value": [
+            {
+              "key": "layout",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "dry_arabia"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_layout"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 229942
+    }
+  ]
+}

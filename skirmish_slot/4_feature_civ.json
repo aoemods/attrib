@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "key": "skirmish_slot",
+      "value": [
+        {
+          "key": "skirmish_bucket",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "feature_civ"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "skirmish_bucket"
+            }
+          ]
+        },
+        {
+          "key": "ui_priority",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 190385
+    }
+  ]
+}

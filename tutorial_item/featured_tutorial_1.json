@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "key": "tutorial_item_bag",
+      "value": [
+        {
+          "key": "featured_subtitle",
+          "value": 11197025
+        },
+        {
+          "key": "url",
+          "value": "https://www.ageofempires.com/"
+        },
+        {
+          "key": "trial",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "00_missionzero_ftue"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "trial_map"
+            }
+          ]
+        },
+        {
+          "key": "featured_image",
+          "value": "/WPFGUI;component/images/challenges/intro_tutorial.png"
+        },
+        {
+          "key": "featured_description",
+          "value": 11169876
+        },
+        {
+          "key": "featured_tutorial",
+          "value": true
+        },
+        {
+          "key": "title",
+          "value": 11169875
+        },
+        {
+          "key": "ui_priority",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 193617
+    }
+  ]
+}

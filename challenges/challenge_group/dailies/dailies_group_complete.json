@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "key": "enable",
+      "value": true
+    },
+    {
+      "key": "icon",
+      "value": ""
+    },
+    {
+      "key": "telemetryPrefix",
+      "value": ""
+    },
+    {
+      "key": "group_type",
+      "value": [
+        {
+          "key": "max_challenge_slot",
+          "value": 1
+        },
+        {
+          "key": "challenge_table",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "dailies_table_complete"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge_table"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "challenges\\group_types\\period"
+        },
+        {
+          "key": "period_type",
+          "value": "daily"
+        },
+        {
+          "key": "time_based",
+          "value": true
+        },
+        {
+          "key": "max_assign_challenges",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "value": 1430590
+    },
+    {
+      "key": "ui_tags",
+      "value": [
+        {
+          "key": "pinned",
+          "value": false
+        },
+        {
+          "key": "unpins_activity_feed_item",
+          "value": false
+        },
+        {
+          "key": "home",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "image",
+      "value": ""
+    },
+    {
+      "key": "imageSmall",
+      "value": ""
+    },
+    {
+      "key": "icon2",
+      "value": ""
+    }
+  ]
+}

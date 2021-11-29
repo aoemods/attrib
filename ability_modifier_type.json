@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "ability_cost_munition_multiplier"
+    },
+    {
+      "key": "_4",
+      "value": "ability_max_range_modifier"
+    },
+    {
+      "key": "_7",
+      "value": "ability_target_in_fow_modifier"
+    },
+    {
+      "key": "_9",
+      "value": "ability_ui_reticule_radius_max"
+    },
+    {
+      "key": "_0",
+      "value": "ability_cast_time_modifier"
+    },
+    {
+      "key": "_8",
+      "value": "ability_ui_reticule_radius"
+    },
+    {
+      "key": "_2",
+      "value": "ability_cost_action_modifier"
+    },
+    {
+      "key": "_6",
+      "value": "ability_recharge_time_modifier"
+    },
+    {
+      "key": "_1",
+      "value": "ability_channeling_time_modifier"
+    },
+    {
+      "key": "_5",
+      "value": "ability_min_range_modifier"
+    }
+  ]
+}

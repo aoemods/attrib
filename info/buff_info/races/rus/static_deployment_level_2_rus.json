@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\abilities\\leader_bonus_gunpowder"
+        },
+        {
+          "key": "description",
+          "value": 11197603
+        },
+        {
+          "key": "title",
+          "value": 11197604
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1819428
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

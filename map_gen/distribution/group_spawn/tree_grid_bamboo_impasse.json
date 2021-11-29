@@ -1,0 +1,660 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 193258
+    },
+    {
+      "key": "group_spawn",
+      "value": [
+        {
+          "key": "spawn_layout",
+          "value": [
+            {
+              "key": "max_spawn_count",
+              "value": 300
+            },
+            {
+              "key": "assets",
+              "value": [
+                {
+                  "key": "asset_parameters",
+                  "value": [
+                    {
+                      "key": "space_apart",
+                      "value": 3
+                    },
+                    {
+                      "key": "place_within_thresholds",
+                      "value": [
+                        {
+                          "key": "place_max",
+                          "value": 1
+                        },
+                        {
+                          "key": "place_min",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "asset_box_width",
+                      "value": 1
+                    },
+                    {
+                      "key": "asset",
+                      "value": [
+                        {
+                          "key": "spawn_orientation",
+                          "value": 0
+                        },
+                        {
+                          "key": "spawn_rotation",
+                          "value": 2
+                        },
+                        {
+                          "key": "occupation_radius",
+                          "value": 4
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\asset\\entity"
+                        },
+                        {
+                          "key": "terrain_lock",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "scale",
+                          "value": 1
+                        },
+                        {
+                          "key": "spawn_position",
+                          "value": 0
+                        },
+                        {
+                          "key": "ebp",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "bamboo_med_wild"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "ebps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spawn_orientation",
+                      "value": 0
+                    },
+                    {
+                      "key": "spawn_rotation",
+                      "value": 2
+                    },
+                    {
+                      "key": "selection_weight",
+                      "value": 1
+                    },
+                    {
+                      "key": "spawn_position",
+                      "value": 0
+                    },
+                    {
+                      "key": "terrain_snapping_space_apart",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "key": "asset_parameters",
+                  "value": [
+                    {
+                      "key": "space_apart",
+                      "value": 3
+                    },
+                    {
+                      "key": "place_within_thresholds",
+                      "value": [
+                        {
+                          "key": "place_max",
+                          "value": 1
+                        },
+                        {
+                          "key": "place_min",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "asset_box_width",
+                      "value": 1
+                    },
+                    {
+                      "key": "asset",
+                      "value": [
+                        {
+                          "key": "spawn_orientation",
+                          "value": 0
+                        },
+                        {
+                          "key": "spawn_rotation",
+                          "value": 2
+                        },
+                        {
+                          "key": "occupation_radius",
+                          "value": 4
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\asset\\entity"
+                        },
+                        {
+                          "key": "terrain_lock",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "scale",
+                          "value": 1
+                        },
+                        {
+                          "key": "spawn_position",
+                          "value": 0
+                        },
+                        {
+                          "key": "ebp",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "bamboo_tall_wild"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "ebps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spawn_orientation",
+                      "value": 0
+                    },
+                    {
+                      "key": "spawn_rotation",
+                      "value": 2
+                    },
+                    {
+                      "key": "selection_weight",
+                      "value": 1
+                    },
+                    {
+                      "key": "spawn_position",
+                      "value": 0
+                    },
+                    {
+                      "key": "terrain_snapping_space_apart",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "key": "asset_parameters",
+                  "value": [
+                    {
+                      "key": "space_apart",
+                      "value": 3
+                    },
+                    {
+                      "key": "place_within_thresholds",
+                      "value": [
+                        {
+                          "key": "place_max",
+                          "value": 1
+                        },
+                        {
+                          "key": "place_min",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "asset_box_width",
+                      "value": 1
+                    },
+                    {
+                      "key": "asset",
+                      "value": [
+                        {
+                          "key": "spawn_orientation",
+                          "value": 0
+                        },
+                        {
+                          "key": "spawn_rotation",
+                          "value": 2
+                        },
+                        {
+                          "key": "occupation_radius",
+                          "value": 4
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\asset\\entity"
+                        },
+                        {
+                          "key": "terrain_lock",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "scale",
+                          "value": 1
+                        },
+                        {
+                          "key": "spawn_position",
+                          "value": 0
+                        },
+                        {
+                          "key": "ebp",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "bamboo_med_dead"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "ebps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spawn_orientation",
+                      "value": 0
+                    },
+                    {
+                      "key": "spawn_rotation",
+                      "value": 2
+                    },
+                    {
+                      "key": "selection_weight",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "spawn_position",
+                      "value": 0
+                    },
+                    {
+                      "key": "terrain_snapping_space_apart",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "key": "asset_parameters",
+                  "value": [
+                    {
+                      "key": "space_apart",
+                      "value": 3
+                    },
+                    {
+                      "key": "place_within_thresholds",
+                      "value": [
+                        {
+                          "key": "place_max",
+                          "value": 1
+                        },
+                        {
+                          "key": "place_min",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "asset_box_width",
+                      "value": 1
+                    },
+                    {
+                      "key": "asset",
+                      "value": [
+                        {
+                          "key": "spawn_orientation",
+                          "value": 0
+                        },
+                        {
+                          "key": "spawn_rotation",
+                          "value": 2
+                        },
+                        {
+                          "key": "occupation_radius",
+                          "value": 4
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\asset\\entity"
+                        },
+                        {
+                          "key": "terrain_lock",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "scale",
+                          "value": 1
+                        },
+                        {
+                          "key": "spawn_position",
+                          "value": 0
+                        },
+                        {
+                          "key": "ebp",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "bamboo_tall_dead"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "ebps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spawn_orientation",
+                      "value": 0
+                    },
+                    {
+                      "key": "spawn_rotation",
+                      "value": 2
+                    },
+                    {
+                      "key": "selection_weight",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "spawn_position",
+                      "value": 0
+                    },
+                    {
+                      "key": "terrain_snapping_space_apart",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "key": "asset_parameters",
+                  "value": [
+                    {
+                      "key": "space_apart",
+                      "value": 3
+                    },
+                    {
+                      "key": "place_within_thresholds",
+                      "value": [
+                        {
+                          "key": "place_max",
+                          "value": 1
+                        },
+                        {
+                          "key": "place_min",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "asset_box_width",
+                      "value": 1
+                    },
+                    {
+                      "key": "asset",
+                      "value": [
+                        {
+                          "key": "spawn_orientation",
+                          "value": 0
+                        },
+                        {
+                          "key": "spawn_rotation",
+                          "value": 2
+                        },
+                        {
+                          "key": "occupation_radius",
+                          "value": 4
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\asset\\entity"
+                        },
+                        {
+                          "key": "terrain_lock",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "scale",
+                          "value": 1
+                        },
+                        {
+                          "key": "spawn_position",
+                          "value": 0
+                        },
+                        {
+                          "key": "ebp",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "bamboo_small_wild"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "ebps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spawn_orientation",
+                      "value": 0
+                    },
+                    {
+                      "key": "spawn_rotation",
+                      "value": 2
+                    },
+                    {
+                      "key": "selection_weight",
+                      "value": 1
+                    },
+                    {
+                      "key": "spawn_position",
+                      "value": 0
+                    },
+                    {
+                      "key": "terrain_snapping_space_apart",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "key": "asset_parameters",
+                  "value": [
+                    {
+                      "key": "space_apart",
+                      "value": 3
+                    },
+                    {
+                      "key": "place_within_thresholds",
+                      "value": [
+                        {
+                          "key": "place_max",
+                          "value": 1
+                        },
+                        {
+                          "key": "place_min",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "asset_box_width",
+                      "value": 1
+                    },
+                    {
+                      "key": "asset",
+                      "value": [
+                        {
+                          "key": "spawn_orientation",
+                          "value": 0
+                        },
+                        {
+                          "key": "spawn_rotation",
+                          "value": 2
+                        },
+                        {
+                          "key": "occupation_radius",
+                          "value": 4
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\asset\\entity"
+                        },
+                        {
+                          "key": "terrain_lock",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "scale",
+                          "value": 1
+                        },
+                        {
+                          "key": "spawn_position",
+                          "value": 0
+                        },
+                        {
+                          "key": "ebp",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "bamboo_small_dead"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "ebps"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spawn_orientation",
+                      "value": 0
+                    },
+                    {
+                      "key": "spawn_rotation",
+                      "value": 2
+                    },
+                    {
+                      "key": "selection_weight",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "spawn_position",
+                      "value": 0
+                    },
+                    {
+                      "key": "terrain_snapping_space_apart",
+                      "value": 2
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "group_spawn_layout\\scattered"
+            },
+            {
+              "key": "randomness",
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "key": "allowed_pass_types",
+          "value": [
+            {
+              "key": "pass_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "infantry"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "pass_types"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "occupation_radius",
+          "value": 0
+        },
+        {
+          "key": "max_height_difference",
+          "value": 2.5
+        },
+        {
+          "key": "spawn_area_additional_radius_to_terrain_snap",
+          "value": 5
+        },
+        {
+          "key": "center_asset",
+          "value": [
+            {
+              "key": "$REF",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "spawn_area_radius",
+          "value": 26
+        }
+      ]
+    }
+  ]
+}

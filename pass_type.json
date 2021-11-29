@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "Entities"
+    },
+    {
+      "key": "_4",
+      "value": "HeavyCrush"
+    },
+    {
+      "key": "_7",
+      "value": "MediumCrush"
+    },
+    {
+      "key": "_9",
+      "value": "NegativeSpace"
+    },
+    {
+      "key": "_0",
+      "value": "CantBuild"
+    },
+    {
+      "key": "_8",
+      "value": "MovementBlocker"
+    },
+    {
+      "key": "_11",
+      "value": "ShallowWater"
+    },
+    {
+      "key": "_2",
+      "value": "DeepWater"
+    },
+    {
+      "key": "_12",
+      "value": "Unreachable"
+    },
+    {
+      "key": "_6",
+      "value": "LightCrush"
+    },
+    {
+      "key": "_1",
+      "value": "Cliff"
+    },
+    {
+      "key": "_5",
+      "value": "Land"
+    },
+    {
+      "key": "_10",
+      "value": "NoStopping"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "falloff_width_end",
+              "value": 2.25
+            },
+            {
+              "key": "rotation",
+              "value": 45
+            },
+            {
+              "key": "falloff_is_soft",
+              "value": true
+            },
+            {
+              "key": "invert",
+              "value": false
+            },
+            {
+              "key": "falloff_as_flat_distance",
+              "value": false
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\gradient_line"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\all_1"
+                }
+              ]
+            },
+            {
+              "key": "center_x",
+              "value": -1.25
+            },
+            {
+              "key": "falloff_width_start",
+              "value": 0
+            },
+            {
+              "key": "center_y",
+              "value": -1.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 182783
+    }
+  ]
+}

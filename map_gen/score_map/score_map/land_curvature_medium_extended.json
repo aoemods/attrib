@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\curvature"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "land_height_scaled"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "band_pass_filter",
+              "value": [
+                {
+                  "key": "max_value_meters",
+                  "value": 22
+                },
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\util\\band_pass_filter_meters"
+                },
+                {
+                  "key": "curve_exponent",
+                  "value": 8
+                },
+                {
+                  "key": "min_value_meters",
+                  "value": 0.5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 200740
+    }
+  ]
+}

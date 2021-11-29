@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\filter_min_max"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\normalize"
+                },
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\product"
+                    },
+                    {
+                      "key": "inputs",
+                      "value": [
+                        {
+                          "key": "power",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\power"
+                            },
+                            {
+                              "key": "power",
+                              "value": 2
+                            },
+                            {
+                              "key": "input",
+                              "value": [
+                                {
+                                  "key": "scale_meters",
+                                  "value": 32
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\noise"
+                                },
+                                {
+                                  "key": "biases",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "max_value",
+                                  "value": 0.9
+                                },
+                                {
+                                  "key": "min_value",
+                                  "value": 0
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "lake",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\lake"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "filter_min_max",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\filter_min_max"
+                            },
+                            {
+                              "key": "input",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\reference"
+                                },
+                                {
+                                  "key": "score_map",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "water_depth"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "map_gen\\score_map\\score_map"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "max",
+                              "value": 8
+                            },
+                            {
+                              "key": "min",
+                              "value": 0
+                            },
+                            {
+                              "key": "set_values_outside_range_to",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "noise",
+                          "value": [
+                            {
+                              "key": "scale_meters",
+                              "value": 64
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\noise"
+                            },
+                            {
+                              "key": "biases",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "max_value",
+                              "value": 1
+                            },
+                            {
+                              "key": "min_value",
+                              "value": 0.3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "max",
+                  "value": 1
+                },
+                {
+                  "key": "min",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "max",
+              "value": 1
+            },
+            {
+              "key": "min",
+              "value": 0.1
+            },
+            {
+              "key": "set_values_outside_range_to",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 195238
+    }
+  ]
+}

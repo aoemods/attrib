@@ -1,0 +1,365 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 196770
+    },
+    {
+      "key": "formation_group_spot_generator_bag",
+      "value": [
+        {
+          "key": "master_width_restriction",
+          "value": 0
+        },
+        {
+          "key": "cohesion",
+          "value": [
+            {
+              "key": "formation_merge_delay_seconds",
+              "value": 0.5
+            },
+            {
+              "key": "formation_regroup_on_squad_removal_delay_seconds",
+              "value": 1
+            },
+            {
+              "key": "distance_between_squads_for_move_clustering",
+              "value": 24
+            }
+          ]
+        },
+        {
+          "key": "allowed_pass_type",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "water_default"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "pass_types"
+            }
+          ]
+        },
+        {
+          "key": "ranks",
+          "value": [
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": true
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 3
+                    },
+                    {
+                      "key": "x",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 4
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "naval_fireship"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "naval_scout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": true
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 6.5
+                    },
+                    {
+                      "key": "x",
+                      "value": 6.5
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 4
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "naval_war_galley"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "light_arrow_ship"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": true
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 6.5
+                    },
+                    {
+                      "key": "x",
+                      "value": 6.5
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 4
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "naval_general_ship"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": true
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 12
+                    },
+                    {
+                      "key": "x",
+                      "value": 18
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 6
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "naval_warship"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "naval_galleass"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "rank_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\formation_group_spot_generator\\box_rank_option"
+                    },
+                    {
+                      "key": "use_zigzag_pattern",
+                      "value": true
+                    },
+                    {
+                      "key": "maximum_column_count",
+                      "value": 0
+                    },
+                    {
+                      "key": "primary_row_count",
+                      "value": 1
+                    },
+                    {
+                      "key": "primary_column_count",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "key": "spacing_between_units",
+                  "value": [
+                    {
+                      "key": "y",
+                      "value": 4
+                    },
+                    {
+                      "key": "x",
+                      "value": 4
+                    }
+                  ]
+                },
+                {
+                  "key": "offset_from_previous_rank",
+                  "value": 0
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_type",
+                      "value": "naval_transport"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "naval_trade_ship"
+                    },
+                    {
+                      "key": "unit_type",
+                      "value": "naval_fishing_ship"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "associated_ability_bag",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

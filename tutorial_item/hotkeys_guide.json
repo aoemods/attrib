@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "key": "tutorial_item_bag",
+      "value": [
+        {
+          "key": "url",
+          "value": "https://aoe.ms/aoeIV_introhotkeys"
+        },
+        {
+          "key": "trial",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "featured_image",
+          "value": "/WPFGUI;component/images/challenges/hotkey_tutorial.png"
+        },
+        {
+          "key": "featured_description",
+          "value": 11205197
+        },
+        {
+          "key": "featured_tutorial",
+          "value": true
+        },
+        {
+          "key": "title",
+          "value": 11205196
+        },
+        {
+          "key": "ui_priority",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2044714
+    }
+  ]
+}

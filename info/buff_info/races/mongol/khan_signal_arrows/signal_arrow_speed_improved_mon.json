@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\mongols\\abilities\\arrow_maneuver"
+        },
+        {
+          "key": "description",
+          "value": 11167196
+        },
+        {
+          "key": "title",
+          "value": 11152556
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 190105
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

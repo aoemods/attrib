@@ -1,0 +1,623 @@
+{
+  "data": [
+    {
+      "key": "upgrade_bag",
+      "value": [
+        {
+          "key": "ui_menu",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "is_progress_permanent",
+          "value": false
+        },
+        {
+          "key": "upgrade_type",
+          "value": [
+            {
+              "key": "upgrade_type",
+              "value": "military_upgrade"
+            },
+            {
+              "key": "upgrade_type",
+              "value": "sultinate_upgrade"
+            },
+            {
+              "key": "upgrade_type",
+              "value": "rus_upgrade"
+            },
+            {
+              "key": "upgrade_type",
+              "value": "mongol_upgrade"
+            },
+            {
+              "key": "upgrade_type",
+              "value": "hre_upgrade"
+            },
+            {
+              "key": "upgrade_type",
+              "value": "french_upgrade"
+            },
+            {
+              "key": "upgrade_type",
+              "value": "chinese_upgrade"
+            },
+            {
+              "key": "upgrade_type",
+              "value": "english_upgrade"
+            }
+          ]
+        },
+        {
+          "key": "ui_position",
+          "value": [
+            {
+              "key": "ui_position_column",
+              "value": 4
+            },
+            {
+              "key": "ui_position_row",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "local_max_limit",
+          "value": 1
+        },
+        {
+          "key": "int_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "enable_in_hold",
+          "value": false
+        },
+        {
+          "key": "ui_codex_info",
+          "value": [
+            {
+              "key": "ui_position",
+              "value": [
+                {
+                  "key": "ui_position_column",
+                  "value": -1
+                },
+                {
+                  "key": "ui_position_row",
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "key": "exclusive",
+              "value": false
+            },
+            {
+              "key": "priority",
+              "value": 4900
+            }
+          ]
+        },
+        {
+          "key": "min_music_intensity",
+          "value": 0
+        },
+        {
+          "key": "float_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "ui_kicker_icon_name",
+          "value": ""
+        },
+        {
+          "key": "squad_cost",
+          "value": [
+            {
+              "key": "food",
+              "value": 0
+            },
+            {
+              "key": "action",
+              "value": 0
+            },
+            {
+              "key": "gold",
+              "value": 0
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 0
+            },
+            {
+              "key": "stone",
+              "value": 0
+            },
+            {
+              "key": "command",
+              "value": 0
+            },
+            {
+              "key": "wood",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "has_speech_code",
+          "value": false
+        },
+        {
+          "key": "requirements_openingbranch",
+          "value": ""
+        },
+        {
+          "key": "ui_group_cast_type",
+          "value": 0
+        },
+        {
+          "key": "global_max_limit",
+          "value": 0
+        },
+        {
+          "key": "ui_event_cue",
+          "value": true
+        },
+        {
+          "key": "ui_preview",
+          "value": [
+          ]
+        },
+        {
+          "key": "requirements",
+          "value": [
+            {
+              "key": "required_player_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "include_queued",
+                  "value": false
+                },
+                {
+                  "key": "include_completed",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_player_upgrade"
+                },
+                {
+                  "key": "max_completed",
+                  "value": 100
+                },
+                {
+                  "key": "min_completed",
+                  "value": 1
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "imperial_age"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                },
+                {
+                  "key": "is_present",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "required_player_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "include_queued",
+                  "value": true
+                },
+                {
+                  "key": "include_completed",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_player_upgrade"
+                },
+                {
+                  "key": "max_completed",
+                  "value": 100
+                },
+                {
+                  "key": "min_completed",
+                  "value": 1
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "upgrade_siege_mathematics"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage_and_display"
+                },
+                {
+                  "key": "is_present",
+                  "value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "state_tree_references",
+          "value": [
+            {
+              "key": "on_action_entity_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": "common_upgrade_master\\mathematics\\normal_modifiers\\mathematics"
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "on_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": "common_upgrade_completion_events\\speech_celebrate\\celebrate"
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "on_begin_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "on_action_squad_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "on_cancel_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_info",
+          "value": [
+            {
+              "key": "debug_text",
+              "value": ""
+            },
+            {
+              "key": "screen_name_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "screen_name_short_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "reveal_for_decryption",
+              "value": false
+            },
+            {
+              "key": "brief_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "extra_text",
+              "value": 11166483
+            },
+            {
+              "key": "sound",
+              "value": "sfx_ui_produce_upgrade_building_click"
+            },
+            {
+              "key": "icon_name",
+              "value": "races\\common\\upgrades\\mathematics"
+            },
+            {
+              "key": "ui_combine_type",
+              "value": "intersection"
+            },
+            {
+              "key": "hotkey_name",
+              "value": "d"
+            },
+            {
+              "key": "sound_alternative",
+              "value": ""
+            },
+            {
+              "key": "tooltip_data_template",
+              "value": "BuildingUpgradeDataTemplate"
+            },
+            {
+              "key": "help_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "ui_text_formatter"
+                },
+                {
+                  "key": "formatter",
+                  "value": 11215370
+                },
+                {
+                  "key": "formatter_arguments",
+                  "value": [
+                    {
+                      "key": "int_value",
+                      "value": 30
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "extra_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "screen_name",
+              "value": 11155931
+            }
+          ]
+        },
+        {
+          "key": "time_cost",
+          "value": [
+            {
+              "key": "time_seconds",
+              "value": 90
+            },
+            {
+              "key": "cost",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 0
+                },
+                {
+                  "key": "action",
+                  "value": 0
+                },
+                {
+                  "key": "gold",
+                  "value": 700
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 0
+                },
+                {
+                  "key": "popcap",
+                  "value": 0
+                },
+                {
+                  "key": "stone",
+                  "value": 0
+                },
+                {
+                  "key": "command",
+                  "value": 0
+                },
+                {
+                  "key": "wood",
+                  "value": 300
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_production_group",
+          "value": "command_panel"
+        },
+        {
+          "key": "owner_type",
+          "value": "player"
+        },
+        {
+          "key": "ui_squad_portrait_icon_override",
+          "value": ""
+        },
+        {
+          "key": "filter_conditions",
+          "value": [
+            {
+              "key": "apply_to_future_units",
+              "value": 2
+            },
+            {
+              "key": "apply_to_application_type",
+              "value": 2
+            },
+            {
+              "key": "apply_to_target_type",
+              "value": 0
+            },
+            {
+              "key": "apply_to_filter_condition_statetree_ref",
+              "value": ""
+            },
+            {
+              "key": "apply_to_unit_classes",
+              "value": [
+                {
+                  "key": "unit_class",
+                  "value": "ram"
+                },
+                {
+                  "key": "unit_class",
+                  "value": "trebuchet_counterweight"
+                },
+                {
+                  "key": "unit_class",
+                  "value": "trebuchet_traction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "speech_code",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 127863
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

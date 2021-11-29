@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 170250
+    },
+    {
+      "key": "formation_info",
+      "value": [
+        {
+          "key": "leader_agent_info",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "formation_leader"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "navigation\\agent_info"
+            }
+          ]
+        },
+        {
+          "key": "rotation_degrees_per_second",
+          "value": 120
+        },
+        {
+          "key": "delay_formation_spot_following_seconds",
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

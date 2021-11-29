@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "key": "achievement_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11196716
+        },
+        {
+          "key": "xbox_achievement_id",
+          "value": "68"
+        },
+        {
+          "key": "prerequisite_tasks",
+          "value": [
+          ]
+        },
+        {
+          "key": "icon",
+          "value": "achievements\\civ_moment_jagutu_iin_darga"
+        },
+        {
+          "key": "challenge_definition_id",
+          "value": 1471967
+        },
+        {
+          "key": "prerequisite_achievements",
+          "value": [
+          ]
+        },
+        {
+          "key": "steam_achievement_id",
+          "value": "A068_"
+        },
+        {
+          "key": "reward_xp",
+          "value": 0
+        },
+        {
+          "key": "hidden",
+          "value": false
+        },
+        {
+          "key": "type",
+          "value": 2
+        },
+        {
+          "key": "description",
+          "value": 11196717
+        },
+        {
+          "key": "item_bundle",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1379066
+    }
+  ]
+}

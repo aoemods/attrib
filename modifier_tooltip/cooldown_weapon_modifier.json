@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "key": "modifier_tooltip_bag",
+      "value": [
+        {
+          "key": "negative_tooltip",
+          "value": 11001747
+        },
+        {
+          "key": "positive_tooltip",
+          "value": 11001750
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 134318
+    }
+  ]
+}

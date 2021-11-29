@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "key": "population_ext",
+      "value": [
+        {
+          "key": "medic_pop",
+          "value": 0
+        },
+        {
+          "key": "upkeep_per_pop_per_minute_override",
+          "value": [
+            {
+              "key": "food",
+              "value": 0
+            },
+            {
+              "key": "action",
+              "value": 0
+            },
+            {
+              "key": "gold",
+              "value": 0
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 0
+            },
+            {
+              "key": "stone",
+              "value": 0
+            },
+            {
+              "key": "command",
+              "value": 0
+            },
+            {
+              "key": "wood",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\population_ext"
+        },
+        {
+          "key": "vehicle_pop",
+          "value": 0
+        },
+        {
+          "key": "personnel_pop",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 639125
+    },
+    {
+      "key": "action_apply_ext",
+      "value": [
+        {
+          "key": "physical_state_trees",
+          "value": [
+            {
+              "key": "container",
+              "value": [
+                {
+                  "key": "state_tree",
+                  "value": "wynguard_army_action_apply_eng"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "physical_state_trees_run_once",
+          "value": [
+          ]
+        },
+        {
+          "key": "action_state_trees_run_once",
+          "value": [
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\action_apply_ext"
+        },
+        {
+          "key": "action_state_trees",
+          "value": [
+          ]
+        },
+        {
+          "key": "reset_on_load",
+          "value": true
+        },
+        {
+          "key": "deferred_action_state_trees_run_once",
+          "value": [
+          ]
+        },
+        {
+          "key": "deferred_action_state_trees",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "cost_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\cost_ext"
+        },
+        {
+          "key": "time_cost",
+          "value": [
+            {
+              "key": "time_seconds",
+              "value": 75
+            },
+            {
+              "key": "time_turns",
+              "value": 0
+            },
+            {
+              "key": "cost",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 100
+                },
+                {
+                  "key": "action",
+                  "value": 0
+                },
+                {
+                  "key": "gold",
+                  "value": 100
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 0
+                },
+                {
+                  "key": "popcap",
+                  "value": 0
+                },
+                {
+                  "key": "stone",
+                  "value": 0
+                },
+                {
+                  "key": "command",
+                  "value": 0
+                },
+                {
+                  "key": "wood",
+                  "value": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "animation_action_tree_ext",
+      "value": [
+        {
+          "key": "use_root_motion",
+          "value": true
+        },
+        {
+          "key": "start_suspended",
+          "value": false
+        },
+        {
+          "key": "ActionTree_OpeningBranch",
+          "value": ""
+        },
+        {
+          "key": "speed_scale_threshold",
+          "value": 100
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\animation_action_tree_ext"
+        },
+        {
+          "key": "default_animation",
+          "value": ""
+        },
+        {
+          "key": "entity_statetree_sort_tag",
+          "value": "Default"
+        }
+      ]
+    }
+  ]
+}

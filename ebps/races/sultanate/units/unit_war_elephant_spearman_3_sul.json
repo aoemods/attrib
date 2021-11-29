@@ -1,0 +1,1565 @@
+{
+  "data": [
+    {
+      "key": "attachment_child_ext",
+      "value": [
+        {
+          "key": "requires_attachment_dynamics",
+          "value": true
+        },
+        {
+          "key": "rotation_rate_degrees_per_second_signed_dca_key",
+          "value": ""
+        },
+        {
+          "key": "only_update_based_on_initial_attachment_point",
+          "value": true
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\attachment_child_ext"
+        },
+        {
+          "key": "on_attach",
+          "value": [
+            {
+              "key": "start_suspended",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "state_tree_reference_info"
+            }
+          ]
+        },
+        {
+          "key": "on_detach",
+          "value": [
+            {
+              "key": "start_suspended",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "state_tree_reference_info"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "statemodel_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\statemodel_ext"
+        },
+        {
+          "key": "schema",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "rider"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "statemodel_schema"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trigger_volume_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\trigger_volume_ext"
+        }
+      ]
+    },
+    {
+      "key": "sim_inventory_item_ext",
+      "value": [
+        {
+          "key": "simulation_item",
+          "value": [
+            {
+              "key": "capacity_required",
+              "value": 0
+            },
+            {
+              "key": "default_slot",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "sim_inventory_item\\sim_inventory_item"
+            },
+            {
+              "key": "item_data",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "sim_inventory_item\\sim_item_data\\attachment_inventory_data"
+                },
+                {
+                  "key": "attachment_data",
+                  "value": [
+                    {
+                      "key": "attach_data",
+                      "value": [
+                        {
+                          "key": "parent_rigidbody_target_name",
+                          "value": ""
+                        },
+                        {
+                          "key": "game_object_attachment_type",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "attachments\\attach_data"
+                        },
+                        {
+                          "key": "marker_name_parent",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "add_to_pathfinding",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "options\\attachment_types\\animator_sim_attachment"
+                    },
+                    {
+                      "key": "is_selectable",
+                      "value": true
+                    },
+                    {
+                      "key": "inventory_item_category",
+                      "value": ""
+                    },
+                    {
+                      "key": "animator",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "ownership_attributes",
+              "value": [
+                {
+                  "key": "drop_on_death_chance",
+                  "value": 0
+                },
+                {
+                  "key": "compatible_owner_type",
+                  "value": 3
+                },
+                {
+                  "key": "ownership_sharing_type",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "category",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\sim_inventory_item_ext"
+        }
+      ]
+    },
+    {
+      "key": "entity_blueprint_ext",
+      "value": [
+        {
+          "key": "default_spawn_type",
+          "value": ""
+        },
+        {
+          "key": "entity_scale",
+          "value": 100
+        },
+        {
+          "key": "is_visible_in_game",
+          "value": true
+        },
+        {
+          "key": "animator_scale",
+          "value": 122
+        },
+        {
+          "key": "browsable_in_editor",
+          "value": false
+        },
+        {
+          "key": "alternate_sua",
+          "value": ""
+        },
+        {
+          "key": "is_wreck",
+          "value": false
+        },
+        {
+          "key": "unit_badge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\entity_blueprint_ext"
+        },
+        {
+          "key": "always_revealed_in_fow",
+          "value": false
+        },
+        {
+          "key": "precise_size",
+          "value": 1
+        },
+        {
+          "key": "animator_attachments",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "unit_war_elephant_spearman_3_sul"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "attachments\\attachment_lists"
+            }
+          ]
+        },
+        {
+          "key": "subclass_type",
+          "value": 6
+        },
+        {
+          "key": "is_spawned_when_not_in_interactive_area",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "moving_ext",
+      "value": [
+        {
+          "key": "snap_to_surface_type",
+          "value": 4
+        },
+        {
+          "key": "motion_tree_atomic_pivot_anim",
+          "value": false
+        },
+        {
+          "key": "use_prediction",
+          "value": false
+        },
+        {
+          "key": "reduce_clipping_by_slowing_other",
+          "value": false
+        },
+        {
+          "key": "right_of_way_priority",
+          "value": -1
+        },
+        {
+          "key": "can_path_into_blocked_cover",
+          "value": true
+        },
+        {
+          "key": "motion_tree_strafing_anim",
+          "value": false
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\moving_ext"
+        },
+        {
+          "key": "orient_to_terrain",
+          "value": false
+        },
+        {
+          "key": "melee_move_tolerance",
+          "value": 0
+        },
+        {
+          "key": "pass_type",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "infantry"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "pass_types"
+            }
+          ]
+        },
+        {
+          "key": "can_evacuate_enemy_unit",
+          "value": false
+        },
+        {
+          "key": "navigation_agent_info",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "speed_scaling_table",
+          "value": [
+            {
+              "key": "default_speed",
+              "value": 3
+            },
+            {
+              "key": "min_speed",
+              "value": 0
+            },
+            {
+              "key": "max_speed",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "key": "turn_plan",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "human"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "turn_plan"
+            }
+          ]
+        },
+        {
+          "key": "motion_tree_pivot_animations_count",
+          "value": "0"
+        },
+        {
+          "key": "pathfinding_option",
+          "value": [
+            {
+              "key": "path_blocking_priority",
+              "value": 0
+            },
+            {
+              "key": "right_of_way_evacuate_in_combat_allies",
+              "value": false
+            },
+            {
+              "key": "right_of_way_allies_time_in_combat_seconds",
+              "value": 0
+            },
+            {
+              "key": "$REF",
+              "value": "options\\ebpextensions\\movingext\\pathfinding_option"
+            },
+            {
+              "key": "can_path_through_allies",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "smooth_path",
+          "value": true
+        },
+        {
+          "key": "on_land_overturn_scale",
+          "value": 0
+        },
+        {
+          "key": "acceleration",
+          "value": -1
+        },
+        {
+          "key": "motion_tree_movement_direction_count",
+          "value": "2"
+        },
+        {
+          "key": "convertible_dynamics_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "deceleration",
+          "value": -1
+        },
+        {
+          "key": "skimmer_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "speed_levels",
+          "value": [
+            {
+              "key": "speed_level_0",
+              "value": 3
+            },
+            {
+              "key": "speed_level_3",
+              "value": 6.25
+            },
+            {
+              "key": "speed_level_2",
+              "value": 5.5
+            },
+            {
+              "key": "speed_level_4",
+              "value": 6.25
+            },
+            {
+              "key": "speed_level_1",
+              "value": 4.5
+            }
+          ]
+        },
+        {
+          "key": "pass_type_destination",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "turn_in_place_distance",
+          "value": 0
+        },
+        {
+          "key": "high_path_look_ahead_max_dist",
+          "value": 10
+        },
+        {
+          "key": "walker_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "rotation_rate",
+          "value": 10000
+        }
+      ]
+    },
+    {
+      "key": "holdable_ext",
+      "value": [
+        {
+          "key": "holdable",
+          "value": "hold_cavalry"
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\holdable_ext"
+        }
+      ]
+    },
+    {
+      "key": "entity_targeting_ext",
+      "value": [
+        {
+          "key": "allow_entity_scan_close_enemies",
+          "value": false
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\entity_targeting_ext"
+        },
+        {
+          "key": "history_size",
+          "value": 2
+        },
+        {
+          "key": "allow_weapon_target_scanning",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "sim_entity_ext",
+      "value": [
+        {
+          "key": "rotate_snap",
+          "value": 90
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\sim_entity_ext"
+        },
+        {
+          "key": "transferable",
+          "value": 0
+        },
+        {
+          "key": "kill_paradrop",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "modifier_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\modifier_ext"
+        }
+      ]
+    },
+    {
+      "key": "type_ext",
+      "value": [
+        {
+          "key": "intersection_testing",
+          "value": false
+        },
+        {
+          "key": "weapon_targeting",
+          "value": "no_targeting"
+        },
+        {
+          "key": "unit_type_list_selection_keybind_only",
+          "value": [
+          ]
+        },
+        {
+          "key": "weapon_category_targeting_filter",
+          "value": [
+            {
+              "key": "8dummy",
+              "value": false
+            },
+            {
+              "key": "4charge",
+              "value": true
+            },
+            {
+              "key": "9idle",
+              "value": true
+            },
+            {
+              "key": "1melee",
+              "value": true
+            },
+            {
+              "key": "3siege",
+              "value": false
+            },
+            {
+              "key": "5brace",
+              "value": true
+            },
+            {
+              "key": "7single_cast_ability",
+              "value": true
+            },
+            {
+              "key": "6auto_ability_cast",
+              "value": true
+            },
+            {
+              "key": "2ranged",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "attack_target_restriction_on_victim",
+          "value": [
+            {
+              "key": "unit_type",
+              "value": "stone_wall"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\type_ext"
+        },
+        {
+          "key": "unit_type_list",
+          "value": [
+            {
+              "key": "unit_type",
+              "value": "rider"
+            },
+            {
+              "key": "unit_type",
+              "value": "armored"
+            },
+            {
+              "key": "unit_type",
+              "value": "cavalry"
+            },
+            {
+              "key": "unit_type",
+              "value": "military"
+            },
+            {
+              "key": "unit_type",
+              "value": "human"
+            },
+            {
+              "key": "unit_type",
+              "value": "cavalry_armored"
+            },
+            {
+              "key": "unit_type",
+              "value": "elephant_spearman"
+            },
+            {
+              "key": "unit_type",
+              "value": "melee"
+            },
+            {
+              "key": "unit_type",
+              "value": "torch_thrower"
+            },
+            {
+              "key": "unit_type",
+              "value": "annihilation_condition"
+            }
+          ]
+        },
+        {
+          "key": "race_type_list",
+          "value": [
+            {
+              "key": "race_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "sultanate"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "racebps"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "attack_target_restriction_on_attacker",
+          "value": [
+          ]
+        },
+        {
+          "key": "unit_type_list_ui_appear_as_only",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "stimulus_perception_ext",
+      "value": [
+        {
+          "key": "stimulus_perception_info",
+          "value": [
+            {
+              "key": "herding_interest",
+              "value": [
+                {
+                  "key": "perception_requirement",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "enable_perception",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "dropoff_resource",
+              "value": [
+                {
+                  "key": "perception_requirement",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "enable_perception",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "shock",
+              "value": [
+                {
+                  "key": "perception_requirement",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "enable_perception",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "tense",
+              "value": [
+                {
+                  "key": "perception_requirement",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "enable_perception",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "group_retaliation",
+              "value": [
+                {
+                  "key": "perception_requirement",
+                  "value": [
+                    {
+                      "key": "alliance_requirement",
+                      "value": [
+                        {
+                          "key": "ally",
+                          "value": true
+                        },
+                        {
+                          "key": "neutral",
+                          "value": false
+                        },
+                        {
+                          "key": "enemy",
+                          "value": false
+                        }
+                      ]
+                    },
+                    {
+                      "key": "facing_requirement",
+                      "value": [
+                        {
+                          "key": "facing_angle_range",
+                          "value": 360
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "stimulus_perception_requirement"
+                    }
+                  ]
+                },
+                {
+                  "key": "enable_perception",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "evacuate_area",
+              "value": [
+                {
+                  "key": "perception_requirement",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "enable_perception",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "charge",
+              "value": [
+                {
+                  "key": "perception_requirement",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "enable_perception",
+                  "value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\stimulus_perception_ext"
+        }
+      ]
+    },
+    {
+      "key": "action_tree_ext",
+      "value": [
+        {
+          "key": "fallback_default_move_command_conditions",
+          "value": ""
+        },
+        {
+          "key": "start_suspended",
+          "value": false
+        },
+        {
+          "key": "stop_on_death",
+          "value": 0
+        },
+        {
+          "key": "ActionTree_OpeningBranch",
+          "value": "unit_rider"
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\action_tree_ext"
+        },
+        {
+          "key": "events",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "marker_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\marker_ext"
+        }
+      ]
+    },
+    {
+      "key": "ability_ext",
+      "value": [
+        {
+          "key": "abilities",
+          "value": [
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\ability_ext"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 136551
+    },
+    {
+      "key": "action_apply_ext",
+      "value": [
+        {
+          "key": "physical_state_trees",
+          "value": [
+          ]
+        },
+        {
+          "key": "physical_state_trees_run_once",
+          "value": [
+          ]
+        },
+        {
+          "key": "action_state_trees_run_once",
+          "value": [
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\action_apply_ext"
+        },
+        {
+          "key": "action_state_trees",
+          "value": [
+            {
+              "key": "container",
+              "value": [
+                {
+                  "key": "state_tree",
+                  "value": "unit_action_apply\\units\\rider"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "reset_on_load",
+          "value": true
+        },
+        {
+          "key": "deferred_action_state_trees_run_once",
+          "value": [
+          ]
+        },
+        {
+          "key": "deferred_action_state_trees",
+          "value": [
+          ]
+        }
+      ]
+    },
+    {
+      "key": "combat_ext",
+      "value": [
+        {
+          "key": "combat_choice_tree",
+          "value": "entity_combat_manager"
+        },
+        {
+          "key": "attack_move",
+          "value": [
+            {
+              "key": "attack_move_priority_per_distance_meter",
+              "value": -0.2
+            },
+            {
+              "key": "attack_move_targeting_range",
+              "value": 20
+            }
+          ]
+        },
+        {
+          "key": "block_melee_blocks_per_sequence",
+          "value": 0
+        },
+        {
+          "key": "block_frontal_arc",
+          "value": 0
+        },
+        {
+          "key": "scan_interval_cached_target_valid",
+          "value": 2
+        },
+        {
+          "key": "hardpoints",
+          "value": [
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": true
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "non_entity_weapon_wrapper_pbg",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "weapon_war_elephant_spear_3_sul"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "weapon"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "non_entity_weapon_wrapper"
+                            },
+                            {
+                              "key": "animator_attachments",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_melee_war_elephant_spear_3_sul"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "attachments\\attachment_lists"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_rarmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "non_entity_weapon_wrapper_pbg",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "weapon_torch_elephant_archer_sul"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "weapon"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "non_entity_weapon_wrapper"
+                            },
+                            {
+                              "key": "animator_attachments",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_siege_torch_sul"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "attachments\\attachment_lists"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "metarig_rarmpalmsocket"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "combat_scan_intervals",
+          "value": [
+            {
+              "key": "idle_scan_intervals",
+              "value": [
+                {
+                  "key": "interval_with_valid_target_frequent",
+                  "value": 0.5
+                },
+                {
+                  "key": "frequent_scan_radius",
+                  "value": 0
+                },
+                {
+                  "key": "interval_with_valid_target",
+                  "value": 2
+                },
+                {
+                  "key": "interval_with_invalid_target",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "forced_engagement_scan_intervals",
+              "value": [
+                {
+                  "key": "interval_with_valid_target",
+                  "value": 2
+                },
+                {
+                  "key": "interval_with_invalid_target",
+                  "value": 0.375
+                }
+              ]
+            },
+            {
+              "key": "attack_move_scan_intervals",
+              "value": [
+                {
+                  "key": "interval_with_valid_target_frequent",
+                  "value": 0.5
+                },
+                {
+                  "key": "frequent_scan_radius",
+                  "value": 0
+                },
+                {
+                  "key": "interval_with_valid_target",
+                  "value": 2
+                },
+                {
+                  "key": "interval_with_invalid_target",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "scan_interval_cached_target_invalid",
+          "value": 2
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\combat_ext"
+        },
+        {
+          "key": "idle_targeting",
+          "value": [
+            {
+              "key": "idle_priority_per_distance_unit_angle_multiplier",
+              "value": 0
+            },
+            {
+              "key": "idle_targeting_range",
+              "value": 13
+            },
+            {
+              "key": "idle_priority_per_distance_meter",
+              "value": -0.1
+            },
+            {
+              "key": "idle_priority_per_angle_degree",
+              "value": -0.01
+            }
+          ]
+        },
+        {
+          "key": "unequip_weapons_on_death",
+          "value": true
+        },
+        {
+          "key": "block_projectile_incoming_attack_sequence_length",
+          "value": 1
+        },
+        {
+          "key": "reject_attack_command",
+          "value": false
+        },
+        {
+          "key": "sight_hardpoint",
+          "value": -1
+        },
+        {
+          "key": "ui_show_most_progressed_weapon_reload",
+          "value": false
+        },
+        {
+          "key": "target_scanning_priority_override",
+          "value": [
+          ]
+        },
+        {
+          "key": "kill_action_tree",
+          "value": [
+            {
+              "key": "start_suspended",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "state_tree_reference_info"
+            }
+          ]
+        },
+        {
+          "key": "block_ranged_blocks_per_sequence",
+          "value": 0
+        },
+        {
+          "key": "block_melee_incoming_attack_sequence_length",
+          "value": 1
+        },
+        {
+          "key": "block_ranged_incoming_attack_sequence_length",
+          "value": 1
+        },
+        {
+          "key": "block_projectile_blocks_per_sequence",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "tier_ext",
+      "value": [
+        {
+          "key": "tier_group_list",
+          "value": [
+            {
+              "key": "tier_group",
+              "value": [
+                {
+                  "key": "tier",
+                  "value": [
+                    {
+                      "key": "statetree_tier_reached_actions",
+                      "value": [
+                        {
+                          "key": "start_suspended",
+                          "value": false
+                        },
+                        {
+                          "key": "ActionTree_OpeningBranch",
+                          "value": ""
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "state_tree_reference_info"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "statetree_tier_pgb_upgrade_target_entity",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "inventory_category_to_refresh_on_tier_up",
+                      "value": ""
+                    },
+                    {
+                      "key": "blueprint_conversion_parameters",
+                      "value": [
+                        {
+                          "key": "continue_state_trees",
+                          "value": true
+                        },
+                        {
+                          "key": "reissue_commands",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "blueprint_conversion_parameters"
+                        },
+                        {
+                          "key": "remove_from_pending_deaths",
+                          "value": false
+                        }
+                      ]
+                    },
+                    {
+                      "key": "statetree_tier_pgb_upgrade_target_squad",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "tier_attachment_action",
+                      "value": ""
+                    },
+                    {
+                      "key": "statetree_tier_requirements_pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "attachments",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "tier3_war_elephant_spearman_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "attachments\\attachment_lists"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "tier_requirements",
+                      "value": [
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\tier_ext"
+        }
+      ]
+    },
+    {
+      "key": "animation_action_tree_ext",
+      "value": [
+        {
+          "key": "use_root_motion",
+          "value": false
+        },
+        {
+          "key": "start_suspended",
+          "value": false
+        },
+        {
+          "key": "ActionTree_OpeningBranch",
+          "value": "rider"
+        },
+        {
+          "key": "speed_scale_threshold",
+          "value": 100
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\animation_action_tree_ext"
+        },
+        {
+          "key": "default_animation",
+          "value": ""
+        },
+        {
+          "key": "entity_statetree_sort_tag",
+          "value": "rider"
+        }
+      ]
+    }
+  ]
+}

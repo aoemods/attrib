@@ -1,0 +1,551 @@
+{
+  "data": [
+    {
+      "key": "squad_loadout_ext",
+      "value": [
+        {
+          "key": "unit_list",
+          "value": [
+            {
+              "key": "loadout_data",
+              "value": [
+                {
+                  "key": "num",
+                  "value": 1
+                },
+                {
+                  "key": "is_default_unit",
+                  "value": true
+                },
+                {
+                  "key": "type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "unit_crossbowman_3_hre"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ebps"
+                    }
+                  ]
+                },
+                {
+                  "key": "unit_attachments",
+                  "value": [
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_loadout_ext"
+        },
+        {
+          "key": "squad_female_chance",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "squad_capture_strategic_point_ext",
+      "value": [
+        {
+          "key": "capture_rate_multiplier",
+          "value": 0
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_capture_strategic_point_ext"
+        },
+        {
+          "key": "revert_rate_multiplier",
+          "value": 1
+        },
+        {
+          "key": "capture_distance",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 212815
+    },
+    {
+      "key": "squad_modifier_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_modifier_ext"
+        }
+      ]
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "squad_requirement_ext",
+      "value": [
+        {
+          "key": "requirement_table",
+          "value": [
+            {
+              "key": "required_player_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "include_queued",
+                  "value": false
+                },
+                {
+                  "key": "include_completed",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_player_upgrade"
+                },
+                {
+                  "key": "max_completed",
+                  "value": 100
+                },
+                {
+                  "key": "min_completed",
+                  "value": 1
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "castle_age"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                },
+                {
+                  "key": "is_present",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "required_player_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "include_queued",
+                  "value": false
+                },
+                {
+                  "key": "include_completed",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_player_upgrade"
+                },
+                {
+                  "key": "max_completed",
+                  "value": 100
+                },
+                {
+                  "key": "min_completed",
+                  "value": 1
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "upgrade_unit_crossbowman_4"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage_and_display"
+                },
+                {
+                  "key": "is_present",
+                  "value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_requirement_ext"
+        },
+        {
+          "key": "requirement_statetree",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "squad_ui_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_ui_ext"
+        },
+        {
+          "key": "race_list",
+          "value": [
+            {
+              "key": "race_data",
+              "value": [
+                {
+                  "key": "info",
+                  "value": [
+                    {
+                      "key": "debug_text",
+                      "value": ""
+                    },
+                    {
+                      "key": "minimap_texture_scale",
+                      "value": 1
+                    },
+                    {
+                      "key": "screen_name_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "decorator_visibility",
+                      "value": 3
+                    },
+                    {
+                      "key": "screen_name_short_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ui_decorator",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "reveal_for_decryption",
+                      "value": true
+                    },
+                    {
+                      "key": "selection_datatemplate",
+                      "value": "MilitaryUnitSelectionDataTemplate"
+                    },
+                    {
+                      "key": "selection_group",
+                      "value": "crossbow"
+                    },
+                    {
+                      "key": "use_random_entity_speaker",
+                      "value": false
+                    },
+                    {
+                      "key": "respawn_progress",
+                      "value": ""
+                    },
+                    {
+                      "key": "hide_ucs",
+                      "value": false
+                    },
+                    {
+                      "key": "ui_codex_info",
+                      "value": [
+                        {
+                          "key": "ui_position",
+                          "value": [
+                            {
+                              "key": "ui_position_column",
+                              "value": -1
+                            },
+                            {
+                              "key": "ui_position_row",
+                              "value": -1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "exclusive",
+                          "value": false
+                        },
+                        {
+                          "key": "priority",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "show_production",
+                      "value": true
+                    },
+                    {
+                      "key": "portrait_name",
+                      "value": ""
+                    },
+                    {
+                      "key": "respawn_unit_class",
+                      "value": ""
+                    },
+                    {
+                      "key": "brief_text_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "extra_text",
+                      "value": 11141777
+                    },
+                    {
+                      "key": "sound",
+                      "value": ""
+                    },
+                    {
+                      "key": "symbol_icon_name",
+                      "value": ""
+                    },
+                    {
+                      "key": "minimap_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "icon_name",
+                      "value": "races\\common\\units\\crossbowman_3"
+                    },
+                    {
+                      "key": "minimap_team_only",
+                      "value": false
+                    },
+                    {
+                      "key": "map_layer",
+                      "value": -1
+                    },
+                    {
+                      "key": "is_unique_to_race",
+                      "value": false
+                    },
+                    {
+                      "key": "ui_combine_type",
+                      "value": "intersection"
+                    },
+                    {
+                      "key": "help_text",
+                      "value": 11121185
+                    },
+                    {
+                      "key": "extra_icon",
+                      "value": ""
+                    },
+                    {
+                      "key": "hotkey_name",
+                      "value": "A"
+                    },
+                    {
+                      "key": "show_in_build_log",
+                      "value": true
+                    },
+                    {
+                      "key": "sound_alternative",
+                      "value": ""
+                    },
+                    {
+                      "key": "tooltip_data_template",
+                      "value": "BuildingMilitaryDataTemplate"
+                    },
+                    {
+                      "key": "respawn_time",
+                      "value": ""
+                    },
+                    {
+                      "key": "help_text_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "is_respawnable",
+                      "value": false
+                    },
+                    {
+                      "key": "map_rotation_type_override",
+                      "value": "no_override"
+                    },
+                    {
+                      "key": "extra_text_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "stats_info",
+                      "value": [
+                        {
+                          "key": "include_in_lifespan_stat",
+                          "value": true
+                        }
+                      ]
+                    },
+                    {
+                      "key": "decorator_data_template",
+                      "value": ""
+                    },
+                    {
+                      "key": "is_unique",
+                      "value": false
+                    },
+                    {
+                      "key": "flag_icon_override",
+                      "value": ""
+                    },
+                    {
+                      "key": "respawn_location",
+                      "value": ""
+                    },
+                    {
+                      "key": "screen_name",
+                      "value": 11142960
+                    },
+                    {
+                      "key": "decorator_show_reload_progress",
+                      "value": false
+                    },
+                    {
+                      "key": "global_unit_control_row",
+                      "value": 1
+                    },
+                    {
+                      "key": "respawn_datatemplate",
+                      "value": ""
+                    },
+                    {
+                      "key": "modal_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "allow_spawner_production",
+                      "value": false
+                    },
+                    {
+                      "key": "decorator",
+                      "value": "CardinalSquad"
+                    },
+                    {
+                      "key": "map_mark",
+                      "value": "Squad"
+                    },
+                    {
+                      "key": "ui_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "cover_level_icon_postfix",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "ext_key",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

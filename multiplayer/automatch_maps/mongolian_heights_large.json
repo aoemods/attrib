@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "key": "automatch_map_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11195620
+        },
+        {
+          "key": "available_modes",
+          "value": [
+            {
+              "key": "mp_map_mode",
+              "value": [
+                {
+                  "key": "enable",
+                  "value": true
+                },
+                {
+                  "key": "match_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "slot1_3v3_ai_easy"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "multiplayer\\match_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "max_player",
+                  "value": 6
+                },
+                {
+                  "key": "$REF",
+                  "value": "multiplayer\\mp_map_mode"
+                },
+                {
+                  "key": "team_count",
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "key": "mp_map_mode",
+              "value": [
+                {
+                  "key": "enable",
+                  "value": true
+                },
+                {
+                  "key": "match_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "slot1_3v3_ai_medium"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "multiplayer\\match_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "max_player",
+                  "value": 6
+                },
+                {
+                  "key": "$REF",
+                  "value": "multiplayer\\mp_map_mode"
+                },
+                {
+                  "key": "team_count",
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "key": "mp_map_mode",
+              "value": [
+                {
+                  "key": "enable",
+                  "value": true
+                },
+                {
+                  "key": "match_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "slot1_3v3_ai_hard"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "multiplayer\\match_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "max_player",
+                  "value": 6
+                },
+                {
+                  "key": "$REF",
+                  "value": "multiplayer\\mp_map_mode"
+                },
+                {
+                  "key": "team_count",
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "key": "mp_map_mode",
+              "value": [
+                {
+                  "key": "enable",
+                  "value": true
+                },
+                {
+                  "key": "match_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "slot1_3v3_ai_expert"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "multiplayer\\match_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "max_player",
+                  "value": 6
+                },
+                {
+                  "key": "$REF",
+                  "value": "multiplayer\\mp_map_mode"
+                },
+                {
+                  "key": "team_count",
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "key": "mp_map_mode",
+              "value": [
+                {
+                  "key": "enable",
+                  "value": true
+                },
+                {
+                  "key": "match_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "slot1_3v3_unranked"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "multiplayer\\match_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "max_player",
+                  "value": 6
+                },
+                {
+                  "key": "$REF",
+                  "value": "multiplayer\\mp_map_mode"
+                },
+                {
+                  "key": "team_count",
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "scenario",
+          "value": [
+            {
+              "key": "generated_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "scen_mongolian_heights_large"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_scenario"
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "multiplayer\\mp_map_generated_scenario"
+            }
+          ]
+        },
+        {
+          "key": "teaser_image",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 230048
+    }
+  ]
+}

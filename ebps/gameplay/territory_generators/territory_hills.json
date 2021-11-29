@@ -1,0 +1,756 @@
+{
+  "data": [
+    {
+      "key": "resource_ext",
+      "value": [
+        {
+          "key": "total_amount_of_resources",
+          "value": [
+            {
+              "key": "food",
+              "value": 0
+            },
+            {
+              "key": "action",
+              "value": 0
+            },
+            {
+              "key": "gold",
+              "value": 0
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 0
+            },
+            {
+              "key": "stone",
+              "value": 0
+            },
+            {
+              "key": "command",
+              "value": 0
+            },
+            {
+              "key": "wood",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "auto_generate_resources",
+          "value": false
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\resource_ext"
+        },
+        {
+          "key": "default_provided_resource",
+          "value": "action"
+        },
+        {
+          "key": "resources_divided_by_team_size",
+          "value": false
+        },
+        {
+          "key": "resource_provided_per_turn",
+          "value": [
+            {
+              "key": "food",
+              "value": 0
+            },
+            {
+              "key": "action",
+              "value": 0
+            },
+            {
+              "key": "gold",
+              "value": 0
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 0
+            },
+            {
+              "key": "stone",
+              "value": 0
+            },
+            {
+              "key": "command",
+              "value": 0
+            },
+            {
+              "key": "wood",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "depleted_action_tree",
+          "value": [
+            {
+              "key": "start_suspended",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "value": "state_tree_reference_info"
+            }
+          ]
+        },
+        {
+          "key": "resource_provided_per_second",
+          "value": [
+            {
+              "key": "food",
+              "value": 0
+            },
+            {
+              "key": "action",
+              "value": 0
+            },
+            {
+              "key": "gold",
+              "value": 0
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 0
+            },
+            {
+              "key": "stone",
+              "value": 0
+            },
+            {
+              "key": "command",
+              "value": 0
+            },
+            {
+              "key": "wood",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "enable_sector_linked_resourcing",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "territory_ext",
+      "value": [
+        {
+          "key": "secures_territory_sector",
+          "value": false
+        },
+        {
+          "key": "sector_entity_type",
+          "value": "sector_creator"
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\territory_ext"
+        },
+        {
+          "key": "default_on",
+          "value": false
+        },
+        {
+          "key": "command_provider",
+          "value": false
+        },
+        {
+          "key": "terrain_type_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\ebpextensions\\territory_ext\\terrain_type_option"
+            },
+            {
+              "key": "sector_material_override",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "terrain_type_hills"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "material"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "entity_blueprint_ext",
+      "value": [
+        {
+          "key": "default_spawn_type",
+          "value": ""
+        },
+        {
+          "key": "entity_scale",
+          "value": 100
+        },
+        {
+          "key": "is_visible_in_game",
+          "value": false
+        },
+        {
+          "key": "animator_scale",
+          "value": 100
+        },
+        {
+          "key": "browsable_in_editor",
+          "value": true
+        },
+        {
+          "key": "alternate_sua",
+          "value": ""
+        },
+        {
+          "key": "is_wreck",
+          "value": false
+        },
+        {
+          "key": "unit_badge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\entity_blueprint_ext"
+        },
+        {
+          "key": "always_revealed_in_fow",
+          "value": false
+        },
+        {
+          "key": "precise_size",
+          "value": -1
+        },
+        {
+          "key": "animator_attachments",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "territory_hills"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "attachments\\attachment_lists"
+            }
+          ]
+        },
+        {
+          "key": "subclass_type",
+          "value": 0
+        },
+        {
+          "key": "is_spawned_when_not_in_interactive_area",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "site_ext",
+      "value": [
+        {
+          "key": "extra_build_test_footprint_offset_z",
+          "value": 0
+        },
+        {
+          "key": "remove_if_constructed_over",
+          "value": false
+        },
+        {
+          "key": "lock_to_impass",
+          "value": true
+        },
+        {
+          "key": "extra_build_test_footprint_z",
+          "value": 0
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\site_ext"
+        },
+        {
+          "key": "forced_axis_aligned_footprint",
+          "value": false
+        },
+        {
+          "key": "minimum_build_test_footprint_z",
+          "value": 0
+        },
+        {
+          "key": "footprint_scale",
+          "value": [
+            {
+              "key": "y",
+              "value": 0
+            },
+            {
+              "key": "x",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "minimum_build_test_footprint_x",
+          "value": 0
+        },
+        {
+          "key": "impass_cell_check",
+          "value": 1
+        },
+        {
+          "key": "snap_to_terrain",
+          "value": false
+        },
+        {
+          "key": "extra_build_test_footprint_x",
+          "value": 0
+        },
+        {
+          "key": "extra_build_test_footprint_offset_x",
+          "value": 0
+        },
+        {
+          "key": "snap_to_surface_types",
+          "value": [
+            {
+              "key": "surface_type",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "strategic_point_ext",
+      "value": [
+        {
+          "key": "auto_revert_condition",
+          "value": 0
+        },
+        {
+          "key": "allow_capture_or_secure_from_hold",
+          "value": false
+        },
+        {
+          "key": "entity_for_annihilation",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "capture_area_info",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\area_info_options\\sector_area_option"
+            }
+          ]
+        },
+        {
+          "key": "ui_reticules",
+          "value": [
+            {
+              "key": "enable_team_color",
+              "value": false
+            },
+            {
+              "key": "ui_reticule_ally",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ui_reticule_enemy_outofsupply",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ui_reticule_ally_outofsupply",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ui_reticule_neutral",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ui_reticule_enemy",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ui_reticule_enemy_capturing",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "ui_reticule_ally_capturing",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "contested_capture_type",
+          "value": 0
+        },
+        {
+          "key": "instant_uncapture",
+          "value": false
+        },
+        {
+          "key": "secure_area_info",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\area_info_options\\sector_area_option"
+            }
+          ]
+        },
+        {
+          "key": "ui_use_local_colour_for_ally_team_owned_objects",
+          "value": false
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\strategic_point_ext"
+        },
+        {
+          "key": "exclude_unit_types",
+          "value": [
+          ]
+        },
+        {
+          "key": "use_decorator",
+          "value": true
+        },
+        {
+          "key": "start_captured_if_owned",
+          "value": true
+        },
+        {
+          "key": "revert_time",
+          "value": 1
+        },
+        {
+          "key": "secure_radius",
+          "value": 0
+        },
+        {
+          "key": "unsecure_time_by_race",
+          "value": [
+          ]
+        },
+        {
+          "key": "state_tree_references",
+          "value": [
+            {
+              "key": "decapture_point_player_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "lost_point_team_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "self_secured_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "self_reverting_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "self_capturing_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "halted_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "self_uncaptured_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "self_captured_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "lost_point_player_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "on_capture_ownership_change",
+          "value": 0
+        },
+        {
+          "key": "point_type",
+          "value": 0
+        },
+        {
+          "key": "can_capture_team",
+          "value": 0
+        },
+        {
+          "key": "capture_time",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "key": "sim_entity_ext",
+      "value": [
+        {
+          "key": "rotate_snap",
+          "value": 90
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\sim_entity_ext"
+        },
+        {
+          "key": "transferable",
+          "value": 0
+        },
+        {
+          "key": "kill_paradrop",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 109403
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

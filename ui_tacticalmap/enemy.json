@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "key": "ui_tacticalmap_bag",
+      "value": [
+        {
+          "key": "tacticalmap",
+          "value": [
+            {
+              "key": "border_colour",
+              "value": 16777215
+            },
+            {
+              "key": "line_colour",
+              "value": 0
+            },
+            {
+              "key": "fill_colour",
+              "value": 0
+            },
+            {
+              "key": "thickness",
+              "value": 2
+            },
+            {
+              "key": "fill_flash_colour",
+              "value": 16777215
+            },
+            {
+              "key": "border_flash_colour",
+              "value": 16777215
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 112823
+    }
+  ]
+}

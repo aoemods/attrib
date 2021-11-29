@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "upgrade_cost_wood_modifier"
+    },
+    {
+      "key": "_4",
+      "value": "upgrade_production_speed_modifier"
+    },
+    {
+      "key": "_0",
+      "value": "upgrade_cost_food_modifier"
+    },
+    {
+      "key": "_2",
+      "value": "upgrade_cost_stone_modifier"
+    },
+    {
+      "key": "_1",
+      "value": "upgrade_cost_gold_modifier"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "key": "paint_bag",
+      "value": [
+        {
+          "key": "specular",
+          "value": -11250604
+        },
+        {
+          "key": "gloss",
+          "value": 64
+        },
+        {
+          "key": "diffuse",
+          "value": 13256713
+        },
+        {
+          "key": "availability_tags",
+          "value": [
+          ]
+        },
+        {
+          "key": "inventory_item_categories",
+          "value": [
+          ]
+        },
+        {
+          "key": "ui_specular_modifier",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 177422
+    }
+  ]
+}

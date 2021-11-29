@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 186614
+    },
+    {
+      "key": "distribution",
+      "value": [
+        {
+          "key": "spawn_orientation",
+          "value": 0
+        },
+        {
+          "key": "balanced_distribution",
+          "value": [
+            {
+              "key": "balance_type",
+              "value": "none"
+            },
+            {
+              "key": "relative_weight",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "biome_asset_mapping",
+          "value": "vegetation_low_small_1"
+        },
+        {
+          "key": "spawn_rotation",
+          "value": 2
+        },
+        {
+          "key": "score_map",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\product"
+            },
+            {
+              "key": "inputs",
+              "value": [
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "impass_requirement_reachable"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "weighted_sum",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\weighted_sum"
+                    },
+                    {
+                      "key": "inputs",
+                      "value": [
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\reference"
+                                },
+                                {
+                                  "key": "score_map",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "river_proximity_close_flat_no_water"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "map_gen\\score_map\\score_map"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "weight",
+                              "value": 1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\filter_min_max"
+                                },
+                                {
+                                  "key": "input",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "map_gen\\score_map\\option\\reference"
+                                    },
+                                    {
+                                      "key": "score_map",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "river_proximity_no_water"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "map_gen\\score_map\\score_map"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "max",
+                                  "value": 1
+                                },
+                                {
+                                  "key": "min",
+                                  "value": 0.4
+                                },
+                                {
+                                  "key": "set_values_outside_range_to",
+                                  "value": 0
+                                }
+                              ]
+                            },
+                            {
+                              "key": "weight",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "reference",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "passable_no_crossings"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "spawn_position",
+          "value": 1
+        },
+        {
+          "key": "ignores_global_blocking_regions",
+          "value": true
+        }
+      ]
+    }
+  ]
+}

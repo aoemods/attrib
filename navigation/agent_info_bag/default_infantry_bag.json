@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "key": "standalone_agent_bag",
+      "value": [
+        {
+          "key": "radius_metres",
+          "value": 1
+        },
+        {
+          "key": "agent_info",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_infantry"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "navigation\\agent_info"
+            }
+          ]
+        },
+        {
+          "key": "max_speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 175059
+    }
+  ]
+}

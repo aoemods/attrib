@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 196892
+    },
+    {
+      "key": "trial_map_category",
+      "value": [
+        {
+          "key": "name",
+          "value": 11172071
+        },
+        {
+          "key": "ui_priority",
+          "value": 20
+        },
+        {
+          "key": "visible",
+          "value": true
+        }
+      ]
+    }
+  ]
+}

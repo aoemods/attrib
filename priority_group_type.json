@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "key": "_42",
+      "value": "setUpTradeRoute"
+    },
+    {
+      "key": "_54",
+      "value": "weaponAim"
+    },
+    {
+      "key": "_18",
+      "value": "dropOffRelic"
+    },
+    {
+      "key": "_52",
+      "value": "under_fire_intial_contact"
+    },
+    {
+      "key": "_3",
+      "value": "ambient"
+    },
+    {
+      "key": "_36",
+      "value": "resourceHunt"
+    },
+    {
+      "key": "_48",
+      "value": "target_destroyed"
+    },
+    {
+      "key": "_50",
+      "value": "tradeRouteSet"
+    },
+    {
+      "key": "_17",
+      "value": "dropOffCarcass"
+    },
+    {
+      "key": "_49",
+      "value": "tearDown"
+    },
+    {
+      "key": "_4",
+      "value": "ambient_combat_lines"
+    },
+    {
+      "key": "_7",
+      "value": "attack_battle_chatter"
+    },
+    {
+      "key": "_9",
+      "value": "brace"
+    },
+    {
+      "key": "_16",
+      "value": "depositedRelic"
+    },
+    {
+      "key": "_24",
+      "value": "important"
+    },
+    {
+      "key": "_0",
+      "value": "ability_order"
+    },
+    {
+      "key": "_22",
+      "value": "hitReaction"
+    },
+    {
+      "key": "_8",
+      "value": "attackGMR"
+    },
+    {
+      "key": "_21",
+      "value": "garrison"
+    },
+    {
+      "key": "_13",
+      "value": "death"
+    },
+    {
+      "key": "_45",
+      "value": "stop"
+    },
+    {
+      "key": "_19",
+      "value": "effortExertion"
+    },
+    {
+      "key": "_31",
+      "value": "placePailings"
+    },
+    {
+      "key": "_11",
+      "value": "celebrate"
+    },
+    {
+      "key": "_53",
+      "value": "unit_spawn"
+    },
+    {
+      "key": "_43",
+      "value": "spotting"
+    },
+    {
+      "key": "_35",
+      "value": "resourceGather"
+    },
+    {
+      "key": "_2",
+      "value": "acknowledgeGMR"
+    },
+    {
+      "key": "_47",
+      "value": "swapToStandard"
+    },
+    {
+      "key": "_20",
+      "value": "engage"
+    },
+    {
+      "key": "_41",
+      "value": "setUp"
+    },
+    {
+      "key": "_37",
+      "value": "resourceMine"
+    },
+    {
+      "key": "_46",
+      "value": "swapToIncendary"
+    },
+    {
+      "key": "_34",
+      "value": "resourceFish"
+    },
+    {
+      "key": "_29",
+      "value": "pickUpCarcass"
+    },
+    {
+      "key": "_38",
+      "value": "resourceWood"
+    },
+    {
+      "key": "_30",
+      "value": "pickUpRelic"
+    },
+    {
+      "key": "_27",
+      "value": "pickedUp"
+    },
+    {
+      "key": "_15",
+      "value": "depositedBounty"
+    },
+    {
+      "key": "_28",
+      "value": "pickupBounty"
+    },
+    {
+      "key": "_51",
+      "value": "unarmVillager"
+    },
+    {
+      "key": "_23",
+      "value": "idle"
+    },
+    {
+      "key": "_14",
+      "value": "depositBounty"
+    },
+    {
+      "key": "_25",
+      "value": "move"
+    },
+    {
+      "key": "_39",
+      "value": "select"
+    },
+    {
+      "key": "_12",
+      "value": "charge"
+    },
+    {
+      "key": "_6",
+      "value": "attack"
+    },
+    {
+      "key": "_1",
+      "value": "acknowledge"
+    },
+    {
+      "key": "_32",
+      "value": "reactHelp"
+    },
+    {
+      "key": "_44",
+      "value": "stance"
+    },
+    {
+      "key": "_40",
+      "value": "selectGMR"
+    },
+    {
+      "key": "_55",
+      "value": "weaponFire"
+    },
+    {
+      "key": "_33",
+      "value": "resourceFarm"
+    },
+    {
+      "key": "_5",
+      "value": "armVillager"
+    },
+    {
+      "key": "_26",
+      "value": "moveGMR"
+    },
+    {
+      "key": "_10",
+      "value": "build"
+    }
+  ]
+}

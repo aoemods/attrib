@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\upgrades\\siege_wrapping"
+        },
+        {
+          "key": "description",
+          "value": 11196572
+        },
+        {
+          "key": "title",
+          "value": 11196571
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1266690
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

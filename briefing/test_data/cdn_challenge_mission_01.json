@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 180512
+    },
+    {
+      "key": "briefing_bag",
+      "value": [
+        {
+          "key": "campaign_map_scenario",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "cdn_challenge_mission_01"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "campaign_map_scenario"
+            }
+          ]
+        },
+        {
+          "key": "background",
+          "value": "pack://application:,,,/images/backgrounds/campaign/hastings_background_placeholder.png"
+        },
+        {
+          "key": "load_tips",
+          "value": [
+            {
+              "key": "load_tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hunting_vs_farming"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "rewards",
+          "value": [
+          ]
+        },
+        {
+          "key": "highlight",
+          "value": [
+            {
+              "key": "preview_ebpname",
+              "value": ""
+            },
+            {
+              "key": "frontend_ebp_size",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "messages",
+          "value": [
+          ]
+        },
+        {
+          "key": "optional_briefings",
+          "value": [
+          ]
+        },
+        {
+          "key": "objectives",
+          "value": [
+            {
+              "key": "objective",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "cdn_challenge_mission_01_obj1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "briefing_objective"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "briefing_message_short",
+          "value": 11159677
+        }
+      ]
+    }
+  ]
+}

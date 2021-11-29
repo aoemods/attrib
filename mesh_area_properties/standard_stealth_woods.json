@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 187684
+    },
+    {
+      "key": "mesh_area_properties",
+      "value": [
+        {
+          "key": "max_edge_height_difference",
+          "value": 4
+        },
+        {
+          "key": "max_edge_distance",
+          "value": 15.25
+        },
+        {
+          "key": "generate_cant_build_blockers",
+          "value": false
+        },
+        {
+          "key": "generate_impass",
+          "value": [
+          ]
+        },
+        {
+          "key": "line_of_sight_blocker_height",
+          "value": 500
+        }
+      ]
+    }
+  ]
+}

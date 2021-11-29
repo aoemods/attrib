@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "key": "_18",
+      "value": "Invalid"
+    },
+    {
+      "key": "_3",
+      "value": "BraceTarget"
+    },
+    {
+      "key": "_36",
+      "value": "Visit"
+    },
+    {
+      "key": "_17",
+      "value": "InteractTarget"
+    },
+    {
+      "key": "_4",
+      "value": "ChargeAttackTarget"
+    },
+    {
+      "key": "_7",
+      "value": "CommandTarget"
+    },
+    {
+      "key": "_9",
+      "value": "Construction"
+    },
+    {
+      "key": "_16",
+      "value": "HerdCurrent"
+    },
+    {
+      "key": "_24",
+      "value": "ResourceDropoffFaster"
+    },
+    {
+      "key": "_0",
+      "value": "AbilityTarget"
+    },
+    {
+      "key": "_22",
+      "value": "ResourceDepositSector"
+    },
+    {
+      "key": "_8",
+      "value": "CommittedCombatTarget"
+    },
+    {
+      "key": "_21",
+      "value": "ResourceDeposit"
+    },
+    {
+      "key": "_13",
+      "value": "FleeFrom"
+    },
+    {
+      "key": "_19",
+      "value": "LoadTarget"
+    },
+    {
+      "key": "_31",
+      "value": "TradeHome"
+    },
+    {
+      "key": "_11",
+      "value": "DeployedStructureTarget"
+    },
+    {
+      "key": "_35",
+      "value": "Vehicle"
+    },
+    {
+      "key": "_2",
+      "value": "Attention"
+    },
+    {
+      "key": "_20",
+      "value": "MoveTarget"
+    },
+    {
+      "key": "_37",
+      "value": "VisitCurrent"
+    },
+    {
+      "key": "_34",
+      "value": "UnloadSquadTarget"
+    },
+    {
+      "key": "_29",
+      "value": "Seek"
+    },
+    {
+      "key": "_30",
+      "value": "SeekCurrent"
+    },
+    {
+      "key": "_27",
+      "value": "Rider2"
+    },
+    {
+      "key": "_15",
+      "value": "Herd"
+    },
+    {
+      "key": "_28",
+      "value": "Rider3"
+    },
+    {
+      "key": "_23",
+      "value": "ResourceDropoff"
+    },
+    {
+      "key": "_14",
+      "value": "FleeReturn"
+    },
+    {
+      "key": "_25",
+      "value": "Rider0"
+    },
+    {
+      "key": "_12",
+      "value": "DriverTarget"
+    },
+    {
+      "key": "_6",
+      "value": "CombatTarget"
+    },
+    {
+      "key": "_1",
+      "value": "Attach"
+    },
+    {
+      "key": "_32",
+      "value": "TradePartner"
+    },
+    {
+      "key": "_33",
+      "value": "UnloadDestinationTarget"
+    },
+    {
+      "key": "_5",
+      "value": "ChargeMoveTarget"
+    },
+    {
+      "key": "_26",
+      "value": "Rider1"
+    },
+    {
+      "key": "_10",
+      "value": "CreatorTarget"
+    }
+  ]
+}

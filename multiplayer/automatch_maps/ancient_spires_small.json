@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "key": "automatch_map_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11195607
+        },
+        {
+          "key": "available_modes",
+          "value": [
+          ]
+        },
+        {
+          "key": "scenario",
+          "value": [
+            {
+              "key": "generated_scenario",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "scen_ancient_spires_small"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_scenario"
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "multiplayer\\mp_map_generated_scenario"
+            }
+          ]
+        },
+        {
+          "key": "teaser_image",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 230106
+    }
+  ]
+}

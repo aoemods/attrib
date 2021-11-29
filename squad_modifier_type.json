@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "key": "_18",
+      "value": "squad_gather_rate_stone_modifier"
+    },
+    {
+      "key": "_3",
+      "value": "driver_death_chance"
+    },
+    {
+      "key": "_17",
+      "value": "squad_gather_rate_gold_modifier"
+    },
+    {
+      "key": "_4",
+      "value": "reaction_enabled_squad_modifier"
+    },
+    {
+      "key": "_7",
+      "value": "shared_veterancy_multiplier_squad_modifier"
+    },
+    {
+      "key": "_9",
+      "value": "squad_ability_ui_combine_priority_modifier"
+    },
+    {
+      "key": "_16",
+      "value": "squad_gather_rate_food_modifier"
+    },
+    {
+      "key": "_24",
+      "value": "squad_resource_carry_capacity_modifier"
+    },
+    {
+      "key": "_0",
+      "value": "capture_enable_squad_modifier"
+    },
+    {
+      "key": "_22",
+      "value": "squad_invisible_on_mini_map_enabled"
+    },
+    {
+      "key": "_8",
+      "value": "squad_ability_recharge_time_modifier"
+    },
+    {
+      "key": "_21",
+      "value": "squad_health_regeneration_modifier"
+    },
+    {
+      "key": "_13",
+      "value": "squad_charge_min_range_modifier"
+    },
+    {
+      "key": "_19",
+      "value": "squad_gather_rate_wood_modifier"
+    },
+    {
+      "key": "_31",
+      "value": "total_amount_of_resources_gold_modifier"
+    },
+    {
+      "key": "_11",
+      "value": "squad_charge_cooldown_modifier"
+    },
+    {
+      "key": "_2",
+      "value": "capture_revert_rate_squad_modifier"
+    },
+    {
+      "key": "_20",
+      "value": "squad_health_maximum_modifier"
+    },
+    {
+      "key": "_29",
+      "value": "target_priority_squad_modifier"
+    },
+    {
+      "key": "_30",
+      "value": "total_amount_of_resources_food_modifier"
+    },
+    {
+      "key": "_27",
+      "value": "squad_slotitem_capacity"
+    },
+    {
+      "key": "_15",
+      "value": "squad_enable_secure_modifier"
+    },
+    {
+      "key": "_28",
+      "value": "squad_weapon_accuracy_vs_retreating"
+    },
+    {
+      "key": "_23",
+      "value": "squad_reinforce_time"
+    },
+    {
+      "key": "_14",
+      "value": "squad_enable_passive_charge"
+    },
+    {
+      "key": "_25",
+      "value": "squad_resource_income_action_modifier"
+    },
+    {
+      "key": "_12",
+      "value": "squad_charge_max_range_modifier"
+    },
+    {
+      "key": "_6",
+      "value": "received_veterancy_squad_modifier"
+    },
+    {
+      "key": "_1",
+      "value": "capture_rate_squad_modifier"
+    },
+    {
+      "key": "_32",
+      "value": "total_amount_of_resources_stone_modifier"
+    },
+    {
+      "key": "_33",
+      "value": "total_amount_of_resources_wood_modifier"
+    },
+    {
+      "key": "_5",
+      "value": "received_suppression_squad_modifier"
+    },
+    {
+      "key": "_26",
+      "value": "squad_size_change_modifier"
+    },
+    {
+      "key": "_10",
+      "value": "squad_build_time_modifier"
+    }
+  ]
+}

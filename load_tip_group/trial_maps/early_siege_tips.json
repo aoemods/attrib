@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "key": "load_tip_group_bag",
+      "value": [
+        {
+          "key": "tips",
+          "value": [
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ram_garrison"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "siege_engineering"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ovoo"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            },
+            {
+              "key": "tip",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "mangonels"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "load_tips"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "load_tip_group_type",
+          "value": "standard"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2032996
+    }
+  ]
+}

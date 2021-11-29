@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\upgrades\\siege_engineers"
+        },
+        {
+          "key": "description",
+          "value": 11196575
+        },
+        {
+          "key": "title",
+          "value": 11196576
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1266785
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

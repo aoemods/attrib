@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "key": "menu_bag",
+      "value": [
+        {
+          "key": "ui_position",
+          "value": [
+            {
+              "key": "ui_position_column",
+              "value": 3
+            },
+            {
+              "key": "ui_position_row",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "behaviour",
+          "value": [
+            {
+              "key": "back",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "back"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "menu"
+                }
+              ]
+            },
+            {
+              "key": "auto_exit",
+              "value": true
+            },
+            {
+              "key": "$REF",
+              "value": "options\\menu\\nest"
+            }
+          ]
+        },
+        {
+          "key": "hotkey_group",
+          "value": ""
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_info"
+        },
+        {
+          "key": "icon_name",
+          "value": ""
+        },
+        {
+          "key": "help_text",
+          "value": 11149178
+        },
+        {
+          "key": "hotkey_name",
+          "value": ""
+        },
+        {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
+          "key": "requirements",
+          "value": [
+          ]
+        },
+        {
+          "key": "screen_name",
+          "value": 11143402
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 129104
+    }
+  ]
+}

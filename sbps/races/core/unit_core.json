@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "key": "squad_capture_strategic_point_ext",
+      "value": [
+        {
+          "key": "capture_rate_multiplier",
+          "value": 0
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_capture_strategic_point_ext"
+        },
+        {
+          "key": "revert_rate_multiplier",
+          "value": 1
+        },
+        {
+          "key": "capture_distance",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "key": "squad_blueprint_ext",
+      "value": [
+        {
+          "key": "browsable_in_editor",
+          "value": true
+        },
+        {
+          "key": "QueryTree_States",
+          "value": [
+            {
+              "key": "squad_state_move",
+              "value": "unit_squad_query\\Move"
+            },
+            {
+              "key": "squad_state_gather_stone",
+              "value": "unit_squad_query\\GatherStone"
+            },
+            {
+              "key": "squad_state_retreat",
+              "value": ""
+            },
+            {
+              "key": "squad_state_gather_gold",
+              "value": "unit_squad_query\\GatherGold"
+            },
+            {
+              "key": "squad_state_evacuate",
+              "value": "unit_squad_query\\Evacuating"
+            },
+            {
+              "key": "squad_state_gather_wood",
+              "value": "unit_squad_query\\GatherWood"
+            },
+            {
+              "key": "squad_state_truly_idle",
+              "value": "unit_squad_query\\TrulyIdle"
+            },
+            {
+              "key": "squad_state_ability",
+              "value": ""
+            },
+            {
+              "key": "squad_state_gather_food",
+              "value": "unit_squad_query\\GatherFood"
+            },
+            {
+              "key": "squad_state_attack_move",
+              "value": "unit_squad_query\\AttackMove"
+            },
+            {
+              "key": "squad_state_idle_villager",
+              "value": "unit_squad_query\\IdleVillager"
+            },
+            {
+              "key": "squad_state_gather",
+              "value": "unit_squad_query\\Gather"
+            },
+            {
+              "key": "squad_state_idle",
+              "value": "unit_squad_query\\Idle"
+            },
+            {
+              "key": "squad_state_attack",
+              "value": "unit_squad_query\\Attack"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_blueprint_ext"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 135497
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "squad_command_forwarding_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_command_forwarding_ext"
+        },
+        {
+          "key": "default_command_weight",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "default_command_weight"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

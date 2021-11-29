@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": 11195138
+    },
+    {
+      "key": "enable",
+      "value": true
+    },
+    {
+      "key": "icon",
+      "value": "fe\\mastery_incomplete_ftue"
+    },
+    {
+      "key": "telemetryPrefix",
+      "value": "Training"
+    },
+    {
+      "key": "group_type",
+      "value": [
+        {
+          "key": "initial_challenge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mastery_ftue_training_01"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "challenges\\group_types\\path"
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "value": 1472244
+    },
+    {
+      "key": "ui_tags",
+      "value": [
+        {
+          "key": "pinned",
+          "value": true
+        },
+        {
+          "key": "unpins_activity_feed_item",
+          "value": true
+        },
+        {
+          "key": "home",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "image",
+      "value": "backgrounds\\mastery_flags\\flag_ftue"
+    },
+    {
+      "key": "description",
+      "value": 11195139
+    },
+    {
+      "key": "imageSmall",
+      "value": "illustrations\\masteries\\civ_pattern_ftue"
+    },
+    {
+      "key": "icon2",
+      "value": "fe\\mastery_complete_ftue"
+    }
+  ]
+}

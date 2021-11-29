@@ -1,0 +1,1389 @@
+{
+  "data": [
+    {
+      "key": "squad_attention_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_attention_ext"
+        },
+        {
+          "key": "last_seen_reset_delay_secs",
+          "value": 10
+        },
+        {
+          "key": "spot_enemy_activity",
+          "value": true
+        },
+        {
+          "key": "search_radius",
+          "value": 35
+        }
+      ]
+    },
+    {
+      "key": "squad_loadout_ext",
+      "value": [
+        {
+          "key": "unit_list",
+          "value": [
+            {
+              "key": "loadout_data",
+              "value": [
+                {
+                  "key": "num",
+                  "value": 1
+                },
+                {
+                  "key": "is_default_unit",
+                  "value": true
+                },
+                {
+                  "key": "type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "unit_scout_1_hre"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ebps"
+                    }
+                  ]
+                },
+                {
+                  "key": "unit_attachments",
+                  "value": [
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_loadout_ext"
+        },
+        {
+          "key": "squad_female_chance",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "squad_speech_ext",
+      "value": [
+        {
+          "key": "is_idle_battle_chatter_enabled",
+          "value": false
+        },
+        {
+          "key": "squad_speech_parameters",
+          "value": [
+            {
+              "key": "squad_unit_code",
+              "value": "mounted"
+            },
+            {
+              "key": "squad_class_code",
+              "value": "military"
+            },
+            {
+              "key": "squad_name_code",
+              "value": "scout"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_speech_ext"
+        },
+        {
+          "key": "age_mapping",
+          "value": [
+            {
+              "key": "age_number",
+              "value": 1
+            },
+            {
+              "key": "age_number",
+              "value": 2
+            },
+            {
+              "key": "age_number",
+              "value": 3
+            },
+            {
+              "key": "age_number",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "key": "squad_speaker_code",
+          "value": "scout"
+        },
+        {
+          "key": "importance",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "key": "squad_formation_group_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_formation_group_ext"
+        },
+        {
+          "key": "default_formation_group_spot_generator",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "land_box_fill_spot_generator"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "formation_group_spot_generator"
+            }
+          ]
+        },
+        {
+          "key": "desired_protection_level_in_formation",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "squad_ability_ext",
+      "value": [
+        {
+          "key": "abilities",
+          "value": [
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "pickup_carcass"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "scout_drop_off_all_at_entity"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "drop_attached_entity"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "scout_drop_off_herd_at_entity"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "core_unit_death"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "core_formation_line"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "core_formation_spread"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "core_formation_wedge"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "pickup_carcass_no_boar"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "military_neutralize_holy_site"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "inspired_infantry_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_ability_ext"
+        },
+        {
+          "key": "squad_orders",
+          "value": [
+            {
+              "key": "unload_here",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "attack_move",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "pickup_item",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "reverse_move",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "stop",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "retire",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "trade",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "attack_ground",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "prefer_ranged",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "load",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "unload",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "vault",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "hold_fire_on",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "hold_position",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "retreat",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "plant_demolitions",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "cancel_construction",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "hold_fire_off",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "move",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "prefer_melee",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "abandon_team_weapon",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_combine_priority",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "key": "squad_capture_strategic_point_ext",
+      "value": [
+        {
+          "key": "capture_rate_multiplier",
+          "value": 0
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_capture_strategic_point_ext"
+        },
+        {
+          "key": "revert_rate_multiplier",
+          "value": 1
+        },
+        {
+          "key": "capture_distance",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "key": "squad_audio_ext",
+      "value": [
+        {
+          "key": "potential_damage",
+          "value": 0
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_audio_ext"
+        },
+        {
+          "key": "in_fow_distance_to_enemy_rtpc_enabled",
+          "value": true
+        },
+        {
+          "key": "kill_streak_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "sound_banks",
+          "value": [
+          ]
+        },
+        {
+          "key": "unit_type",
+          "value": ""
+        },
+        {
+          "key": "rtpc_events",
+          "value": [
+          ]
+        },
+        {
+          "key": "death_event_type",
+          "value": ""
+        },
+        {
+          "key": "music_importance",
+          "value": 5
+        },
+        {
+          "key": "initial_spawn_event_type",
+          "value": ""
+        },
+        {
+          "key": "importance",
+          "value": 5
+        },
+        {
+          "key": "is_dynamic_audio_object",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "squad_blueprint_ext",
+      "value": [
+        {
+          "key": "browsable_in_editor",
+          "value": true
+        },
+        {
+          "key": "QueryTree_States",
+          "value": [
+            {
+              "key": "squad_state_move",
+              "value": "unit_squad_query\\Move"
+            },
+            {
+              "key": "squad_state_gather_stone",
+              "value": "unit_squad_query\\GatherStone"
+            },
+            {
+              "key": "squad_state_retreat",
+              "value": ""
+            },
+            {
+              "key": "squad_state_gather_gold",
+              "value": "unit_squad_query\\GatherGold"
+            },
+            {
+              "key": "squad_state_evacuate",
+              "value": "unit_squad_query\\Evacuating"
+            },
+            {
+              "key": "squad_state_gather_wood",
+              "value": "unit_squad_query\\GatherWood"
+            },
+            {
+              "key": "squad_state_truly_idle",
+              "value": "unit_squad_query\\TrulyIdle"
+            },
+            {
+              "key": "squad_state_ability",
+              "value": ""
+            },
+            {
+              "key": "squad_state_gather_food",
+              "value": "unit_squad_query\\GatherFood"
+            },
+            {
+              "key": "squad_state_attack_move",
+              "value": "unit_squad_query\\AttackMove"
+            },
+            {
+              "key": "squad_state_idle_villager",
+              "value": "unit_squad_query\\IdleVillager"
+            },
+            {
+              "key": "squad_state_gather",
+              "value": "unit_squad_query\\Gather"
+            },
+            {
+              "key": "squad_state_idle",
+              "value": "unit_squad_query\\Idle"
+            },
+            {
+              "key": "squad_state_attack",
+              "value": "unit_squad_query\\Attack"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_blueprint_ext"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 134737
+    },
+    {
+      "key": "squad_combat_behaviour_ext",
+      "value": [
+        {
+          "key": "reveal_defender_time",
+          "value": 0
+        },
+        {
+          "key": "heavy_weapon_setup_delay",
+          "value": 999
+        },
+        {
+          "key": "can_be_tied_up",
+          "value": false
+        },
+        {
+          "key": "accept_move_commands_while_combat",
+          "value": false
+        },
+        {
+          "key": "reveal_defender_time_use",
+          "value": false
+        },
+        {
+          "key": "reveal_self_attacker_time",
+          "value": 0
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_combat_behaviour_ext"
+        },
+        {
+          "key": "suppression",
+          "value": [
+            {
+              "key": "pin_down_activate_threshold",
+              "value": 0.6
+            },
+            {
+              "key": "noncombat_recover_multiplier",
+              "value": 50
+            },
+            {
+              "key": "recover_rate",
+              "value": 0.008
+            },
+            {
+              "key": "suppressed_activate_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "noncombat_delay",
+              "value": 7
+            },
+            {
+              "key": "cover_info",
+              "value": [
+                {
+                  "key": "plain",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "forest",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "hill",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "mountain",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "tp_defcover",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "water",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "suppression_cover_info"
+                    },
+                    {
+                      "key": "recover_multiplier",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "suppressed_recover_threshold",
+              "value": 0.15
+            },
+            {
+              "key": "suppressed_activate_threshold",
+              "value": 0.2
+            },
+            {
+              "key": "pin_down_recover_threshold",
+              "value": 0.5
+            },
+            {
+              "key": "pin_down_activate_action_tree",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "can_be_suppressed",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "charge_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "reaction_combat_delay_seconds",
+          "value": 30
+        },
+        {
+          "key": "reveal_self_attacker_time_use",
+          "value": false
+        },
+        {
+          "key": "range_reticule",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "reaction_delay_seconds",
+          "value": 25
+        },
+        {
+          "key": "can_recrew_abandoned_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\sbpextensions\\squad_combat_behaviour_ext\\can_recrew_abandoned"
+            },
+            {
+              "key": "is_mobile_driver_option",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "options\\none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ranged_weapons_prefer_single_squad_target",
+          "value": true
+        }
+      ]
+    },
+    {
+      "key": "squad_modifier_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_modifier_ext"
+        }
+      ]
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "unit_scout_1"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "sbps"
+        }
+      ]
+    },
+    {
+      "key": "squad_command_forwarding_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_command_forwarding_ext"
+        },
+        {
+          "key": "default_command_weight",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "default_command_weight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "squad_statemodel_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_statemodel_ext"
+        },
+        {
+          "key": "schema",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "scout"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "statemodel_schema"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "squad_type_ext",
+      "value": [
+        {
+          "key": "squad_race_type_list",
+          "value": [
+            {
+              "key": "squad_race_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "racebps"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_type_ext"
+        },
+        {
+          "key": "squad_type_list",
+          "value": [
+            {
+              "key": "squad_type",
+              "value": "military"
+            },
+            {
+              "key": "squad_type",
+              "value": "cavalry"
+            },
+            {
+              "key": "squad_type",
+              "value": "scar_age1"
+            },
+            {
+              "key": "squad_type",
+              "value": "scar_scout"
+            },
+            {
+              "key": "squad_type",
+              "value": "scout"
+            },
+            {
+              "key": "squad_type",
+              "value": "can_be_converted"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "squad_requirement_ext",
+      "value": [
+        {
+          "key": "requirement_table",
+          "value": [
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_requirement_ext"
+        },
+        {
+          "key": "requirement_statetree",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "squad_ui_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_ui_ext"
+        },
+        {
+          "key": "race_list",
+          "value": [
+            {
+              "key": "race_data",
+              "value": [
+                {
+                  "key": "info",
+                  "value": [
+                    {
+                      "key": "debug_text",
+                      "value": ""
+                    },
+                    {
+                      "key": "minimap_texture_scale",
+                      "value": 1
+                    },
+                    {
+                      "key": "screen_name_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "decorator_visibility",
+                      "value": 3
+                    },
+                    {
+                      "key": "screen_name_short_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "ui_decorator",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "reveal_for_decryption",
+                      "value": true
+                    },
+                    {
+                      "key": "selection_datatemplate",
+                      "value": "MilitaryUnitSelectionDataTemplate"
+                    },
+                    {
+                      "key": "selection_group",
+                      "value": "scout"
+                    },
+                    {
+                      "key": "use_random_entity_speaker",
+                      "value": false
+                    },
+                    {
+                      "key": "respawn_progress",
+                      "value": ""
+                    },
+                    {
+                      "key": "hide_ucs",
+                      "value": false
+                    },
+                    {
+                      "key": "ui_codex_info",
+                      "value": [
+                        {
+                          "key": "ui_position",
+                          "value": [
+                            {
+                              "key": "ui_position_column",
+                              "value": -1
+                            },
+                            {
+                              "key": "ui_position_row",
+                              "value": -1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "exclusive",
+                          "value": false
+                        },
+                        {
+                          "key": "priority",
+                          "value": 5900
+                        }
+                      ]
+                    },
+                    {
+                      "key": "show_production",
+                      "value": true
+                    },
+                    {
+                      "key": "portrait_name",
+                      "value": ""
+                    },
+                    {
+                      "key": "respawn_unit_class",
+                      "value": ""
+                    },
+                    {
+                      "key": "brief_text_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "extra_text",
+                      "value": 11141781
+                    },
+                    {
+                      "key": "sound",
+                      "value": "sfx_ui_produce_unit_click"
+                    },
+                    {
+                      "key": "symbol_icon_name",
+                      "value": ""
+                    },
+                    {
+                      "key": "minimap_texture",
+                      "value": ""
+                    },
+                    {
+                      "key": "icon_name",
+                      "value": "races\\common\\units\\scout"
+                    },
+                    {
+                      "key": "minimap_team_only",
+                      "value": false
+                    },
+                    {
+                      "key": "map_layer",
+                      "value": -1
+                    },
+                    {
+                      "key": "is_unique_to_race",
+                      "value": false
+                    },
+                    {
+                      "key": "ui_combine_type",
+                      "value": "intersection"
+                    },
+                    {
+                      "key": "help_text",
+                      "value": 11141785
+                    },
+                    {
+                      "key": "extra_icon",
+                      "value": ""
+                    },
+                    {
+                      "key": "hotkey_name",
+                      "value": "A"
+                    },
+                    {
+                      "key": "show_in_build_log",
+                      "value": true
+                    },
+                    {
+                      "key": "sound_alternative",
+                      "value": ""
+                    },
+                    {
+                      "key": "tooltip_data_template",
+                      "value": "BuildingMilitaryDataTemplate"
+                    },
+                    {
+                      "key": "respawn_time",
+                      "value": ""
+                    },
+                    {
+                      "key": "help_text_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "is_respawnable",
+                      "value": false
+                    },
+                    {
+                      "key": "map_rotation_type_override",
+                      "value": "no_override"
+                    },
+                    {
+                      "key": "extra_text_formatter",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "stats_info",
+                      "value": [
+                        {
+                          "key": "include_in_lifespan_stat",
+                          "value": true
+                        }
+                      ]
+                    },
+                    {
+                      "key": "decorator_data_template",
+                      "value": ""
+                    },
+                    {
+                      "key": "is_unique",
+                      "value": false
+                    },
+                    {
+                      "key": "flag_icon_override",
+                      "value": ""
+                    },
+                    {
+                      "key": "respawn_location",
+                      "value": ""
+                    },
+                    {
+                      "key": "screen_name",
+                      "value": 11141780
+                    },
+                    {
+                      "key": "decorator_show_reload_progress",
+                      "value": false
+                    },
+                    {
+                      "key": "global_unit_control_row",
+                      "value": 1
+                    },
+                    {
+                      "key": "respawn_datatemplate",
+                      "value": ""
+                    },
+                    {
+                      "key": "modal_ability",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "allow_spawner_production",
+                      "value": false
+                    },
+                    {
+                      "key": "decorator",
+                      "value": "CardinalSquad"
+                    },
+                    {
+                      "key": "map_mark",
+                      "value": "Squad"
+                    },
+                    {
+                      "key": "ui_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "cover_level_icon_postfix",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "ext_key",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "squad_holdable_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "sbpextensions\\squad_holdable_ext"
+        },
+        {
+          "key": "modifier_table",
+          "value": [
+          ]
+        },
+        {
+          "key": "hold_target_requirement",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": 11192730
+    },
+    {
+      "key": "enable",
+      "value": true
+    },
+    {
+      "key": "icon",
+      "value": "fe\\mastery_incomplete_abbasid"
+    },
+    {
+      "key": "telemetryPrefix",
+      "value": "Abbasid"
+    },
+    {
+      "key": "group_type",
+      "value": [
+        {
+          "key": "initial_challenge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mastery_abbasid_01"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "challenges\\group_types\\path"
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "value": 1470816
+    },
+    {
+      "key": "ui_tags",
+      "value": [
+        {
+          "key": "pinned",
+          "value": false
+        },
+        {
+          "key": "unpins_activity_feed_item",
+          "value": false
+        },
+        {
+          "key": "home",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "image",
+      "value": "backgrounds\\mastery_flags\\flag_abbasid"
+    },
+    {
+      "key": "description",
+      "value": 11192731
+    },
+    {
+      "key": "imageSmall",
+      "value": "illustrations\\masteries\\civ_pattern_abbasid"
+    },
+    {
+      "key": "icon2",
+      "value": "fe\\mastery_complete_abbasid"
+    }
+  ]
+}

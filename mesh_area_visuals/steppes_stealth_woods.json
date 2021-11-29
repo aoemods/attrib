@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "key": "mesh_area_visuals",
+      "value": [
+        {
+          "key": "ground_tile_tint",
+          "value": -1
+        },
+        {
+          "key": "ground_tile_edge_softness",
+          "value": 1
+        },
+        {
+          "key": "ground_tile",
+          "value": "biome_temperate_deciduous\\detritus\\detritus_forestbed_a_mix_loose"
+        },
+        {
+          "key": "ground_tile_orientation",
+          "value": 0
+        },
+        {
+          "key": "ground_tile_scale_U",
+          "value": 1.5
+        },
+        {
+          "key": "grass_type",
+          "value": "grass_tall_stealth_desert_a"
+        },
+        {
+          "key": "ground_tile_scale_V",
+          "value": 1.5
+        },
+        {
+          "key": "visual_objects",
+          "value": [
+            {
+              "key": "visual_object",
+              "value": [
+                {
+                  "key": "random_placement_area",
+                  "value": 0.25
+                },
+                {
+                  "key": "placement",
+                  "value": 0
+                },
+                {
+                  "key": "visual_object",
+                  "value": "art\\environment\\biome_temperate_deciduous\\plants\\dead_stump\\dead_stump"
+                },
+                {
+                  "key": "selection_weight",
+                  "value": 1
+                },
+                {
+                  "key": "min_area_to_place_visual",
+                  "value": 2.5
+                }
+              ]
+            },
+            {
+              "key": "visual_object",
+              "value": [
+                {
+                  "key": "random_placement_area",
+                  "value": 0.4
+                },
+                {
+                  "key": "placement",
+                  "value": 1
+                },
+                {
+                  "key": "visual_object",
+                  "value": "art\\environment\\biome_tropical_dry\\plants\\bramble_stumpy_dry\\bramble_stumpy_dry"
+                },
+                {
+                  "key": "selection_weight",
+                  "value": 0.75
+                },
+                {
+                  "key": "min_area_to_place_visual",
+                  "value": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ground_tile_edge_fade_treshold",
+          "value": 0.5
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 190110
+    }
+  ]
+}

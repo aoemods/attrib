@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "key": "menu_bag",
+      "value": [
+        {
+          "key": "ui_position",
+          "value": [
+            {
+              "key": "ui_position_column",
+              "value": 3
+            },
+            {
+              "key": "ui_position_row",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "behaviour",
+          "value": [
+            {
+              "key": "auto_exit",
+              "value": true
+            },
+            {
+              "key": "columns",
+              "value": 1
+            },
+            {
+              "key": "$REF",
+              "value": "options\\menu\\inline"
+            },
+            {
+              "key": "rows",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "key": "hotkey_group",
+          "value": ""
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_info"
+        },
+        {
+          "key": "icon_name",
+          "value": ""
+        },
+        {
+          "key": "hotkey_name",
+          "value": ""
+        },
+        {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
+          "key": "requirements",
+          "value": [
+          ]
+        },
+        {
+          "key": "screen_name",
+          "value": 11152395
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 168356
+    }
+  ]
+}

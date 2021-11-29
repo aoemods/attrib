@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "key": "achievement_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11196498
+        },
+        {
+          "key": "xbox_achievement_id",
+          "value": "8"
+        },
+        {
+          "key": "prerequisite_tasks",
+          "value": [
+          ]
+        },
+        {
+          "key": "icon",
+          "value": "achievements\\campaign_age_of_empires_iv"
+        },
+        {
+          "key": "challenge_definition_id",
+          "value": -1
+        },
+        {
+          "key": "prerequisite_achievements",
+          "value": [
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a004_cpg_complete_norman"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            },
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a005_cpg_complete_hundred"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            },
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a006_cpg_complete_mongol"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            },
+            {
+              "key": "sub_achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "a007_cpg_complete_moscow"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "achievement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "steam_achievement_id",
+          "value": "A008_"
+        },
+        {
+          "key": "reward_xp",
+          "value": 0
+        },
+        {
+          "key": "hidden",
+          "value": false
+        },
+        {
+          "key": "type",
+          "value": 2
+        },
+        {
+          "key": "description",
+          "value": 11196499
+        },
+        {
+          "key": "item_bundle",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1246828
+    }
+  ]
+}

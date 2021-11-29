@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 180745
+    },
+    {
+      "key": "presence_bag",
+      "value": [
+        {
+          "key": "loc_string",
+          "value": 11159797
+        },
+        {
+          "key": "id",
+          "value": 1409821
+        },
+        {
+          "key": "ui_tag",
+          "value": "quick_play_searching"
+        }
+      ]
+    }
+  ]
+}

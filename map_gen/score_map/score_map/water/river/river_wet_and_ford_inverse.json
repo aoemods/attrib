@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "key": "score_map",
+      "value": [
+        {
+          "key": "score_map_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\flip_min_max"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\filter_min_max"
+                },
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\filter_min_max"
+                    },
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\normalize"
+                        },
+                        {
+                          "key": "input",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\reference"
+                            },
+                            {
+                              "key": "score_map",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "river_wet_and_ford"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "map_gen\\score_map\\score_map"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "max",
+                          "value": 1
+                        },
+                        {
+                          "key": "min",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "max",
+                      "value": 0.19
+                    },
+                    {
+                      "key": "min",
+                      "value": -0.01
+                    },
+                    {
+                      "key": "set_values_outside_range_to",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "max",
+                  "value": 1.01
+                },
+                {
+                  "key": "min",
+                  "value": 0.2
+                },
+                {
+                  "key": "set_values_outside_range_to",
+                  "value": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 174243
+    }
+  ]
+}

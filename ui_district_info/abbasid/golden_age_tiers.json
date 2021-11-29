@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "key": "ui_district_info_bag",
+      "value": [
+        {
+          "key": "display_name",
+          "value": 11183531
+        },
+        {
+          "key": "tiers",
+          "value": [
+            {
+              "key": "tier_info",
+              "value": [
+                {
+                  "key": "hide_in_ui",
+                  "value": true
+                },
+                {
+                  "key": "tier_data",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "golden_age_tier_00"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ui_district_tier_data"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "tier_info",
+              "value": [
+                {
+                  "key": "hide_in_ui",
+                  "value": false
+                },
+                {
+                  "key": "tier_data",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "golden_age_tier_01"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ui_district_tier_data"
+                    }
+                  ]
+                },
+                {
+                  "key": "description",
+                  "value": 11184077
+                }
+              ]
+            },
+            {
+              "key": "tier_info",
+              "value": [
+                {
+                  "key": "hide_in_ui",
+                  "value": false
+                },
+                {
+                  "key": "tier_data",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "golden_age_tier_02"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ui_district_tier_data"
+                    }
+                  ]
+                },
+                {
+                  "key": "description",
+                  "value": 11184078
+                }
+              ]
+            },
+            {
+              "key": "tier_info",
+              "value": [
+                {
+                  "key": "hide_in_ui",
+                  "value": false
+                },
+                {
+                  "key": "tier_data",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "golden_age_tier_03"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "ui_district_tier_data"
+                    }
+                  ]
+                },
+                {
+                  "key": "description",
+                  "value": 11184079
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 201199
+    }
+  ]
+}

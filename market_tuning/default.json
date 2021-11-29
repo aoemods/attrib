@@ -1,0 +1,586 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 127300
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "key": "market_tuning_bag",
+      "value": [
+        {
+          "key": "rate_normalization",
+          "value": [
+            {
+              "key": "normalization_interval",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 30
+                },
+                {
+                  "key": "action",
+                  "value": 30
+                },
+                {
+                  "key": "gold",
+                  "value": 30
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 30
+                },
+                {
+                  "key": "popcap",
+                  "value": 30
+                },
+                {
+                  "key": "stone",
+                  "value": 30
+                },
+                {
+                  "key": "command",
+                  "value": 30
+                },
+                {
+                  "key": "wood",
+                  "value": 30
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "starting_rates",
+          "value": [
+            {
+              "key": "buying_rates",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 130
+                },
+                {
+                  "key": "action",
+                  "value": 0
+                },
+                {
+                  "key": "gold",
+                  "value": 0
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 130
+                },
+                {
+                  "key": "popcap",
+                  "value": 0
+                },
+                {
+                  "key": "stone",
+                  "value": 170
+                },
+                {
+                  "key": "command",
+                  "value": 0
+                },
+                {
+                  "key": "wood",
+                  "value": 130
+                }
+              ]
+            },
+            {
+              "key": "selling_rates",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 70
+                },
+                {
+                  "key": "action",
+                  "value": 0
+                },
+                {
+                  "key": "gold",
+                  "value": 0
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 70
+                },
+                {
+                  "key": "popcap",
+                  "value": 0
+                },
+                {
+                  "key": "stone",
+                  "value": 90
+                },
+                {
+                  "key": "command",
+                  "value": 0
+                },
+                {
+                  "key": "wood",
+                  "value": 70
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "rate_limits",
+          "value": [
+            {
+              "key": "maximum_cost",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 1000
+                },
+                {
+                  "key": "action",
+                  "value": 0
+                },
+                {
+                  "key": "gold",
+                  "value": 1000
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 1000
+                },
+                {
+                  "key": "popcap",
+                  "value": 1000
+                },
+                {
+                  "key": "stone",
+                  "value": 1000
+                },
+                {
+                  "key": "command",
+                  "value": 0
+                },
+                {
+                  "key": "wood",
+                  "value": 1000
+                }
+              ]
+            },
+            {
+              "key": "minimum_value",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 10
+                },
+                {
+                  "key": "action",
+                  "value": 1
+                },
+                {
+                  "key": "gold",
+                  "value": 1
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 1
+                },
+                {
+                  "key": "popcap",
+                  "value": 1
+                },
+                {
+                  "key": "stone",
+                  "value": 32
+                },
+                {
+                  "key": "command",
+                  "value": 1
+                },
+                {
+                  "key": "wood",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "key": "minimum_cost",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 14
+                },
+                {
+                  "key": "action",
+                  "value": 1
+                },
+                {
+                  "key": "gold",
+                  "value": 1
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 1
+                },
+                {
+                  "key": "popcap",
+                  "value": 1
+                },
+                {
+                  "key": "stone",
+                  "value": 58
+                },
+                {
+                  "key": "command",
+                  "value": 1
+                },
+                {
+                  "key": "wood",
+                  "value": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "rate_bonuses",
+          "value": [
+            {
+              "key": "maximum_buy_rate_bonus",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 200
+                },
+                {
+                  "key": "action",
+                  "value": 1
+                },
+                {
+                  "key": "gold",
+                  "value": 200
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 1
+                },
+                {
+                  "key": "popcap",
+                  "value": 1
+                },
+                {
+                  "key": "stone",
+                  "value": 200
+                },
+                {
+                  "key": "command",
+                  "value": 1
+                },
+                {
+                  "key": "wood",
+                  "value": 200
+                }
+              ]
+            },
+            {
+              "key": "maximum_sell_rate_bonus",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 200
+                },
+                {
+                  "key": "action",
+                  "value": 1
+                },
+                {
+                  "key": "gold",
+                  "value": 200
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 1
+                },
+                {
+                  "key": "popcap",
+                  "value": 1
+                },
+                {
+                  "key": "stone",
+                  "value": 200
+                },
+                {
+                  "key": "command",
+                  "value": 1
+                },
+                {
+                  "key": "wood",
+                  "value": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "statetree_entity_target_types",
+          "value": [
+            {
+              "key": "producer",
+              "value": [
+                {
+                  "key": "trade_home",
+                  "value": "TRADE_HOME"
+                },
+                {
+                  "key": "trade_partner",
+                  "value": "TRADE_PARTNER"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "trade_cooldown",
+          "value": [
+            {
+              "key": "seconds_per_cooldown_bonus",
+              "value": 0
+            },
+            {
+              "key": "minimum_cooldown",
+              "value": 0
+            },
+            {
+              "key": "starting_cooldown",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "modifiers",
+          "value": [
+            {
+              "key": "max_trade_charges_per_player_modifier",
+              "value": "max_trade_charges_per_player_modifier"
+            },
+            {
+              "key": "max_trade_charges_per_settlement",
+              "value": "max_trade_charges_per_settlement_modifier"
+            },
+            {
+              "key": "trade_cooldown_modifier",
+              "value": "trade_cooldown_modifier"
+            }
+          ]
+        },
+        {
+          "key": "currency_resource",
+          "value": "gold"
+        },
+        {
+          "key": "rate_adjustments",
+          "value": [
+            {
+              "key": "value_decrease_on_sell",
+              "value": 2
+            },
+            {
+              "key": "cost_decrease_on_sell",
+              "value": 4
+            },
+            {
+              "key": "cost_increase_on_buy",
+              "value": 4
+            },
+            {
+              "key": "value_increase_on_buy",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "key": "trade_charges",
+          "value": [
+            {
+              "key": "upgrade_bonus_pairs",
+              "value": [
+                {
+                  "key": "upgrade_bonus_pair",
+                  "value": [
+                    {
+                      "key": "bonus_trade_charges",
+                      "value": 1
+                    },
+                    {
+                      "key": "required_upgrade",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "feudal_age"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "upgrade_bonus_pair",
+                  "value": [
+                    {
+                      "key": "bonus_trade_charges",
+                      "value": 1
+                    },
+                    {
+                      "key": "required_upgrade",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "castle_age"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "upgrade_bonus_pair",
+                  "value": [
+                    {
+                      "key": "bonus_trade_charges",
+                      "value": 1
+                    },
+                    {
+                      "key": "required_upgrade",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "imperial_age"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "starting_charges",
+              "value": 1
+            },
+            {
+              "key": "charges_per_settlement",
+              "value": 0
+            },
+            {
+              "key": "charges_per_player",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "trade_quantities",
+          "value": [
+            {
+              "key": "buy_quantity",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 100
+                },
+                {
+                  "key": "action",
+                  "value": 100
+                },
+                {
+                  "key": "gold",
+                  "value": 100
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 100
+                },
+                {
+                  "key": "popcap",
+                  "value": 100
+                },
+                {
+                  "key": "stone",
+                  "value": 100
+                },
+                {
+                  "key": "command",
+                  "value": 100
+                },
+                {
+                  "key": "wood",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "key": "sell_quantity",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 100
+                },
+                {
+                  "key": "action",
+                  "value": 100
+                },
+                {
+                  "key": "gold",
+                  "value": 100
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 100
+                },
+                {
+                  "key": "popcap",
+                  "value": 100
+                },
+                {
+                  "key": "stone",
+                  "value": 100
+                },
+                {
+                  "key": "command",
+                  "value": 100
+                },
+                {
+                  "key": "wood",
+                  "value": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

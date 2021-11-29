@@ -1,0 +1,386 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 136177
+    },
+    {
+      "key": "distribution",
+      "value": [
+        {
+          "key": "spawn_orientation",
+          "value": 0
+        },
+        {
+          "key": "balanced_distribution",
+          "value": [
+            {
+              "key": "balance_type",
+              "value": "none"
+            },
+            {
+              "key": "relative_weight",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "biome_asset_mapping",
+          "value": "vegetation_low_small_2"
+        },
+        {
+          "key": "spawn_rotation",
+          "value": 2
+        },
+        {
+          "key": "score_map",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\clamp_max"
+            },
+            {
+              "key": "input",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\weighted_sum"
+                },
+                {
+                  "key": "inputs",
+                  "value": [
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "value",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\product"
+                            },
+                            {
+                              "key": "inputs",
+                              "value": [
+                                {
+                                  "key": "clamp_max",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "map_gen\\score_map\\option\\clamp_max"
+                                    },
+                                    {
+                                      "key": "input",
+                                      "value": [
+                                        {
+                                          "key": "multiplier",
+                                          "value": 1.2
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\constant_multiplier"
+                                        },
+                                        {
+                                          "key": "input",
+                                          "value": [
+                                            {
+                                              "key": "require_none",
+                                              "value": [
+                                                {
+                                                  "key": "surface_flag",
+                                                  "value": 1
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "key": "require_any",
+                                              "value": [
+                                              ]
+                                            },
+                                            {
+                                              "key": "require_all",
+                                              "value": [
+                                              ]
+                                            },
+                                            {
+                                              "key": "$REF",
+                                              "value": "map_gen\\score_map\\option\\surface_requirement"
+                                            },
+                                            {
+                                              "key": "input",
+                                              "value": [
+                                                {
+                                                  "key": "$REF",
+                                                  "value": "map_gen\\score_map\\option\\blur"
+                                                },
+                                                {
+                                                  "key": "input",
+                                                  "value": [
+                                                    {
+                                                      "key": "$REF",
+                                                      "value": "map_gen\\score_map\\option\\clamp_max"
+                                                    },
+                                                    {
+                                                      "key": "input",
+                                                      "value": [
+                                                        {
+                                                          "key": "multiplier",
+                                                          "value": 10
+                                                        },
+                                                        {
+                                                          "key": "$REF",
+                                                          "value": "map_gen\\score_map\\option\\constant_multiplier"
+                                                        },
+                                                        {
+                                                          "key": "input",
+                                                          "value": [
+                                                            {
+                                                              "key": "$REF",
+                                                              "value": "map_gen\\score_map\\option\\blur"
+                                                            },
+                                                            {
+                                                              "key": "input",
+                                                              "value": [
+                                                                {
+                                                                  "key": "$REF",
+                                                                  "value": "map_gen\\score_map\\option\\reference"
+                                                                },
+                                                                {
+                                                                  "key": "score_map",
+                                                                  "value": [
+                                                                    {
+                                                                      "key": "$PBGNAME",
+                                                                      "value": "passable_land_curvature_medium_flipped_noise_blend"
+                                                                    },
+                                                                    {
+                                                                      "key": "$PBGMAP",
+                                                                      "value": "map_gen\\score_map\\score_map"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "key": "blur_radius",
+                                                              "value": 5
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "key": "max",
+                                                      "value": 1
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "key": "blur_radius",
+                                                  "value": 2
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "max",
+                                      "value": 1
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "noise",
+                                  "value": [
+                                    {
+                                      "key": "scale_meters",
+                                      "value": 16
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "map_gen\\score_map\\option\\noise"
+                                    },
+                                    {
+                                      "key": "biases",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "max_value",
+                                      "value": 0.925
+                                    },
+                                    {
+                                      "key": "min_value",
+                                      "value": 0
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "noise",
+                                  "value": [
+                                    {
+                                      "key": "scale_meters",
+                                      "value": 32
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "map_gen\\score_map\\option\\noise"
+                                    },
+                                    {
+                                      "key": "biases",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "max_value",
+                                      "value": 0.35
+                                    },
+                                    {
+                                      "key": "min_value",
+                                      "value": 0.15
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "weight",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "input",
+                      "value": [
+                        {
+                          "key": "value",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "map_gen\\score_map\\option\\normalize"
+                            },
+                            {
+                              "key": "input",
+                              "value": [
+                                {
+                                  "key": "$REF",
+                                  "value": "map_gen\\score_map\\option\\product"
+                                },
+                                {
+                                  "key": "inputs",
+                                  "value": [
+                                    {
+                                      "key": "reference",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\reference"
+                                        },
+                                        {
+                                          "key": "score_map",
+                                          "value": [
+                                            {
+                                              "key": "$PBGNAME",
+                                              "value": "land_flat"
+                                            },
+                                            {
+                                              "key": "$PBGMAP",
+                                              "value": "map_gen\\score_map\\score_map"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "reference",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\reference"
+                                        },
+                                        {
+                                          "key": "score_map",
+                                          "value": [
+                                            {
+                                              "key": "$PBGNAME",
+                                              "value": "passable_land_curvature_medium_flipped"
+                                            },
+                                            {
+                                              "key": "$PBGMAP",
+                                              "value": "map_gen\\score_map\\score_map"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "noise",
+                                      "value": [
+                                        {
+                                          "key": "scale_meters",
+                                          "value": 32
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "value": "map_gen\\score_map\\option\\noise"
+                                        },
+                                        {
+                                          "key": "biases",
+                                          "value": [
+                                          ]
+                                        },
+                                        {
+                                          "key": "max_value",
+                                          "value": 1
+                                        },
+                                        {
+                                          "key": "min_value",
+                                          "value": 0.5
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "max",
+                              "value": 1
+                            },
+                            {
+                              "key": "min",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "weight",
+                          "value": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "max",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "spawn_position",
+          "value": 1
+        },
+        {
+          "key": "ignores_global_blocking_regions",
+          "value": true
+        }
+      ]
+    }
+  ]
+}

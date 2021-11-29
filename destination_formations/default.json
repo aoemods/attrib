@@ -1,0 +1,972 @@
+{
+  "data": [
+    {
+      "key": "destination_formation_bag",
+      "value": [
+        {
+          "key": "ranks",
+          "value": [
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "spots",
+                  "value": [
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": 0
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": 0
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": 0
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": 0
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": ""
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -1
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -1
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -1
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -1
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -2
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "place_behind_previous_rank",
+                  "value": false
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "extra_distance_from_previous_rank",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "spots",
+                  "value": [
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": 0
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": 0
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -1
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -1
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": 0
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": 0
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -4
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -1
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -1
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "place_behind_previous_rank",
+                  "value": false
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "extra_distance_from_previous_rank",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "spots",
+                  "value": [
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -2
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -2
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -2
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -2
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -2
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -2
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -2
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -2
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "place_behind_previous_rank",
+                  "value": false
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "extra_distance_from_previous_rank",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "spots",
+                  "value": [
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -3
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -3
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -3
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -3
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -3
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -3
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -3
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -3
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "place_behind_previous_rank",
+                  "value": false
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "extra_distance_from_previous_rank",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "spots",
+                  "value": [
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -4
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -4
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -4
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -4
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -4
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -4
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -4
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -4
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "place_behind_previous_rank",
+                  "value": false
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "extra_distance_from_previous_rank",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "rank",
+              "value": [
+                {
+                  "key": "spots",
+                  "value": [
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -5
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -5
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -5
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -5
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -5
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -5
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -5
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": 3
+                        }
+                      ]
+                    },
+                    {
+                      "key": "spot",
+                      "value": [
+                        {
+                          "key": "pos_y",
+                          "value": -5
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "military"
+                        },
+                        {
+                          "key": "pos_x",
+                          "value": -4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "place_behind_previous_rank",
+                  "value": true
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "extra_distance_from_previous_rank",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 110387
+    }
+  ]
+}

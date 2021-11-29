@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 170528
+    },
+    {
+      "key": "ui_setfacing_bag",
+      "value": [
+        {
+          "key": "dot_width",
+          "value": 0.3
+        },
+        {
+          "key": "line_texture",
+          "value": "targeting\\gold_line"
+        },
+        {
+          "key": "line_thickness",
+          "value": 0.3
+        },
+        {
+          "key": "map",
+          "value": [
+            {
+              "key": "colour",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "line_uvscale",
+          "value": 0.15
+        },
+        {
+          "key": "arrow_width",
+          "value": 0.6
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_setfacing_data"
+        },
+        {
+          "key": "line_offset",
+          "value": 0
+        },
+        {
+          "key": "dot_height",
+          "value": 0.33
+        },
+        {
+          "key": "dot_angle_secondary",
+          "value": 50
+        },
+        {
+          "key": "arrow_height",
+          "value": 0.34
+        },
+        {
+          "key": "centre_width",
+          "value": 0
+        },
+        {
+          "key": "arrow_texture",
+          "value": "targeting\\gold_arrow"
+        },
+        {
+          "key": "centre_height",
+          "value": 0
+        },
+        {
+          "key": "dot_texture",
+          "value": "targeting\\gold_dot"
+        },
+        {
+          "key": "dot_angle",
+          "value": 2.2
+        },
+        {
+          "key": "dot_spacing",
+          "value": 3
+        },
+        {
+          "key": "centre_texture",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

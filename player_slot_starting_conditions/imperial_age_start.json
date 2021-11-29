@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "key": "player_slot_starting_conditions_bag",
+      "value": [
+        {
+          "key": "upgrades",
+          "value": [
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "dark_age"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "feudal_age"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "castle_age"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "imperial_age"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2044471
+    }
+  ]
+}

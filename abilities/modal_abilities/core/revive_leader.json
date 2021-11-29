@@ -1,0 +1,853 @@
+{
+  "data": [
+    {
+      "key": "ability_bag",
+      "value": [
+        {
+          "key": "ui_range_reticule_can_cast_only",
+          "value": false
+        },
+        {
+          "key": "ui_ability_issue_type",
+          "value": 1
+        },
+        {
+          "key": "activation",
+          "value": "targeted"
+        },
+        {
+          "key": "ui_cursor",
+          "value": [
+            {
+              "key": "cursor_nonmodal_good",
+              "value": ""
+            },
+            {
+              "key": "cursor_good",
+              "value": "modal_heal_leader"
+            },
+            {
+              "key": "cursor_bad",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "enable_in_vehicle",
+          "value": false
+        },
+        {
+          "key": "final_close_in_distance",
+          "value": 0
+        },
+        {
+          "key": "ability_super_event_cue",
+          "value": false
+        },
+        {
+          "key": "ui_menu",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "ui_ability_group",
+          "value": 0
+        },
+        {
+          "key": "ui_reticule",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "validate_actions",
+          "value": true
+        },
+        {
+          "key": "target",
+          "value": "tp_any"
+        },
+        {
+          "key": "channeling",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "move_back",
+          "value": false
+        },
+        {
+          "key": "ui_range_reticule_enable_team_color",
+          "value": false
+        },
+        {
+          "key": "ability_super",
+          "value": "tp_none"
+        },
+        {
+          "key": "can_cast_outside_active_battle_field",
+          "value": false
+        },
+        {
+          "key": "ui_position",
+          "value": [
+            {
+              "key": "ui_position_column",
+              "value": 4
+            },
+            {
+              "key": "ui_position_row",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "ui_targetable_off_key",
+          "value": ""
+        },
+        {
+          "key": "facing_ignore",
+          "value": false
+        },
+        {
+          "key": "targeted_ability_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "enable_in_unit_types",
+          "value": [
+          ]
+        },
+        {
+          "key": "ui_range",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "hold_period",
+          "value": 0
+        },
+        {
+          "key": "garrison_target",
+          "value": false
+        },
+        {
+          "key": "construction_preview",
+          "value": false
+        },
+        {
+          "key": "int_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "ui_targetable_receiver",
+          "value": "local"
+        },
+        {
+          "key": "ui_reticule_radius_max",
+          "value": 1
+        },
+        {
+          "key": "can_passive_ability_create_formation_squad_group",
+          "value": false
+        },
+        {
+          "key": "requirements_self_recharge",
+          "value": [
+          ]
+        },
+        {
+          "key": "squad_tree",
+          "value": ""
+        },
+        {
+          "key": "statetree_node_prereq_self_requirement",
+          "value": ""
+        },
+        {
+          "key": "squad_caster",
+          "value": "squad"
+        },
+        {
+          "key": "float_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "statetree_node_prereq_self_recharge_requirement",
+          "value": ""
+        },
+        {
+          "key": "casters_can_evacuate",
+          "value": false
+        },
+        {
+          "key": "initial_recharge",
+          "value": false
+        },
+        {
+          "key": "min_range",
+          "value": 0
+        },
+        {
+          "key": "can_use_ability_check_interval",
+          "value": 0.125
+        },
+        {
+          "key": "cursor_ghost_blueprint",
+          "value": ""
+        },
+        {
+          "key": "engage_combat",
+          "value": false
+        },
+        {
+          "key": "recharge_time",
+          "value": 0
+        },
+        {
+          "key": "statetree_ability_id",
+          "value": ""
+        },
+        {
+          "key": "show_range_reticule_in_contruction_item_preview",
+          "value": false
+        },
+        {
+          "key": "refundable",
+          "value": true
+        },
+        {
+          "key": "ui_range_reticule_shows_while_active",
+          "value": false
+        },
+        {
+          "key": "fire_and_forget",
+          "value": false
+        },
+        {
+          "key": "ability_active_state_tree_group",
+          "value": [
+            {
+              "key": "ability_activate_deferred_tree",
+              "value": "revive_leader"
+            },
+            {
+              "key": "ability_activate_squad_tree",
+              "value": ""
+            },
+            {
+              "key": "ability_activate_entity_tree",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "ui_target_origin_point",
+          "value": "center"
+        },
+        {
+          "key": "clear_ability_on_blueprint_conversion",
+          "value": true
+        },
+        {
+          "key": "ui_combine_type",
+          "value": "intersection"
+        },
+        {
+          "key": "ui_combine_priority",
+          "value": 0
+        },
+        {
+          "key": "move_back_distance",
+          "value": 10
+        },
+        {
+          "key": "ui_ability_can_display",
+          "value": true
+        },
+        {
+          "key": "can_target_in_fow",
+          "value": false
+        },
+        {
+          "key": "shared_timer",
+          "value": ""
+        },
+        {
+          "key": "requirements_target",
+          "value": [
+            {
+              "key": "required_statemodelbool",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "hero_inactive"
+                },
+                {
+                  "key": "default_value",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_statemodelbool"
+                },
+                {
+                  "key": "ui_name",
+                  "value": 11204947
+                },
+                {
+                  "key": "data_source_type",
+                  "value": "self_datasource"
+                },
+                {
+                  "key": "compare_to_value",
+                  "value": true
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
+            },
+            {
+              "key": "required_ownership",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_ownership"
+                },
+                {
+                  "key": "ui_name",
+                  "value": 11204948
+                },
+                {
+                  "key": "ownership_type",
+                  "value": 0
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui_mini_map_capture",
+          "value": false
+        },
+        {
+          "key": "ui_group_cast_type",
+          "value": 1
+        },
+        {
+          "key": "ui_contextual_info",
+          "value": [
+          ]
+        },
+        {
+          "key": "entity_busy_time",
+          "value": 0
+        },
+        {
+          "key": "construction_preview_override",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "pending_ability_out_of_range_behaviour",
+          "value": "chase"
+        },
+        {
+          "key": "require_no_shot_block",
+          "value": false
+        },
+        {
+          "key": "can_move_to_cast",
+          "value": true
+        },
+        {
+          "key": "ability_description",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "ui_click_point_action_key",
+          "value": ""
+        },
+        {
+          "key": "cursor_ghost_blueprint_angle",
+          "value": 0
+        },
+        {
+          "key": "cursor_ghost_ebp",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "default_command_weight_modifier",
+          "value": 9
+        },
+        {
+          "key": "shared_timer_player_wide",
+          "value": false
+        },
+        {
+          "key": "toggled_recharge_time_on",
+          "value": 0
+        },
+        {
+          "key": "proxy_range_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "requirements",
+          "value": [
+          ]
+        },
+        {
+          "key": "projectile_for_preview",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "ui_direction_requirement",
+          "value": "nondirectional"
+        },
+        {
+          "key": "should_trigger_immediately",
+          "value": false
+        },
+        {
+          "key": "enable_in_building",
+          "value": false
+        },
+        {
+          "key": "entity_tree",
+          "value": ""
+        },
+        {
+          "key": "caster_close_in_distance",
+          "value": 0
+        },
+        {
+          "key": "facing_angle",
+          "value": 5
+        },
+        {
+          "key": "ui_info",
+          "value": [
+            {
+              "key": "debug_text",
+              "value": ""
+            },
+            {
+              "key": "screen_name_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "screen_name_short_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "reveal_for_decryption",
+              "value": false
+            },
+            {
+              "key": "icon_alternate_name",
+              "value": ""
+            },
+            {
+              "key": "brief_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "sound",
+              "value": ""
+            },
+            {
+              "key": "icon_name",
+              "value": "races\\common\\abilities\\revive_leader"
+            },
+            {
+              "key": "ui_combine_type",
+              "value": "intersection"
+            },
+            {
+              "key": "overlay_name",
+              "value": ""
+            },
+            {
+              "key": "help_text",
+              "value": 11185356
+            },
+            {
+              "key": "hotkey_name",
+              "value": ""
+            },
+            {
+              "key": "sound_alternative",
+              "value": ""
+            },
+            {
+              "key": "tooltip_data_template",
+              "value": "AbilityDataTemplate"
+            },
+            {
+              "key": "help_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "screen_name_alternate_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "extra_text_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "screen_name",
+              "value": 11185355
+            },
+            {
+              "key": "help_text_alternate_formatter",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "always_refund_cost_if_failed",
+          "value": false
+        },
+        {
+          "key": "use_simbox_to_simbox_range",
+          "value": true
+        },
+        {
+          "key": "ui_targetable_sm_key",
+          "value": ""
+        },
+        {
+          "key": "ui_modal_highlight",
+          "value": [
+            {
+              "key": "map_sector",
+              "value": false
+            },
+            {
+              "key": "world_sector",
+              "value": false
+            },
+            {
+              "key": "map_sector_hq_link_extender",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "ui_visibility_ignore_prerequisite",
+          "value": false
+        },
+        {
+          "key": "casting_option",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "options\\none"
+            }
+          ]
+        },
+        {
+          "key": "cost_to_player",
+          "value": [
+            {
+              "key": "food",
+              "value": 0
+            },
+            {
+              "key": "action",
+              "value": 0
+            },
+            {
+              "key": "gold",
+              "value": 0
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 0
+            },
+            {
+              "key": "stone",
+              "value": 0
+            },
+            {
+              "key": "command",
+              "value": 0
+            },
+            {
+              "key": "wood",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "disable_when_active",
+          "value": false
+        },
+        {
+          "key": "facing_ignore_during_active",
+          "value": false
+        },
+        {
+          "key": "ability_description_storage_index",
+          "value": ""
+        },
+        {
+          "key": "toggle_ability_group",
+          "value": ""
+        },
+        {
+          "key": "statetree_node_prereq_target_requirement",
+          "value": ""
+        },
+        {
+          "key": "ui_range_reticule_first_caster_only",
+          "value": true
+        },
+        {
+          "key": "range_ignore",
+          "value": false
+        },
+        {
+          "key": "can_queue_passive_ability",
+          "value": false
+        },
+        {
+          "key": "range",
+          "value": 2
+        },
+        {
+          "key": "disable_combat",
+          "value": false
+        },
+        {
+          "key": "global_tree",
+          "value": ""
+        },
+        {
+          "key": "toggled_recharge_time_off",
+          "value": 0
+        },
+        {
+          "key": "ui_targetable_on_key",
+          "value": ""
+        },
+        {
+          "key": "ui_progress_bar_type",
+          "value": "auto_bar"
+        },
+        {
+          "key": "can_cast_whilst_constructing",
+          "value": false
+        },
+        {
+          "key": "can_cast_again_whilst_pending",
+          "value": false
+        },
+        {
+          "key": "ignore_teardown_on_convert",
+          "value": true
+        },
+        {
+          "key": "ui_reticule_radius_min",
+          "value": 1
+        },
+        {
+          "key": "cost_to_squad",
+          "value": [
+            {
+              "key": "food",
+              "value": 0
+            },
+            {
+              "key": "action",
+              "value": 0
+            },
+            {
+              "key": "gold",
+              "value": 0
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 0
+            },
+            {
+              "key": "stone",
+              "value": 0
+            },
+            {
+              "key": "command",
+              "value": 0
+            },
+            {
+              "key": "wood",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "can_be_interrupted",
+          "value": true
+        },
+        {
+          "key": "speech_code",
+          "value": ""
+        },
+        {
+          "key": "ability_category",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 201742
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

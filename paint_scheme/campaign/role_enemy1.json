@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 174291
+    },
+    {
+      "key": "paint_scheme_bag",
+      "value": [
+        {
+          "key": "paint_primary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "enemy_red"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "badge_secondary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "previs_cardinal_badge"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "badges"
+            }
+          ]
+        },
+        {
+          "key": "paint_tertiary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "enemy_red"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "paint_trim",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "enemy_red"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "badge_primary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "previs_cardinal_badge"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "badges"
+            }
+          ]
+        },
+        {
+          "key": "paint_secondary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "enemy_red"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "inventory_item_categories",
+          "value": [
+          ]
+        }
+      ]
+    }
+  ]
+}

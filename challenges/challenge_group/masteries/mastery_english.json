@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": 11164829
+    },
+    {
+      "key": "enable",
+      "value": true
+    },
+    {
+      "key": "icon",
+      "value": "fe\\mastery_incomplete_english"
+    },
+    {
+      "key": "telemetryPrefix",
+      "value": "English"
+    },
+    {
+      "key": "group_type",
+      "value": [
+        {
+          "key": "initial_challenge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mastery_english_01"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "challenges\\group_types\\path"
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "value": 1428474
+    },
+    {
+      "key": "ui_tags",
+      "value": [
+        {
+          "key": "pinned",
+          "value": false
+        },
+        {
+          "key": "unpins_activity_feed_item",
+          "value": false
+        },
+        {
+          "key": "home",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "image",
+      "value": "backgrounds\\mastery_flags\\flag_english"
+    },
+    {
+      "key": "description",
+      "value": 11164830
+    },
+    {
+      "key": "imageSmall",
+      "value": "illustrations\\masteries\\civ_pattern_english"
+    },
+    {
+      "key": "icon2",
+      "value": "fe\\mastery_complete_english"
+    }
+  ]
+}

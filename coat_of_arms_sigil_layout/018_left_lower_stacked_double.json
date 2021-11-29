@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "key": "coat_of_arms_sigil_layout_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11193172
+        },
+        {
+          "key": "sigils",
+          "value": [
+            {
+              "key": "sigil",
+              "value": [
+                {
+                  "key": "rotation",
+                  "value": 0
+                },
+                {
+                  "key": "scaleX",
+                  "value": 0.6
+                },
+                {
+                  "key": "positionX",
+                  "value": -0.12
+                },
+                {
+                  "key": "scaleY",
+                  "value": 0.6
+                },
+                {
+                  "key": "positionY",
+                  "value": 0.02
+                }
+              ]
+            },
+            {
+              "key": "sigil",
+              "value": [
+                {
+                  "key": "rotation",
+                  "value": 0
+                },
+                {
+                  "key": "scaleX",
+                  "value": 0.6
+                },
+                {
+                  "key": "positionX",
+                  "value": -0.12
+                },
+                {
+                  "key": "scaleY",
+                  "value": 0.6
+                },
+                {
+                  "key": "positionY",
+                  "value": 0.22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "icon",
+          "value": "coat_of_arms\\layouts\\left_lower_stacked_double"
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 197379
+    }
+  ]
+}

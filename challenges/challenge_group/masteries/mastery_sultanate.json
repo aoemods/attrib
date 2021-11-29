@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": 11179826
+    },
+    {
+      "key": "enable",
+      "value": true
+    },
+    {
+      "key": "icon",
+      "value": "fe\\mastery_incomplete_sultanates"
+    },
+    {
+      "key": "telemetryPrefix",
+      "value": "DelhiSultanate"
+    },
+    {
+      "key": "group_type",
+      "value": [
+        {
+          "key": "initial_challenge",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "mastery_sultanate_01"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge"
+            }
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "challenges\\group_types\\path"
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "value": 1440332
+    },
+    {
+      "key": "ui_tags",
+      "value": [
+        {
+          "key": "pinned",
+          "value": false
+        },
+        {
+          "key": "unpins_activity_feed_item",
+          "value": false
+        },
+        {
+          "key": "home",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "image",
+      "value": "backgrounds\\mastery_flags\\flag_sultanates"
+    },
+    {
+      "key": "description",
+      "value": 11179827
+    },
+    {
+      "key": "imageSmall",
+      "value": "illustrations\\masteries\\civ_pattern_sultanate"
+    },
+    {
+      "key": "icon2",
+      "value": "fe\\mastery_complete_sultanates"
+    }
+  ]
+}

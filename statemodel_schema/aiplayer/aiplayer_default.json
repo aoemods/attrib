@@ -1,0 +1,770 @@
+{
+  "data": [
+    {
+      "key": "schema_bag",
+      "value": [
+        {
+          "key": "pbgid_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "int_properties",
+          "value": [
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 1
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ai_current_updating_homebase"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ai_num_ovoo_relocations"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ai_num_unit_types_to_build"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ai_phase_encounter_required_unit_percent"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ai_sul_required_scholar_count"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ai_sul_current_scholar_count"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ai_move_gatherer_focued_island"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ai_holy_sites_count_total"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ai_holy_sites_count_threatened"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "ai_holy_sites_count_safe"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "sub_schemas",
+          "value": [
+            {
+              "key": "schema",
+              "value": [
+                {
+                  "key": "schema_bag",
+                  "value": [
+                    {
+                      "key": "pbgid_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "int_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "sub_schemas",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "target_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "list_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "float_properties",
+                      "value": [
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_difficulty_archer_reposition_time_interval"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_difficulty_encounter_fallback_combat_rating"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_difficulty_encounter_fallback_combat_rating_harass"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_difficulty_encounter_fallback_squad_health_percent"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_difficulty_encounter_fallback_squad_health_percent_harass"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_difficulty_encounter_fallback_squad_health_threshold"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_difficulty_encounter_fallback_squads_remaining_percent"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_difficulty_encounter_fallback_squads_remaining_percent_harass"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "ai_difficulty_encounter_cavalry_random_use_threat_path_chance"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "vector3f_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "generic_handle_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "attribute_enum_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "enum_table_properties",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "bool_properties",
+                      "value": [
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "pbgid",
+                  "value": 205883
+                },
+                {
+                  "key": "parent_pbg",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "target_properties",
+          "value": [
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "ai_ovoo_target"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "list_properties",
+          "value": [
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 1
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 16
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_encounter_merge_ids"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 16
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_all_enemy_monks_with_relics"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 1
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 5
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_current_scout_transport_islands"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 6
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 20
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_returning_transports"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_list_property",
+              "value": [
+                {
+                  "key": "data_type",
+                  "value": 1
+                },
+                {
+                  "key": "max_list_size",
+                  "value": 16
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_list_property"
+                },
+                {
+                  "key": "list_property_id",
+                  "value": "ai_encounter_can_reinforce_ids"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "float_properties",
+          "value": [
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "Debug"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "ai_wall_fill_gap_time"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "vector3f_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "generic_handle_properties",
+          "value": [
+            {
+              "key": "statemodel_generic_handle_property",
+              "value": [
+                {
+                  "key": "handle_property_id",
+                  "value": "relocation_handle"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_generic_handle_property"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "attribute_enum_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "enum_table_properties",
+          "value": [
+          ]
+        },
+        {
+          "key": "bool_properties",
+          "value": [
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "ai_production_request_only"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "is_being_rushed"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "detected_enemy_wonder"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "khan_needs_healing"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "ai_mongol_buildings_relocate_skip_ovoo_test"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "detected_enemy_religious_victory"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "ai_colonize_in_progress"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 184402
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 106736
+    },
+    {
+      "key": "ai_settings_bag",
+      "value": [
+        {
+          "key": "target_identification",
+          "value": [
+            {
+              "key": "detect_squads_in_fog_of_war",
+              "value": true
+            },
+            {
+              "key": "clump_detection_refresh_time",
+              "value": -1
+            },
+            {
+              "key": "max_dist_to_still_detect_in_fow",
+              "value": 10
+            },
+            {
+              "key": "detect_squads_in_camoflauge",
+              "value": true
+            },
+            {
+              "key": "detect_squads_decapping_points",
+              "value": true
+            },
+            {
+              "key": "targeting_memory_duration",
+              "value": 30
+            },
+            {
+              "key": "max_dist_to_still_detect_in_camo",
+              "value": 1
+            },
+            {
+              "key": "lead_targeting_of_moving_squad_clumps",
+              "value": true
+            },
+            {
+              "key": "enemy_clump_path_to_hq_settings",
+              "value": [
+                {
+                  "key": "raw_distance_to_hq_min",
+                  "value": 50
+                },
+                {
+                  "key": "path_recalculate_interval_extra_random_percent",
+                  "value": 0.3
+                },
+                {
+                  "key": "minimum_unit_count",
+                  "value": 4
+                },
+                {
+                  "key": "path_recalculate_interval_secs",
+                  "value": 10
+                },
+                {
+                  "key": "raw_distance_to_hq_max",
+                  "value": 200
+                }
+              ]
+            },
+            {
+              "key": "clump_detection_exclude_unit_types",
+              "value": [
+                {
+                  "key": "exclude_unit_type",
+                  "value": "wall"
+                }
+              ]
+            },
+            {
+              "key": "clump_detection_size",
+              "value": 30
+            },
+            {
+              "key": "clump_detection_lead_movement_time",
+              "value": 3
+            },
+            {
+              "key": "target_invulnerable",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "military_target_functions",
+          "value": [
+            {
+              "key": "decide_squad_military_target_type_function",
+              "value": "CARDINAL_DetermineAIStatsMilitaryPointTypeSquad"
+            },
+            {
+              "key": "decide_entity_military_target_type_function",
+              "value": "CARDINAL_DetermineAIStatsMilitaryPointTypeEntity"
+            },
+            {
+              "key": "military_target_scoring_function",
+              "value": "CARDINAL_ScoreMilitaryTarget"
+            },
+            {
+              "key": "decide_capture_point_military_target_type_function",
+              "value": "CARDINAL_DetermineAIStatsCapturePointTypeEntity"
+            }
+          ]
+        },
+        {
+          "key": "tactic_retry_timeout_defaults",
+          "value": [
+            {
+              "key": "vehicle",
+              "value": 5
+            },
+            {
+              "key": "recrew",
+              "value": 5
+            },
+            {
+              "key": "avoid",
+              "value": 5
+            },
+            {
+              "key": "tactic_sequence",
+              "value": 5
+            },
+            {
+              "key": "min_range",
+              "value": 5
+            },
+            {
+              "key": "pickup",
+              "value": 5
+            },
+            {
+              "key": "finish_healing",
+              "value": 5
+            },
+            {
+              "key": "cover",
+              "value": 5
+            },
+            {
+              "key": "force_attack",
+              "value": 2
+            },
+            {
+              "key": "tactic_lua",
+              "value": 5
+            },
+            {
+              "key": "warm_up",
+              "value": 5
+            },
+            {
+              "key": "capture_team_weapon",
+              "value": 5
+            },
+            {
+              "key": "capture_point",
+              "value": 5
+            },
+            {
+              "key": "provide_reinforcement_point",
+              "value": 5
+            },
+            {
+              "key": "ability",
+              "value": 5
+            },
+            {
+              "key": "hold",
+              "value": 5
+            },
+            {
+              "key": "vehicle_decrew",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "key": "attack_objective_replan_time",
+          "value": 5
+        },
+        {
+          "key": "scouting_location_cached_path_extra_refresh_time_random_percent",
+          "value": 0.3
+        },
+        {
+          "key": "naval_ai_enabled",
+          "value": true
+        },
+        {
+          "key": "tactic_enabled",
+          "value": [
+            {
+              "key": "vehicle",
+              "value": false
+            },
+            {
+              "key": "recrew",
+              "value": false
+            },
+            {
+              "key": "avoid",
+              "value": false
+            },
+            {
+              "key": "tactic_sequence",
+              "value": false
+            },
+            {
+              "key": "min_range",
+              "value": false
+            },
+            {
+              "key": "pickup",
+              "value": false
+            },
+            {
+              "key": "finish_healing",
+              "value": false
+            },
+            {
+              "key": "cover",
+              "value": false
+            },
+            {
+              "key": "force_attack",
+              "value": false
+            },
+            {
+              "key": "tactic_lua",
+              "value": false
+            },
+            {
+              "key": "warm_up",
+              "value": false
+            },
+            {
+              "key": "capture_team_weapon",
+              "value": false
+            },
+            {
+              "key": "capture_point",
+              "value": false
+            },
+            {
+              "key": "provide_reinforcement_point",
+              "value": false
+            },
+            {
+              "key": "ability",
+              "value": true
+            },
+            {
+              "key": "hold",
+              "value": false
+            },
+            {
+              "key": "vehicle_decrew",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "designer_lock_squads_by_default",
+          "value": false
+        },
+        {
+          "key": "profile_alias",
+          "value": 11193875
+        },
+        {
+          "key": "fallback",
+          "value": [
+            {
+              "key": "fallback_vehicle_health_ratio_end",
+              "value": 0.99
+            },
+            {
+              "key": "reinforce_min_health_ratio_to_reach_reinforce_point",
+              "value": -1
+            },
+            {
+              "key": "reinforce_wait_time",
+              "value": 15
+            },
+            {
+              "key": "fallback_encounter_squad_ratio",
+              "value": 1
+            },
+            {
+              "key": "reinforce_failed_retry_wait_time",
+              "value": 60
+            },
+            {
+              "key": "retreat_delay_time_min",
+              "value": 0
+            },
+            {
+              "key": "fallback_combat_rating",
+              "value": 0
+            },
+            {
+              "key": "reinforce_health_ratio",
+              "value": 0.3
+            },
+            {
+              "key": "fallback_squad_health_ratio_end",
+              "value": 0.99
+            },
+            {
+              "key": "reinforce_max_distance",
+              "value": -1
+            },
+            {
+              "key": "fallback_capacity_ratio",
+              "value": 0.5
+            },
+            {
+              "key": "fallback_encounter_squad_remaining_ratio",
+              "value": -1
+            },
+            {
+              "key": "retreat_combat_rating",
+              "value": 0.25
+            },
+            {
+              "key": "reinforce_during_combat",
+              "value": true
+            },
+            {
+              "key": "fallback_squad_shield_ratio_start",
+              "value": -1
+            },
+            {
+              "key": "retreat_health_ratio",
+              "value": 0.3
+            },
+            {
+              "key": "retreat_on_suppression_reaction_time",
+              "value": 6
+            },
+            {
+              "key": "retreat_on_pinned",
+              "value": true
+            },
+            {
+              "key": "retreat_delay_time_max",
+              "value": 0
+            },
+            {
+              "key": "retreat_on_suppression",
+              "value": true
+            },
+            {
+              "key": "reinforce_enabled",
+              "value": true
+            },
+            {
+              "key": "fallback_squad_shield_ratio_end",
+              "value": -1
+            },
+            {
+              "key": "fallback_vehicle_health_ratio_start",
+              "value": 0.5
+            },
+            {
+              "key": "retreat_capacity_ratio",
+              "value": 0.3
+            },
+            {
+              "key": "fallback_squad_health_ratio_start",
+              "value": 0.5
+            }
+          ]
+        },
+        {
+          "key": "tactics",
+          "value": [
+            {
+              "key": "vehicle_update_pos_delay_time",
+              "value": 5
+            },
+            {
+              "key": "kiting_chance",
+              "value": 0.5
+            },
+            {
+              "key": "should_vehicle_out_maneuvre_enemy",
+              "value": true
+            },
+            {
+              "key": "avoidance_ignore_chance",
+              "value": 0
+            },
+            {
+              "key": "should_protect_weak_rear_armour",
+              "value": true
+            },
+            {
+              "key": "avoidance_delay_time_max",
+              "value": 0
+            },
+            {
+              "key": "heavy_cover_max_occupancy",
+              "value": [
+                {
+                  "key": "occupancy_area_interval_list",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "occupancy_ebp_override_list",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "default_max_squad_occupancy",
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "key": "kiting_target_update_delay",
+              "value": 5
+            },
+            {
+              "key": "kiting_update_length",
+              "value": 5
+            },
+            {
+              "key": "avoidance_delay_time_min",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "pathing",
+          "value": [
+            {
+              "key": "pathing_threat_memory_duration",
+              "value": 30
+            },
+            {
+              "key": "pathing_detects_accurate_enemy_sight",
+              "value": false
+            },
+            {
+              "key": "pathing_detects_min_firing_range",
+              "value": true
+            },
+            {
+              "key": "pathing_detects_squads_in_fog_of_war",
+              "value": true
+            },
+            {
+              "key": "pathing_detects_suppression",
+              "value": true
+            },
+            {
+              "key": "pathing_detects_firing_arcs",
+              "value": true
+            },
+            {
+              "key": "pathing_detects_squads_in_camoflauge",
+              "value": true
+            },
+            {
+              "key": "pathing_detects_opponents_fog_of_war",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "combat_task_retargeting_time",
+          "value": 5
+        },
+        {
+          "key": "should_update_slotted_spline_region_infos",
+          "value": true
+        },
+        {
+          "key": "combat_ratings",
+          "value": [
+            {
+              "key": "should_attack_target_in_heavy_cover_when_cant_enter",
+              "value": true
+            },
+            {
+              "key": "weapon_stance_mode",
+              "value": 2
+            },
+            {
+              "key": "cover_table",
+              "value": [
+                {
+                  "key": "plain",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "combat_ratings_cover_info"
+                    },
+                    {
+                      "key": "class_rating_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "forest",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "combat_ratings_cover_info"
+                    },
+                    {
+                      "key": "class_rating_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "hill",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "combat_ratings_cover_info"
+                    },
+                    {
+                      "key": "class_rating_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "mountain",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "combat_ratings_cover_info"
+                    },
+                    {
+                      "key": "class_rating_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "tp_defcover",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "combat_ratings_cover_info"
+                    },
+                    {
+                      "key": "class_rating_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "water",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "combat_ratings_cover_info"
+                    },
+                    {
+                      "key": "class_rating_multiplier",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "allow_builders_to_enter_combat",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "should_update_threat_map",
+          "value": true
+        },
+        {
+          "key": "features",
+          "value": [
+            {
+              "key": "kiting_enabled",
+              "value": true
+            },
+            {
+              "key": "fast_skimmers_strafing_entry_enabled",
+              "value": true
+            },
+            {
+              "key": "can_attack_targets_outside_encounter",
+              "value": true
+            },
+            {
+              "key": "can_attack_from_fow",
+              "value": true
+            },
+            {
+              "key": "pathfinding",
+              "value": [
+                {
+                  "key": "avoid_threats_inside_encounter_area",
+                  "value": true
+                },
+                {
+                  "key": "avoid_threats_outside_encounter_area",
+                  "value": true
+                },
+                {
+                  "key": "can_leave_encounter_area",
+                  "value": true
+                },
+                {
+                  "key": "pass_type_pbg_override",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "can_leave_heavy_cover_to_chase_target",
+              "value": false
+            },
+            {
+              "key": "use_cover",
+              "value": true
+            },
+            {
+              "key": "use_abilities",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "tactic_wait_timeout_defaults",
+          "value": [
+            {
+              "key": "vehicle",
+              "value": -1
+            },
+            {
+              "key": "recrew",
+              "value": -1
+            },
+            {
+              "key": "avoid",
+              "value": -1
+            },
+            {
+              "key": "tactic_sequence",
+              "value": -1
+            },
+            {
+              "key": "min_range",
+              "value": -1
+            },
+            {
+              "key": "pickup",
+              "value": -1
+            },
+            {
+              "key": "finish_healing",
+              "value": -1
+            },
+            {
+              "key": "cover",
+              "value": -1
+            },
+            {
+              "key": "force_attack",
+              "value": -1
+            },
+            {
+              "key": "tactic_lua",
+              "value": -1
+            },
+            {
+              "key": "warm_up",
+              "value": -1
+            },
+            {
+              "key": "capture_team_weapon",
+              "value": -1
+            },
+            {
+              "key": "capture_point",
+              "value": -1
+            },
+            {
+              "key": "provide_reinforcement_point",
+              "value": -1
+            },
+            {
+              "key": "ability",
+              "value": -1
+            },
+            {
+              "key": "hold",
+              "value": -1
+            },
+            {
+              "key": "vehicle_decrew",
+              "value": -1
+            }
+          ]
+        },
+        {
+          "key": "skirmish_settings",
+          "value": [
+            {
+              "key": "capture",
+              "value": [
+                {
+                  "key": "max_capture_points_relative_ratio",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "max_capture_points_ratio",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "capture_max_territory_relative_ratio",
+                  "value": -1
+                },
+                {
+                  "key": "capture_max_territory_ratio",
+                  "value": 1
+                },
+                {
+                  "key": "capture_min_num_territories",
+                  "value": 3
+                },
+                {
+                  "key": "min_capture_points",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "forward_base_setup_at_hq",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "use_offensive_player_abilities",
+              "value": false
+            },
+            {
+              "key": "combat_eval",
+              "value": [
+                {
+                  "key": "desired_ratio",
+                  "value": 0.75
+                }
+              ]
+            },
+            {
+              "key": "resource_multipliers",
+              "value": [
+                {
+                  "key": "food",
+                  "value": 1
+                },
+                {
+                  "key": "action",
+                  "value": 1
+                },
+                {
+                  "key": "gold",
+                  "value": 1
+                },
+                {
+                  "key": "militia_hre",
+                  "value": 1
+                },
+                {
+                  "key": "popcap",
+                  "value": 1
+                },
+                {
+                  "key": "stone",
+                  "value": 1
+                },
+                {
+                  "key": "command",
+                  "value": 1
+                },
+                {
+                  "key": "wood",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "army",
+              "value": [
+                {
+                  "key": "min_non_support_units_to_support_units_ratio",
+                  "value": 2
+                },
+                {
+                  "key": "max_army_combat_ratio",
+                  "value": -1
+                },
+                {
+                  "key": "min_num_units",
+                  "value": 3
+                },
+                {
+                  "key": "min_num_non_support_units",
+                  "value": 3
+                },
+                {
+                  "key": "max_capture_points_to_capturing_units_ratio",
+                  "value": 4
+                },
+                {
+                  "key": "min_num_capturing_units",
+                  "value": 4
+                }
+              ]
+            },
+            {
+              "key": "tasks",
+              "value": [
+                {
+                  "key": "max_num_construction_tasks",
+                  "value": 10
+                },
+                {
+                  "key": "max_num_capture_tasks",
+                  "value": 100
+                },
+                {
+                  "key": "max_num_attack_objectives",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "key": "catchup",
+              "value": [
+                {
+                  "key": "catchup_max_resource_bonus",
+                  "value": 1
+                },
+                {
+                  "key": "catchup_max_resource_deficit",
+                  "value": 1000
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "tactic_max_timeout_defaults",
+          "value": [
+            {
+              "key": "vehicle",
+              "value": 35
+            },
+            {
+              "key": "recrew",
+              "value": 35
+            },
+            {
+              "key": "avoid",
+              "value": 35
+            },
+            {
+              "key": "tactic_sequence",
+              "value": 35
+            },
+            {
+              "key": "min_range",
+              "value": 35
+            },
+            {
+              "key": "pickup",
+              "value": 35
+            },
+            {
+              "key": "finish_healing",
+              "value": 35
+            },
+            {
+              "key": "cover",
+              "value": 35
+            },
+            {
+              "key": "force_attack",
+              "value": 35
+            },
+            {
+              "key": "tactic_lua",
+              "value": 35
+            },
+            {
+              "key": "warm_up",
+              "value": 35
+            },
+            {
+              "key": "capture_team_weapon",
+              "value": 35
+            },
+            {
+              "key": "capture_point",
+              "value": 35
+            },
+            {
+              "key": "provide_reinforcement_point",
+              "value": 35
+            },
+            {
+              "key": "ability",
+              "value": 35
+            },
+            {
+              "key": "hold",
+              "value": 35
+            },
+            {
+              "key": "vehicle_decrew",
+              "value": 35
+            }
+          ]
+        },
+        {
+          "key": "production_mode",
+          "value": 0
+        },
+        {
+          "key": "starting_resource_bonuses",
+          "value": [
+            {
+              "key": "food",
+              "value": 0
+            },
+            {
+              "key": "action",
+              "value": 0
+            },
+            {
+              "key": "gold",
+              "value": 0
+            },
+            {
+              "key": "militia_hre",
+              "value": 0
+            },
+            {
+              "key": "popcap",
+              "value": 0
+            },
+            {
+              "key": "stone",
+              "value": 0
+            },
+            {
+              "key": "command",
+              "value": 0
+            },
+            {
+              "key": "wood",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "key": "encounter_positions",
+          "value": [
+            {
+              "key": "encounter_pos_distance_scale",
+              "value": 0.001
+            },
+            {
+              "key": "encounter_pos_in_combat_cover_user_distance_scale",
+              "value": 0.1
+            },
+            {
+              "key": "encounter_pos_threat_scale",
+              "value": 10
+            },
+            {
+              "key": "encounter_pos_in_combat_setup_weapon_distance_scale",
+              "value": 0.1
+            },
+            {
+              "key": "encounter_pos_preferred_firing_range_scale",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "scouting_location_cached_path_refresh_time",
+          "value": 60
+        }
+      ]
+    }
+  ]
+}

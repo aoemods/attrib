@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\abilities\\speed"
+        },
+        {
+          "key": "description",
+          "value": 11161230
+        },
+        {
+          "key": "title",
+          "value": 11161229
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 207834
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

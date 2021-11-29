@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\mongols\\uprades\\ortoo_network"
+        },
+        {
+          "key": "description",
+          "value": 11167113
+        },
+        {
+          "key": "title",
+          "value": 11154342
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 190079
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "buff_default"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}

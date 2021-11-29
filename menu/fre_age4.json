@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "key": "menu_bag",
+      "value": [
+        {
+          "key": "ui_position",
+          "value": [
+            {
+              "key": "ui_position_column",
+              "value": 7
+            },
+            {
+              "key": "ui_position_row",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "key": "behaviour",
+          "value": [
+            {
+              "key": "auto_exit",
+              "value": true
+            },
+            {
+              "key": "columns",
+              "value": 1
+            },
+            {
+              "key": "$REF",
+              "value": "options\\menu\\inline"
+            },
+            {
+              "key": "rows",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "key": "hotkey_group",
+          "value": ""
+        },
+        {
+          "key": "$REF",
+          "value": "tables\\ui_info"
+        },
+        {
+          "key": "icon_name",
+          "value": ""
+        },
+        {
+          "key": "help_text",
+          "value": 11142199
+        },
+        {
+          "key": "hotkey_name",
+          "value": "command_card_row01_column04"
+        },
+        {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
+          "key": "requirements",
+          "value": [
+            {
+              "key": "required_target_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_target_upgrade"
+                },
+                {
+                  "key": "check_entities_only",
+                  "value": false
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "imperial_age"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "screen_name",
+          "value": 11142200
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 132887
+    }
+  ]
+}

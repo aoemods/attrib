@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "key": "_18",
+      "value": "LEASH_TARGET"
+    },
+    {
+      "key": "_3",
+      "value": "CHARGE_BLOCK_TARGET"
+    },
+    {
+      "key": "_17",
+      "value": "IDLE_AGGRO_COMBAT_TARGET"
+    },
+    {
+      "key": "_4",
+      "value": "CHARGE_TARGET"
+    },
+    {
+      "key": "_7",
+      "value": "COMMANDED_COMBAT_TARGET"
+    },
+    {
+      "key": "_9",
+      "value": "ENTITY_COMMAND_TARGET"
+    },
+    {
+      "key": "_16",
+      "value": "HERDER_TARGET"
+    },
+    {
+      "key": "_24",
+      "value": "RIDER_0_TARGET"
+    },
+    {
+      "key": "_0",
+      "value": "ATTACK_COMMAND_TARGET"
+    },
+    {
+      "key": "_22",
+      "value": "RESOURCE_DROPOFF_SEARCH_RESULT"
+    },
+    {
+      "key": "_8",
+      "value": "COVER_TARGET"
+    },
+    {
+      "key": "_21",
+      "value": "RESOURCE_DROPOFF"
+    },
+    {
+      "key": "_13",
+      "value": "FLEE_RETURN_TO_POSITION"
+    },
+    {
+      "key": "_19",
+      "value": "RANDOM_WANDER"
+    },
+    {
+      "key": "_31",
+      "value": "VEHICLE_TARGET"
+    },
+    {
+      "key": "_11",
+      "value": "ENTITY_MOVE_TARGET"
+    },
+    {
+      "key": "_2",
+      "value": "BRACE_TARGET"
+    },
+    {
+      "key": "_20",
+      "value": "RESOURCE_DEPOSIT"
+    },
+    {
+      "key": "_34",
+      "value": "WORLD_INTEREST_WANDER"
+    },
+    {
+      "key": "_29",
+      "value": "TRADE_HOME"
+    },
+    {
+      "key": "_30",
+      "value": "TRADE_PARTNER"
+    },
+    {
+      "key": "_27",
+      "value": "RIDER_SPEARMAN_TARGET"
+    },
+    {
+      "key": "_15",
+      "value": "FORMATION_SPOT"
+    },
+    {
+      "key": "_28",
+      "value": "SIEGE_SETUP_AGGRO"
+    },
+    {
+      "key": "_23",
+      "value": "RETALIATE_TARGET"
+    },
+    {
+      "key": "_14",
+      "value": "FORCED_ENGAGED_TARGET"
+    },
+    {
+      "key": "_25",
+      "value": "RIDER_ARCHER_1_TARGET"
+    },
+    {
+      "key": "_12",
+      "value": "FLEE_FROM_TARGET"
+    },
+    {
+      "key": "_6",
+      "value": "COMBAT_TARGET"
+    },
+    {
+      "key": "_1",
+      "value": "ATTACK_MOVE_TARGET"
+    },
+    {
+      "key": "_32",
+      "value": "WORLD_INTEREST_STIMULUS"
+    },
+    {
+      "key": "_33",
+      "value": "WORLD_INTEREST_STIMULUS_PREVIOUS"
+    },
+    {
+      "key": "_5",
+      "value": "COMBAT_CONSTRAINT_LOCATION"
+    },
+    {
+      "key": "_26",
+      "value": "RIDER_ARCHER_2_TARGET"
+    },
+    {
+      "key": "_10",
+      "value": "ENTITY_CONSTRUCT_TARGET"
+    }
+  ]
+}

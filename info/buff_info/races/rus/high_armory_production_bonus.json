@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\rus\\abilities\\production_bonus"
+        },
+        {
+          "key": "description",
+          "value": 11215219
+        },
+        {
+          "key": "title",
+          "value": 11191732
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 207572
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

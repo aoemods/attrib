@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\abilities\\leader_healing_effect"
+        },
+        {
+          "key": "description",
+          "value": 11203465
+        },
+        {
+          "key": "title",
+          "value": 11203466
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 205966
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

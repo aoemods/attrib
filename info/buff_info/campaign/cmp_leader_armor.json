@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\abilities\\armor"
+        },
+        {
+          "key": "description",
+          "value": 11189471
+        },
+        {
+          "key": "title",
+          "value": 11189472
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 204988
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

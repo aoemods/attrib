@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "key": "achievement_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11202629
+        },
+        {
+          "key": "xbox_achievement_id",
+          "value": "22"
+        },
+        {
+          "key": "prerequisite_tasks",
+          "value": [
+          ]
+        },
+        {
+          "key": "icon",
+          "value": "achievements\\campaign_moment_get_off_my_bailey"
+        },
+        {
+          "key": "challenge_definition_id",
+          "value": 1474309
+        },
+        {
+          "key": "prerequisite_achievements",
+          "value": [
+          ]
+        },
+        {
+          "key": "steam_achievement_id",
+          "value": "A022_"
+        },
+        {
+          "key": "reward_xp",
+          "value": 0
+        },
+        {
+          "key": "hidden",
+          "value": false
+        },
+        {
+          "key": "type",
+          "value": 2
+        },
+        {
+          "key": "description",
+          "value": 11202630
+        },
+        {
+          "key": "item_bundle",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2033330
+    }
+  ]
+}

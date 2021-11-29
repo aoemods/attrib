@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\unit_stat_attack"
+        },
+        {
+          "key": "description",
+          "value": 11168909
+        },
+        {
+          "key": "title",
+          "value": 11168905
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 191275
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": ""
+        },
+        {
+          "key": "$PBGMAP",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

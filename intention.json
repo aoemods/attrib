@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "key": "_42",
+      "value": "pickup"
+    },
+    {
+      "key": "_18",
+      "value": "heal"
+    },
+    {
+      "key": "_52",
+      "value": "tense"
+    },
+    {
+      "key": "_3",
+      "value": "building_unpack"
+    },
+    {
+      "key": "_36",
+      "value": "move_pathblockedcombat"
+    },
+    {
+      "key": "_48",
+      "value": "setup"
+    },
+    {
+      "key": "_50",
+      "value": "supervise_chi"
+    },
+    {
+      "key": "_17",
+      "value": "grow"
+    },
+    {
+      "key": "_49",
+      "value": "startblock"
+    },
+    {
+      "key": "_4",
+      "value": "changeweapon"
+    },
+    {
+      "key": "_7",
+      "value": "collect_tax"
+    },
+    {
+      "key": "_9",
+      "value": "convert_abb"
+    },
+    {
+      "key": "_16",
+      "value": "gate_rear_open"
+    },
+    {
+      "key": "_24",
+      "value": "job_fell"
+    },
+    {
+      "key": "_0",
+      "value": "attack"
+    },
+    {
+      "key": "_22",
+      "value": "job_dojob"
+    },
+    {
+      "key": "_8",
+      "value": "combat_strafe"
+    },
+    {
+      "key": "_21",
+      "value": "job_construct"
+    },
+    {
+      "key": "_13",
+      "value": "gate_front_block_pathfinding"
+    },
+    {
+      "key": "_45",
+      "value": "remove_relic"
+    },
+    {
+      "key": "_19",
+      "value": "inhold"
+    },
+    {
+      "key": "_31",
+      "value": "landmark_death"
+    },
+    {
+      "key": "_11",
+      "value": "face"
+    },
+    {
+      "key": "_53",
+      "value": "trade_cart_escape_fre"
+    },
+    {
+      "key": "_43",
+      "value": "push_shuffle"
+    },
+    {
+      "key": "_35",
+      "value": "move_jog"
+    },
+    {
+      "key": "_2",
+      "value": "building_packup"
+    },
+    {
+      "key": "_47",
+      "value": "seek_shelter"
+    },
+    {
+      "key": "_20",
+      "value": "inspire_hre"
+    },
+    {
+      "key": "_41",
+      "value": "no_trans_to_idle"
+    },
+    {
+      "key": "_37",
+      "value": "move_run"
+    },
+    {
+      "key": "_46",
+      "value": "return_tax"
+    },
+    {
+      "key": "_34",
+      "value": "move"
+    },
+    {
+      "key": "_29",
+      "value": "job_waiting"
+    },
+    {
+      "key": "_38",
+      "value": "move_sprint"
+    },
+    {
+      "key": "_30",
+      "value": "keep_construct_outpost"
+    },
+    {
+      "key": "_27",
+      "value": "job_revive"
+    },
+    {
+      "key": "_15",
+      "value": "gate_rear_block_pathfinding"
+    },
+    {
+      "key": "_28",
+      "value": "job_till"
+    },
+    {
+      "key": "_51",
+      "value": "teardown"
+    },
+    {
+      "key": "_23",
+      "value": "job_dropoff"
+    },
+    {
+      "key": "_14",
+      "value": "gate_front_open"
+    },
+    {
+      "key": "_25",
+      "value": "job_gather"
+    },
+    {
+      "key": "_39",
+      "value": "move_strafe"
+    },
+    {
+      "key": "_12",
+      "value": "fireship_detonate"
+    },
+    {
+      "key": "_6",
+      "value": "cheer"
+    },
+    {
+      "key": "_1",
+      "value": "brace"
+    },
+    {
+      "key": "_32",
+      "value": "longbow_fire_rate"
+    },
+    {
+      "key": "_44",
+      "value": "putdown"
+    },
+    {
+      "key": "_40",
+      "value": "move_walk"
+    },
+    {
+      "key": "_33",
+      "value": "longbow_setup_camp"
+    },
+    {
+      "key": "_5",
+      "value": "charge"
+    },
+    {
+      "key": "_26",
+      "value": "job_repair"
+    },
+    {
+      "key": "_10",
+      "value": "dead"
+    }
+  ]
+}

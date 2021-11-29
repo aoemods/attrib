@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 180365
+    },
+    {
+      "key": "paint_scheme_bag",
+      "value": [
+        {
+          "key": "name",
+          "value": 11159590
+        },
+        {
+          "key": "paint_primary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "player_4"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "badge_secondary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "paint_tertiary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "paint_trim",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "player_4"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "badge_primary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "paint_secondary",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "player_4"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "paint"
+            }
+          ]
+        },
+        {
+          "key": "inventory_item_categories",
+          "value": [
+          ]
+        }
+      ]
+    }
+  ]
+}

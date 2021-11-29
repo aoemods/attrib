@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "key": "ui_selection_bag",
+      "value": [
+        {
+          "key": "texture",
+          "value": "selection\\dashed_line_unstyled"
+        },
+        {
+          "key": "u_animation_rate",
+          "value": 0.25
+        },
+        {
+          "key": "diffuse",
+          "value": 1694498815
+        },
+        {
+          "key": "height_clamp",
+          "value": 1
+        },
+        {
+          "key": "selection_target_type",
+          "value": 0
+        },
+        {
+          "key": "corner_radius",
+          "value": 0
+        },
+        {
+          "key": "scale",
+          "value": 1
+        },
+        {
+          "key": "scale_absolute",
+          "value": false
+        },
+        {
+          "key": "thickness",
+          "value": 1.5
+        },
+        {
+          "key": "visible_in_fow",
+          "value": false
+        },
+        {
+          "key": "type",
+          "value": "rectangle"
+        },
+        {
+          "key": "max_divisions",
+          "value": 45
+        },
+        {
+          "key": "selection_type",
+          "value": 9
+        },
+        {
+          "key": "reticule",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "team_colourize",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 112800
+    }
+  ]
+}

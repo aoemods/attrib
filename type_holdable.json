@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "hold_infantry_ranged"
+    },
+    {
+      "key": "_4",
+      "value": "hold_khan"
+    },
+    {
+      "key": "_7",
+      "value": "hold_villager"
+    },
+    {
+      "key": "_0",
+      "value": "hold_cavalry"
+    },
+    {
+      "key": "_2",
+      "value": "hold_infantry"
+    },
+    {
+      "key": "_6",
+      "value": "hold_siege"
+    },
+    {
+      "key": "_1",
+      "value": "hold_fishing_ship"
+    },
+    {
+      "key": "_5",
+      "value": "hold_monk"
+    }
+  ]
+}

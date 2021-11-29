@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "key": "ai_strategizer_personality_bag",
+      "value": [
+        {
+          "key": "base_intention_tunings",
+          "value": [
+            {
+              "key": "intention_tuning",
+              "value": [
+                {
+                  "key": "intention_type",
+                  "value": "offense"
+                },
+                {
+                  "key": "intention_min",
+                  "value": 1
+                },
+                {
+                  "key": "intention_max",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "intention_tuning",
+              "value": [
+                {
+                  "key": "intention_type",
+                  "value": "combat"
+                },
+                {
+                  "key": "intention_min",
+                  "value": 1
+                },
+                {
+                  "key": "intention_max",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "intention_tuning",
+              "value": [
+                {
+                  "key": "intention_type",
+                  "value": "wall"
+                },
+                {
+                  "key": "intention_min",
+                  "value": -1
+                },
+                {
+                  "key": "intention_max",
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1455984
+    }
+  ]
+}

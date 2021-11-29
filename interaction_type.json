@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "key": "_3",
+      "value": "heal"
+    },
+    {
+      "key": "_4",
+      "value": "inspire_hre"
+    },
+    {
+      "key": "_7",
+      "value": "resource_drop_off"
+    },
+    {
+      "key": "_9",
+      "value": "resource_gather"
+    },
+    {
+      "key": "_16",
+      "value": "trade_cart_escape_fre"
+    },
+    {
+      "key": "_0",
+      "value": "construct"
+    },
+    {
+      "key": "_8",
+      "value": "resource_fell"
+    },
+    {
+      "key": "_13",
+      "value": "resource_worked"
+    },
+    {
+      "key": "_11",
+      "value": "resource_till"
+    },
+    {
+      "key": "_2",
+      "value": "food_generation"
+    },
+    {
+      "key": "_15",
+      "value": "trade"
+    },
+    {
+      "key": "_14",
+      "value": "seek_shelter_destination"
+    },
+    {
+      "key": "_12",
+      "value": "resource_wait_to_drop_off"
+    },
+    {
+      "key": "_6",
+      "value": "repair"
+    },
+    {
+      "key": "_1",
+      "value": "default"
+    },
+    {
+      "key": "_5",
+      "value": "official_building_reserved_chi"
+    },
+    {
+      "key": "_10",
+      "value": "resource_go_to_wait"
+    }
+  ]
+}

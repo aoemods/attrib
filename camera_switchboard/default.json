@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "key": "camera_switchboard_bag",
+      "value": [
+        {
+          "key": "defaultToolOrthoRightCamera",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_tool_ortho_right"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "camera"
+            }
+          ]
+        },
+        {
+          "key": "defaultToolOrthoTopCamera",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_tool_ortho_top"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "camera"
+            }
+          ]
+        },
+        {
+          "key": "useFollowCamOnFocus",
+          "value": false
+        },
+        {
+          "key": "defaultEmpireModeCamera",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_autodeclinate_cluster_mode"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "camera"
+            }
+          ]
+        },
+        {
+          "key": "defaultToolOrthoBackCamera",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_tool_ortho_back"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "camera"
+            }
+          ]
+        },
+        {
+          "key": "defaultToolCamera",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_tool"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "camera"
+            }
+          ]
+        },
+        {
+          "key": "defaultToolOrthoFrontCamera",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_tool_ortho_front"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "camera"
+            }
+          ]
+        },
+        {
+          "key": "defaultDebugCamera",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_free"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "camera"
+            }
+          ]
+        },
+        {
+          "key": "defaultToolOrthoLeftCamera",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_tool_ortho_left"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "camera"
+            }
+          ]
+        },
+        {
+          "key": "default_transition",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "camera_transitions\\camera_transition_linear"
+            },
+            {
+              "key": "time_sec",
+              "value": 1
+            },
+            {
+              "key": "interpolate_orientation",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "defaultCamera",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "default_autodeclinate"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "camera"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 104850
+    }
+  ]
+}

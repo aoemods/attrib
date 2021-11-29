@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "key": "info",
+      "value": [
+        {
+          "key": "icon",
+          "value": "icons\\races\\common\\abilities\\leader_attack_speed"
+        },
+        {
+          "key": "description",
+          "value": 11157810
+        },
+        {
+          "key": "title",
+          "value": 11157804
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 174865
+    },
+    {
+      "key": "parent_pbg",
+      "value": [
+        {
+          "key": "$PBGNAME",
+          "value": "ang_william_aura"
+        },
+        {
+          "key": "$PBGMAP",
+          "value": "info\\buff_info"
+        }
+      ]
+    }
+  ]
+}
