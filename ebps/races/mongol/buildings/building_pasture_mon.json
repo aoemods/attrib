@@ -1094,7 +1094,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 1
+          "value": 0.6
         },
         {
           "key": "ui_combine_type",
@@ -1103,10 +1103,6 @@
         {
           "key": "overlay_name",
           "value": ""
-        },
-        {
-          "key": "help_text",
-          "value": 11153023
         },
         {
           "key": "hotkey_name",
@@ -1123,6 +1119,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -1171,7 +1171,20 @@
           "value": [
             {
               "key": "$REF",
-              "value": ""
+              "value": "ui_text_formatter"
+            },
+            {
+              "key": "formatter",
+              "value": 11217665
+            },
+            {
+              "key": "formatter_arguments",
+              "value": [
+                {
+                  "key": "int_value",
+                  "value": 120
+                }
+              ]
             }
           ]
         },
@@ -3191,20 +3204,6 @@
         {
           "key": "must_be_in_supply",
           "value": false
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
-          ]
         }
       ]
     },

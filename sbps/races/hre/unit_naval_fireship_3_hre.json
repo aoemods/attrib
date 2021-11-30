@@ -173,6 +173,19 @@
                   "value": "abilities"
                 }
               ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "fireship_self_detonate"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
             }
           ]
         },
@@ -969,7 +982,7 @@
                     },
                     {
                       "key": "minimap_texture_scale",
-                      "value": 1
+                      "value": 0.65
                     },
                     {
                       "key": "screen_name_formatter",

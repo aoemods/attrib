@@ -414,11 +414,11 @@
             },
             {
               "key": "max",
-              "value": 13
+              "value": 12
             },
             {
               "key": "min",
-              "value": 13
+              "value": 12
             },
             {
               "key": "on_penetrated_state_trees",
@@ -1648,7 +1648,7 @@
       "value": [
         {
           "key": "$PBGNAME",
-          "value": "weapon_manatarms_2"
+          "value": "weapon_manatarms_3"
         },
         {
           "key": "$PBGMAP",

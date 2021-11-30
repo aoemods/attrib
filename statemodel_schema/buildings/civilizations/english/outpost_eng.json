@@ -392,6 +392,19 @@
         {
           "key": "target_properties",
           "value": [
+            {
+              "key": "statemodel_target_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "statemodel_target_property"
+                },
+                {
+                  "key": "target_property_id",
+                  "value": "network_of_castles_buff_originator"
+                }
+              ]
+            }
           ]
         },
         {

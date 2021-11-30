@@ -212,7 +212,7 @@
           "value": [
             {
               "key": "use_predictive_aiming",
-              "value": true
+              "value": false
             },
             {
               "key": "max_prediction_speed",
@@ -312,7 +312,7 @@
         },
         {
           "key": "rotation_speed",
-          "value": 0
+          "value": 10000
         },
         {
           "key": "speed",

@@ -362,7 +362,7 @@
                           "value": [
                             {
                               "key": "operator",
-                              "value": "equal"
+                              "value": "and"
                             },
                             {
                               "key": "$REF",
@@ -371,46 +371,127 @@
                             {
                               "key": "requirements",
                               "value": [
-                              ]
-                            },
-                            {
-                              "key": "values",
-                              "value": [
                                 {
-                                  "key": "squadtype",
+                                  "key": "requirement",
                                   "value": [
                                     {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\dynamic\\squadtype"
+                                      "key": "operator",
+                                      "value": "equal"
                                     },
                                     {
-                                      "key": "value",
-                                      "value": "Source"
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
+                                      "value": [
+                                        {
+                                          "key": "squadtype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\squadtype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": "Source"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "squadtype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\squadtype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "unit_repeater_crossbowman_2_chi"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "sbps"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
                                     }
                                   ]
                                 },
                                 {
-                                  "key": "squadtype",
+                                  "key": "requirement",
                                   "value": [
                                     {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\squadtype"
+                                      "key": "operator",
+                                      "value": "equal"
                                     },
                                     {
-                                      "key": "value",
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
                                       "value": [
                                         {
-                                          "key": "$PBGNAME",
-                                          "value": "unit_repeater_crossbowman_2_chi"
+                                          "key": "squadtype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\squadtype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": "Target"
+                                            }
+                                          ]
                                         },
                                         {
-                                          "key": "$PBGMAP",
-                                          "value": "sbps"
+                                          "key": "squadtype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\squadtype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "unit_core"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "sbps"
+                                                }
+                                              ]
+                                            }
+                                          ]
                                         }
                                       ]
                                     }
                                   ]
                                 }
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
                               ]
                             }
                           ]

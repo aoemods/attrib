@@ -853,10 +853,6 @@
               "value": "intersection"
             },
             {
-              "key": "help_text",
-              "value": 11205518
-            },
-            {
               "key": "hotkey_name",
               "value": "e"
             },
@@ -873,7 +869,20 @@
               "value": [
                 {
                   "key": "$REF",
-                  "value": ""
+                  "value": "ui_text_formatter"
+                },
+                {
+                  "key": "formatter",
+                  "value": 11205518
+                },
+                {
+                  "key": "formatter_arguments",
+                  "value": [
+                    {
+                      "key": "int_value",
+                      "value": 2
+                    }
+                  ]
                 }
               ]
             },

@@ -409,7 +409,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 60
+              "value": 300
             },
             {
               "key": "cost",

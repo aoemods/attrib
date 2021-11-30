@@ -1333,19 +1333,15 @@
                     },
                     {
                       "key": "$REF",
-                      "value": "options\\area_info_options\\pie_area_option"
-                    },
-                    {
-                      "key": "angle_right",
-                      "value": 45
-                    },
-                    {
-                      "key": "angle_left",
-                      "value": -45
+                      "value": "options\\area_info_options\\circle_area_option"
                     },
                     {
                       "key": "outer_radius",
-                      "value": 5
+                      "value": 3
+                    },
+                    {
+                      "key": "is_two_dimensional",
+                      "value": true
                     }
                   ]
                 },
@@ -1575,7 +1571,7 @@
             },
             {
               "key": "min",
-              "value": 10
+              "value": 12
             },
             {
               "key": "max_height",
@@ -1612,11 +1608,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 6
+                  "value": 4
                 },
                 {
                   "key": "min",
-                  "value": 6
+                  "value": 4
                 }
               ]
             },

@@ -254,7 +254,7 @@
         },
         {
           "key": "subclass_type",
-          "value": 0
+          "value": 6
         },
         {
           "key": "is_spawned_when_not_in_interactive_area",
@@ -1322,6 +1322,10 @@
         {
           "key": "selection_method",
           "value": "obb_size"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -3012,20 +3016,6 @@
                 }
               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
           ]
         }
       ]

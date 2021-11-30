@@ -68,7 +68,7 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "local_region_dist_classic_gold_a_naval"
+                  "value": "local_region_dist_classic_gold_a"
                 },
                 {
                   "key": "$PBGMAP",
@@ -94,7 +94,7 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "local_region_dist_classic_stone_a_naval"
+                  "value": "local_region_dist_classic_stone_a"
                 },
                 {
                   "key": "$PBGMAP",
@@ -133,7 +133,7 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "local_region_dist_classic_gold_tertiary_naval"
+                  "value": "local_region_dist_classic_gold_tertiary_hill"
                 },
                 {
                   "key": "$PBGMAP",
@@ -146,7 +146,7 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "local_region_dist_classic_stone_tertiary_naval"
+                  "value": "local_region_dist_classic_stone_tertiary"
                 },
                 {
                   "key": "$PBGMAP",

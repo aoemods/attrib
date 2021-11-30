@@ -81,6 +81,54 @@
       ]
     },
     {
+      "key": "interactive_object_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\interactive_object_ext"
+        },
+        {
+          "key": "type_list",
+          "value": [
+            {
+              "key": "type",
+              "value": [
+                {
+                  "key": "max_number",
+                  "value": 1
+                },
+                {
+                  "key": "prefer_number",
+                  "value": 1
+                },
+                {
+                  "key": "block_pathing_when_interacted",
+                  "value": false
+                },
+                {
+                  "key": "node_list_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\none"
+                    }
+                  ]
+                },
+                {
+                  "key": "interaction_target_type",
+                  "value": "entity"
+                },
+                {
+                  "key": "interaction_type",
+                  "value": "inspire_hre"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "hit_object_ext",
       "value": [
         {
@@ -1174,6 +1222,10 @@
           "value": "bone_obb"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },
@@ -1678,389 +1730,6 @@
           "key": "deferred_action_state_trees",
           "value": [
           ]
-        }
-      ]
-    },
-    {
-      "key": "combat_ext",
-      "value": [
-        {
-          "key": "combat_choice_tree",
-          "value": "entity_combat_manager"
-        },
-        {
-          "key": "attack_move",
-          "value": [
-            {
-              "key": "attack_move_priority_per_distance_meter",
-              "value": -0.2
-            },
-            {
-              "key": "attack_move_targeting_range",
-              "value": 0
-            }
-          ]
-        },
-        {
-          "key": "block_melee_blocks_per_sequence",
-          "value": 0
-        },
-        {
-          "key": "block_frontal_arc",
-          "value": 0
-        },
-        {
-          "key": "scan_interval_cached_target_valid",
-          "value": 2
-        },
-        {
-          "key": "hardpoints",
-          "value": [
-            {
-              "key": "hardpoint",
-              "value": [
-                {
-                  "key": "initialize_weapons_on_creation",
-                  "value": true
-                },
-                {
-                  "key": "firing_offset_markers",
-                  "value": [
-                  ]
-                },
-                {
-                  "key": "weapon_table",
-                  "value": [
-                    {
-                      "key": "weapon",
-                      "value": [
-                        {
-                          "key": "possible_blueprint_updates",
-                          "value": [
-                          ]
-                        },
-                        {
-                          "key": "length",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "options\\attachment_types\\entity_create_attachment"
-                        },
-                        {
-                          "key": "non_entity_weapon_wrapper",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": ""
-                            }
-                          ]
-                        },
-                        {
-                          "key": "entity_attach_data",
-                          "value": [
-                            {
-                              "key": "attachment_flags",
-                              "value": [
-                                {
-                                  "key": "assign_as_attachment_movement_leader",
-                                  "value": false
-                                },
-                                {
-                                  "key": "receive_parent_animations",
-                                  "value": false
-                                },
-                                {
-                                  "key": "sim_only",
-                                  "value": false
-                                },
-                                {
-                                  "key": "assign_as_attachment_combat_leader",
-                                  "value": false
-                                },
-                                {
-                                  "key": "restore_snap_to_ground_on_detach",
-                                  "value": false
-                                },
-                                {
-                                  "key": "join_parent_squad",
-                                  "value": false
-                                },
-                                {
-                                  "key": "redirect_damage_to_parent_entity",
-                                  "value": true
-                                },
-                                {
-                                  "key": "receive_parent_death",
-                                  "value": false
-                                },
-                                {
-                                  "key": "no_sim_update",
-                                  "value": true
-                                },
-                                {
-                                  "key": "not_snappable",
-                                  "value": false
-                                },
-                                {
-                                  "key": "no_pathfinding",
-                                  "value": false
-                                }
-                              ]
-                            },
-                            {
-                              "key": "attach_data",
-                              "value": [
-                                {
-                                  "key": "parent_rigidbody_target_name",
-                                  "value": ""
-                                },
-                                {
-                                  "key": "game_object_attachment_type",
-                                  "value": 0
-                                },
-                                {
-                                  "key": "$REF",
-                                  "value": "attachments\\attach_data"
-                                },
-                                {
-                                  "key": "marker_name_parent",
-                                  "value": ""
-                                }
-                              ]
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "attachments\\attach_data_entity"
-                            },
-                            {
-                              "key": "ebp",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": "wpn_range_dummy"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "ebps"
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "origin",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0.6
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": -1.5
-                            }
-                          ]
-                        },
-                        {
-                          "key": "type",
-                          "value": "dummy"
-                        },
-                        {
-                          "key": "heading",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "base_marker",
-                  "value": ""
-                },
-                {
-                  "key": "receives_attack_commands",
-                  "value": false
-                },
-                {
-                  "key": "preferred_inventory_item_categories",
-                  "value": [
-                  ]
-                },
-                {
-                  "key": "parent_hardpoint",
-                  "value": -1
-                },
-                {
-                  "key": "offhand_marker",
-                  "value": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "combat_scan_intervals",
-          "value": [
-            {
-              "key": "idle_scan_intervals",
-              "value": [
-                {
-                  "key": "interval_with_valid_target_frequent",
-                  "value": 0.5
-                },
-                {
-                  "key": "frequent_scan_radius",
-                  "value": 0
-                },
-                {
-                  "key": "interval_with_valid_target",
-                  "value": 2
-                },
-                {
-                  "key": "interval_with_invalid_target",
-                  "value": 1
-                }
-              ]
-            },
-            {
-              "key": "forced_engagement_scan_intervals",
-              "value": [
-                {
-                  "key": "interval_with_valid_target",
-                  "value": 2
-                },
-                {
-                  "key": "interval_with_invalid_target",
-                  "value": 0.375
-                }
-              ]
-            },
-            {
-              "key": "attack_move_scan_intervals",
-              "value": [
-                {
-                  "key": "interval_with_valid_target_frequent",
-                  "value": 0.5
-                },
-                {
-                  "key": "frequent_scan_radius",
-                  "value": 0
-                },
-                {
-                  "key": "interval_with_valid_target",
-                  "value": 2
-                },
-                {
-                  "key": "interval_with_invalid_target",
-                  "value": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "scan_interval_cached_target_invalid",
-          "value": 1
-        },
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\combat_ext"
-        },
-        {
-          "key": "idle_targeting",
-          "value": [
-            {
-              "key": "idle_priority_per_distance_unit_angle_multiplier",
-              "value": 0
-            },
-            {
-              "key": "idle_targeting_range",
-              "value": 0
-            },
-            {
-              "key": "idle_priority_per_distance_meter",
-              "value": -0.25
-            },
-            {
-              "key": "idle_priority_per_angle_degree",
-              "value": -0.5
-            }
-          ]
-        },
-        {
-          "key": "unequip_weapons_on_death",
-          "value": true
-        },
-        {
-          "key": "block_projectile_incoming_attack_sequence_length",
-          "value": 1
-        },
-        {
-          "key": "reject_attack_command",
-          "value": false
-        },
-        {
-          "key": "sight_hardpoint",
-          "value": -1
-        },
-        {
-          "key": "ui_show_most_progressed_weapon_reload",
-          "value": false
-        },
-        {
-          "key": "target_scanning_priority_override",
-          "value": [
-          ]
-        },
-        {
-          "key": "kill_action_tree",
-          "value": [
-            {
-              "key": "start_suspended",
-              "value": false
-            },
-            {
-              "key": "ActionTree_OpeningBranch",
-              "value": ""
-            },
-            {
-              "key": "$REF",
-              "value": "state_tree_reference_info"
-            }
-          ]
-        },
-        {
-          "key": "block_ranged_blocks_per_sequence",
-          "value": 0
-        },
-        {
-          "key": "block_melee_incoming_attack_sequence_length",
-          "value": 1
-        },
-        {
-          "key": "block_ranged_incoming_attack_sequence_length",
-          "value": 1
-        },
-        {
-          "key": "block_projectile_blocks_per_sequence",
-          "value": 0
         }
       ]
     },
@@ -2584,20 +2253,6 @@
         {
           "key": "$REF",
           "value": "ebpextensions\\tier_ext"
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
-          ]
         }
       ]
     },

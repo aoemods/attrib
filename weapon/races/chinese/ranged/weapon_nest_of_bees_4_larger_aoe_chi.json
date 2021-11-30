@@ -165,7 +165,7 @@
                 },
                 {
                   "key": "far",
-                  "value": 0.5
+                  "value": 0.4
                 }
               ]
             },
@@ -1571,7 +1571,7 @@
             },
             {
               "key": "min",
-              "value": 10
+              "value": 12
             },
             {
               "key": "max_height",

@@ -830,15 +830,6 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Terrance Fairfield"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
                           "value": "Sam Griffin"
                         },
                         {
@@ -858,6 +849,15 @@
                         {
                           "key": "title",
                           "value": 11207174
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "name",
+                          "value": "Terrance Fairfield"
                         }
                       ]
                     },
@@ -1667,7 +1667,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Joshua Watkins"
+                          "value": "Josh Watkins"
                         }
                       ]
                     },
@@ -1837,7 +1837,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Jason Verheil"
+                          "value": "Jason Verhiel"
                         }
                       ]
                     },
@@ -2439,6 +2439,15 @@
                         {
                           "key": "name",
                           "value": "Connor Bartol"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "name",
+                          "value": "Cristiano Costantini"
                         }
                       ]
                     },
@@ -3412,6 +3421,15 @@
                       "value": [
                         {
                           "key": "name",
+                          "value": "Brynn MacPherson"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "name",
                           "value": "Vlad Rozic"
                         },
                         {
@@ -3466,15 +3484,6 @@
                         {
                           "key": "name",
                           "value": "Justin Van Roon"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
-                          "value": "Vlad Rozic"
                         }
                       ]
                     }

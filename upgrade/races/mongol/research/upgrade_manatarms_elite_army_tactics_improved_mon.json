@@ -657,15 +657,15 @@
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 15
+                      "value": 30
                     },
                     {
                       "key": "int_value",
-                      "value": 15
+                      "value": 30
                     },
                     {
                       "key": "int_value",
-                      "value": 5
+                      "value": 10
                     }
                   ]
                 }

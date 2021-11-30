@@ -1362,6 +1362,10 @@
           "value": "custom_obbs"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },
@@ -2038,7 +2042,7 @@
                 },
                 {
                   "key": "wood",
-                  "value": 60
+                  "value": 75
                 }
               ]
             }

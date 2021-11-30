@@ -1293,7 +1293,7 @@
         },
         {
           "key": "icon_name",
-          "value": "races\\common\\units\\mangonel_3"
+          "value": "races\\common\\units\\mangonel"
         },
         {
           "key": "minimap_teamcolor",
@@ -1355,6 +1355,10 @@
         {
           "key": "selection_method",
           "value": "custom_obbs"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": -4
         },
         {
           "key": "sound_alternative",
@@ -2721,7 +2725,7 @@
         },
         {
           "key": "tooltip_data_template",
-          "value": ""
+          "value": "BuildingMilitaryDataTemplate"
         },
         {
           "key": "ui_range_radius",
@@ -2919,20 +2923,6 @@
         {
           "key": "prefer_spots_on_side_with_leader",
           "value": false
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
-          ]
         }
       ]
     },

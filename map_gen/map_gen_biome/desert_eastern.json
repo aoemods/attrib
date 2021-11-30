@@ -5217,11 +5217,11 @@
                   "value": [
                     {
                       "key": "horizontal",
-                      "value": 0.5
+                      "value": 0.75
                     },
                     {
                       "key": "vertical",
-                      "value": 0.5
+                      "value": 0.75
                     }
                   ]
                 },

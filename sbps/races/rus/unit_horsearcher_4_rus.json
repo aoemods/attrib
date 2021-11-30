@@ -1042,7 +1042,7 @@
                     },
                     {
                       "key": "minimap_texture_scale",
-                      "value": 1
+                      "value": 0.65
                     },
                     {
                       "key": "screen_name_formatter",
@@ -1085,7 +1085,7 @@
                     },
                     {
                       "key": "selection_datatemplate",
-                      "value": "MilitaryUnitSelectionDataTemplate"
+                      "value": "UniqueDatatemplate"
                     },
                     {
                       "key": "selection_group",
@@ -1180,7 +1180,7 @@
                     },
                     {
                       "key": "is_unique_to_race",
-                      "value": false
+                      "value": true
                     },
                     {
                       "key": "ui_combine_type",

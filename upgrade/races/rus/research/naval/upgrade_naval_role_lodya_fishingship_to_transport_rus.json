@@ -200,7 +200,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "feudal_age"
+                      "value": "dark_age"
                     },
                     {
                       "key": "$PBGMAP",
@@ -939,7 +939,7 @@
                 },
                 {
                   "key": "wood",
-                  "value": 40
+                  "value": 50
                 }
               ]
             }

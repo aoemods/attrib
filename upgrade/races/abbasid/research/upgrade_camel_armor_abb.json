@@ -30,7 +30,7 @@
           "value": [
             {
               "key": "ui_position_column",
-              "value": 3
+              "value": 2
             },
             {
               "key": "ui_position_row",
@@ -287,7 +287,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": "house_of_wisdom_entity_abb\\camel_visual_selector"
+                  "value": "house_of_wisdom_entity_abb\\camel_barding"
                 },
                 {
                   "key": "$REF",
@@ -429,7 +429,7 @@
             },
             {
               "key": "tooltip_data_template",
-              "value": "BuildingUpgradeDataTemplate"
+              "value": "UniqueBuildingUpgradeDataTemplate"
             },
             {
               "key": "help_text_formatter",
@@ -550,7 +550,7 @@
               "value": [
                 {
                   "key": "unit_class",
-                  "value": "mameluke"
+                  "value": "camel"
                 }
               ]
             }

@@ -2,7 +2,7 @@
   "data": [
     {
       "key": "_163",
-      "value": "mameluke_anti_cavalry_aura_timer"
+      "value": "longbow_arrow_volley_rate_of_fire_eng"
     },
     {
       "key": "_42",
@@ -14,7 +14,7 @@
     },
     {
       "key": "_205",
-      "value": "raid_bounty_food_mon"
+      "value": "ProdResource"
     },
     {
       "key": "_54",
@@ -22,7 +22,7 @@
     },
     {
       "key": "_179",
-      "value": "MetaMap_Income_Bonus"
+      "value": "MetaMap_Companies_UsedCapacity"
     },
     {
       "key": "_99",
@@ -30,15 +30,15 @@
     },
     {
       "key": "_311",
-      "value": "villager_tool_test"
+      "value": "universal_heal_count"
     },
     {
       "key": "_221",
-      "value": "repair_cost_wood"
+      "value": "repair_cost_stone"
     },
     {
       "key": "_251",
-      "value": "scar_monk"
+      "value": "scar_mangonel_tier"
     },
     {
       "key": "_133",
@@ -58,23 +58,23 @@
     },
     {
       "key": "_310",
-      "value": "universal_heal_count"
+      "value": "universal_buff_count"
     },
     {
       "key": "_137",
-      "value": "InOverlapResolution"
+      "value": "InDeathThroes"
     },
     {
       "key": "_183",
-      "value": "monk_heal_rate"
+      "value": "military_score"
     },
     {
       "key": "_215",
-      "value": "relic_gold_income_per_second"
+      "value": "relic_gold_generation_rate"
     },
     {
       "key": "_200",
-      "value": "pilgrim_spawn_rate"
+      "value": "pasture_sheep_timer_mon"
     },
     {
       "key": "_123",
@@ -82,11 +82,11 @@
     },
     {
       "key": "_187",
-      "value": "monk_overheal_max"
+      "value": "monk_out_of_combat_heal_time"
     },
     {
       "key": "_219",
-      "value": "relics_in_docks_hre"
+      "value": "relic_total_generation_rate"
     },
     {
       "key": "_18",
@@ -98,7 +98,7 @@
     },
     {
       "key": "_260",
-      "value": "scar_trade_cart"
+      "value": "scar_spearman_tier"
     },
     {
       "key": "_120",
@@ -106,7 +106,7 @@
     },
     {
       "key": "_266",
-      "value": "scuttle_timer"
+      "value": "scout_falcon_duration_mon"
     },
     {
       "key": "_103",
@@ -114,7 +114,7 @@
     },
     {
       "key": "_182",
-      "value": "military_score"
+      "value": "military_building_healing_aura_count_mon"
     },
     {
       "key": "_3",
@@ -146,7 +146,7 @@
     },
     {
       "key": "_257",
-      "value": "scar_siege_tower"
+      "value": "scar_scout"
     },
     {
       "key": "_115",
@@ -154,11 +154,11 @@
     },
     {
       "key": "_267",
-      "value": "secured_relics"
+      "value": "scuttle_timer"
     },
     {
       "key": "_157",
-      "value": "Khan_Spawner"
+      "value": "khan_signal_arrow_range"
     },
     {
       "key": "_69",
@@ -170,27 +170,27 @@
     },
     {
       "key": "_245",
-      "value": "scar_knight"
+      "value": "scar_horseman_tier"
     },
     {
       "key": "_141",
-      "value": "IsBracing"
+      "value": "is_packed"
     },
     {
       "key": "_291",
-      "value": "Total_Followers"
+      "value": "Tithed_Followers"
     },
     {
       "key": "_231",
-      "value": "saints_blessing_armour_bonus_rus"
+      "value": "royal_cart_relic_modifier_hre"
     },
     {
       "key": "_186",
-      "value": "monk_out_of_combat_heal_time"
+      "value": "monk_inspiration_cast_time"
     },
     {
       "key": "_276",
-      "value": "stone_gold_piece_depleted"
+      "value": "society_score"
     },
     {
       "key": "_49",
@@ -198,7 +198,7 @@
     },
     {
       "key": "_211",
-      "value": "Relic_Capacity"
+      "value": "rapid_fire_count_chi"
     },
     {
       "key": "_4",
@@ -206,7 +206,7 @@
     },
     {
       "key": "_302",
-      "value": "trade_target_changed"
+      "value": "Trade_Cart_Wait_Time"
     },
     {
       "key": "_126",
@@ -218,11 +218,11 @@
     },
     {
       "key": "_255",
-      "value": "scar_scorpion_tier"
+      "value": "scar_scorpion"
     },
     {
       "key": "_155",
-      "value": "khan_signal_arrow_duration"
+      "value": "khan_respawn_time_penalty_mon"
     },
     {
       "key": "_119",
@@ -234,7 +234,7 @@
     },
     {
       "key": "_261",
-      "value": "scar_trebuchet_cw"
+      "value": "scar_trade_cart"
     },
     {
       "key": "_112",
@@ -246,15 +246,15 @@
     },
     {
       "key": "_238",
-      "value": "scar_bombard"
+      "value": "scar_armed_villager"
     },
     {
       "key": "_202",
-      "value": "preservation_of_knowledge_cost_reduction_abb"
+      "value": "player_declared_religious_victory"
     },
     {
       "key": "_175",
-      "value": "medical_center_heal_amount_abb"
+      "value": "Max_Pilgrims"
     },
     {
       "key": "_130",
@@ -266,15 +266,15 @@
     },
     {
       "key": "_213",
-      "value": "relic_gold_generation_multiplier"
+      "value": "Relic_Count"
     },
     {
       "key": "_170",
-      "value": "master_hunter_bounty_level_3_rus"
+      "value": "master_hunter_bounty_level_2_rus"
     },
     {
       "key": "_234",
-      "value": "saints_buff_duration_rus"
+      "value": "saints_blessing_radius_rus"
     },
     {
       "key": "_128",
@@ -282,11 +282,11 @@
     },
     {
       "key": "_190",
-      "value": "network_of_castles_attack_eng"
+      "value": "monk_relic_ability_warmup"
     },
     {
       "key": "_208",
-      "value": "raid_bounty_wood_mon"
+      "value": "raid_bounty_stone_mon"
     },
     {
       "key": "_63",
@@ -294,19 +294,19 @@
     },
     {
       "key": "_282",
-      "value": "tax_collection_cooldown_time_chi"
+      "value": "tax_amount_to_deduct_chi"
     },
     {
       "key": "_136",
-      "value": "InDeathThroes"
+      "value": "ImprovementPending"
     },
     {
       "key": "_185",
-      "value": "monk_inspiration_cast_time"
+      "value": "monk_inspiration_buff_time"
     },
     {
       "key": "_225",
-      "value": "resource_drop_off_time"
+      "value": "resource_drop_off_distance"
     },
     {
       "key": "_89",
@@ -314,7 +314,7 @@
     },
     {
       "key": "_293",
-      "value": "total_score"
+      "value": "total_resources_deposited"
     },
     {
       "key": "_117",
@@ -326,7 +326,7 @@
     },
     {
       "key": "_313",
-      "value": "wonder_timer"
+      "value": "WeaponChanged"
     },
     {
       "key": "_124",
@@ -342,11 +342,11 @@
     },
     {
       "key": "_239",
-      "value": "scar_crossbow_tier"
+      "value": "scar_bombard"
     },
     {
       "key": "_305",
-      "value": "TradeUnitInitialized"
+      "value": "TradeShouldGoToPartner"
     },
     {
       "key": "_72",
@@ -362,11 +362,11 @@
     },
     {
       "key": "_250",
-      "value": "scar_mangonel_tier"
+      "value": "scar_mangonel"
     },
     {
       "key": "_265",
-      "value": "scout_falcon_duration_mon"
+      "value": "scar_war_elephant"
     },
     {
       "key": "_107",
@@ -382,15 +382,15 @@
     },
     {
       "key": "_226",
-      "value": "resource_pickup_amount_food"
+      "value": "resource_drop_off_time"
     },
     {
       "key": "_204",
-      "value": "ProdResource"
+      "value": "ProdLevel"
     },
     {
       "key": "_217",
-      "value": "relic_threshold"
+      "value": "relic_limit"
     },
     {
       "key": "_88",
@@ -402,7 +402,7 @@
     },
     {
       "key": "_166",
-      "value": "market_auto_sell_interval"
+      "value": "manatarms_max_attack_count_chi"
     },
     {
       "key": "_22",
@@ -410,7 +410,7 @@
     },
     {
       "key": "_159",
-      "value": "last_update_trade_route_tick"
+      "value": "lancer_charge_bonus_fre"
     },
     {
       "key": "_8",
@@ -426,23 +426,23 @@
     },
     {
       "key": "_188",
-      "value": "monk_relic_ability_range"
+      "value": "monk_overheal_max"
     },
     {
       "key": "_207",
-      "value": "raid_bounty_stone_mon"
+      "value": "raid_bounty_gold_mon"
     },
     {
       "key": "_252",
-      "value": "scar_ram"
+      "value": "scar_monk"
     },
     {
       "key": "_212",
-      "value": "Relic_Count"
+      "value": "Relic_Capacity"
     },
     {
       "key": "_191",
-      "value": "network_of_castles_duration"
+      "value": "network_of_castles_attack_eng"
     },
     {
       "key": "_129",
@@ -450,11 +450,11 @@
     },
     {
       "key": "_199",
-      "value": "pasture_sheep_timer_mon"
+      "value": "pasture_default_sheep_spawn_time_mon"
     },
     {
       "key": "_198",
-      "value": "pasture_default_sheep_spawn_time_mon"
+      "value": "pack_reserve_pop_mon"
     },
     {
       "key": "_73",
@@ -466,23 +466,23 @@
     },
     {
       "key": "_280",
-      "value": "stupa_stone_amount_mon"
+      "value": "streltsy_static_deployment_counter_rus"
     },
     {
       "key": "_206",
-      "value": "raid_bounty_gold_mon"
+      "value": "raid_bounty_food_mon"
     },
     {
       "key": "_153",
-      "value": "khan_respawn_time_mon"
+      "value": "khan_respawn_time_max_mon"
     },
     {
       "key": "_210",
-      "value": "rapid_fire_count_chi"
+      "value": "raid_value"
     },
     {
       "key": "_309",
-      "value": "universal_buff_count"
+      "value": "undefined_family_id"
     },
     {
       "key": "_45",
@@ -494,23 +494,23 @@
     },
     {
       "key": "_262",
-      "value": "scar_trebuchet_traction"
+      "value": "scar_trebuchet_cw"
     },
     {
       "key": "_240",
-      "value": "scar_crossbowman"
+      "value": "scar_crossbow_tier"
     },
     {
       "key": "_297",
-      "value": "Trade_Cart_Depart_Time"
+      "value": "Trade_Cart_Carrying_Resource"
     },
     {
       "key": "_228",
-      "value": "resource_pickup_amount_stone"
+      "value": "resource_pickup_amount_gold"
     },
     {
       "key": "_242",
-      "value": "scar_horsearcher"
+      "value": "scar_handcannon"
     },
     {
       "key": "_31",
@@ -518,11 +518,11 @@
     },
     {
       "key": "_237",
-      "value": "scar_armed_villager"
+      "value": "scar_archer_tier"
     },
     {
       "key": "_164",
-      "value": "manatarms_attack_count_chi"
+      "value": "mameluke_anti_cavalry_aura_timer"
     },
     {
       "key": "_94",
@@ -530,15 +530,15 @@
     },
     {
       "key": "_277",
-      "value": "stone_rate_mon"
+      "value": "stone_gold_piece_depleted"
     },
     {
       "key": "_220",
-      "value": "repair_cost_stone"
+      "value": "relics_in_docks_hre"
     },
     {
       "key": "_269",
-      "value": "show_self_repairing_ui"
+      "value": "shouldheal"
     },
     {
       "key": "_11",
@@ -546,19 +546,19 @@
     },
     {
       "key": "_195",
-      "value": "ortoo_aura_radius_mon"
+      "value": "official_max_gold_amount_chi"
     },
     {
       "key": "_147",
-      "value": "IsSetUp"
+      "value": "IsPickingResources"
     },
     {
       "key": "_169",
-      "value": "master_hunter_bounty_level_2_rus"
+      "value": "master_hunter_bounty_level_1_rus"
     },
     {
       "key": "_232",
-      "value": "saints_blessing_damage_bonus_rus"
+      "value": "saints_blessing_armour_bonus_rus"
     },
     {
       "key": "_53",
@@ -570,11 +570,11 @@
     },
     {
       "key": "_258",
-      "value": "scar_spearman"
+      "value": "scar_siege_tower"
     },
     {
       "key": "_290",
-      "value": "Tithed_Followers"
+      "value": "times_dropped_off"
     },
     {
       "key": "_35",
@@ -582,19 +582,19 @@
     },
     {
       "key": "_176",
-      "value": "melee_attack_count_hre"
+      "value": "medical_center_heal_amount_abb"
     },
     {
       "key": "_196",
-      "value": "ortoo_speed_bonus_mon"
+      "value": "ortoo_aura_radius_mon"
     },
     {
       "key": "_160",
-      "value": "longbow_arrow_volley_duration_eng"
+      "value": "last_update_trade_route_tick"
     },
     {
       "key": "_284",
-      "value": "technologies_researched"
+      "value": "tax_cooldown_time_remaining_chi"
     },
     {
       "key": "_61",
@@ -602,15 +602,15 @@
     },
     {
       "key": "_139",
-      "value": "is_charging"
+      "value": "is_capital"
     },
     {
       "key": "_306",
-      "value": "TradingActive"
+      "value": "TradeUnitInitialized"
     },
     {
       "key": "_142",
-      "value": "IsCarryingEntity"
+      "value": "IsBracing"
     },
     {
       "key": "_2",
@@ -630,7 +630,7 @@
     },
     {
       "key": "_244",
-      "value": "scar_horseman_tier"
+      "value": "scar_horseman"
     },
     {
       "key": "_41",
@@ -642,7 +642,7 @@
     },
     {
       "key": "_274",
-      "value": "silk_road_tier_4_stone_bonus_mon"
+      "value": "silk_road_tier_4_stone_bonus_improved_mon"
     },
     {
       "key": "_56",
@@ -650,11 +650,11 @@
     },
     {
       "key": "_243",
-      "value": "scar_horseman"
+      "value": "scar_horsearcher"
     },
     {
       "key": "_264",
-      "value": "scar_war_elephant"
+      "value": "scar_villager"
     },
     {
       "key": "_37",
@@ -674,7 +674,7 @@
     },
     {
       "key": "_138",
-      "value": "is_capital"
+      "value": "InOverlapResolution"
     },
     {
       "key": "_111",
@@ -690,7 +690,7 @@
     },
     {
       "key": "_143",
-      "value": "IsFelling"
+      "value": "IsCarryingEntity"
     },
     {
       "key": "_66",
@@ -702,11 +702,11 @@
     },
     {
       "key": "_296",
-      "value": "Trade_Cart_Carrying_Resource"
+      "value": "Trade_Cart_Arrive_Time"
     },
     {
       "key": "_304",
-      "value": "TradeShouldGoToPartner"
+      "value": "TradeShouldGoHome"
     },
     {
       "key": "_38",
@@ -714,7 +714,7 @@
     },
     {
       "key": "_162",
-      "value": "longbow_arrow_volley_rate_of_fire_eng"
+      "value": "longbow_arrow_volley_range_eng"
     },
     {
       "key": "_81",
@@ -730,11 +730,11 @@
     },
     {
       "key": "_294",
-      "value": "town_center_militarize_villagers"
+      "value": "total_score"
     },
     {
       "key": "_301",
-      "value": "Trade_Cart_Wait_Time"
+      "value": "trade_cart_trade_range"
     },
     {
       "key": "_27",
@@ -742,11 +742,11 @@
     },
     {
       "key": "_275",
-      "value": "society_score"
+      "value": "silk_road_tier_4_stone_bonus_mon"
     },
     {
       "key": "_152",
-      "value": "khan_respawn_time_max_mon"
+      "value": "khan_respawn_progress_mon"
     },
     {
       "key": "_100",
@@ -774,11 +774,11 @@
     },
     {
       "key": "_140",
-      "value": "is_packed"
+      "value": "is_charging"
     },
     {
       "key": "_281",
-      "value": "tax_amount_to_deduct_chi"
+      "value": "stupa_stone_amount_mon"
     },
     {
       "key": "_70",
@@ -790,7 +790,7 @@
     },
     {
       "key": "_197",
-      "value": "pack_reserve_pop_mon"
+      "value": "ortoo_speed_bonus_mon"
     },
     {
       "key": "_98",
@@ -798,7 +798,7 @@
     },
     {
       "key": "_256",
-      "value": "scar_scout"
+      "value": "scar_scorpion_tier"
     },
     {
       "key": "_28",
@@ -818,7 +818,7 @@
     },
     {
       "key": "_165",
-      "value": "manatarms_max_attack_count_chi"
+      "value": "manatarms_attack_count_chi"
     },
     {
       "key": "_104",
@@ -826,31 +826,31 @@
     },
     {
       "key": "_146",
-      "value": "IsPickingResources"
+      "value": "IsImproved"
     },
     {
       "key": "_279",
-      "value": "streltsy_static_deployment_counter_rus"
+      "value": "streltsy_double_time_duration_rus"
     },
     {
       "key": "_312",
-      "value": "WeaponChanged"
+      "value": "villager_tool_test"
     },
     {
       "key": "_286",
-      "value": "time_spent_depleted_seconds"
+      "value": "technology_score"
     },
     {
       "key": "_268",
-      "value": "shouldheal"
+      "value": "secured_relics"
     },
     {
       "key": "_263",
-      "value": "scar_villager"
+      "value": "scar_trebuchet_traction"
     },
     {
       "key": "_192",
-      "value": "Num_Of_Trade_Carts"
+      "value": "network_of_castles_duration"
     },
     {
       "key": "_80",
@@ -858,11 +858,11 @@
     },
     {
       "key": "_216",
-      "value": "relic_limit"
+      "value": "relic_gold_income_per_second"
     },
     {
       "key": "_214",
-      "value": "relic_gold_generation_rate"
+      "value": "relic_gold_generation_multiplier"
     },
     {
       "key": "_93",
@@ -870,11 +870,11 @@
     },
     {
       "key": "_167",
-      "value": "market_trade_cart_multiplier_bonus"
+      "value": "market_auto_sell_interval"
     },
     {
       "key": "_158",
-      "value": "lancer_charge_bonus_fre"
+      "value": "Khan_Spawner"
     },
     {
       "key": "_91",
@@ -882,27 +882,27 @@
     },
     {
       "key": "_144",
-      "value": "IsGathering"
+      "value": "IsFelling"
     },
     {
       "key": "_298",
-      "value": "trade_cart_resource_trade_type_abb"
+      "value": "Trade_Cart_Depart_Time"
     },
     {
       "key": "_172",
-      "value": "max_flee_time"
+      "value": "master_hunter_bounty_total_rus"
     },
     {
       "key": "_273",
-      "value": "silk_road_tier_4_stone_bonus_improved_mon"
+      "value": "silk_road_tier_3_gold_bonus_mon"
     },
     {
       "key": "_184",
-      "value": "monk_inspiration_buff_time"
+      "value": "monk_heal_rate"
     },
     {
       "key": "_303",
-      "value": "TradeShouldGoHome"
+      "value": "trade_target_changed"
     },
     {
       "key": "_23",
@@ -914,7 +914,7 @@
     },
     {
       "key": "_203",
-      "value": "ProdLevel"
+      "value": "preservation_of_knowledge_cost_reduction_abb"
     },
     {
       "key": "_86",
@@ -922,15 +922,15 @@
     },
     {
       "key": "_233",
-      "value": "saints_blessing_radius_rus"
+      "value": "saints_blessing_damage_bonus_rus"
     },
     {
       "key": "_180",
-      "value": "military_building_heal_amount_mon"
+      "value": "MetaMap_Income_Bonus"
     },
     {
       "key": "_145",
-      "value": "IsImproved"
+      "value": "IsGathering"
     },
     {
       "key": "_106",
@@ -946,11 +946,11 @@
     },
     {
       "key": "_249",
-      "value": "scar_mangonel"
+      "value": "scar_manatarms_tier"
     },
     {
       "key": "_248",
-      "value": "scar_manatarms_tier"
+      "value": "scar_manatarms"
     },
     {
       "key": "_25",
@@ -962,11 +962,11 @@
     },
     {
       "key": "_223",
-      "value": "resource_depleted_delay_before_delete"
+      "value": "research_counter_sul"
     },
     {
       "key": "_135",
-      "value": "ImprovementPending"
+      "value": "idle_economy_pop"
     },
     {
       "key": "_39",
@@ -974,11 +974,11 @@
     },
     {
       "key": "_209",
-      "value": "raid_value"
+      "value": "raid_bounty_wood_mon"
     },
     {
       "key": "_224",
-      "value": "resource_drop_off_distance"
+      "value": "resource_depleted_delay_before_delete"
     },
     {
       "key": "_59",
@@ -986,11 +986,11 @@
     },
     {
       "key": "_270",
-      "value": "silk_road_tier_1_food_bonus_mon"
+      "value": "show_self_repairing_ui"
     },
     {
       "key": "_193",
-      "value": "official_collect_tax_reserve_chi"
+      "value": "Num_Of_Trade_Carts"
     },
     {
       "key": "_77",
@@ -1010,7 +1010,7 @@
     },
     {
       "key": "_230",
-      "value": "royal_cart_relic_modifier_hre"
+      "value": "resource_pickup_amount_wood"
     },
     {
       "key": "_32",
@@ -1018,7 +1018,7 @@
     },
     {
       "key": "_149",
-      "value": "keep_imperial_trait_sul"
+      "value": "IsTilling"
     },
     {
       "key": "_44",
@@ -1026,11 +1026,11 @@
     },
     {
       "key": "_222",
-      "value": "research_counter_sul"
+      "value": "repair_cost_wood"
     },
     {
       "key": "_156",
-      "value": "khan_signal_arrow_range"
+      "value": "khan_signal_arrow_duration"
     },
     {
       "key": "_40",
@@ -1038,7 +1038,7 @@
     },
     {
       "key": "_236",
-      "value": "scar_archer_tier"
+      "value": "scar_archer"
     },
     {
       "key": "_55",
@@ -1046,15 +1046,15 @@
     },
     {
       "key": "_161",
-      "value": "longbow_arrow_volley_range_eng"
+      "value": "longbow_arrow_volley_duration_eng"
     },
     {
       "key": "_168",
-      "value": "master_hunter_bounty_level_1_rus"
+      "value": "market_trade_cart_multiplier_bonus"
     },
     {
       "key": "_194",
-      "value": "official_max_gold_amount_chi"
+      "value": "official_collect_tax_reserve_chi"
     },
     {
       "key": "_116",
@@ -1066,11 +1066,11 @@
     },
     {
       "key": "_307",
-      "value": "UI_Progress"
+      "value": "TradingActive"
     },
     {
       "key": "_308",
-      "value": "undefined_family_id"
+      "value": "UI_Progress"
     },
     {
       "key": "_33",
@@ -1078,7 +1078,7 @@
     },
     {
       "key": "_150",
-      "value": "khan_raid_timer_mon"
+      "value": "keep_imperial_trait_sul"
     },
     {
       "key": "_74",
@@ -1086,27 +1086,31 @@
     },
     {
       "key": "_289",
-      "value": "times_dropped_off"
+      "value": "times_depleted_counter"
     },
     {
       "key": "_292",
-      "value": "total_resources_deposited"
+      "value": "Total_Followers"
     },
     {
       "key": "_247",
-      "value": "scar_manatarms"
+      "value": "scar_knight_tier"
+    },
+    {
+      "key": "_314",
+      "value": "wonder_timer"
     },
     {
       "key": "_278",
-      "value": "streltsy_double_time_duration_rus"
+      "value": "stone_rate_mon"
     },
     {
       "key": "_272",
-      "value": "silk_road_tier_3_gold_bonus_mon"
+      "value": "silk_road_tier_2_wood_bonus_mon"
     },
     {
       "key": "_148",
-      "value": "IsTilling"
+      "value": "IsSetUp"
     },
     {
       "key": "_79",
@@ -1114,31 +1118,31 @@
     },
     {
       "key": "_295",
-      "value": "Trade_Cart_Arrive_Time"
+      "value": "town_center_militarize_villagers"
     },
     {
       "key": "_283",
-      "value": "tax_cooldown_time_remaining_chi"
+      "value": "tax_collection_cooldown_time_chi"
     },
     {
       "key": "_171",
-      "value": "master_hunter_bounty_total_rus"
+      "value": "master_hunter_bounty_level_3_rus"
     },
     {
       "key": "_253",
-      "value": "scar_ribauldequin"
+      "value": "scar_ram"
     },
     {
       "key": "_235",
-      "value": "scar_archer"
+      "value": "saints_buff_duration_rus"
     },
     {
       "key": "_300",
-      "value": "trade_cart_trade_range"
+      "value": "trade_cart_resource_trade_type_fre"
     },
     {
       "key": "_201",
-      "value": "player_declared_religious_victory"
+      "value": "pilgrim_spawn_rate"
     },
     {
       "key": "_71",
@@ -1146,15 +1150,15 @@
     },
     {
       "key": "_227",
-      "value": "resource_pickup_amount_gold"
+      "value": "resource_pickup_amount_food"
     },
     {
       "key": "_288",
-      "value": "times_depleted_counter"
+      "value": "time_spent_dropping_off"
     },
     {
       "key": "_259",
-      "value": "scar_spearman_tier"
+      "value": "scar_spearman"
     },
     {
       "key": "_58",
@@ -1162,7 +1166,7 @@
     },
     {
       "key": "_285",
-      "value": "technology_score"
+      "value": "technologies_researched"
     },
     {
       "key": "_5",
@@ -1178,35 +1182,35 @@
     },
     {
       "key": "_173",
-      "value": "Max_Followers"
+      "value": "max_flee_time"
     },
     {
       "key": "_189",
-      "value": "monk_relic_ability_warmup"
+      "value": "monk_relic_ability_range"
     },
     {
       "key": "_299",
-      "value": "trade_cart_resource_trade_type_fre"
+      "value": "trade_cart_resource_trade_type_abb"
     },
     {
       "key": "_181",
-      "value": "military_building_healing_aura_count_mon"
+      "value": "military_building_heal_amount_mon"
     },
     {
       "key": "_218",
-      "value": "relic_total_generation_rate"
+      "value": "relic_threshold"
     },
     {
       "key": "_177",
-      "value": "MetaMap_Companies_MaxCapacity"
+      "value": "melee_attack_count_hre"
     },
     {
       "key": "_229",
-      "value": "resource_pickup_amount_wood"
+      "value": "resource_pickup_amount_stone"
     },
     {
       "key": "_246",
-      "value": "scar_knight_tier"
+      "value": "scar_knight"
     },
     {
       "key": "_121",
@@ -1214,27 +1218,27 @@
     },
     {
       "key": "_151",
-      "value": "khan_respawn_progress_mon"
+      "value": "khan_raid_timer_mon"
     },
     {
       "key": "_241",
-      "value": "scar_handcannon"
+      "value": "scar_crossbowman"
     },
     {
       "key": "_174",
-      "value": "Max_Pilgrims"
+      "value": "Max_Followers"
     },
     {
       "key": "_254",
-      "value": "scar_scorpion"
+      "value": "scar_ribauldequin"
     },
     {
       "key": "_287",
-      "value": "time_spent_dropping_off"
+      "value": "time_spent_depleted_seconds"
     },
     {
       "key": "_271",
-      "value": "silk_road_tier_2_wood_bonus_mon"
+      "value": "silk_road_tier_1_food_bonus_mon"
     },
     {
       "key": "_26",
@@ -1250,11 +1254,11 @@
     },
     {
       "key": "_178",
-      "value": "MetaMap_Companies_UsedCapacity"
+      "value": "MetaMap_Companies_MaxCapacity"
     },
     {
       "key": "_154",
-      "value": "khan_respawn_time_penalty_mon"
+      "value": "khan_respawn_time_mon"
     }
   ]
 }

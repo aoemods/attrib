@@ -123,6 +123,40 @@
                   "value": "repair"
                 }
               ]
+            },
+            {
+              "key": "type",
+              "value": [
+                {
+                  "key": "max_number",
+                  "value": 1
+                },
+                {
+                  "key": "prefer_number",
+                  "value": 1
+                },
+                {
+                  "key": "block_pathing_when_interacted",
+                  "value": false
+                },
+                {
+                  "key": "node_list_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\none"
+                    }
+                  ]
+                },
+                {
+                  "key": "interaction_target_type",
+                  "value": "entity"
+                },
+                {
+                  "key": "interaction_type",
+                  "value": "inspire_hre"
+                }
+              ]
             }
           ]
         }
@@ -1344,6 +1378,10 @@
           "value": "custom_obbs"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },
@@ -1937,7 +1975,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 2
                         },
                         {
                           "key": "$REF",
@@ -2057,7 +2095,7 @@
                             },
                             {
                               "key": "z",
-                              "value": 5.2
+                              "value": 3.2
                             }
                           ]
                         },
@@ -2134,7 +2172,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 2
                         },
                         {
                           "key": "$REF",
@@ -2254,7 +2292,7 @@
                             },
                             {
                               "key": "z",
-                              "value": 5.2
+                              "value": 3.2
                             }
                           ]
                         },

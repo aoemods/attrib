@@ -76,7 +76,7 @@
         },
         {
           "key": "personnel_pop",
-          "value": 3
+          "value": 1
         }
       ]
     },
@@ -189,6 +189,40 @@
                 {
                   "key": "interaction_type",
                   "value": "seek_shelter_destination"
+                }
+              ]
+            },
+            {
+              "key": "type",
+              "value": [
+                {
+                  "key": "max_number",
+                  "value": 1
+                },
+                {
+                  "key": "prefer_number",
+                  "value": 1
+                },
+                {
+                  "key": "block_pathing_when_interacted",
+                  "value": false
+                },
+                {
+                  "key": "node_list_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\none"
+                    }
+                  ]
+                },
+                {
+                  "key": "interaction_target_type",
+                  "value": "entity"
+                },
+                {
+                  "key": "interaction_type",
+                  "value": "inspire_hre"
                 }
               ]
             }
@@ -456,7 +490,7 @@
           "value": [
             {
               "key": "default_speed",
-              "value": 3.5
+              "value": 3
             },
             {
               "key": "min_speed",
@@ -718,7 +752,7 @@
             },
             {
               "key": "Ranged",
-              "value": 15
+              "value": 30
             },
             {
               "key": "True Damage",
@@ -773,7 +807,7 @@
         },
         {
           "key": "hitpoints",
-          "value": 900
+          "value": 700
         },
         {
           "key": "receive_weapon_cover_modifiers",
@@ -1295,6 +1329,10 @@
         {
           "key": "selection_method",
           "value": "custom_obbs"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -2674,7 +2712,7 @@
         },
         {
           "key": "tooltip_data_template",
-          "value": ""
+          "value": "BuildingMilitaryDataTemplate"
         },
         {
           "key": "ui_range_radius",

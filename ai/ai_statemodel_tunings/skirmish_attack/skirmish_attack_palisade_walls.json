@@ -95,7 +95,7 @@
                 },
                 {
                   "key": "value",
-                  "value": false
+                  "value": true
                 }
               ]
             },
@@ -134,7 +134,7 @@
                 },
                 {
                   "key": "value",
-                  "value": true
+                  "value": false
                 }
               ]
             },
@@ -412,7 +412,7 @@
                 },
                 {
                   "key": "value",
-                  "value": 30
+                  "value": 50
                 }
               ]
             },
@@ -529,7 +529,7 @@
                 },
                 {
                   "key": "value",
-                  "value": 0.3
+                  "value": 0.1
                 }
               ]
             },

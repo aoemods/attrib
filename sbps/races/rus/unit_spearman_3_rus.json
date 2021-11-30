@@ -327,7 +327,33 @@
               "value": [
                 {
                   "key": "$PBGNAME",
+                  "value": "military_spearwall"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
                   "value": "military_charge"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "spearman_spearwall"
                 },
                 {
                   "key": "$PBGMAP",
@@ -1414,7 +1440,7 @@
                     },
                     {
                       "key": "minimap_texture_scale",
-                      "value": 1
+                      "value": 0.65
                     },
                     {
                       "key": "screen_name_formatter",

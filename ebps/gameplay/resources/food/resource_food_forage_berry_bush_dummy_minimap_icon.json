@@ -335,7 +335,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 0.4
+          "value": 0.25
         },
         {
           "key": "ui_combine_type",
@@ -360,6 +360,10 @@
         {
           "key": "selection_method",
           "value": "obb"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",

@@ -30,7 +30,7 @@
           "value": [
             {
               "key": "ui_position_column",
-              "value": 2
+              "value": 1
             },
             {
               "key": "ui_position_row",
@@ -429,7 +429,7 @@
             },
             {
               "key": "tooltip_data_template",
-              "value": "BuildingUpgradeDataTemplate"
+              "value": "UniqueBuildingUpgradeDataTemplate"
             },
             {
               "key": "help_text_formatter",

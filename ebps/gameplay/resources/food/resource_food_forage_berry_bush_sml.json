@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "gaia_values"
+              "value": "resource_deposit_values"
             },
             {
               "key": "$PBGMAP",
@@ -751,6 +751,10 @@
           "value": "custom_obbs"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },
@@ -1107,6 +1111,19 @@
                 {
                   "key": "$PBGNAME",
                   "value": "vehicle"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "pass_types"
+                }
+              ]
+            },
+            {
+              "key": "path_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "water_default"
                 },
                 {
                   "key": "$PBGMAP",

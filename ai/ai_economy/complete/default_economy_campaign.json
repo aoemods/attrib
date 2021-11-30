@@ -12305,7 +12305,7 @@
                 },
                 {
                   "key": "lua_binding",
-                  "value": "ScoringFunctions_Ram"
+                  "value": "ScoringFunctions_Siege"
                 },
                 {
                   "key": "minimum_score_to_produce",

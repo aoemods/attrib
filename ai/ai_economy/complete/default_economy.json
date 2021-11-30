@@ -8141,235 +8141,6 @@
                 },
                 {
                   "key": "base_scale",
-                  "value": 1000
-                },
-                {
-                  "key": "$REF",
-                  "value": "ai\\economy\\production_group"
-                },
-                {
-                  "key": "members",
-                  "value": [
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_resource_food_harvest_rate_2_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_resource_food_harvest_rate_3_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_resource_food_harvest_rate_4_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_resource_gold_harvest_rate_2_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_resource_gold_harvest_rate_3_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_resource_gold_harvest_rate_4_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_resource_wood_harvest_rate_2_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_resource_wood_harvest_rate_3_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_resource_wood_harvest_rate_4_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_unit_town_center_wheelbarrow_1_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_keep_wheelbarrow_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_villager_hunting_gear_1_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_landmark_hearty_rations_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_extended_lines_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_drift_nets_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "lua_binding",
-                  "value": "ScoringFunctions_PlayerEconUpgrade_Sultanate"
-                },
-                {
-                  "key": "minimum_score_to_produce",
-                  "value": 1
-                }
-              ]
-            },
-            {
-              "key": "production_group",
-              "value": [
-                {
-                  "key": "max_produced_ever",
-                  "value": -1
-                },
-                {
-                  "key": "max_current",
-                  "value": -1
-                },
-                {
-                  "key": "base_scale",
                   "value": 600
                 },
                 {
@@ -8397,72 +8168,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_trebuchet_4_tr_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_trebuchet_4_tr_field_construct_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_trebuchet_4_tr_double_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_trebuchet_4_cw_hre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_trebuchet_4_cw_fre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_trebuchet_4_cw_eng"
+                          "value": "unit_trebuchet_4_cw_clocktower_chi"
                         },
                         {
                           "key": "$PBGMAP",
@@ -8488,7 +8194,59 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_trebuchet_4_cw_clocktower_chi"
+                          "value": "unit_trebuchet_4_cw_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_trebuchet_4_cw_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_trebuchet_4_cw_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_trebuchet_4_tr_double_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_trebuchet_4_tr_field_construct_mon"
                         },
                         {
                           "key": "$PBGMAP",
@@ -8514,7 +8272,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_trebuchet_4_cw_abb"
+                          "value": "unit_trebuchet_4_tr_mon"
                         },
                         {
                           "key": "$PBGMAP",
@@ -8527,7 +8285,124 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_cannon_4_royal_fre"
+                          "value": "unit_trebuchet_4_cw_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_ram_3_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_ram_3_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_ram_3_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_ram_3_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_ram_3_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_ram_3_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_trebuchet_4_cw_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_ram_3_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_trebuchet_4_cw_abb"
                         },
                         {
                           "key": "$PBGMAP",
@@ -8553,176 +8428,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_cannon_4_abb"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_trebuchet_4_cw_rus"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_cannon_4_chi"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_cannon_4_hre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_cannon_4_double_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_cannon_4_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_cannon_4_rus"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_cannon_4_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_bombard_4_hre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_bombard_4_fre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_bombard_4_eng"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_bombard_4_double_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_bombard_4_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_bombard_4_chi"
+                          "value": "unit_bombard_4_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -8748,7 +8454,137 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_bombard_4_sul"
+                          "value": "unit_bombard_4_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_bombard_4_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_bombard_4_double_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_bombard_4_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_bombard_4_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_cannon_4_royal_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_bombard_4_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_cannon_4_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_cannon_4_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_cannon_4_double_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_cannon_4_hre"
                         },
                         {
                           "key": "$PBGMAP",
@@ -8774,11 +8610,50 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_trebuchet_4_cw_sul"
+                          "value": "unit_cannon_4_chi"
                         },
                         {
                           "key": "$PBGMAP",
                           "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_cannon_4_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_cannon_4_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_ram_3_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
                         }
                       ]
                     }
@@ -8790,7 +8665,7 @@
                 },
                 {
                   "key": "minimum_score_to_produce",
-                  "value": 120
+                  "value": 100
                 }
               ]
             },
@@ -10903,6 +10778,191 @@
                 },
                 {
                   "key": "base_scale",
+                  "value": 800
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\economy\\production_group"
+                },
+                {
+                  "key": "members",
+                  "value": [
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_official_1_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "lua_binding",
+                  "value": "ScoringFunctions_Official"
+                },
+                {
+                  "key": "minimum_score_to_produce",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "key": "production_group",
+              "value": [
+                {
+                  "key": "max_produced_ever",
+                  "value": -1
+                },
+                {
+                  "key": "max_current",
+                  "value": -1
+                },
+                {
+                  "key": "base_scale",
+                  "value": 1000
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\economy\\production_group"
+                },
+                {
+                  "key": "members",
+                  "value": [
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_tech_unit_infantry_control_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_tech_unit_infantry_control_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_tech_unit_infantry_control_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_tech_unit_infantry_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_tech_unit_infantry_control_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_tech_unit_infantry_control_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_tech_unit_infantry_control_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_tech_unit_infantry_control_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "lua_binding",
+                  "value": "ScoringFunctions_MilitaryResearchBuilding"
+                },
+                {
+                  "key": "minimum_score_to_produce",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "production_group",
+              "value": [
+                {
+                  "key": "max_produced_ever",
+                  "value": -1
+                },
+                {
+                  "key": "max_current",
+                  "value": -1
+                },
+                {
+                  "key": "base_scale",
                   "value": 1000
                 },
                 {
@@ -11784,6 +11844,235 @@
                 },
                 {
                   "key": "max_current",
+                  "value": -1
+                },
+                {
+                  "key": "base_scale",
+                  "value": 1000
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\economy\\production_group"
+                },
+                {
+                  "key": "members",
+                  "value": [
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_resource_food_harvest_rate_2_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_resource_food_harvest_rate_3_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_resource_food_harvest_rate_4_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_resource_gold_harvest_rate_2_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_resource_gold_harvest_rate_3_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_resource_gold_harvest_rate_4_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_resource_wood_harvest_rate_2_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_resource_wood_harvest_rate_3_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_resource_wood_harvest_rate_4_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_town_center_wheelbarrow_1_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_keep_wheelbarrow_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_villager_hunting_gear_1_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_landmark_hearty_rations_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_extended_lines_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_drift_nets_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "lua_binding",
+                  "value": "ScoringFunctions_PlayerEconUpgrade_Sultanate"
+                },
+                {
+                  "key": "minimum_score_to_produce",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "production_group",
+              "value": [
+                {
+                  "key": "max_produced_ever",
+                  "value": -1
+                },
+                {
+                  "key": "max_current",
                   "value": 1
                 },
                 {
@@ -11835,7 +12124,7 @@
                 },
                 {
                   "key": "base_scale",
-                  "value": 1000
+                  "value": 800
                 },
                 {
                   "key": "$REF",
@@ -11849,7 +12138,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_tech_university_biology_sul"
+                          "value": "upgrade_tech_military_academy_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11862,7 +12151,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_landmark_scholar_speed_sul"
+                          "value": "upgrade_tech_military_academy"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11875,7 +12164,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_landmark_scholar_sight_range_sul"
+                          "value": "upgrade_tech_military_academy_improved_mon"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11888,7 +12177,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_age3_war_elephant_elite_sul"
+                          "value": "upgrade_gunpowder_cost_chi"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11901,7 +12190,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_outpost_lookout_tower_sul"
+                          "value": "upgrade_keep_production_eng"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11914,7 +12203,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_improved_swords_sul"
+                          "value": "upgrade_enlistment_incentives_fre"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11927,7 +12216,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_siege_works_sul"
+                          "value": "upgrade_ortoo_all_units_mon"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11940,7 +12229,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_siege_weapon_speed_sul"
+                          "value": "upgrade_religious_monastery_ovoo_mon"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11953,7 +12242,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_siege_roller_trigger_sul"
+                          "value": "upgrade_cavalry_chivalry_fre"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11966,7 +12255,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_siege_mathematics_sul"
+                          "value": "upgrade_landmark_cavalry_chivalry_fre"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11979,7 +12268,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_siege_adjustable_crossbar_sul"
+                          "value": "upgrade_landmark_enlistment_incentives_fre"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11992,7 +12281,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_ranged_damage_iii_sul"
+                          "value": "upgrade_khan_signal_arrow_mon"
                         },
                         {
                           "key": "$PBGMAP",
@@ -12005,215 +12294,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_ranged_damage_ii_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_landmark_siege_elephant_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_ranged_damage_i_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_ranged_armor_ii_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_ranged_armor_i_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_melee_damage_iii_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_melee_damage_ii_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_melee_damage_i_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_melee_armor_iii_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_melee_armor_ii_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_melee_armor_i_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_manatarms_elite_army_tactics_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_unit_religious_zealous_4_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_unit_religious_piety_4_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_unit_religious_herbal_medicine_4_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_ranged_armor_iii_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_siege_chemistry_sul"
+                          "value": "upgrade_khan_signal_arrow_improved_mon"
                         },
                         {
                           "key": "$PBGMAP",
@@ -12225,71 +12306,11 @@
                 },
                 {
                   "key": "lua_binding",
-                  "value": "ScoringFunctions_PlayerUnitCombatUpgrade_Sultanate"
+                  "value": "ScoringFunctions_PlayerCombatProductionUpgrade"
                 },
                 {
                   "key": "minimum_score_to_produce",
                   "value": 1
-                }
-              ]
-            },
-            {
-              "key": "production_group",
-              "value": [
-                {
-                  "key": "max_produced_ever",
-                  "value": -1
-                },
-                {
-                  "key": "max_current",
-                  "value": -1
-                },
-                {
-                  "key": "base_scale",
-                  "value": 700
-                },
-                {
-                  "key": "$REF",
-                  "value": "ai\\economy\\production_group"
-                },
-                {
-                  "key": "members",
-                  "value": [
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_war_elephant_3_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_war_elephant_tower_4_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "lua_binding",
-                  "value": "ScoringFunctions_Elephant"
-                },
-                {
-                  "key": "minimum_score_to_produce",
-                  "value": 120
                 }
               ]
             },
@@ -12996,7 +13017,7 @@
                 },
                 {
                   "key": "base_scale",
-                  "value": 800
+                  "value": 700
                 },
                 {
                   "key": "$REF",
@@ -13010,7 +13031,20 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_official_1_chi"
+                          "value": "unit_war_elephant_3_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_war_elephant_tower_4_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13022,11 +13056,11 @@
                 },
                 {
                   "key": "lua_binding",
-                  "value": "ScoringFunctions_Official"
+                  "value": "ScoringFunctions_Elephant"
                 },
                 {
                   "key": "minimum_score_to_produce",
-                  "value": 100
+                  "value": 120
                 }
               ]
             },
@@ -13043,7 +13077,7 @@
                 },
                 {
                   "key": "base_scale",
-                  "value": 800
+                  "value": 1000
                 },
                 {
                   "key": "$REF",
@@ -13057,7 +13091,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_tech_military_academy_sul"
+                          "value": "upgrade_tech_university_biology_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13070,7 +13104,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_tech_military_academy"
+                          "value": "upgrade_landmark_scholar_speed_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13083,7 +13117,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_tech_military_academy_improved_mon"
+                          "value": "upgrade_landmark_scholar_sight_range_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13096,7 +13130,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_gunpowder_cost_chi"
+                          "value": "upgrade_age3_war_elephant_elite_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13109,7 +13143,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_keep_production_eng"
+                          "value": "upgrade_outpost_lookout_tower_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13122,7 +13156,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_enlistment_incentives_fre"
+                          "value": "upgrade_improved_swords_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13135,7 +13169,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_ortoo_all_units_mon"
+                          "value": "upgrade_siege_works_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13148,7 +13182,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_religious_monastery_ovoo_mon"
+                          "value": "upgrade_siege_weapon_speed_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13161,7 +13195,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_cavalry_chivalry_fre"
+                          "value": "upgrade_siege_roller_trigger_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13174,7 +13208,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_landmark_cavalry_chivalry_fre"
+                          "value": "upgrade_siege_mathematics_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13187,7 +13221,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_landmark_enlistment_incentives_fre"
+                          "value": "upgrade_siege_adjustable_crossbar_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13200,7 +13234,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_khan_signal_arrow_mon"
+                          "value": "upgrade_ranged_damage_iii_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13213,7 +13247,215 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_khan_signal_arrow_improved_mon"
+                          "value": "upgrade_ranged_damage_ii_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_landmark_siege_elephant_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_ranged_damage_i_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_ranged_armor_ii_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_ranged_armor_i_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_melee_damage_iii_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_melee_damage_ii_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_melee_damage_i_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_melee_armor_iii_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_melee_armor_ii_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_melee_armor_i_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_manatarms_elite_army_tactics_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_religious_zealous_4_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_religious_piety_4_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_unit_religious_herbal_medicine_4_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_ranged_armor_iii_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_siege_chemistry_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -13225,7 +13467,7 @@
                 },
                 {
                   "key": "lua_binding",
-                  "value": "ScoringFunctions_PlayerCombatProductionUpgrade"
+                  "value": "ScoringFunctions_PlayerUnitCombatUpgrade_Sultanate"
                 },
                 {
                   "key": "minimum_score_to_produce",
@@ -13453,11 +13695,11 @@
                 },
                 {
                   "key": "max_current",
-                  "value": -1
+                  "value": 10
                 },
                 {
                   "key": "base_scale",
-                  "value": 1000
+                  "value": 800
                 },
                 {
                   "key": "$REF",
@@ -13471,11 +13713,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_tower_abb"
+                          "value": "unit_monk_3_abb"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "sbps"
                         }
                       ]
                     },
@@ -13484,11 +13726,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_tower_chi"
+                          "value": "unit_monk_3_mon"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "sbps"
                         }
                       ]
                     },
@@ -13497,11 +13739,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_tower_sul"
+                          "value": "unit_monk_3_double_mon"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "sbps"
                         }
                       ]
                     },
@@ -13510,11 +13752,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_tower_rus"
+                          "value": "unit_monk_3_fre"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "sbps"
                         }
                       ]
                     },
@@ -13523,11 +13765,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_tower_hre"
+                          "value": "unit_monk_3_eng"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "sbps"
                         }
                       ]
                     },
@@ -13536,11 +13778,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_tower_fre"
+                          "value": "unit_monk_3_chi"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "sbps"
                         }
                       ]
                     },
@@ -13549,11 +13791,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_tower_eng"
+                          "value": "unit_monk_1_hre"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "sbps"
                         }
                       ]
                     }
@@ -13561,7 +13803,7 @@
                 },
                 {
                   "key": "lua_binding",
-                  "value": "ScoringFunctions_WallTower"
+                  "value": "ScoringFunctions_Monk"
                 },
                 {
                   "key": "minimum_score_to_produce",
@@ -14333,6 +14575,53 @@
                 },
                 {
                   "key": "max_current",
+                  "value": 15
+                },
+                {
+                  "key": "base_scale",
+                  "value": 800
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\economy\\production_group"
+                },
+                {
+                  "key": "members",
+                  "value": [
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "unit_monk_2_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "sbps"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "lua_binding",
+                  "value": "ScoringFunctions_SultanateMonk"
+                },
+                {
+                  "key": "minimum_score_to_produce",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "production_group",
+              "value": [
+                {
+                  "key": "max_produced_ever",
+                  "value": -1
+                },
+                {
+                  "key": "max_current",
                   "value": 10
                 },
                 {
@@ -14459,269 +14748,6 @@
                 {
                   "key": "minimum_score_to_produce",
                   "value": 1
-                }
-              ]
-            },
-            {
-              "key": "production_group",
-              "value": [
-                {
-                  "key": "max_produced_ever",
-                  "value": -1
-                },
-                {
-                  "key": "max_current",
-                  "value": 10
-                },
-                {
-                  "key": "base_scale",
-                  "value": 800
-                },
-                {
-                  "key": "$REF",
-                  "value": "ai\\economy\\production_group"
-                },
-                {
-                  "key": "members",
-                  "value": [
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_monk_3_abb"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_monk_3_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_monk_3_double_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_monk_3_fre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_monk_3_eng"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_monk_3_chi"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_monk_1_hre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "lua_binding",
-                  "value": "ScoringFunctions_Monk"
-                },
-                {
-                  "key": "minimum_score_to_produce",
-                  "value": 1
-                }
-              ]
-            },
-            {
-              "key": "production_group",
-              "value": [
-                {
-                  "key": "max_produced_ever",
-                  "value": -1
-                },
-                {
-                  "key": "max_current",
-                  "value": -1
-                },
-                {
-                  "key": "base_scale",
-                  "value": 1000
-                },
-                {
-                  "key": "$REF",
-                  "value": "ai\\economy\\production_group"
-                },
-                {
-                  "key": "members",
-                  "value": [
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_unit_naval_abb"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_unit_naval_chi"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_unit_naval_eng"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_unit_naval_fre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_unit_naval_hre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_unit_naval_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_unit_naval_rus"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_unit_naval_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "lua_binding",
-                  "value": "ScoringFunctions_Dock"
-                },
-                {
-                  "key": "minimum_score_to_produce",
-                  "value": 100
                 }
               ]
             },
@@ -18179,7 +18205,7 @@
                 },
                 {
                   "key": "base_scale",
-                  "value": 600
+                  "value": 1000
                 },
                 {
                   "key": "$REF",
@@ -18193,7 +18219,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_ram_3_abb"
+                          "value": "building_unit_naval_abb"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18206,7 +18232,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_ram_3_chi"
+                          "value": "building_unit_naval_chi"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18219,7 +18245,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_ram_3_sul"
+                          "value": "building_unit_naval_eng"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18232,7 +18258,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_ram_3_fre"
+                          "value": "building_unit_naval_fre"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18245,7 +18271,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_ram_3_hre"
+                          "value": "building_unit_naval_hre"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18258,7 +18284,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_ram_3_mon"
+                          "value": "building_unit_naval_mon"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18271,7 +18297,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_ram_3_rus"
+                          "value": "building_unit_naval_rus"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18284,7 +18310,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "unit_ram_3_eng"
+                          "value": "building_unit_naval_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18296,11 +18322,11 @@
                 },
                 {
                   "key": "lua_binding",
-                  "value": "ScoringFunctions_Ram"
+                  "value": "ScoringFunctions_Dock"
                 },
                 {
                   "key": "minimum_score_to_produce",
-                  "value": 0
+                  "value": 100
                 }
               ]
             },
@@ -18331,98 +18357,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_tech_unit_infantry_control_abb"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_tech_unit_infantry_control_eng"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_tech_unit_infantry_control_hre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_tech_unit_infantry_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_tech_unit_infantry_control_rus"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_tech_unit_infantry_control_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_tech_unit_infantry_control_fre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_tech_unit_infantry_control_chi"
+                          "value": "building_unit_religious_control_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18434,54 +18369,7 @@
                 },
                 {
                   "key": "lua_binding",
-                  "value": "ScoringFunctions_MilitaryResearchBuilding"
-                },
-                {
-                  "key": "minimum_score_to_produce",
-                  "value": 1
-                }
-              ]
-            },
-            {
-              "key": "production_group",
-              "value": [
-                {
-                  "key": "max_produced_ever",
-                  "value": -1
-                },
-                {
-                  "key": "max_current",
-                  "value": 15
-                },
-                {
-                  "key": "base_scale",
-                  "value": 800
-                },
-                {
-                  "key": "$REF",
-                  "value": "ai\\economy\\production_group"
-                },
-                {
-                  "key": "members",
-                  "value": [
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "unit_monk_2_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "sbps"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "lua_binding",
-                  "value": "ScoringFunctions_SultanateMonk"
+                  "value": "ScoringFunctions_MosqueSultanate"
                 },
                 {
                   "key": "minimum_score_to_produce",
@@ -18516,7 +18404,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_outpost_chi"
+                          "value": "building_defense_keep_chi"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18529,7 +18417,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_outpost"
+                          "value": "building_defense_keep"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18542,7 +18430,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_outpost_eng"
+                          "value": "building_defense_keep_eng"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18555,7 +18443,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_outpost_fre"
+                          "value": "building_defense_keep_fre"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18568,7 +18456,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_outpost_hre"
+                          "value": "building_defense_keep_hre"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18581,7 +18469,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_outpost_control_sul"
+                          "value": "building_defense_keep_control_rus"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18594,7 +18482,20 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_defense_outpost_control_abb"
+                          "value": "building_defense_keep_control_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_keep_control_abb"
                         },
                         {
                           "key": "$PBGMAP",
@@ -18606,11 +18507,274 @@
                 },
                 {
                   "key": "lua_binding",
-                  "value": "ScoringFunctions_Outposts"
+                  "value": "ScoringFunctions_Keeps"
                 },
                 {
                   "key": "minimum_score_to_produce",
-                  "value": 50
+                  "value": 20
+                }
+              ]
+            },
+            {
+              "key": "production_group",
+              "value": [
+                {
+                  "key": "max_produced_ever",
+                  "value": -1
+                },
+                {
+                  "key": "max_current",
+                  "value": 1
+                },
+                {
+                  "key": "base_scale",
+                  "value": 300
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\economy\\production_group"
+                },
+                {
+                  "key": "members",
+                  "value": [
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_econ_market_control_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_econ_market_control_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_econ_market_control_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_econ_market_control_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_econ_market_control_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_econ_market_control_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_econ_market_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_econ_market_control_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "lua_binding",
+                  "value": "ScoringFunctions_Markets"
+                },
+                {
+                  "key": "minimum_score_to_produce",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "production_group",
+              "value": [
+                {
+                  "key": "max_produced_ever",
+                  "value": -1
+                },
+                {
+                  "key": "max_current",
+                  "value": -1
+                },
+                {
+                  "key": "base_scale",
+                  "value": 1000
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\economy\\production_group"
+                },
+                {
+                  "key": "members",
+                  "value": [
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_tower_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_tower_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_tower_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_tower_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_tower_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_tower_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_tower_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "lua_binding",
+                  "value": "ScoringFunctions_WallTower"
+                },
+                {
+                  "key": "minimum_score_to_produce",
+                  "value": 1
                 }
               ]
             },
@@ -19811,6 +19975,131 @@
                 },
                 {
                   "key": "base_scale",
+                  "value": 100
+                },
+                {
+                  "key": "$REF",
+                  "value": "ai\\economy\\production_group"
+                },
+                {
+                  "key": "members",
+                  "value": [
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_outpost_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_outpost"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_outpost_eng"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_outpost_fre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_outpost_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_outpost_control_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_defense_outpost_control_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "lua_binding",
+                  "value": "ScoringFunctions_Outposts"
+                },
+                {
+                  "key": "minimum_score_to_produce",
+                  "value": 50
+                }
+              ]
+            },
+            {
+              "key": "production_group",
+              "value": [
+                {
+                  "key": "max_produced_ever",
+                  "value": -1
+                },
+                {
+                  "key": "max_current",
+                  "value": -1
+                },
+                {
+                  "key": "base_scale",
                   "value": 1000
                 },
                 {
@@ -20140,145 +20429,7 @@
                 },
                 {
                   "key": "max_current",
-                  "value": -1
-                },
-                {
-                  "key": "base_scale",
-                  "value": 100
-                },
-                {
-                  "key": "$REF",
-                  "value": "ai\\economy\\production_group"
-                },
-                {
-                  "key": "members",
-                  "value": [
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_defense_keep_chi"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_defense_keep"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_defense_keep_eng"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_defense_keep_fre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_defense_keep_hre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_defense_keep_control_rus"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_defense_keep_control_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_defense_keep_control_abb"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "lua_binding",
-                  "value": "ScoringFunctions_Keeps"
-                },
-                {
-                  "key": "minimum_score_to_produce",
-                  "value": 20
-                }
-              ]
-            },
-            {
-              "key": "production_group",
-              "value": [
-                {
-                  "key": "max_produced_ever",
-                  "value": -1
-                },
-                {
-                  "key": "max_current",
-                  "value": -1
+                  "value": 1
                 },
                 {
                   "key": "base_scale",
@@ -20296,11 +20447,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_tower_springald"
+                          "value": "building_wonder_age4_forbidden_control_chi"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "upgrade"
+                          "value": "ebps"
                         }
                       ]
                     },
@@ -20309,11 +20460,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_tower_cannon"
+                          "value": "building_wonder_age4_canterbury_cathedral_eng"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "upgrade"
+                          "value": "ebps"
                         }
                       ]
                     },
@@ -20322,11 +20473,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_outpost_arrowslits"
+                          "value": "building_wonder_age4_la_grande_cathedral_fre"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "upgrade"
+                          "value": "ebps"
                         }
                       ]
                     },
@@ -20335,11 +20486,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_outpost_springald"
+                          "value": "building_wonder_age4_glucksburg_castle_hre"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "upgrade"
+                          "value": "ebps"
                         }
                       ]
                     },
@@ -20348,11 +20499,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_outpost_cannon"
+                          "value": "building_wonder_age4_final_wonder_mon"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "upgrade"
+                          "value": "ebps"
                         }
                       ]
                     },
@@ -20361,11 +20512,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_keep_cannon"
+                          "value": "building_wonder_age4_saint_basils_cathedral_control_rus"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "upgrade"
+                          "value": "ebps"
                         }
                       ]
                     },
@@ -20374,11 +20525,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_keep_springald"
+                          "value": "building_wonder_age4_agra_fort_control_sul"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "upgrade"
+                          "value": "ebps"
                         }
                       ]
                     },
@@ -20387,89 +20538,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_outpost_arrowslits_mon"
+                          "value": "building_wonder_age4_great_mosque_control_abb"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_outpost_cannon_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_outpost_springald_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_outpost_handcannonslits_chi"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_wooden_castle_springald_rus"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_wooden_castle_turret_rus"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_wooden_castle_watch_rus"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
+                          "value": "ebps"
                         }
                       ]
                     }
@@ -20477,7 +20550,7 @@
                 },
                 {
                   "key": "lua_binding",
-                  "value": "ScoringFunctions_DefensiveStructureUpgrades"
+                  "value": "ScoringFunctions_Wonder"
                 },
                 {
                   "key": "minimum_score_to_produce",
@@ -21184,11 +21257,11 @@
                 },
                 {
                   "key": "max_current",
-                  "value": 1
+                  "value": -1
                 },
                 {
                   "key": "base_scale",
-                  "value": 300
+                  "value": 1000
                 },
                 {
                   "key": "$REF",
@@ -21202,11 +21275,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_econ_market_control_rus"
+                          "value": "upgrade_tower_springald"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "upgrade"
                         }
                       ]
                     },
@@ -21215,11 +21288,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_econ_market_control_fre"
+                          "value": "upgrade_tower_cannon"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "upgrade"
                         }
                       ]
                     },
@@ -21228,11 +21301,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_econ_market_control_eng"
+                          "value": "upgrade_outpost_arrowslits"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "upgrade"
                         }
                       ]
                     },
@@ -21241,11 +21314,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_econ_market_control_hre"
+                          "value": "upgrade_outpost_springald"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "upgrade"
                         }
                       ]
                     },
@@ -21254,11 +21327,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_econ_market_control_chi"
+                          "value": "upgrade_outpost_cannon"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "upgrade"
                         }
                       ]
                     },
@@ -21267,11 +21340,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_econ_market_control_sul"
+                          "value": "upgrade_keep_cannon"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "upgrade"
                         }
                       ]
                     },
@@ -21280,11 +21353,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_econ_market_mon"
+                          "value": "upgrade_keep_springald"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "upgrade"
                         }
                       ]
                     },
@@ -21293,11 +21366,102 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_econ_market_control_abb"
+                          "value": "upgrade_outpost_arrowslits_mon"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": "ebps"
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_outpost_cannon_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_outpost_springald_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_outpost_handcannonslits_chi"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_wooden_castle_springald_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_wooden_castle_turret_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_wooden_castle_watch_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_wooden_castle_arrowslits_rus"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
                         }
                       ]
                     }
@@ -21305,7 +21469,7 @@
                 },
                 {
                   "key": "lua_binding",
-                  "value": "ScoringFunctions_Markets"
+                  "value": "ScoringFunctions_DefensiveStructureUpgrades"
                 },
                 {
                   "key": "minimum_score_to_produce",
@@ -21326,7 +21490,7 @@
                 },
                 {
                   "key": "base_scale",
-                  "value": 1000
+                  "value": 950
                 },
                 {
                   "key": "$REF",
@@ -21340,98 +21504,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "building_wonder_age4_forbidden_control_chi"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_wonder_age4_canterbury_cathedral_eng"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_wonder_age4_la_grande_cathedral_fre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_wonder_age4_glucksburg_castle_hre"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_wonder_age4_final_wonder_mon"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_wonder_age4_saint_basils_cathedral_control_rus"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_wonder_age4_agra_fort_control_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_wonder_age4_great_mosque_control_abb"
+                          "value": "building_landmark_age3_great_wall_control_chi"
                         },
                         {
                           "key": "$PBGMAP",
@@ -21443,54 +21516,7 @@
                 },
                 {
                   "key": "lua_binding",
-                  "value": "ScoringFunctions_Wonder"
-                },
-                {
-                  "key": "minimum_score_to_produce",
-                  "value": 1
-                }
-              ]
-            },
-            {
-              "key": "production_group",
-              "value": [
-                {
-                  "key": "max_produced_ever",
-                  "value": -1
-                },
-                {
-                  "key": "max_current",
-                  "value": -1
-                },
-                {
-                  "key": "base_scale",
-                  "value": 1000
-                },
-                {
-                  "key": "$REF",
-                  "value": "ai\\economy\\production_group"
-                },
-                {
-                  "key": "members",
-                  "value": [
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "building_unit_religious_control_sul"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "ebps"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "lua_binding",
-                  "value": "ScoringFunctions_MosqueSultanate"
+                  "value": "ScoringFunctions_LandmarkGreatWall"
                 },
                 {
                   "key": "minimum_score_to_produce",

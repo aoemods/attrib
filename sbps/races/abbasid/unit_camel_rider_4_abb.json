@@ -1063,7 +1063,7 @@
                     },
                     {
                       "key": "minimap_texture_scale",
-                      "value": 1
+                      "value": 0.65
                     },
                     {
                       "key": "screen_name_formatter",

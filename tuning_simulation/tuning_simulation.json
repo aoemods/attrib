@@ -4372,80 +4372,195 @@
           ]
         },
         {
-          "key": "resource_starting_amount_normal",
-          "value": [
-            {
-              "key": "food",
-              "value": 0
-            },
-            {
-              "key": "action",
-              "value": 0
-            },
-            {
-              "key": "gold",
-              "value": 0
-            },
-            {
-              "key": "militia_hre",
-              "value": 0
-            },
-            {
-              "key": "popcap",
-              "value": 0
-            },
-            {
-              "key": "stone",
-              "value": 0
-            },
-            {
-              "key": "command",
-              "value": 0
-            },
-            {
-              "key": "wood",
-              "value": 0
-            }
-          ]
-        },
-        {
           "key": "commander_unlock_command_points",
           "value": 0
         },
         {
-          "key": "resource_starting_amount_quickstart",
+          "key": "resource_starting_boost",
           "value": [
             {
-              "key": "food",
-              "value": 9999
+              "key": "resource_starting_boost_group",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "resources_standard"
+                },
+                {
+                  "key": "values",
+                  "value": [
+                    {
+                      "key": "food",
+                      "value": 0
+                    },
+                    {
+                      "key": "action",
+                      "value": 0
+                    },
+                    {
+                      "key": "gold",
+                      "value": 0
+                    },
+                    {
+                      "key": "militia_hre",
+                      "value": 0
+                    },
+                    {
+                      "key": "popcap",
+                      "value": 0
+                    },
+                    {
+                      "key": "stone",
+                      "value": 0
+                    },
+                    {
+                      "key": "command",
+                      "value": 0
+                    },
+                    {
+                      "key": "wood",
+                      "value": 0
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "key": "action",
-              "value": 0
+              "key": "resource_starting_boost_group",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "resources_high"
+                },
+                {
+                  "key": "values",
+                  "value": [
+                    {
+                      "key": "food",
+                      "value": 1800
+                    },
+                    {
+                      "key": "action",
+                      "value": 0
+                    },
+                    {
+                      "key": "gold",
+                      "value": 900
+                    },
+                    {
+                      "key": "militia_hre",
+                      "value": 0
+                    },
+                    {
+                      "key": "popcap",
+                      "value": 0
+                    },
+                    {
+                      "key": "stone",
+                      "value": 800
+                    },
+                    {
+                      "key": "command",
+                      "value": 0
+                    },
+                    {
+                      "key": "wood",
+                      "value": 1850
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "key": "gold",
-              "value": 9999
+              "key": "resource_starting_boost_group",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "resources_very_high"
+                },
+                {
+                  "key": "values",
+                  "value": [
+                    {
+                      "key": "food",
+                      "value": 49800
+                    },
+                    {
+                      "key": "action",
+                      "value": 0
+                    },
+                    {
+                      "key": "gold",
+                      "value": 24900
+                    },
+                    {
+                      "key": "militia_hre",
+                      "value": 0
+                    },
+                    {
+                      "key": "popcap",
+                      "value": 0
+                    },
+                    {
+                      "key": "stone",
+                      "value": 10000
+                    },
+                    {
+                      "key": "command",
+                      "value": 0
+                    },
+                    {
+                      "key": "wood",
+                      "value": 49850
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "key": "militia_hre",
-              "value": 0
-            },
-            {
-              "key": "popcap",
-              "value": 200
-            },
-            {
-              "key": "stone",
-              "value": 9999
-            },
-            {
-              "key": "command",
-              "value": 0
-            },
-            {
-              "key": "wood",
-              "value": 9999
+              "key": "resource_starting_boost_group",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "resources_max"
+                },
+                {
+                  "key": "values",
+                  "value": [
+                    {
+                      "key": "food",
+                      "value": 99800
+                    },
+                    {
+                      "key": "action",
+                      "value": 0
+                    },
+                    {
+                      "key": "gold",
+                      "value": 99900
+                    },
+                    {
+                      "key": "militia_hre",
+                      "value": 0
+                    },
+                    {
+                      "key": "popcap",
+                      "value": 0
+                    },
+                    {
+                      "key": "stone",
+                      "value": 100000
+                    },
+                    {
+                      "key": "command",
+                      "value": 0
+                    },
+                    {
+                      "key": "wood",
+                      "value": 99850
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -5426,7 +5541,7 @@
             },
             {
               "key": "type",
-              "value": "shoot_enable_modifier"
+              "value": ""
             }
           ]
         },
@@ -5446,25 +5561,25 @@
                 },
                 {
                   "key": "minimum_addition",
-                  "value": -9000
+                  "value": 0
                 },
                 {
                   "key": "maximum_multiplier",
-                  "value": 9000
+                  "value": 2.6
                 },
                 {
                   "key": "maximum_addition",
-                  "value": 9000
+                  "value": 176
                 },
                 {
                   "key": "minimum_multiplier",
-                  "value": -9000
+                  "value": 0.1
                 }
               ]
             },
             {
               "key": "type",
-              "value": ""
+              "value": "sight_radius_modifier"
             }
           ]
         },
@@ -5578,7 +5693,7 @@
             },
             {
               "key": "type",
-              "value": "reinforce_radius_modifier"
+              "value": "shoot_enable_modifier"
             }
           ]
         },
@@ -5636,6 +5751,44 @@
                 },
                 {
                   "key": "minimum_addition",
+                  "value": -9000
+                },
+                {
+                  "key": "maximum_multiplier",
+                  "value": 9000
+                },
+                {
+                  "key": "maximum_addition",
+                  "value": 9000
+                },
+                {
+                  "key": "minimum_multiplier",
+                  "value": -9000
+                }
+              ]
+            },
+            {
+              "key": "type",
+              "value": "reinforce_radius_modifier"
+            }
+          ]
+        },
+        {
+          "key": "entity_modifier_cap",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "modifier_cap\\entity_modifier_cap"
+            },
+            {
+              "key": "cap",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "modifier_cap"
+                },
+                {
+                  "key": "minimum_addition",
                   "value": 0
                 },
                 {
@@ -5674,25 +5827,25 @@
                 },
                 {
                   "key": "minimum_addition",
-                  "value": 0
+                  "value": -9000
                 },
                 {
                   "key": "maximum_multiplier",
-                  "value": 2.6
+                  "value": 9000
                 },
                 {
                   "key": "maximum_addition",
-                  "value": 176
+                  "value": 9000
                 },
                 {
                   "key": "minimum_multiplier",
-                  "value": 0.1
+                  "value": -9000
                 }
               ]
             },
             {
               "key": "type",
-              "value": "sight_radius_modifier"
+              "value": "production_speed_modifier"
             }
           ]
         },
@@ -5735,11 +5888,11 @@
           ]
         },
         {
-          "key": "entity_modifier_cap",
+          "key": "weapon_modifier_cap",
           "value": [
             {
               "key": "$REF",
-              "value": "modifier_cap\\entity_modifier_cap"
+              "value": "modifier_cap\\weapon_modifier_cap"
             },
             {
               "key": "cap",
@@ -5750,7 +5903,7 @@
                 },
                 {
                   "key": "minimum_addition",
-                  "value": -9000
+                  "value": 0
                 },
                 {
                   "key": "maximum_multiplier",
@@ -5762,13 +5915,13 @@
                 },
                 {
                   "key": "minimum_multiplier",
-                  "value": -9000
+                  "value": 0.1
                 }
               ]
             },
             {
               "key": "type",
-              "value": "production_speed_modifier"
+              "value": "accuracy_weapon_modifier"
             }
           ]
         },
@@ -5844,7 +5997,45 @@
             },
             {
               "key": "type",
-              "value": "accuracy_weapon_modifier"
+              "value": "weapon_wind_up_modifier"
+            }
+          ]
+        },
+        {
+          "key": "weapon_modifier_cap",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "modifier_cap\\weapon_modifier_cap"
+            },
+            {
+              "key": "cap",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "modifier_cap"
+                },
+                {
+                  "key": "minimum_addition",
+                  "value": 0
+                },
+                {
+                  "key": "maximum_multiplier",
+                  "value": 9000
+                },
+                {
+                  "key": "maximum_addition",
+                  "value": 9000
+                },
+                {
+                  "key": "minimum_multiplier",
+                  "value": 0.1
+                }
+              ]
+            },
+            {
+              "key": "type",
+              "value": "weapon_wind_down_modifier"
             }
           ]
         },
@@ -7462,7 +7653,7 @@
             },
             {
               "key": "defensive_tower_alert_eng",
-              "value": false
+              "value": true
             },
             {
               "key": "age2_wonder2_built_mon",
@@ -8233,6 +8424,10 @@
               "value": false
             },
             {
+              "key": "network_of_castles_buff_originator",
+              "value": false
+            },
+            {
               "key": "gulay_gorod_blocker_rus",
               "value": false
             },
@@ -8912,6 +9107,10 @@
             },
             {
               "key": "scar_trade_cart",
+              "value": false
+            },
+            {
+              "key": "idle_economy_pop",
               "value": false
             },
             {
@@ -17702,6 +17901,10 @@
         {
           "key": "statemodel_indices",
           "value": [
+            {
+              "key": "idle_economy_pop",
+              "value": "idle_economy_pop"
+            },
             {
               "key": "progress",
               "value": "UI_Progress"

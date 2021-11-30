@@ -1026,7 +1026,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 1
+          "value": 0.6
         },
         {
           "key": "ui_combine_type",
@@ -1055,6 +1055,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -2006,6 +2010,32 @@
                 {
                   "key": "$PBGNAME",
                   "value": "upgrade_religious_monastery_ovoo_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_unit_religious_tithe_barn_4_improved_mon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_unit_religious_tithe_barn_4_mon"
                 },
                 {
                   "key": "$PBGMAP",

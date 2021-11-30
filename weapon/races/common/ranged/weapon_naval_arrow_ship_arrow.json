@@ -1579,11 +1579,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 0.7
+                  "value": 0.75
                 },
                 {
                   "key": "min",
-                  "value": 0.7
+                  "value": 0.75
                 }
               ]
             },

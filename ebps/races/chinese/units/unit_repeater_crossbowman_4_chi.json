@@ -683,7 +683,7 @@
         },
         {
           "key": "hitpoints",
-          "value": 130
+          "value": 95
         },
         {
           "key": "receive_weapon_cover_modifiers",
@@ -1343,6 +1343,10 @@
         {
           "key": "selection_method",
           "value": "obb_size"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -2382,7 +2386,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 22.5
+              "value": 15
             },
             {
               "key": "time_turns",
@@ -2393,7 +2397,7 @@
               "value": [
                 {
                   "key": "food",
-                  "value": 60
+                  "value": 20
                 },
                 {
                   "key": "action",
@@ -2553,20 +2557,6 @@
         {
           "key": "$REF",
           "value": "ebpextensions\\tier_ext"
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
-          ]
         }
       ]
     },

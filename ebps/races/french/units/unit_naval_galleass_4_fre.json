@@ -908,6 +908,10 @@
             {
               "key": "unit_type",
               "value": "annihilation_condition"
+            },
+            {
+              "key": "unit_type",
+              "value": "gunpowder"
             }
           ]
         },
@@ -1346,6 +1350,10 @@
         {
           "key": "selection_method",
           "value": "custom_obbs"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -1941,7 +1949,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 4
                         },
                         {
                           "key": "$REF",
@@ -2061,7 +2069,7 @@
                             },
                             {
                               "key": "z",
-                              "value": 6.956
+                              "value": 3
                             }
                           ]
                         },

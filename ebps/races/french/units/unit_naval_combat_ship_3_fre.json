@@ -628,7 +628,7 @@
             },
             {
               "key": "Ranged",
-              "value": 6
+              "value": 2
             },
             {
               "key": "True Damage",
@@ -1356,6 +1356,10 @@
           "value": "custom_obbs"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },
@@ -1949,7 +1953,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 1
                         },
                         {
                           "key": "$REF",
@@ -2065,7 +2069,7 @@
                             },
                             {
                               "key": "x",
-                              "value": -1.2
+                              "value": -0.2
                             },
                             {
                               "key": "z",
@@ -2146,7 +2150,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 1
                         },
                         {
                           "key": "$REF",
@@ -2262,7 +2266,7 @@
                             },
                             {
                               "key": "x",
-                              "value": 1.2
+                              "value": 0.2
                             },
                             {
                               "key": "z",
@@ -2343,7 +2347,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 1
                         },
                         {
                           "key": "$REF",
@@ -2459,7 +2463,7 @@
                             },
                             {
                               "key": "x",
-                              "value": -1
+                              "value": -0.1
                             },
                             {
                               "key": "z",
@@ -2540,7 +2544,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 1
                         },
                         {
                           "key": "$REF",
@@ -2656,7 +2660,7 @@
                             },
                             {
                               "key": "x",
-                              "value": 1
+                              "value": 0.1
                             },
                             {
                               "key": "z",

@@ -591,6 +591,10 @@
                     {
                       "key": "int_value",
                       "value": 20
+                    },
+                    {
+                      "key": "int_value",
+                      "value": 100
                     }
                   ]
                 }

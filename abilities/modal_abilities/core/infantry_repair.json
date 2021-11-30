@@ -112,7 +112,7 @@
           "value": [
             {
               "key": "ui_position_column",
-              "value": 4
+              "value": 3
             },
             {
               "key": "ui_position_row",
@@ -966,7 +966,7 @@
         },
         {
           "key": "range_ignore",
-          "value": false
+          "value": true
         },
         {
           "key": "can_queue_passive_ability",
@@ -1006,7 +1006,7 @@
         },
         {
           "key": "ignore_teardown_on_convert",
-          "value": false
+          "value": true
         },
         {
           "key": "ui_reticule_radius_min",

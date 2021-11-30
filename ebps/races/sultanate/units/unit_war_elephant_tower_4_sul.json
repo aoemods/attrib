@@ -1349,6 +1349,10 @@
           "value": "bone_obb"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },
@@ -2540,7 +2544,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_age3_war_elephant_elite_sul"
+                          "value": "upgrade_landmark_siege_elephant_sul"
                         },
                         {
                           "key": "$PBGMAP",
@@ -2575,20 +2579,6 @@
         {
           "key": "$REF",
           "value": "ebpextensions\\tier_ext"
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
-          ]
         }
       ]
     },

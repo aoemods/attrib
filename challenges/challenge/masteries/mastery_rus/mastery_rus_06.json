@@ -463,6 +463,72 @@
                                       ]
                                     }
                                   ]
+                                },
+                                {
+                                  "key": "abilitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\abilitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "sell_food"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "abilities"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "abilitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\abilitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "sell_stone"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "abilities"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "abilitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\abilitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "sell_wood"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "abilities"
+                                        }
+                                      ]
+                                    }
+                                  ]
                                 }
                               ]
                             }

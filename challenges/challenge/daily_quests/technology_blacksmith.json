@@ -412,28 +412,6 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
-                                          "value": "upgrade_manatarms_elite_army_tactics"
-                                        },
-                                        {
-                                          "key": "$PBGMAP",
-                                          "value": "upgrade"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "upgradetype",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\upgradetype"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": [
-                                        {
-                                          "key": "$PBGNAME",
                                           "value": "upgrade_cavalry_grapered_lance"
                                         },
                                         {
@@ -633,50 +611,6 @@
                                         {
                                           "key": "$PBGNAME",
                                           "value": "upgrade_improved_siege_engineers_mon"
-                                        },
-                                        {
-                                          "key": "$PBGMAP",
-                                          "value": "upgrade"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "upgradetype",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\upgradetype"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": [
-                                        {
-                                          "key": "$PBGNAME",
-                                          "value": "upgrade_manatarms_elite_army_tactics_improved_mon"
-                                        },
-                                        {
-                                          "key": "$PBGMAP",
-                                          "value": "upgrade"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "upgradetype",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\upgradetype"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": [
-                                        {
-                                          "key": "$PBGNAME",
-                                          "value": "upgrade_manatarms_elite_army_tactics_improved_mon"
                                         },
                                         {
                                           "key": "$PBGMAP",

@@ -38,7 +38,7 @@
           "value": [
             {
               "key": "ui_position_column",
-              "value": 1
+              "value": 3
             },
             {
               "key": "ui_position_row",
@@ -278,65 +278,6 @@
                 {
                   "key": "is_present",
                   "value": false
-                }
-              ]
-            },
-            {
-              "key": "required_player_upgrade",
-              "value": [
-                {
-                  "key": "include_pbg_parenting",
-                  "value": [
-                    {
-                      "key": "include_child_pbgs",
-                      "value": false
-                    },
-                    {
-                      "key": "include_parent_pbgs",
-                      "value": false
-                    }
-                  ]
-                },
-                {
-                  "key": "include_queued",
-                  "value": false
-                },
-                {
-                  "key": "include_completed",
-                  "value": true
-                },
-                {
-                  "key": "$REF",
-                  "value": "requirements\\required_player_upgrade"
-                },
-                {
-                  "key": "max_completed",
-                  "value": 100
-                },
-                {
-                  "key": "min_completed",
-                  "value": 1
-                },
-                {
-                  "key": "upgrade_name",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "value": "upgrade_naval_advanced_clinker_rus"
-                    },
-                    {
-                      "key": "$PBGMAP",
-                      "value": "upgrade"
-                    }
-                  ]
-                },
-                {
-                  "key": "reason",
-                  "value": "usage_and_display"
-                },
-                {
-                  "key": "is_present",
-                  "value": true
                 }
               ]
             }

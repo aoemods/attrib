@@ -461,6 +461,87 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
+                                          "value": "unit_repeater_crossbowman_2_chi"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "sbps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "codex_item_container",
+                          "value": [
+                            {
+                              "key": "ui_codex_info",
+                              "value": [
+                                {
+                                  "key": "ui_position",
+                                  "value": [
+                                    {
+                                      "key": "ui_position_column",
+                                      "value": -1
+                                    },
+                                    {
+                                      "key": "ui_position_row",
+                                      "value": -1
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "codex_item\\codex_item_container"
+                            },
+                            {
+                              "key": "children",
+                              "value": [
+                                {
+                                  "key": "codex_item_default",
+                                  "value": [
+                                    {
+                                      "key": "ui_codex_info",
+                                      "value": [
+                                        {
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 1
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "priority",
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "codex_item\\codex_item_default"
+                                    },
+                                    {
+                                      "key": "children",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "pbg",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
                                           "value": "building_dynasty_village_control_chi"
                                         },
                                         {
@@ -2087,6 +2168,87 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
+                                          "value": "unit_firelancer_3_chi"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "sbps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "codex_item_container",
+                          "value": [
+                            {
+                              "key": "ui_codex_info",
+                              "value": [
+                                {
+                                  "key": "ui_position",
+                                  "value": [
+                                    {
+                                      "key": "ui_position_column",
+                                      "value": -1
+                                    },
+                                    {
+                                      "key": "ui_position_row",
+                                      "value": -1
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "codex_item\\codex_item_container"
+                            },
+                            {
+                              "key": "children",
+                              "value": [
+                                {
+                                  "key": "codex_item_default",
+                                  "value": [
+                                    {
+                                      "key": "ui_codex_info",
+                                      "value": [
+                                        {
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 2
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "priority",
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "codex_item\\codex_item_default"
+                                    },
+                                    {
+                                      "key": "children",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "pbg",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
                                           "value": "building_dynasty_granary_control_chi"
                                         },
                                         {
@@ -3382,6 +3544,87 @@
                     {
                       "key": "children",
                       "value": [
+                        {
+                          "key": "codex_item_container",
+                          "value": [
+                            {
+                              "key": "ui_codex_info",
+                              "value": [
+                                {
+                                  "key": "ui_position",
+                                  "value": [
+                                    {
+                                      "key": "ui_position_column",
+                                      "value": -1
+                                    },
+                                    {
+                                      "key": "ui_position_row",
+                                      "value": -1
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "codex_item\\codex_item_container"
+                            },
+                            {
+                              "key": "children",
+                              "value": [
+                                {
+                                  "key": "codex_item_default",
+                                  "value": [
+                                    {
+                                      "key": "ui_codex_info",
+                                      "value": [
+                                        {
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 3
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "priority",
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "codex_item\\codex_item_default"
+                                    },
+                                    {
+                                      "key": "children",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "pbg",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_grenadier_4_chi"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "sbps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
                           "key": "codex_item_container",
                           "value": [

@@ -1356,6 +1356,10 @@
           "value": "custom_obbs"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },
@@ -1953,7 +1957,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 1
                         },
                         {
                           "key": "$REF",
@@ -2069,7 +2073,7 @@
                             },
                             {
                               "key": "x",
-                              "value": -1
+                              "value": 0
                             },
                             {
                               "key": "z",
@@ -2154,7 +2158,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 1
                         },
                         {
                           "key": "$REF",
@@ -2270,7 +2274,7 @@
                             },
                             {
                               "key": "x",
-                              "value": 1
+                              "value": 0
                             },
                             {
                               "key": "z",
@@ -2351,7 +2355,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 1
                         },
                         {
                           "key": "$REF",
@@ -2467,7 +2471,7 @@
                             },
                             {
                               "key": "x",
-                              "value": -1
+                              "value": 0
                             },
                             {
                               "key": "z",

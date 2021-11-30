@@ -704,27 +704,6 @@
       ]
     },
     {
-      "key": "entity_targeting_ext",
-      "value": [
-        {
-          "key": "allow_entity_scan_close_enemies",
-          "value": false
-        },
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\entity_targeting_ext"
-        },
-        {
-          "key": "history_size",
-          "value": 2
-        },
-        {
-          "key": "allow_weapon_target_scanning",
-          "value": false
-        }
-      ]
-    },
-    {
       "key": "sim_entity_ext",
       "value": [
         {
@@ -1119,6 +1098,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",

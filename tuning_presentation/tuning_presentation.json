@@ -766,7 +766,7 @@
         },
         {
           "key": "max_distance_outside_playable_area_to_distribute",
-          "value": 10
+          "value": 0
         },
         {
           "key": "options_to_display_in_match_setup_screen",
@@ -1194,7 +1194,7 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "map_size_512"
+                  "value": "map_size_416"
                 },
                 {
                   "key": "$PBGMAP",
@@ -79996,7 +79996,7 @@
           "value": [
             {
               "key": "ugc_service",
-              "value": 0
+              "value": 3
             },
             {
               "key": "initial_searched_query",

@@ -398,28 +398,6 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
-                                          "value": "unit_scout_1"
-                                        },
-                                        {
-                                          "key": "$PBGMAP",
-                                          "value": "sbps"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "squadtype",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\squadtype"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": [
-                                        {
-                                          "key": "$PBGNAME",
                                           "value": "unit_monk_3"
                                         },
                                         {

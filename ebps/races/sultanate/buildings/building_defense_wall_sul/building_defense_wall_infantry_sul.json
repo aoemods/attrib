@@ -678,27 +678,6 @@
       ]
     },
     {
-      "key": "entity_targeting_ext",
-      "value": [
-        {
-          "key": "allow_entity_scan_close_enemies",
-          "value": false
-        },
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\entity_targeting_ext"
-        },
-        {
-          "key": "history_size",
-          "value": 2
-        },
-        {
-          "key": "allow_weapon_target_scanning",
-          "value": false
-        }
-      ]
-    },
-    {
       "key": "health_ext",
       "value": [
         {
@@ -1293,7 +1272,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 1
+          "value": 0.5
         },
         {
           "key": "ui_combine_type",
@@ -1318,6 +1297,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -2301,7 +2284,7 @@
             },
             {
               "key": "initial_health",
-              "value": 250
+              "value": 350
             }
           ]
         },

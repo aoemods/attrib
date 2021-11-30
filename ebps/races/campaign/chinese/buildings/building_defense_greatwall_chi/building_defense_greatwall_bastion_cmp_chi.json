@@ -1023,6 +1023,10 @@
           "value": "obb_adjusted_to_terrain"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },

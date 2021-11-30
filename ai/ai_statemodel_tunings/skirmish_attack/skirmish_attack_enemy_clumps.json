@@ -355,11 +355,11 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": ""
+                          "value": "ai_harass_path"
                         },
                         {
                           "key": "$PBGMAP",
-                          "value": ""
+                          "value": "ai\\ai_formation_path"
                         }
                       ]
                     }

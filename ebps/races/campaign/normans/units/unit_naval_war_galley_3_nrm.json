@@ -1344,6 +1344,10 @@
           "value": "custom_obbs"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },
@@ -1966,7 +1970,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 2
                         },
                         {
                           "key": "$REF",
@@ -2086,7 +2090,7 @@
                             },
                             {
                               "key": "z",
-                              "value": 5.435
+                              "value": 2.4
                             }
                           ]
                         },
@@ -2123,7 +2127,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 2
                         },
                         {
                           "key": "$REF",
@@ -2243,7 +2247,7 @@
                             },
                             {
                               "key": "z",
-                              "value": 5.435
+                              "value": 2.4
                             }
                           ]
                         },
@@ -2320,7 +2324,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 2
                         },
                         {
                           "key": "$REF",
@@ -2440,7 +2444,7 @@
                             },
                             {
                               "key": "z",
-                              "value": 5.435
+                              "value": 3.2
                             }
                           ]
                         },

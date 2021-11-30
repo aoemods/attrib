@@ -246,28 +246,6 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
-                                          "value": "unit_handcannon_3"
-                                        },
-                                        {
-                                          "key": "$PBGMAP",
-                                          "value": "ebps"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "entitytype",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\entitytype"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": [
-                                        {
-                                          "key": "$PBGNAME",
                                           "value": "unit_ribauldequin_4"
                                         },
                                         {

@@ -93,7 +93,7 @@
                 },
                 {
                   "key": "value",
-                  "value": 50
+                  "value": 25
                 },
                 {
                   "key": "id",
@@ -110,28 +110,11 @@
                 },
                 {
                   "key": "value",
-                  "value": 50
+                  "value": 25
                 },
                 {
                   "key": "id",
                   "value": "raid_bounty_gold"
-                }
-              ]
-            },
-            {
-              "key": "upgradebag_float_property",
-              "value": [
-                {
-                  "key": "$REF",
-                  "value": "upgradebag_float_property"
-                },
-                {
-                  "key": "value",
-                  "value": 50
-                },
-                {
-                  "key": "id",
-                  "value": "raid_bounty_wood"
                 }
               ]
             }
@@ -196,7 +179,7 @@
         },
         {
           "key": "ui_event_cue",
-          "value": false
+          "value": true
         },
         {
           "key": "ui_preview",
@@ -620,7 +603,7 @@
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 125
+                      "value": 75
                     },
                     {
                       "key": "int_value",

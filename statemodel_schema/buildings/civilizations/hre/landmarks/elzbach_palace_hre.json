@@ -146,6 +146,23 @@
                   "value": "statemodel_int_property"
                 }
               ]
+            },
+            {
+              "key": "statemodel_int_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "int_property_id",
+                  "value": "douse_under_attack_hre"
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_int_property"
+                }
+              ]
             }
           ]
         },
@@ -749,6 +766,40 @@
                   "value": "moving_building_destroyed"
                 }
               ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "is_in_influence_hre"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "elzbach_influence_bonus_enabled_hre"
+                }
+              ]
             }
           ]
         }
@@ -763,7 +814,7 @@
       "value": [
         {
           "key": "$PBGNAME",
-          "value": "wonder_age3"
+          "value": "wonder_age3_hre"
         },
         {
           "key": "$PBGMAP",

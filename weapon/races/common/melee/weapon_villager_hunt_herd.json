@@ -641,7 +641,7 @@
             },
             {
               "key": "enable_auto_target_search",
-              "value": false
+              "value": true
             },
             {
               "key": "substitute_weapon",

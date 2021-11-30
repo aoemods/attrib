@@ -285,6 +285,23 @@
                           "value": [
                             {
                               "key": "default",
+                              "value": 5
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "dock_repair_rate"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
                               "value": 0
                             },
                             {
@@ -421,7 +438,7 @@
                           "value": [
                             {
                               "key": "default",
-                              "value": 5
+                              "value": 0
                             },
                             {
                               "key": "$REF",
@@ -429,7 +446,7 @@
                             },
                             {
                               "key": "float_property_id",
-                              "value": "dock_repair_rate"
+                              "value": "economy_score"
                             }
                           ]
                         },
@@ -446,7 +463,7 @@
                             },
                             {
                               "key": "float_property_id",
-                              "value": "economy_score"
+                              "value": "military_score"
                             }
                           ]
                         },
@@ -599,7 +616,7 @@
                             },
                             {
                               "key": "float_property_id",
-                              "value": "military_score"
+                              "value": "technologies_researched"
                             }
                           ]
                         },
@@ -616,7 +633,7 @@
                             },
                             {
                               "key": "float_property_id",
-                              "value": "technologies_researched"
+                              "value": "idle_economy_pop"
                             }
                           ]
                         }
@@ -943,7 +960,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 30
+                  "value": 15
                 },
                 {
                   "key": "$REF",

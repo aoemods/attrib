@@ -873,7 +873,20 @@
               "value": [
                 {
                   "key": "$REF",
-                  "value": ""
+                  "value": "ui_text_formatter"
+                },
+                {
+                  "key": "formatter",
+                  "value": 11205516
+                },
+                {
+                  "key": "formatter_arguments",
+                  "value": [
+                    {
+                      "key": "int_value",
+                      "value": 2
+                    }
+                  ]
                 }
               ]
             },

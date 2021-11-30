@@ -664,7 +664,7 @@
         },
         {
           "key": "death_action_tree",
-          "value": ""
+          "value": "building_death_actions\\buildings\\monastery_death_actions"
         }
       ]
     },
@@ -1078,6 +1078,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",

@@ -13,7 +13,7 @@
         },
         {
           "key": "activation",
-          "value": "timed"
+          "value": "self_targeted"
         },
         {
           "key": "ui_cursor",
@@ -271,7 +271,7 @@
             },
             {
               "key": "ability_activate_entity_tree",
-              "value": ""
+              "value": "monk_conversion\\Warmup"
             }
           ]
         },
@@ -486,7 +486,7 @@
         },
         {
           "key": "entity_tree",
-          "value": "monk_conversion\\Warmup"
+          "value": ""
         },
         {
           "key": "caster_close_in_distance",

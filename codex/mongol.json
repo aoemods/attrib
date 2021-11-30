@@ -2826,11 +2826,11 @@
                                   "value": [
                                     {
                                       "key": "ui_position_column",
-                                      "value": 1
+                                      "value": -1
                                     },
                                     {
                                       "key": "ui_position_row",
-                                      "value": 1
+                                      "value": -1
                                     }
                                   ]
                                 }
@@ -2844,15 +2844,33 @@
                               "key": "children",
                               "value": [
                                 {
-                                  "key": "codex_item_custom_model",
+                                  "key": "codex_item_default",
                                   "value": [
                                     {
-                                      "key": "model_type",
-                                      "value": "CodexItemModel"
+                                      "key": "ui_codex_info",
+                                      "value": [
+                                        {
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 1
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "priority",
+                                          "value": 0
+                                        }
+                                      ]
                                     },
                                     {
                                       "key": "$REF",
-                                      "value": "codex_item\\codex_item_custom_model"
+                                      "value": "codex_item\\codex_item_default"
                                     },
                                     {
                                       "key": "children",
@@ -2889,11 +2907,11 @@
                                   "value": [
                                     {
                                       "key": "ui_position_column",
-                                      "value": 1
+                                      "value": -1
                                     },
                                     {
                                       "key": "ui_position_row",
-                                      "value": 1
+                                      "value": -1
                                     }
                                   ]
                                 }
@@ -2907,78 +2925,33 @@
                               "key": "children",
                               "value": [
                                 {
-                                  "key": "codex_item_custom_model",
+                                  "key": "codex_item_default",
                                   "value": [
                                     {
-                                      "key": "model_type",
-                                      "value": "CodexItemModel"
-                                    },
-                                    {
-                                      "key": "$REF",
-                                      "value": "codex_item\\codex_item_custom_model"
-                                    },
-                                    {
-                                      "key": "children",
-                                      "value": [
-                                      ]
-                                    },
-                                    {
-                                      "key": "pbg",
+                                      "key": "ui_codex_info",
                                       "value": [
                                         {
-                                          "key": "$PBGNAME",
-                                          "value": "upgrade_unit_town_center_wheelbarrow_1"
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 1
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
                                         },
                                         {
-                                          "key": "$PBGMAP",
-                                          "value": "upgrade"
+                                          "key": "priority",
+                                          "value": 0
                                         }
                                       ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "codex_item_container",
-                          "value": [
-                            {
-                              "key": "ui_codex_info",
-                              "value": [
-                                {
-                                  "key": "ui_position",
-                                  "value": [
-                                    {
-                                      "key": "ui_position_column",
-                                      "value": 1
-                                    },
-                                    {
-                                      "key": "ui_position_row",
-                                      "value": 1
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "codex_item\\codex_item_container"
-                            },
-                            {
-                              "key": "children",
-                              "value": [
-                                {
-                                  "key": "codex_item_custom_model",
-                                  "value": [
-                                    {
-                                      "key": "model_type",
-                                      "value": "CodexItemModel"
                                     },
                                     {
                                       "key": "$REF",
-                                      "value": "codex_item\\codex_item_custom_model"
+                                      "value": "codex_item\\codex_item_default"
                                     },
                                     {
                                       "key": "children",
@@ -3053,7 +3026,88 @@
                                         },
                                         {
                                           "key": "priority",
-                                          "value": 5005
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "codex_item\\codex_item_default"
+                                    },
+                                    {
+                                      "key": "children",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "pbg",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "upgrade_unit_town_center_wheelbarrow_1"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "upgrade"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "codex_item_container",
+                          "value": [
+                            {
+                              "key": "ui_codex_info",
+                              "value": [
+                                {
+                                  "key": "ui_position",
+                                  "value": [
+                                    {
+                                      "key": "ui_position_column",
+                                      "value": -1
+                                    },
+                                    {
+                                      "key": "ui_position_row",
+                                      "value": -1
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "codex_item\\codex_item_container"
+                            },
+                            {
+                              "key": "children",
+                              "value": [
+                                {
+                                  "key": "codex_item_default",
+                                  "value": [
+                                    {
+                                      "key": "ui_codex_info",
+                                      "value": [
+                                        {
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 1
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "priority",
+                                          "value": 0
                                         }
                                       ]
                                     },

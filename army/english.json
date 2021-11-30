@@ -1710,7 +1710,7 @@
             },
             {
               "key": "one_liner",
-              "value": 11155029
+              "value": 11217954
             },
             {
               "key": "background_image",
@@ -1741,6 +1741,23 @@
                   "value": [
                     {
                       "key": "image",
+                      "value": ""
+                    },
+                    {
+                      "key": "description",
+                      "value": 11217400
+                    },
+                    {
+                      "key": "title",
+                      "value": 11217399
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
                       "value": "races\\civ_info_icon-2"
                     },
                     {
@@ -1750,6 +1767,23 @@
                     {
                       "key": "title",
                       "value": 11155025
+                    }
+                  ]
+                },
+                {
+                  "key": "trait",
+                  "value": [
+                    {
+                      "key": "image",
+                      "value": "races\\civ_info_icon"
+                    },
+                    {
+                      "key": "description",
+                      "value": 11217647
+                    },
+                    {
+                      "key": "title",
+                      "value": 11197922
                     }
                   ]
                 },
@@ -1779,24 +1813,7 @@
                     },
                     {
                       "key": "description",
-                      "value": 11197924
-                    },
-                    {
-                      "key": "title",
-                      "value": 11197922
-                    }
-                  ]
-                },
-                {
-                  "key": "trait",
-                  "value": [
-                    {
-                      "key": "image",
-                      "value": "races\\civ_info_icon"
-                    },
-                    {
-                      "key": "description",
-                      "value": 11155028
+                      "value": 11217645
                     },
                     {
                       "key": "title",

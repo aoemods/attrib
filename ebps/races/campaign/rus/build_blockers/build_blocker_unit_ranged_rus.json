@@ -542,6 +542,10 @@
           "value": "mesh_and_footprint"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },

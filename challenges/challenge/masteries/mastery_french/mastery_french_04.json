@@ -445,6 +445,28 @@
                                       ]
                                     }
                                   ]
+                                },
+                                {
+                                  "key": "entitytype",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\entitytype"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_scout_1"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "ebps"
+                                        }
+                                      ]
+                                    }
+                                  ]
                                 }
                               ]
                             }

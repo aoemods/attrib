@@ -101,6 +101,10 @@
                       "value": 1
                     },
                     {
+                      "key": "can_place_in_water",
+                      "value": false
+                    },
+                    {
                       "key": "spawn_position",
                       "value": 1
                     },

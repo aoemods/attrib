@@ -1098,7 +1098,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 0.5
+          "value": 0.3
         },
         {
           "key": "ui_combine_type",
@@ -1123,6 +1123,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -1912,6 +1916,29 @@
                                     {
                                       "key": "$PBGNAME",
                                       "value": "building_town_center_hre"
+                                    },
+                                    {
+                                      "key": "$PBGMAP",
+                                      "value": "ebps"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "satisfying_entity_group",
+                          "value": [
+                            {
+                              "key": "satisfying_entities",
+                              "value": [
+                                {
+                                  "key": "entity",
+                                  "value": [
+                                    {
+                                      "key": "$PBGNAME",
+                                      "value": "building_landmark_age3_hohenzollern_castle_hre"
                                     },
                                     {
                                       "key": "$PBGMAP",
@@ -3975,7 +4002,7 @@
         },
         {
           "key": "reject_attack_command",
-          "value": true
+          "value": false
         },
         {
           "key": "sight_hardpoint",

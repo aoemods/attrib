@@ -1044,7 +1044,7 @@
           "value": [
             {
               "key": "max_erosion_depth",
-              "value": 1.2
+              "value": 0.9
             },
             {
               "key": "steps_before_velocity_checks_start",

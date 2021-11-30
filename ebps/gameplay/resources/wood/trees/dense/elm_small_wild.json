@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "gaia_values"
+              "value": "resource_deposit_values"
             },
             {
               "key": "$PBGMAP",
@@ -762,6 +762,10 @@
         {
           "key": "selection_method",
           "value": "selection_precise_and_secondary"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",

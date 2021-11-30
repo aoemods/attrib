@@ -123,6 +123,40 @@
                   "value": "repair"
                 }
               ]
+            },
+            {
+              "key": "type",
+              "value": [
+                {
+                  "key": "max_number",
+                  "value": 1
+                },
+                {
+                  "key": "prefer_number",
+                  "value": 1
+                },
+                {
+                  "key": "block_pathing_when_interacted",
+                  "value": false
+                },
+                {
+                  "key": "node_list_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\none"
+                    }
+                  ]
+                },
+                {
+                  "key": "interaction_target_type",
+                  "value": "entity"
+                },
+                {
+                  "key": "interaction_type",
+                  "value": "inspire_hre"
+                }
+              ]
             }
           ]
         }
@@ -916,6 +950,10 @@
             {
               "key": "unit_type",
               "value": "gunpowder"
+            },
+            {
+              "key": "unit_type",
+              "value": "naval_western"
             }
           ]
         },
@@ -1362,6 +1400,10 @@
         {
           "key": "selection_method",
           "value": "custom_obbs"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -1957,7 +1999,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 2
                         },
                         {
                           "key": "$REF",
@@ -2073,7 +2115,7 @@
                             },
                             {
                               "key": "x",
-                              "value": -2.308
+                              "value": -0.3
                             },
                             {
                               "key": "z",
@@ -2154,7 +2196,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 2
                         },
                         {
                           "key": "$REF",
@@ -2270,7 +2312,7 @@
                             },
                             {
                               "key": "x",
-                              "value": -2.163
+                              "value": -0.15
                             },
                             {
                               "key": "z",
@@ -2351,7 +2393,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 2
                         },
                         {
                           "key": "$REF",
@@ -2467,7 +2509,7 @@
                             },
                             {
                               "key": "x",
-                              "value": -2.163
+                              "value": -0.15
                             },
                             {
                               "key": "z",
@@ -2548,7 +2590,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 2
                         },
                         {
                           "key": "$REF",
@@ -2664,7 +2706,7 @@
                             },
                             {
                               "key": "x",
-                              "value": 2.271
+                              "value": 0.3
                             },
                             {
                               "key": "z",
@@ -2745,7 +2787,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 2
                         },
                         {
                           "key": "$REF",
@@ -2861,7 +2903,7 @@
                             },
                             {
                               "key": "x",
-                              "value": -2.271
+                              "value": -0.3
                             },
                             {
                               "key": "z",
@@ -2942,7 +2984,7 @@
                         },
                         {
                           "key": "length",
-                          "value": 0
+                          "value": 2
                         },
                         {
                           "key": "$REF",
@@ -3058,7 +3100,7 @@
                             },
                             {
                               "key": "x",
-                              "value": 2.39
+                              "value": 0.3
                             },
                             {
                               "key": "z",

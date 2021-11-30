@@ -928,6 +928,10 @@
             {
               "key": "unit_type",
               "value": "annihilation_condition"
+            },
+            {
+              "key": "unit_type",
+              "value": "torch_thrower"
             }
           ]
         },
@@ -1355,6 +1359,10 @@
         {
           "key": "selection_method",
           "value": "obb_size"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -2772,20 +2780,6 @@
         {
           "key": "$REF",
           "value": "ebpextensions\\tier_ext"
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
-          ]
         }
       ]
     },

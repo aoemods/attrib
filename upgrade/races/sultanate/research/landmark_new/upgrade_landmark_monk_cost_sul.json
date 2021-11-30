@@ -481,7 +481,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 100
+              "value": 500
             },
             {
               "key": "cost",

@@ -1579,11 +1579,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 0.2
+                  "value": 1.25
                 },
                 {
                   "key": "min",
-                  "value": 0.2
+                  "value": 1.25
                 }
               ]
             },
@@ -1673,7 +1673,7 @@
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 5
+                  "value": 10
                 }
               ]
             }

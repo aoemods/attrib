@@ -55,19 +55,6 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "local_region_dist_classic_wood_loose"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "map_gen\\distribution\\local_region_distribution"
-                }
-              ]
-            },
-            {
-              "key": "region_distribution",
-              "value": [
-                {
-                  "key": "$PBGNAME",
                   "value": "local_region_dist_classic_food_sheep_a_small_forest"
                 },
                 {
@@ -107,6 +94,19 @@
               "value": [
                 {
                   "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_food_deer_a_large_mountains"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
                   "value": "local_region_dist_classic_food_sheep_b_small_forest"
                 },
                 {
@@ -121,6 +121,19 @@
                 {
                   "key": "$PBGNAME",
                   "value": "local_region_dist_classic_food_sheep_c_small_forest"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_wood_loose_forest"
                 },
                 {
                   "key": "$PBGMAP",

@@ -1128,6 +1128,10 @@
           "value": "obb_adjusted_to_terrain"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },
@@ -2758,7 +2762,7 @@
         },
         {
           "key": "reject_attack_command",
-          "value": true
+          "value": false
         },
         {
           "key": "sight_hardpoint",
@@ -3904,20 +3908,6 @@
         {
           "key": "must_be_in_supply",
           "value": false
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
-          ]
         }
       ]
     },

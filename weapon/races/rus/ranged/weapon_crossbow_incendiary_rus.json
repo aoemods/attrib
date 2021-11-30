@@ -1522,7 +1522,7 @@
             },
             {
               "key": "max",
-              "value": 24
+              "value": 20
             },
             {
               "key": "min",
@@ -1657,7 +1657,7 @@
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 6
+                  "value": 9
                 }
               ]
             }

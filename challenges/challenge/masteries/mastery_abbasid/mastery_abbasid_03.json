@@ -18,353 +18,6 @@
                   "value": [
                     {
                       "key": "operator",
-                      "value": "or"
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "challenges\\requirement"
-                    },
-                    {
-                      "key": "requirements",
-                      "value": [
-                        {
-                          "key": "requirement",
-                          "value": [
-                            {
-                              "key": "operator",
-                              "value": "equal"
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement"
-                            },
-                            {
-                              "key": "requirements",
-                              "value": [
-                              ]
-                            },
-                            {
-                              "key": "values",
-                              "value": [
-                                {
-                                  "key": "playercountaieasy",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\dynamic\\playercountaieasy"
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "playercountaieasy",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\playercountaieasy"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": 1
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "requirement",
-                          "value": [
-                            {
-                              "key": "operator",
-                              "value": "equal"
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement"
-                            },
-                            {
-                              "key": "requirements",
-                              "value": [
-                              ]
-                            },
-                            {
-                              "key": "values",
-                              "value": [
-                                {
-                                  "key": "playercountaimedium",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\dynamic\\playercountaimedium"
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "playercountaimedium",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\playercountaimedium"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": 1
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "requirement",
-                          "value": [
-                            {
-                              "key": "operator",
-                              "value": "equal"
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement"
-                            },
-                            {
-                              "key": "requirements",
-                              "value": [
-                              ]
-                            },
-                            {
-                              "key": "values",
-                              "value": [
-                                {
-                                  "key": "playercountaihard",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\dynamic\\playercountaihard"
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "playercountaihard",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\playercountaihard"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": 1
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "requirement",
-                          "value": [
-                            {
-                              "key": "operator",
-                              "value": "equal"
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement"
-                            },
-                            {
-                              "key": "requirements",
-                              "value": [
-                              ]
-                            },
-                            {
-                              "key": "values",
-                              "value": [
-                                {
-                                  "key": "playercountaiexpert",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\dynamic\\playercountaiexpert"
-                                    }
-                                  ]
-                                },
-                                {
-                                  "key": "playercountaiexpert",
-                                  "value": [
-                                    {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\playercountaiexpert"
-                                    },
-                                    {
-                                      "key": "value",
-                                      "value": 1
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "key": "values",
-                      "value": [
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "requirement",
-                  "value": [
-                    {
-                      "key": "operator",
-                      "value": "equal"
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "challenges\\requirement"
-                    },
-                    {
-                      "key": "requirements",
-                      "value": [
-                      ]
-                    },
-                    {
-                      "key": "values",
-                      "value": [
-                        {
-                          "key": "playercountaieasy",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement_values\\dynamic\\playercountaieasy"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "playercountaieasy",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement_values\\constant\\playercountaieasy"
-                            },
-                            {
-                              "key": "value",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "requirement",
-                  "value": [
-                    {
-                      "key": "operator",
-                      "value": "equal"
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "challenges\\requirement"
-                    },
-                    {
-                      "key": "requirements",
-                      "value": [
-                      ]
-                    },
-                    {
-                      "key": "values",
-                      "value": [
-                        {
-                          "key": "playercounthuman",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement_values\\dynamic\\playercounthuman"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "playercounthuman",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement_values\\constant\\playercounthuman"
-                            },
-                            {
-                              "key": "value",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "requirement",
-                  "value": [
-                    {
-                      "key": "operator",
-                      "value": "not"
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "challenges\\requirement"
-                    },
-                    {
-                      "key": "requirements",
-                      "value": [
-                      ]
-                    },
-                    {
-                      "key": "values",
-                      "value": [
-                        {
-                          "key": "matchtypeid",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement_values\\dynamic\\matchtypeid"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "matchtypeid",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "challenges\\requirement_values\\constant\\matchtypeid"
-                            },
-                            {
-                              "key": "value",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": "campaign"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "multiplayer\\match_type"
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "requirement",
-                  "value": [
-                    {
-                      "key": "operator",
                       "value": "equal"
                     },
                     {
@@ -440,7 +93,7 @@
         },
         {
           "key": "award_source",
-          "value": "Client"
+          "value": "ClientMatchReport"
         },
         {
           "key": "update_rule",
@@ -489,7 +142,7 @@
               "value": [
                 {
                   "key": "name",
-                  "value": "win_game"
+                  "value": "ai_total"
                 },
                 {
                   "key": "enabled",
@@ -514,7 +167,7 @@
                           "value": [
                             {
                               "key": "operator",
-                              "value": "and"
+                              "value": "or"
                             },
                             {
                               "key": "$REF",
@@ -543,20 +196,155 @@
                                       "key": "values",
                                       "value": [
                                         {
-                                          "key": "result",
+                                          "key": "playercountaieasy",
                                           "value": [
                                             {
                                               "key": "$REF",
-                                              "value": "challenges\\requirement_values\\dynamic\\result"
+                                              "value": "challenges\\requirement_values\\dynamic\\playercountaieasy"
                                             }
                                           ]
                                         },
                                         {
-                                          "key": "result",
+                                          "key": "playercountaieasy",
                                           "value": [
                                             {
                                               "key": "$REF",
-                                              "value": "challenges\\requirement_values\\constant\\result"
+                                              "value": "challenges\\requirement_values\\constant\\playercountaieasy"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": 1
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "requirement",
+                                  "value": [
+                                    {
+                                      "key": "operator",
+                                      "value": "equal"
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
+                                      "value": [
+                                        {
+                                          "key": "playercountaimedium",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\playercountaimedium"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "playercountaimedium",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\playercountaimedium"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": 1
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "requirement",
+                                  "value": [
+                                    {
+                                      "key": "operator",
+                                      "value": "equal"
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
+                                      "value": [
+                                        {
+                                          "key": "playercountaihard",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\playercountaihard"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "playercountaihard",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\playercountaihard"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": 1
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "requirement",
+                                  "value": [
+                                    {
+                                      "key": "operator",
+                                      "value": "equal"
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
+                                      "value": [
+                                        {
+                                          "key": "playercountaiexpert",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\playercountaiexpert"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "playercountaiexpert",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\playercountaiexpert"
                                             },
                                             {
                                               "key": "value",
@@ -573,6 +361,555 @@
                             {
                               "key": "values",
                               "value": [
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_counter",
+                              "value": [
+                                {
+                                  "key": "op",
+                                  "value": 6
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "none"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "human_count"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "Win"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "equal"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "playercounthuman",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\playercounthuman"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "playercounthuman",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\playercounthuman"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": 1
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_counter",
+                              "value": [
+                                {
+                                  "key": "op",
+                                  "value": 6
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "none"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "player_total"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "Win"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "equal"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "playercounttotal",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\playercounttotal"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "playercounttotal",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\playercounttotal"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": 2
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_counter",
+                              "value": [
+                                {
+                                  "key": "op",
+                                  "value": 6
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "none"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "match_type"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "Win"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "not"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "matchtypeid",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\matchtypeid"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "matchtypeid",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\matchtypeid"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "campaign"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "multiplayer\\match_type"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "actions",
+                          "value": [
+                            {
+                              "key": "change_counter",
+                              "value": [
+                                {
+                                  "key": "op",
+                                  "value": 6
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\counter_actions\\change_counter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\counters\\counter_rule"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "complete_rule",
+                  "value": [
+                    {
+                      "key": "requirement",
+                      "value": [
+                        {
+                          "key": "operator",
+                          "value": "none"
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "challenges\\requirement"
+                        },
+                        {
+                          "key": "requirements",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "values",
+                          "value": [
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "actions",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\counters\\counter_rule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "counter",
+              "value": [
+                {
+                  "key": "name",
+                  "value": "win_game"
+                },
+                {
+                  "key": "enabled",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "challenges\\counters\\counter"
+                },
+                {
+                  "key": "tracking_event",
+                  "value": "Win"
+                },
+                {
+                  "key": "trigger_rules",
+                  "value": [
+                    {
+                      "key": "counter_rule",
+                      "value": [
+                        {
+                          "key": "requirement",
+                          "value": [
+                            {
+                              "key": "operator",
+                              "value": "equal"
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement"
+                            },
+                            {
+                              "key": "requirements",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
+                                {
+                                  "key": "result",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\dynamic\\result"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "result",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement_values\\constant\\result"
+                                    },
+                                    {
+                                      "key": "value",
+                                      "value": 1
+                                    }
+                                  ]
+                                }
                               ]
                             }
                           ]
@@ -611,7 +948,7 @@
                       "value": [
                         {
                           "key": "operator",
-                          "value": "equal"
+                          "value": "and"
                         },
                         {
                           "key": "$REF",
@@ -620,37 +957,256 @@
                         {
                           "key": "requirements",
                           "value": [
+                            {
+                              "key": "requirement",
+                              "value": [
+                                {
+                                  "key": "operator",
+                                  "value": "equal"
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement"
+                                },
+                                {
+                                  "key": "requirements",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "values",
+                                  "value": [
+                                    {
+                                      "key": "clientcounter",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": "ai_total"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "generic",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\constant\\generic"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": 1
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "requirement",
+                              "value": [
+                                {
+                                  "key": "operator",
+                                  "value": "equal"
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement"
+                                },
+                                {
+                                  "key": "requirements",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "values",
+                                  "value": [
+                                    {
+                                      "key": "clientcounter",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": "human_count"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "generic",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\constant\\generic"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": 1
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "requirement",
+                              "value": [
+                                {
+                                  "key": "operator",
+                                  "value": "equal"
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement"
+                                },
+                                {
+                                  "key": "requirements",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "values",
+                                  "value": [
+                                    {
+                                      "key": "clientcounter",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": "player_total"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "generic",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\constant\\generic"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": 1
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "requirement",
+                              "value": [
+                                {
+                                  "key": "operator",
+                                  "value": "equal"
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement"
+                                },
+                                {
+                                  "key": "requirements",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "values",
+                                  "value": [
+                                    {
+                                      "key": "clientcounter",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": "match_type"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "generic",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\constant\\generic"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": 1
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "requirement",
+                              "value": [
+                                {
+                                  "key": "operator",
+                                  "value": "equal"
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "challenges\\requirement"
+                                },
+                                {
+                                  "key": "requirements",
+                                  "value": [
+                                  ]
+                                },
+                                {
+                                  "key": "values",
+                                  "value": [
+                                    {
+                                      "key": "clientcounter",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\dynamic\\clientcounter"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": "win_game"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "generic",
+                                      "value": [
+                                        {
+                                          "key": "$REF",
+                                          "value": "challenges\\requirement_values\\constant\\generic"
+                                        },
+                                        {
+                                          "key": "value",
+                                          "value": 1
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
                           ]
                         },
                         {
                           "key": "values",
                           "value": [
-                            {
-                              "key": "clientcounter",
-                              "value": [
-                                {
-                                  "key": "$REF",
-                                  "value": "challenges\\requirement_values\\dynamic\\clientcounter"
-                                },
-                                {
-                                  "key": "value",
-                                  "value": "win_game"
-                                }
-                              ]
-                            },
-                            {
-                              "key": "generic",
-                              "value": [
-                                {
-                                  "key": "$REF",
-                                  "value": "challenges\\requirement_values\\constant\\generic"
-                                },
-                                {
-                                  "key": "value",
-                                  "value": 1
-                                }
-                              ]
-                            }
                           ]
                         }
                       ]

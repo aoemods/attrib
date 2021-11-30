@@ -282,6 +282,87 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
+                                          "value": "unit_monk_1_hre"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "sbps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "codex_item_container",
+                          "value": [
+                            {
+                              "key": "ui_codex_info",
+                              "value": [
+                                {
+                                  "key": "ui_position",
+                                  "value": [
+                                    {
+                                      "key": "ui_position_column",
+                                      "value": -1
+                                    },
+                                    {
+                                      "key": "ui_position_row",
+                                      "value": -1
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "codex_item\\codex_item_container"
+                            },
+                            {
+                              "key": "children",
+                              "value": [
+                                {
+                                  "key": "codex_item_default",
+                                  "value": [
+                                    {
+                                      "key": "ui_codex_info",
+                                      "value": [
+                                        {
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 1
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "priority",
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "codex_item\\codex_item_default"
+                                    },
+                                    {
+                                      "key": "children",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "pbg",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
                                           "value": "upgrade_villager_health"
                                         },
                                         {
@@ -4023,6 +4104,379 @@
                         {
                           "key": "$PBGNAME",
                           "value": "building_landmark_age2_nuremberg_castle_hre"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "ebps"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "codex_item_default",
+                  "value": [
+                    {
+                      "key": "ui_codex_info",
+                      "value": [
+                        {
+                          "key": "ui_position",
+                          "value": [
+                            {
+                              "key": "ui_position_column",
+                              "value": 2
+                            },
+                            {
+                              "key": "ui_position_row",
+                              "value": -1
+                            }
+                          ]
+                        },
+                        {
+                          "key": "priority",
+                          "value": 3700
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "codex_item\\codex_item_default"
+                    },
+                    {
+                      "key": "children",
+                      "value": [
+                        {
+                          "key": "codex_item_container",
+                          "value": [
+                            {
+                              "key": "ui_codex_info",
+                              "value": [
+                                {
+                                  "key": "ui_position",
+                                  "value": [
+                                    {
+                                      "key": "ui_position_column",
+                                      "value": -1
+                                    },
+                                    {
+                                      "key": "ui_position_row",
+                                      "value": -1
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "codex_item\\codex_item_container"
+                            },
+                            {
+                              "key": "children",
+                              "value": [
+                                {
+                                  "key": "codex_item_default",
+                                  "value": [
+                                    {
+                                      "key": "ui_codex_info",
+                                      "value": [
+                                        {
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 2
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "priority",
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "codex_item\\codex_item_default"
+                                    },
+                                    {
+                                      "key": "children",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "pbg",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_villager_1_hre"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "sbps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "codex_item_container",
+                          "value": [
+                            {
+                              "key": "ui_codex_info",
+                              "value": [
+                                {
+                                  "key": "ui_position",
+                                  "value": [
+                                    {
+                                      "key": "ui_position_column",
+                                      "value": -1
+                                    },
+                                    {
+                                      "key": "ui_position_row",
+                                      "value": -1
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "codex_item\\codex_item_container"
+                            },
+                            {
+                              "key": "children",
+                              "value": [
+                                {
+                                  "key": "codex_item_default",
+                                  "value": [
+                                    {
+                                      "key": "ui_codex_info",
+                                      "value": [
+                                        {
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 2
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "priority",
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "codex_item\\codex_item_default"
+                                    },
+                                    {
+                                      "key": "children",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "pbg",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_scout_1_hre"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "sbps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "codex_item_container",
+                          "value": [
+                            {
+                              "key": "ui_codex_info",
+                              "value": [
+                                {
+                                  "key": "ui_position",
+                                  "value": [
+                                    {
+                                      "key": "ui_position_column",
+                                      "value": -1
+                                    },
+                                    {
+                                      "key": "ui_position_row",
+                                      "value": -1
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "codex_item\\codex_item_container"
+                            },
+                            {
+                              "key": "children",
+                              "value": [
+                                {
+                                  "key": "codex_item_default",
+                                  "value": [
+                                    {
+                                      "key": "ui_codex_info",
+                                      "value": [
+                                        {
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 2
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "priority",
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "codex_item\\codex_item_default"
+                                    },
+                                    {
+                                      "key": "children",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "pbg",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "unit_monk_1_hre"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "sbps"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "codex_item_container",
+                          "value": [
+                            {
+                              "key": "ui_codex_info",
+                              "value": [
+                                {
+                                  "key": "ui_position",
+                                  "value": [
+                                    {
+                                      "key": "ui_position_column",
+                                      "value": -1
+                                    },
+                                    {
+                                      "key": "ui_position_row",
+                                      "value": -1
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "codex_item\\codex_item_container"
+                            },
+                            {
+                              "key": "children",
+                              "value": [
+                                {
+                                  "key": "codex_item_default",
+                                  "value": [
+                                    {
+                                      "key": "ui_codex_info",
+                                      "value": [
+                                        {
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 2
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "priority",
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "codex_item\\codex_item_default"
+                                    },
+                                    {
+                                      "key": "children",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "pbg",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "upgrade_villager_health"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "upgrade"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "pbg",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "building_landmark_age3_hohenzollern_castle_hre"
                         },
                         {
                           "key": "$PBGMAP",

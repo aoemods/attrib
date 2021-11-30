@@ -932,7 +932,7 @@
                     },
                     {
                       "key": "minimap_texture_scale",
-                      "value": 1
+                      "value": 0.65
                     },
                     {
                       "key": "screen_name_formatter",
@@ -1078,7 +1078,7 @@
                     },
                     {
                       "key": "help_text",
-                      "value": 11154090
+                      "value": 11217664
                     },
                     {
                       "key": "extra_icon",

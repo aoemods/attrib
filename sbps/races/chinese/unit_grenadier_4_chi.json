@@ -1257,7 +1257,7 @@
                     },
                     {
                       "key": "minimap_texture_scale",
-                      "value": 1
+                      "value": 0.65
                     },
                     {
                       "key": "screen_name_formatter",
@@ -1367,7 +1367,7 @@
                     },
                     {
                       "key": "extra_text",
-                      "value": 11141775
+                      "value": 11215016
                     },
                     {
                       "key": "sound",

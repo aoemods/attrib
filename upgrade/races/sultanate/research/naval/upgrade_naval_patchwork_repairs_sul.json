@@ -38,11 +38,11 @@
           "value": [
             {
               "key": "ui_position_column",
-              "value": 1
+              "value": 3
             },
             {
               "key": "ui_position_row",
-              "value": 3
+              "value": 1
             }
           ]
         },
@@ -481,7 +481,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 60
+              "value": 300
             },
             {
               "key": "cost",

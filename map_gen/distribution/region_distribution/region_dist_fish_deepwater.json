@@ -5,7 +5,7 @@
       "value": [
         {
           "key": "search_for_open_area_radius",
-          "value": 6
+          "value": 5
         },
         {
           "key": "min_placements_per_region",
@@ -25,7 +25,7 @@
         },
         {
           "key": "distribution_radius",
-          "value": 14
+          "value": 8
         },
         {
           "key": "distribution",

@@ -33,6 +33,10 @@
       "value": "accuracy_weapon_modifier"
     },
     {
+      "key": "_22",
+      "value": "weapon_wind_down_modifier"
+    },
+    {
       "key": "_8",
       "value": "reload_weapon_modifier"
     },
@@ -63,6 +67,10 @@
     {
       "key": "_15",
       "value": "weapon_instant_teardown"
+    },
+    {
+      "key": "_23",
+      "value": "weapon_wind_up_modifier"
     },
     {
       "key": "_14",

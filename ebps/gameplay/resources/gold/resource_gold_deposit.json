@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "gaia_values"
+              "value": "resource_deposit_values"
             },
             {
               "key": "$PBGMAP",
@@ -378,6 +378,10 @@
                       "value": 1
                     },
                     {
+                      "key": "can_place_in_water",
+                      "value": false
+                    },
+                    {
                       "key": "spawn_position",
                       "value": 0
                     },
@@ -473,6 +477,10 @@
                     {
                       "key": "selection_weight",
                       "value": 1
+                    },
+                    {
+                      "key": "can_place_in_water",
+                      "value": false
                     },
                     {
                       "key": "spawn_position",
@@ -572,6 +580,10 @@
                       "value": 1
                     },
                     {
+                      "key": "can_place_in_water",
+                      "value": false
+                    },
+                    {
                       "key": "spawn_position",
                       "value": 0
                     },
@@ -667,6 +679,10 @@
                     {
                       "key": "selection_weight",
                       "value": 1
+                    },
+                    {
+                      "key": "can_place_in_water",
+                      "value": false
                     },
                     {
                       "key": "spawn_position",
@@ -1156,7 +1172,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 0.75
+          "value": 0.38
         },
         {
           "key": "ui_combine_type",
@@ -1189,6 +1205,10 @@
         {
           "key": "selection_method",
           "value": "terrain_obb"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -1551,6 +1571,19 @@
                 {
                   "key": "$PBGNAME",
                   "value": "vehicle"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "pass_types"
+                }
+              ]
+            },
+            {
+              "key": "path_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "water_default"
                 },
                 {
                   "key": "$PBGMAP",

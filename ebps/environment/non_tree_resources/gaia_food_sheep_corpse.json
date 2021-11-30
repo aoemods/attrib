@@ -790,7 +790,7 @@
         },
         {
           "key": "selection_scale",
-          "value": 1
+          "value": 3
         },
         {
           "key": "extra_text_world_formatter",
@@ -868,7 +868,11 @@
         },
         {
           "key": "selection_method",
-          "value": "mesh"
+          "value": "obb_size"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -1033,15 +1037,15 @@
           "value": [
             {
               "key": "y",
-              "value": 1
+              "value": 3
             },
             {
               "key": "x",
-              "value": 1
+              "value": 3
             },
             {
               "key": "z",
-              "value": 1
+              "value": 3
             }
           ]
         },

@@ -28,6 +28,10 @@
           "value": "grass_tall_stealth_winter_a"
         },
         {
+          "key": "grass_type_low_spec",
+          "value": "grass_tall_stealth_winter_a_lowspec"
+        },
+        {
           "key": "ground_tile_scale_V",
           "value": 1.5
         },

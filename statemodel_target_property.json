@@ -30,7 +30,7 @@
     },
     {
       "key": "_24",
-      "value": "owner_player"
+      "value": "ovoo_is_active"
     },
     {
       "key": "_0",
@@ -58,7 +58,7 @@
     },
     {
       "key": "_31",
-      "value": "stone_claim_sul"
+      "value": "rider_of_this_horse"
     },
     {
       "key": "_11",
@@ -73,16 +73,20 @@
       "value": "khan_mon"
     },
     {
+      "key": "_34",
+      "value": "wood_claim_sul"
+    },
+    {
       "key": "_29",
-      "value": "rider_last_range_target"
+      "value": "return_to_work_location"
     },
     {
       "key": "_30",
-      "value": "rider_of_this_horse"
+      "value": "rider_last_range_target"
     },
     {
       "key": "_27",
-      "value": "resource_claim_sul"
+      "value": "ransom_location"
     },
     {
       "key": "_15",
@@ -90,11 +94,11 @@
     },
     {
       "key": "_28",
-      "value": "return_to_work_location"
+      "value": "resource_claim_sul"
     },
     {
       "key": "_23",
-      "value": "ovoo_is_active"
+      "value": "network_of_castles_buff_originator"
     },
     {
       "key": "_14",
@@ -102,7 +106,7 @@
     },
     {
       "key": "_25",
-      "value": "pilgrim_destination"
+      "value": "owner_player"
     },
     {
       "key": "_12",
@@ -118,11 +122,11 @@
     },
     {
       "key": "_32",
-      "value": "temp_target"
+      "value": "stone_claim_sul"
     },
     {
       "key": "_33",
-      "value": "wood_claim_sul"
+      "value": "temp_target"
     },
     {
       "key": "_5",
@@ -130,7 +134,7 @@
     },
     {
       "key": "_26",
-      "value": "ransom_location"
+      "value": "pilgrim_destination"
     },
     {
       "key": "_10",

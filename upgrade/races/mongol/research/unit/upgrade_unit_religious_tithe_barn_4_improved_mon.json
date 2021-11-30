@@ -479,7 +479,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": "upgrade_religious\\upgrade_unit_religious_tithe_barn_4\\mongol_improved_version\\upgrade_unit_religious_tithe_barn_4_mon"
+                  "value": "common_upgrade_completion_events\\speech_celebrate\\celebrate"
                 },
                 {
                   "key": "$REF",

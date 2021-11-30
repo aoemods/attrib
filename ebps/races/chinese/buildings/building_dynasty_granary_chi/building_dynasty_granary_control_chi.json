@@ -327,7 +327,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "building_econ_food"
+              "value": "building_unit_religious"
             },
             {
               "key": "$PBGMAP",
@@ -1120,6 +1120,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -3016,20 +3020,6 @@
         {
           "key": "prefer_spots_on_side_with_leader",
           "value": false
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
-          ]
         }
       ]
     },

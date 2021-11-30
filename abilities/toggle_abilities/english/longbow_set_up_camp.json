@@ -503,6 +503,157 @@
                   "value": true
                 }
               ]
+            },
+            {
+              "key": "required_not",
+              "value": [
+                {
+                  "key": "requirement_table",
+                  "value": [
+                    {
+                      "key": "required_near_entity",
+                      "value": [
+                        {
+                          "key": "nearby_collision_filter",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_near_entity"
+                        },
+                        {
+                          "key": "near_entity_requirement",
+                          "value": [
+                            {
+                              "key": "required_unit_type",
+                              "value": [
+                                {
+                                  "key": "qualify_option",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "options\\none"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_unit_type"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "wall"
+                                },
+                                {
+                                  "key": "search_load_out",
+                                  "value": false
+                                },
+                                {
+                                  "key": "reason",
+                                  "value": "usage"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "area_option",
+                          "value": [
+                            {
+                              "key": "inner_radius",
+                              "value": 0
+                            },
+                            {
+                              "key": "dynamic_radius_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "options\\area_info_options\\pie_area_option"
+                            },
+                            {
+                              "key": "angle_right",
+                              "value": 45
+                            },
+                            {
+                              "key": "angle_left",
+                              "value": -45
+                            },
+                            {
+                              "key": "outer_radius",
+                              "value": 4
+                            }
+                          ]
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_not"
+                },
+                {
+                  "key": "ui_name",
+                  "value": 11191903
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
+            },
+            {
+              "key": "required_not",
+              "value": [
+                {
+                  "key": "requirement_table",
+                  "value": [
+                    {
+                      "key": "required_in_state",
+                      "value": [
+                        {
+                          "key": "check_states",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "was_attacking_within_seconds",
+                          "value": 2
+                        },
+                        {
+                          "key": "was_attacked_within_seconds",
+                          "value": 2
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_in_state"
+                        },
+                        {
+                          "key": "ui_name",
+                          "value": 11163527
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_not"
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
             }
           ]
         },

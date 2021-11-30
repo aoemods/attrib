@@ -104,6 +104,10 @@
                       "value": 1
                     },
                     {
+                      "key": "can_place_in_water",
+                      "value": false
+                    },
+                    {
                       "key": "spawn_position",
                       "value": 0
                     },
@@ -201,6 +205,10 @@
                       "value": 1
                     },
                     {
+                      "key": "can_place_in_water",
+                      "value": false
+                    },
+                    {
                       "key": "spawn_position",
                       "value": 0
                     },
@@ -295,6 +303,10 @@
                     {
                       "key": "selection_weight",
                       "value": 1
+                    },
+                    {
+                      "key": "can_place_in_water",
+                      "value": false
                     },
                     {
                       "key": "spawn_position",

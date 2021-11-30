@@ -945,7 +945,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 0.525
+          "value": 0.4
         },
         {
           "key": "ui_combine_type",
@@ -978,6 +978,10 @@
         {
           "key": "selection_method",
           "value": "mesh"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",

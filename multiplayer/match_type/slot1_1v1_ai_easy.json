@@ -5,7 +5,7 @@
       "value": [
         {
           "key": "display_name",
-          "value": 11185959
+          "value": 11216165
         },
         {
           "key": "name",
@@ -107,6 +107,10 @@
         {
           "key": "automatch_win_condition",
           "value": "standard_mode"
+        },
+        {
+          "key": "game_name",
+          "value": 11185959
         },
         {
           "key": "human_players",

@@ -45,11 +45,11 @@
           "value": [
             {
               "key": "min_distance",
-              "value": 40
+              "value": 30
             },
             {
               "key": "max_distance",
-              "value": 65
+              "value": 60
             },
             {
               "key": "$REF",

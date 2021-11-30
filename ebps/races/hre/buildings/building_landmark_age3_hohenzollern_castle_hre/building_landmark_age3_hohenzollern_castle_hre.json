@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "wonder_age3_hre"
+              "value": "palace_of_swabia_hre"
             },
             {
               "key": "$PBGMAP",
@@ -1025,7 +1025,7 @@
             },
             {
               "key": "exclusive",
-              "value": false
+              "value": true
             },
             {
               "key": "priority",
@@ -1140,7 +1140,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 0.5
+          "value": 0.3
         },
         {
           "key": "ui_combine_type",
@@ -1165,6 +1165,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -1745,6 +1749,19 @@
                   "value": "abilities"
                 }
               ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "influence_auto_repair_buff_tc_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
             }
           ]
         },
@@ -1945,101 +1962,6 @@
         {
           "key": "district_bonuses",
           "value": [
-            {
-              "key": "district_bonus",
-              "value": [
-                {
-                  "key": "requirement",
-                  "value": [
-                    {
-                      "key": "dynamic_requirements",
-                      "value": [
-                      ]
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "options\\ebpextensions\\districtbonusesext\\requirements\\district_bonus_entity_requirement"
-                    },
-                    {
-                      "key": "satisfying_entity_groups",
-                      "value": [
-                        {
-                          "key": "satisfying_entity_group",
-                          "value": [
-                            {
-                              "key": "satisfying_entities",
-                              "value": [
-                                {
-                                  "key": "entity",
-                                  "value": [
-                                    {
-                                      "key": "$PBGNAME",
-                                      "value": "building_town_center_capital_hre"
-                                    },
-                                    {
-                                      "key": "$PBGMAP",
-                                      "value": "ebps"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "satisfying_entity_group",
-                          "value": [
-                            {
-                              "key": "satisfying_entities",
-                              "value": [
-                                {
-                                  "key": "entity",
-                                  "value": [
-                                    {
-                                      "key": "$PBGNAME",
-                                      "value": "building_town_center_hre"
-                                    },
-                                    {
-                                      "key": "$PBGMAP",
-                                      "value": "ebps"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "action_tree",
-                  "value": [
-                    {
-                      "key": "start_suspended",
-                      "value": false
-                    },
-                    {
-                      "key": "ActionTree_OpeningBranch",
-                      "value": "influence_auto_repair_hre\\root"
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "state_tree_reference_info"
-                    }
-                  ]
-                },
-                {
-                  "key": "$REF",
-                  "value": "district_bonus"
-                },
-                {
-                  "key": "id",
-                  "value": 1473478
-                }
-              ]
-            },
             {
               "key": "district_bonus",
               "value": [
@@ -2366,7 +2288,646 @@
                               "value": [
                                 {
                                   "key": "$PBGNAME",
-                                  "value": "wpn_range_town_center_arrows"
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": ""
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 10
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": false
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint01"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint02"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint03"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint04"
+                    }
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "possible_blueprint_updates",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\entity_create_attachment"
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "entity_attach_data",
+                          "value": [
+                            {
+                              "key": "attachment_flags",
+                              "value": [
+                                {
+                                  "key": "assign_as_attachment_movement_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "receive_parent_animations",
+                                  "value": false
+                                },
+                                {
+                                  "key": "sim_only",
+                                  "value": false
+                                },
+                                {
+                                  "key": "assign_as_attachment_combat_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "restore_snap_to_ground_on_detach",
+                                  "value": false
+                                },
+                                {
+                                  "key": "join_parent_squad",
+                                  "value": false
+                                },
+                                {
+                                  "key": "redirect_damage_to_parent_entity",
+                                  "value": true
+                                },
+                                {
+                                  "key": "receive_parent_death",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_sim_update",
+                                  "value": false
+                                },
+                                {
+                                  "key": "not_snappable",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_pathfinding",
+                                  "value": false
+                                }
+                              ]
+                            },
+                            {
+                              "key": "attach_data",
+                              "value": [
+                                {
+                                  "key": "parent_rigidbody_target_name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "game_object_attachment_type",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "attachments\\attach_data"
+                                },
+                                {
+                                  "key": "marker_name_parent",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data_entity"
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": ""
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 10
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": false
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint01"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint02"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint03"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint04"
+                    }
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "possible_blueprint_updates",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\entity_create_attachment"
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "entity_attach_data",
+                          "value": [
+                            {
+                              "key": "attachment_flags",
+                              "value": [
+                                {
+                                  "key": "assign_as_attachment_movement_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "receive_parent_animations",
+                                  "value": false
+                                },
+                                {
+                                  "key": "sim_only",
+                                  "value": false
+                                },
+                                {
+                                  "key": "assign_as_attachment_combat_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "restore_snap_to_ground_on_detach",
+                                  "value": false
+                                },
+                                {
+                                  "key": "join_parent_squad",
+                                  "value": false
+                                },
+                                {
+                                  "key": "redirect_damage_to_parent_entity",
+                                  "value": true
+                                },
+                                {
+                                  "key": "receive_parent_death",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_sim_update",
+                                  "value": false
+                                },
+                                {
+                                  "key": "not_snappable",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_pathfinding",
+                                  "value": false
+                                }
+                              ]
+                            },
+                            {
+                              "key": "attach_data",
+                              "value": [
+                                {
+                                  "key": "parent_rigidbody_target_name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "game_object_attachment_type",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "attachments\\attach_data"
+                                },
+                                {
+                                  "key": "marker_name_parent",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data_entity"
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": ""
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 10
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": false
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint01"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint02"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint03"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint04"
+                    }
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "possible_blueprint_updates",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\entity_create_attachment"
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "entity_attach_data",
+                          "value": [
+                            {
+                              "key": "attachment_flags",
+                              "value": [
+                                {
+                                  "key": "assign_as_attachment_movement_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "receive_parent_animations",
+                                  "value": false
+                                },
+                                {
+                                  "key": "sim_only",
+                                  "value": false
+                                },
+                                {
+                                  "key": "assign_as_attachment_combat_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "restore_snap_to_ground_on_detach",
+                                  "value": false
+                                },
+                                {
+                                  "key": "join_parent_squad",
+                                  "value": false
+                                },
+                                {
+                                  "key": "redirect_damage_to_parent_entity",
+                                  "value": true
+                                },
+                                {
+                                  "key": "receive_parent_death",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_sim_update",
+                                  "value": true
+                                },
+                                {
+                                  "key": "not_snappable",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_pathfinding",
+                                  "value": false
+                                }
+                              ]
+                            },
+                            {
+                              "key": "attach_data",
+                              "value": [
+                                {
+                                  "key": "parent_rigidbody_target_name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "game_object_attachment_type",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "attachments\\attach_data"
+                                },
+                                {
+                                  "key": "marker_name_parent",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data_entity"
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_range_town_center_arrows_garrison"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -2402,7 +2963,1711 @@
                           "value": [
                             {
                               "key": "y",
+                              "value": 0.3
+                            },
+                            {
+                              "key": "x",
                               "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": false
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint01"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint02"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint03"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint04"
+                    }
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "possible_blueprint_updates",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\entity_create_attachment"
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "entity_attach_data",
+                          "value": [
+                            {
+                              "key": "attachment_flags",
+                              "value": [
+                                {
+                                  "key": "assign_as_attachment_movement_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "receive_parent_animations",
+                                  "value": false
+                                },
+                                {
+                                  "key": "sim_only",
+                                  "value": false
+                                },
+                                {
+                                  "key": "assign_as_attachment_combat_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "restore_snap_to_ground_on_detach",
+                                  "value": false
+                                },
+                                {
+                                  "key": "join_parent_squad",
+                                  "value": false
+                                },
+                                {
+                                  "key": "redirect_damage_to_parent_entity",
+                                  "value": true
+                                },
+                                {
+                                  "key": "receive_parent_death",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_sim_update",
+                                  "value": true
+                                },
+                                {
+                                  "key": "not_snappable",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_pathfinding",
+                                  "value": false
+                                }
+                              ]
+                            },
+                            {
+                              "key": "attach_data",
+                              "value": [
+                                {
+                                  "key": "parent_rigidbody_target_name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "game_object_attachment_type",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "attachments\\attach_data"
+                                },
+                                {
+                                  "key": "marker_name_parent",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data_entity"
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_range_town_center_arrows_garrison"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "ebps"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 10
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.3
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": false
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint01"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint02"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint03"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint04"
+                    }
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "possible_blueprint_updates",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\entity_create_attachment"
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "entity_attach_data",
+                          "value": [
+                            {
+                              "key": "attachment_flags",
+                              "value": [
+                                {
+                                  "key": "assign_as_attachment_movement_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "receive_parent_animations",
+                                  "value": false
+                                },
+                                {
+                                  "key": "sim_only",
+                                  "value": false
+                                },
+                                {
+                                  "key": "assign_as_attachment_combat_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "restore_snap_to_ground_on_detach",
+                                  "value": false
+                                },
+                                {
+                                  "key": "join_parent_squad",
+                                  "value": false
+                                },
+                                {
+                                  "key": "redirect_damage_to_parent_entity",
+                                  "value": true
+                                },
+                                {
+                                  "key": "receive_parent_death",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_sim_update",
+                                  "value": true
+                                },
+                                {
+                                  "key": "not_snappable",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_pathfinding",
+                                  "value": false
+                                }
+                              ]
+                            },
+                            {
+                              "key": "attach_data",
+                              "value": [
+                                {
+                                  "key": "parent_rigidbody_target_name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "game_object_attachment_type",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "attachments\\attach_data"
+                                },
+                                {
+                                  "key": "marker_name_parent",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data_entity"
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_range_town_center_arrows_garrison"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "ebps"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 10
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.3
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": false
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint01"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint02"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint03"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint04"
+                    }
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "possible_blueprint_updates",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\entity_create_attachment"
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "entity_attach_data",
+                          "value": [
+                            {
+                              "key": "attachment_flags",
+                              "value": [
+                                {
+                                  "key": "assign_as_attachment_movement_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "receive_parent_animations",
+                                  "value": false
+                                },
+                                {
+                                  "key": "sim_only",
+                                  "value": false
+                                },
+                                {
+                                  "key": "assign_as_attachment_combat_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "restore_snap_to_ground_on_detach",
+                                  "value": false
+                                },
+                                {
+                                  "key": "join_parent_squad",
+                                  "value": false
+                                },
+                                {
+                                  "key": "redirect_damage_to_parent_entity",
+                                  "value": true
+                                },
+                                {
+                                  "key": "receive_parent_death",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_sim_update",
+                                  "value": true
+                                },
+                                {
+                                  "key": "not_snappable",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_pathfinding",
+                                  "value": false
+                                }
+                              ]
+                            },
+                            {
+                              "key": "attach_data",
+                              "value": [
+                                {
+                                  "key": "parent_rigidbody_target_name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "game_object_attachment_type",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "attachments\\attach_data"
+                                },
+                                {
+                                  "key": "marker_name_parent",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data_entity"
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_range_town_center_arrows_garrison"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "ebps"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 10
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.3
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": false
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint01"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint02"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint03"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint04"
+                    }
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "possible_blueprint_updates",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\entity_create_attachment"
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "entity_attach_data",
+                          "value": [
+                            {
+                              "key": "attachment_flags",
+                              "value": [
+                                {
+                                  "key": "assign_as_attachment_movement_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "receive_parent_animations",
+                                  "value": false
+                                },
+                                {
+                                  "key": "sim_only",
+                                  "value": false
+                                },
+                                {
+                                  "key": "assign_as_attachment_combat_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "restore_snap_to_ground_on_detach",
+                                  "value": false
+                                },
+                                {
+                                  "key": "join_parent_squad",
+                                  "value": false
+                                },
+                                {
+                                  "key": "redirect_damage_to_parent_entity",
+                                  "value": true
+                                },
+                                {
+                                  "key": "receive_parent_death",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_sim_update",
+                                  "value": true
+                                },
+                                {
+                                  "key": "not_snappable",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_pathfinding",
+                                  "value": false
+                                }
+                              ]
+                            },
+                            {
+                              "key": "attach_data",
+                              "value": [
+                                {
+                                  "key": "parent_rigidbody_target_name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "game_object_attachment_type",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "attachments\\attach_data"
+                                },
+                                {
+                                  "key": "marker_name_parent",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data_entity"
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_range_town_center_arrows_garrison"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "ebps"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 10
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.3
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": false
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint01"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint02"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint03"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint04"
+                    }
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "possible_blueprint_updates",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\entity_create_attachment"
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "entity_attach_data",
+                          "value": [
+                            {
+                              "key": "attachment_flags",
+                              "value": [
+                                {
+                                  "key": "assign_as_attachment_movement_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "receive_parent_animations",
+                                  "value": false
+                                },
+                                {
+                                  "key": "sim_only",
+                                  "value": false
+                                },
+                                {
+                                  "key": "assign_as_attachment_combat_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "restore_snap_to_ground_on_detach",
+                                  "value": false
+                                },
+                                {
+                                  "key": "join_parent_squad",
+                                  "value": false
+                                },
+                                {
+                                  "key": "redirect_damage_to_parent_entity",
+                                  "value": true
+                                },
+                                {
+                                  "key": "receive_parent_death",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_sim_update",
+                                  "value": true
+                                },
+                                {
+                                  "key": "not_snappable",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_pathfinding",
+                                  "value": false
+                                }
+                              ]
+                            },
+                            {
+                              "key": "attach_data",
+                              "value": [
+                                {
+                                  "key": "parent_rigidbody_target_name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "game_object_attachment_type",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "attachments\\attach_data"
+                                },
+                                {
+                                  "key": "marker_name_parent",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data_entity"
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_range_town_center_arrows_garrison"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "ebps"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 10
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.3
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": false
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint01"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint02"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint03"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint04"
+                    }
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "possible_blueprint_updates",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\entity_create_attachment"
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "entity_attach_data",
+                          "value": [
+                            {
+                              "key": "attachment_flags",
+                              "value": [
+                                {
+                                  "key": "assign_as_attachment_movement_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "receive_parent_animations",
+                                  "value": false
+                                },
+                                {
+                                  "key": "sim_only",
+                                  "value": false
+                                },
+                                {
+                                  "key": "assign_as_attachment_combat_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "restore_snap_to_ground_on_detach",
+                                  "value": false
+                                },
+                                {
+                                  "key": "join_parent_squad",
+                                  "value": false
+                                },
+                                {
+                                  "key": "redirect_damage_to_parent_entity",
+                                  "value": true
+                                },
+                                {
+                                  "key": "receive_parent_death",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_sim_update",
+                                  "value": true
+                                },
+                                {
+                                  "key": "not_snappable",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_pathfinding",
+                                  "value": false
+                                }
+                              ]
+                            },
+                            {
+                              "key": "attach_data",
+                              "value": [
+                                {
+                                  "key": "parent_rigidbody_target_name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "game_object_attachment_type",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "attachments\\attach_data"
+                                },
+                                {
+                                  "key": "marker_name_parent",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data_entity"
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_range_town_center_arrows_garrison"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "ebps"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 10
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.3
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": false
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint01"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint02"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint03"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint04"
+                    }
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "possible_blueprint_updates",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\entity_create_attachment"
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "entity_attach_data",
+                          "value": [
+                            {
+                              "key": "attachment_flags",
+                              "value": [
+                                {
+                                  "key": "assign_as_attachment_movement_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "receive_parent_animations",
+                                  "value": false
+                                },
+                                {
+                                  "key": "sim_only",
+                                  "value": false
+                                },
+                                {
+                                  "key": "assign_as_attachment_combat_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "restore_snap_to_ground_on_detach",
+                                  "value": false
+                                },
+                                {
+                                  "key": "join_parent_squad",
+                                  "value": false
+                                },
+                                {
+                                  "key": "redirect_damage_to_parent_entity",
+                                  "value": true
+                                },
+                                {
+                                  "key": "receive_parent_death",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_sim_update",
+                                  "value": true
+                                },
+                                {
+                                  "key": "not_snappable",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_pathfinding",
+                                  "value": false
+                                }
+                              ]
+                            },
+                            {
+                              "key": "attach_data",
+                              "value": [
+                                {
+                                  "key": "parent_rigidbody_target_name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "game_object_attachment_type",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "attachments\\attach_data"
+                                },
+                                {
+                                  "key": "marker_name_parent",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data_entity"
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_range_town_center_arrows_garrison"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "ebps"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 10
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.3
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "base_marker",
+                  "value": ""
+                },
+                {
+                  "key": "receives_attack_commands",
+                  "value": true
+                },
+                {
+                  "key": "preferred_inventory_item_categories",
+                  "value": [
+                  ]
+                },
+                {
+                  "key": "parent_hardpoint",
+                  "value": -1
+                },
+                {
+                  "key": "offhand_marker",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "hardpoint",
+              "value": [
+                {
+                  "key": "initialize_weapons_on_creation",
+                  "value": false
+                },
+                {
+                  "key": "firing_offset_markers",
+                  "value": [
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint01"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint02"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint03"
+                    },
+                    {
+                      "key": "marker",
+                      "value": "wep_hardpoint04"
+                    }
+                  ]
+                },
+                {
+                  "key": "weapon_table",
+                  "value": [
+                    {
+                      "key": "weapon",
+                      "value": [
+                        {
+                          "key": "possible_blueprint_updates",
+                          "value": [
+                          ]
+                        },
+                        {
+                          "key": "length",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\entity_create_attachment"
+                        },
+                        {
+                          "key": "non_entity_weapon_wrapper",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "entity_attach_data",
+                          "value": [
+                            {
+                              "key": "attachment_flags",
+                              "value": [
+                                {
+                                  "key": "assign_as_attachment_movement_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "receive_parent_animations",
+                                  "value": false
+                                },
+                                {
+                                  "key": "sim_only",
+                                  "value": false
+                                },
+                                {
+                                  "key": "assign_as_attachment_combat_leader",
+                                  "value": false
+                                },
+                                {
+                                  "key": "restore_snap_to_ground_on_detach",
+                                  "value": false
+                                },
+                                {
+                                  "key": "join_parent_squad",
+                                  "value": false
+                                },
+                                {
+                                  "key": "redirect_damage_to_parent_entity",
+                                  "value": true
+                                },
+                                {
+                                  "key": "receive_parent_death",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_sim_update",
+                                  "value": true
+                                },
+                                {
+                                  "key": "not_snappable",
+                                  "value": false
+                                },
+                                {
+                                  "key": "no_pathfinding",
+                                  "value": false
+                                }
+                              ]
+                            },
+                            {
+                              "key": "attach_data",
+                              "value": [
+                                {
+                                  "key": "parent_rigidbody_target_name",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "game_object_attachment_type",
+                                  "value": 0
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "attachments\\attach_data"
+                                },
+                                {
+                                  "key": "marker_name_parent",
+                                  "value": ""
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data_entity"
+                            },
+                            {
+                              "key": "ebp",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "wpn_range_town_center_arrows_garrison"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "ebps"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "origin",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 10
+                            },
+                            {
+                              "key": "x",
+                              "value": 0
+                            },
+                            {
+                              "key": "z",
+                              "value": 0
+                            }
+                          ]
+                        },
+                        {
+                          "key": "type",
+                          "value": "default"
+                        },
+                        {
+                          "key": "heading",
+                          "value": [
+                            {
+                              "key": "y",
+                              "value": 0.3
                             },
                             {
                               "key": "x",
@@ -2755,7 +5020,7 @@
         },
         {
           "key": "reject_attack_command",
-          "value": true
+          "value": false
         },
         {
           "key": "sight_hardpoint",
@@ -4064,7 +6329,7 @@
             },
             {
               "key": "ActionTree_OpeningBranch",
-              "value": ""
+              "value": "building_hold_events\\garrison_town_center"
             },
             {
               "key": "$REF",
@@ -4089,7 +6354,7 @@
             },
             {
               "key": "ActionTree_OpeningBranch",
-              "value": "building_hold_events\\enable_garrison_weapon_town_center"
+              "value": ""
             },
             {
               "key": "$REF",

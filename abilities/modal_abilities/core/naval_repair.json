@@ -457,7 +457,7 @@
                 },
                 {
                   "key": "ui_name",
-                  "value": 11170141
+                  "value": 11217941
                 },
                 {
                   "key": "requirements",
@@ -839,7 +839,7 @@
             },
             {
               "key": "screen_name",
-              "value": 11119809
+              "value": 11217940
             },
             {
               "key": "help_text_alternate_formatter",
@@ -957,7 +957,7 @@
         },
         {
           "key": "range_ignore",
-          "value": false
+          "value": true
         },
         {
           "key": "can_queue_passive_ability",

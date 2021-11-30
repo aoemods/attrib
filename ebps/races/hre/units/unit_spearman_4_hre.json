@@ -81,6 +81,54 @@
       ]
     },
     {
+      "key": "interactive_object_ext",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\interactive_object_ext"
+        },
+        {
+          "key": "type_list",
+          "value": [
+            {
+              "key": "type",
+              "value": [
+                {
+                  "key": "max_number",
+                  "value": 1
+                },
+                {
+                  "key": "prefer_number",
+                  "value": 1
+                },
+                {
+                  "key": "block_pathing_when_interacted",
+                  "value": false
+                },
+                {
+                  "key": "node_list_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\none"
+                    }
+                  ]
+                },
+                {
+                  "key": "interaction_target_type",
+                  "value": "entity"
+                },
+                {
+                  "key": "interaction_type",
+                  "value": "inspire_hre"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "trigger_volume_ext",
       "value": [
         {
@@ -1373,6 +1421,10 @@
         {
           "key": "selection_method",
           "value": "obb_size"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -2673,20 +2725,6 @@
         {
           "key": "$REF",
           "value": "ebpextensions\\tier_ext"
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
-          ]
         }
       ]
     },

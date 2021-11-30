@@ -50,15 +50,15 @@
           "value": [
             {
               "key": "mid",
-              "value": 0
+              "value": 1
             },
             {
               "key": "near",
-              "value": 0
+              "value": 1
             },
             {
               "key": "far",
-              "value": 0
+              "value": 1
             }
           ]
         },

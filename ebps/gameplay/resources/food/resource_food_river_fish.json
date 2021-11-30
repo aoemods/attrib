@@ -617,7 +617,7 @@
         },
         {
           "key": "minimap_enable",
-          "value": true
+          "value": false
         },
         {
           "key": "portrait_name",
@@ -726,7 +726,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 0.32
+          "value": 0.29
         },
         {
           "key": "ui_combine_type",
@@ -754,7 +754,11 @@
         },
         {
           "key": "selection_method",
-          "value": "custom_obbs"
+          "value": "obb_sphere"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",

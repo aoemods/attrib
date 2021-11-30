@@ -109,6 +109,10 @@
           "value": "standard_mode"
         },
         {
+          "key": "game_name",
+          "value": 11216166
+        },
+        {
           "key": "human_players",
           "value": 2
         }

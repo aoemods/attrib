@@ -266,23 +266,6 @@
           ]
         },
         {
-          "key": "rolling_average_delta_distance_to_goal",
-          "value": [
-            {
-              "key": "baseline",
-              "value": 1000
-            },
-            {
-              "key": "give_up_threshold",
-              "value": 0.0001
-            },
-            {
-              "key": "num_averaging_frames",
-              "value": 120
-            }
-          ]
-        },
-        {
           "key": "strafe_info",
           "value": [
             {

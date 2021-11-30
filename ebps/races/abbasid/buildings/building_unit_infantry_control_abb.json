@@ -1043,7 +1043,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 1
+          "value": 0.6
         },
         {
           "key": "ui_combine_type",
@@ -1072,6 +1072,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -1984,6 +1988,19 @@
                 {
                   "key": "$PBGNAME",
                   "value": "upgrade_unit_manatarms_4"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_camel_archer_comp_bow_abb"
                 },
                 {
                   "key": "$PBGMAP",
@@ -4604,20 +4621,6 @@
         {
           "key": "must_be_in_supply",
           "value": false
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
-          ]
         }
       ]
     },

@@ -1293,7 +1293,7 @@
         },
         {
           "key": "icon_name",
-          "value": "races\\common\\units\\mangonel_3"
+          "value": "races\\common\\units\\mangonel"
         },
         {
           "key": "minimap_teamcolor",
@@ -1355,6 +1355,10 @@
         {
           "key": "selection_method",
           "value": "custom_obbs"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": -4
         },
         {
           "key": "sound_alternative",
@@ -2487,20 +2491,6 @@
         {
           "key": "$REF",
           "value": "ebpextensions\\tier_ext"
-        }
-      ]
-    },
-    {
-      "key": "modifier_apply_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\modifier_apply_ext"
-        },
-        {
-          "key": "modifiers",
-          "value": [
-          ]
         }
       ]
     },

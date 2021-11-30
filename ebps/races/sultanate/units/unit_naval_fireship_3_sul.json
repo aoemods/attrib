@@ -1300,6 +1300,10 @@
           "value": "custom_obbs"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },
@@ -1694,19 +1698,6 @@
                 {
                   "key": "$PBGNAME",
                   "value": "fireship_target_eastern"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "abilities"
-                }
-              ]
-            },
-            {
-              "key": "ability",
-              "value": [
-                {
-                  "key": "$PBGNAME",
-                  "value": "fireship_self_detonate"
                 },
                 {
                   "key": "$PBGMAP",

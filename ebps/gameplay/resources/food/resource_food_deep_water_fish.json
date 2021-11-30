@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "gaia_values"
+              "value": "resource_deposit_values"
             },
             {
               "key": "$PBGMAP",
@@ -713,7 +713,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 0.4
+          "value": 0.29
         },
         {
           "key": "ui_combine_type",
@@ -741,7 +741,11 @@
         },
         {
           "key": "selection_method",
-          "value": "custom_obbs"
+          "value": "obb_sphere"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",

@@ -145,7 +145,7 @@
         },
         {
           "key": "ui_event_cue",
-          "value": false
+          "value": true
         },
         {
           "key": "ui_preview",

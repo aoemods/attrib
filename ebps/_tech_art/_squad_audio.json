@@ -1277,6 +1277,10 @@
           "value": "terrain_obb_mesh"
         },
         {
+          "key": "kicker_offset_world",
+          "value": 0
+        },
+        {
           "key": "sound_alternative",
           "value": ""
         },

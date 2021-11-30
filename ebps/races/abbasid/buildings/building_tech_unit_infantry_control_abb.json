@@ -1031,7 +1031,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 1
+          "value": 0.6
         },
         {
           "key": "ui_combine_type",
@@ -1060,6 +1060,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -2076,6 +2080,32 @@
                 {
                   "key": "$PBGNAME",
                   "value": "upgrade_ranged_armor_iii"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_camel_armor_abb"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "upgrade"
+                }
+              ]
+            },
+            {
+              "key": "upgrade",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "upgrade_camel_speed_boost_abb"
                 },
                 {
                   "key": "$PBGMAP",

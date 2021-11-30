@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "fractal_shift_amplitude",
-              "value": 0.65
+              "value": 0.55
             },
             {
               "key": "fractal_shift_direction_bias",
@@ -24,7 +24,7 @@
             },
             {
               "key": "height_over_width",
-              "value": 0.35
+              "value": 0.1
             }
           ]
         },

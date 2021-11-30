@@ -356,7 +356,7 @@
                 },
                 {
                   "key": "reason",
-                  "value": "usage"
+                  "value": "usage_and_display"
                 },
                 {
                   "key": "is_present",

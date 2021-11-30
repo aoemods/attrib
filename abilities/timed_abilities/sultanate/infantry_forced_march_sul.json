@@ -716,7 +716,7 @@
         },
         {
           "key": "disable_when_active",
-          "value": false
+          "value": true
         },
         {
           "key": "facing_ignore_during_active",

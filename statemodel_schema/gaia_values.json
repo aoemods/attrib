@@ -89,19 +89,6 @@
         {
           "key": "target_properties",
           "value": [
-            {
-              "key": "statemodel_target_property",
-              "value": [
-                {
-                  "key": "$REF",
-                  "value": "statemodel_target_property"
-                },
-                {
-                  "key": "target_property_id",
-                  "value": "claiming_ovoo_mon"
-                }
-              ]
-            }
           ]
         },
         {
@@ -202,23 +189,6 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 0
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "stone_gold_piece_depleted"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
                   "value": 4
                 },
                 {
@@ -269,23 +239,6 @@
                 },
                 {
                   "key": "bool_property_id",
-                  "value": "farm_reseed_signal"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_bool_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": false
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_bool_property"
-                },
-                {
-                  "key": "bool_property_id",
                   "value": "UninterruptibleAttack"
                 }
               ]
@@ -321,40 +274,6 @@
                 {
                   "key": "bool_property_id",
                   "value": "boar_killed_sul"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_bool_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": false
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_bool_property"
-                },
-                {
-                  "key": "bool_property_id",
-                  "value": "ovoo_is_claimed"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_bool_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": false
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_bool_property"
-                },
-                {
-                  "key": "bool_property_id",
-                  "value": "berry_bush_upgraded_sul"
                 }
               ]
             },

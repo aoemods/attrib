@@ -1598,7 +1598,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 1
+          "value": 0.6
         },
         {
           "key": "ui_combine_type",
@@ -1607,10 +1607,6 @@
         {
           "key": "overlay_name",
           "value": ""
-        },
-        {
-          "key": "help_text",
-          "value": 11142206
         },
         {
           "key": "hotkey_name",
@@ -1627,6 +1623,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",
@@ -1675,7 +1675,24 @@
           "value": [
             {
               "key": "$REF",
-              "value": ""
+              "value": "ui_text_formatter"
+            },
+            {
+              "key": "formatter",
+              "value": 11215148
+            },
+            {
+              "key": "formatter_arguments",
+              "value": [
+                {
+                  "key": "int_value",
+                  "value": 66
+                },
+                {
+                  "key": "int_value",
+                  "value": 2
+                }
+              ]
             }
           ]
         },
@@ -2740,7 +2757,7 @@
             },
             {
               "key": "initial_health",
-              "value": 1
+              "value": 350
             }
           ]
         },

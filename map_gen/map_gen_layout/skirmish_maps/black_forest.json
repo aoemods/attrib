@@ -2504,7 +2504,7 @@
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 4
+                              "value": 0
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -2535,7 +2535,7 @@
                                   "value": [
                                     {
                                       "key": "accessible_minimum_spawns_per_player",
-                                      "value": 0
+                                      "value": 1
                                     },
                                     {
                                       "key": "accessible_range_min",
@@ -2594,7 +2594,7 @@
                                   "value": [
                                     {
                                       "key": "accessible_minimum_spawns_per_player",
-                                      "value": 1
+                                      "value": 0
                                     },
                                     {
                                       "key": "accessible_range_min",
@@ -3757,7 +3757,7 @@
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 4
+                              "value": 0
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -3788,7 +3788,7 @@
                                   "value": [
                                     {
                                       "key": "accessible_minimum_spawns_per_player",
-                                      "value": 0
+                                      "value": 1
                                     },
                                     {
                                       "key": "accessible_range_min",
@@ -3847,7 +3847,7 @@
                                   "value": [
                                     {
                                       "key": "accessible_minimum_spawns_per_player",
-                                      "value": 1
+                                      "value": 0
                                     },
                                     {
                                       "key": "accessible_range_min",
@@ -5010,7 +5010,7 @@
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 5
+                              "value": 0
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -5041,7 +5041,7 @@
                                   "value": [
                                     {
                                       "key": "accessible_minimum_spawns_per_player",
-                                      "value": 0
+                                      "value": 1
                                     },
                                     {
                                       "key": "accessible_range_min",
@@ -5100,7 +5100,7 @@
                                   "value": [
                                     {
                                       "key": "accessible_minimum_spawns_per_player",
-                                      "value": 1
+                                      "value": 0
                                     },
                                     {
                                       "key": "accessible_range_min",
@@ -6263,7 +6263,7 @@
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 6
+                              "value": 0
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -6294,7 +6294,7 @@
                                   "value": [
                                     {
                                       "key": "accessible_minimum_spawns_per_player",
-                                      "value": 0
+                                      "value": 1
                                     },
                                     {
                                       "key": "accessible_range_min",
@@ -6353,7 +6353,7 @@
                                   "value": [
                                     {
                                       "key": "accessible_minimum_spawns_per_player",
-                                      "value": 1
+                                      "value": 0
                                     },
                                     {
                                       "key": "accessible_range_min",
@@ -7516,7 +7516,7 @@
                             },
                             {
                               "key": "contested_base_spawn_count",
-                              "value": 6
+                              "value": 0
                             },
                             {
                               "key": "contested_additional_spawns_per_player",
@@ -7547,7 +7547,7 @@
                                   "value": [
                                     {
                                       "key": "accessible_minimum_spawns_per_player",
-                                      "value": 0
+                                      "value": 1
                                     },
                                     {
                                       "key": "accessible_range_min",
@@ -7606,7 +7606,7 @@
                                   "value": [
                                     {
                                       "key": "accessible_minimum_spawns_per_player",
-                                      "value": 1
+                                      "value": 0
                                     },
                                     {
                                       "key": "accessible_range_min",

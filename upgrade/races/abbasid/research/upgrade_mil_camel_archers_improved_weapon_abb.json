@@ -320,7 +320,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": "common_upgrade_master\\upgrade_archer_composite_bow_abb\\normal_modifiers\\upgrade_archer_composite_bow_abb"
+                  "value": ""
                 },
                 {
                   "key": "$REF",
@@ -462,7 +462,7 @@
             },
             {
               "key": "tooltip_data_template",
-              "value": "BuildingUpgradeDataTemplate"
+              "value": "UniqueBuildingUpgradeDataTemplate"
             },
             {
               "key": "help_text_formatter",

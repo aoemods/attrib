@@ -1110,7 +1110,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "global_tactical_v2_dist_no_ocean_stealth"
+              "value": "global_tactical_v2_dist_lake"
             },
             {
               "key": "$PBGMAP",

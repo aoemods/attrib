@@ -81,6 +81,19 @@
               "value": [
                 {
                   "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_stone_a_naval"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
                   "value": "local_region_dist_classic_gold_tertiary_naval"
                 },
                 {
@@ -95,19 +108,6 @@
                 {
                   "key": "$PBGNAME",
                   "value": "local_region_dist_classic_wood_forest_secondary_naval"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "map_gen\\distribution\\local_region_distribution"
-                }
-              ]
-            },
-            {
-              "key": "region_distribution",
-              "value": [
-                {
-                  "key": "$PBGNAME",
-                  "value": "local_region_dist_classic_stone_a_naval"
                 },
                 {
                   "key": "$PBGMAP",

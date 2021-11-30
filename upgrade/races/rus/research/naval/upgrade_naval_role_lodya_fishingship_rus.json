@@ -200,7 +200,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "feudal_age"
+                      "value": "dark_age"
                     },
                     {
                       "key": "$PBGMAP",
@@ -817,7 +817,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": ""
+                  "value": "upgrade_naval\\upgrade_naval_on_begin_disable_hold"
                 },
                 {
                   "key": "$REF",

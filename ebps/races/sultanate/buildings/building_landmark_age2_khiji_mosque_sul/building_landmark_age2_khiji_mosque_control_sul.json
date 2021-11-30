@@ -1026,7 +1026,7 @@
         },
         {
           "key": "minimap_icon_scale",
-          "value": 0.5
+          "value": 0.3
         },
         {
           "key": "ui_combine_type",
@@ -1055,6 +1055,10 @@
         {
           "key": "selection_method",
           "value": "obb_adjusted_to_terrain"
+        },
+        {
+          "key": "kicker_offset_world",
+          "value": 0
         },
         {
           "key": "sound_alternative",

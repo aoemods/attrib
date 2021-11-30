@@ -167,7 +167,7 @@
                           "value": [
                             {
                               "key": "operator",
-                              "value": "equal"
+                              "value": "and"
                             },
                             {
                               "key": "$REF",
@@ -176,50 +176,131 @@
                             {
                               "key": "requirements",
                               "value": [
-                              ]
-                            },
-                            {
-                              "key": "values",
-                              "value": [
                                 {
-                                  "key": "entitystatemodelbool",
+                                  "key": "requirement",
                                   "value": [
                                     {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\dynamic\\entitystatemodelbool"
+                                      "key": "operator",
+                                      "value": "equal"
                                     },
                                     {
-                                      "key": "value",
-                                      "value": "Source"
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
+                                      "value": [
+                                        {
+                                          "key": "entitystatemodelbool",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\entitystatemodelbool"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": "Source"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "entitystatemodelbool",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\entitystatemodelbool"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "statemodel_bool_property",
+                                                  "value": "saints_armour_buff_rus"
+                                                },
+                                                {
+                                                  "key": "$REF",
+                                                  "value": "challenges\\requirement_values\\statemodel_bool_value"
+                                                },
+                                                {
+                                                  "key": "value",
+                                                  "value": true
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
                                     }
                                   ]
                                 },
                                 {
-                                  "key": "entitystatemodelbool",
+                                  "key": "requirement",
                                   "value": [
                                     {
-                                      "key": "$REF",
-                                      "value": "challenges\\requirement_values\\constant\\entitystatemodelbool"
+                                      "key": "operator",
+                                      "value": "equal"
                                     },
                                     {
-                                      "key": "value",
+                                      "key": "$REF",
+                                      "value": "challenges\\requirement"
+                                    },
+                                    {
+                                      "key": "requirements",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "values",
                                       "value": [
                                         {
-                                          "key": "statemodel_bool_property",
-                                          "value": "saints_armour_buff_rus"
+                                          "key": "squadtype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\dynamic\\squadtype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": "Target"
+                                            }
+                                          ]
                                         },
                                         {
-                                          "key": "$REF",
-                                          "value": "challenges\\requirement_values\\statemodel_bool_value"
-                                        },
-                                        {
-                                          "key": "value",
-                                          "value": true
+                                          "key": "squadtype",
+                                          "value": [
+                                            {
+                                              "key": "$REF",
+                                              "value": "challenges\\requirement_values\\constant\\squadtype"
+                                            },
+                                            {
+                                              "key": "value",
+                                              "value": [
+                                                {
+                                                  "key": "$PBGNAME",
+                                                  "value": "unit_core"
+                                                },
+                                                {
+                                                  "key": "$PBGMAP",
+                                                  "value": "sbps"
+                                                }
+                                              ]
+                                            }
+                                          ]
                                         }
                                       ]
                                     }
                                   ]
                                 }
+                              ]
+                            },
+                            {
+                              "key": "values",
+                              "value": [
                               ]
                             }
                           ]

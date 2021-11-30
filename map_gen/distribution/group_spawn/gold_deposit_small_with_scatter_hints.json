@@ -120,6 +120,10 @@
                       "value": 0.4
                     },
                     {
+                      "key": "can_place_in_water",
+                      "value": false
+                    },
+                    {
                       "key": "spawn_position",
                       "value": 1
                     },
@@ -230,6 +234,10 @@
                     {
                       "key": "selection_weight",
                       "value": 1
+                    },
+                    {
+                      "key": "can_place_in_water",
+                      "value": false
                     },
                     {
                       "key": "spawn_position",
@@ -344,6 +352,10 @@
                       "value": 1
                     },
                     {
+                      "key": "can_place_in_water",
+                      "value": false
+                    },
+                    {
                       "key": "spawn_position",
                       "value": 1
                     },
@@ -438,6 +450,10 @@
                     {
                       "key": "selection_weight",
                       "value": 0.7
+                    },
+                    {
+                      "key": "can_place_in_water",
+                      "value": false
                     },
                     {
                       "key": "spawn_position",

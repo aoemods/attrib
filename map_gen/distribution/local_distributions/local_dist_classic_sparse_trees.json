@@ -81,6 +81,19 @@
               "value": [
                 {
                   "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_wood_loose"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
                   "value": "local_region_dist_classic_wood_forest_sparse"
                 },
                 {

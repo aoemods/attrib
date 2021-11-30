@@ -1665,11 +1665,11 @@
                 },
                 {
                   "key": "unit_type",
-                  "value": "armored"
+                  "value": "heavy"
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 3
+                  "value": 6
                 }
               ]
             }

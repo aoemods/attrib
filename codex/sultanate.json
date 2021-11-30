@@ -282,7 +282,7 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
-                                          "value": "upgrade_villager_health"
+                                          "value": "upgrade_villager_health_sul"
                                         },
                                         {
                                           "key": "$PBGMAP",
@@ -4127,7 +4127,7 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
-                                          "value": "upgrade_ranged_incendiary"
+                                          "value": "upgrade_ranged_incendiary_sul"
                                         },
                                         {
                                           "key": "$PBGMAP",
@@ -4289,7 +4289,7 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
-                                          "value": "upgrade_manatarms_elite_army_tactics"
+                                          "value": "upgrade_manatarms_elite_army_tactics_sul"
                                         },
                                         {
                                           "key": "$PBGMAP",

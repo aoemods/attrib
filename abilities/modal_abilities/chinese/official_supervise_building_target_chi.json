@@ -519,6 +519,66 @@
                           "value": "usage"
                         }
                       ]
+                    },
+                    {
+                      "key": "required_unit_type",
+                      "value": [
+                        {
+                          "key": "qualify_option",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "options\\none"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_unit_type"
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "research_building"
+                        },
+                        {
+                          "key": "search_load_out",
+                          "value": false
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "required_unit_type",
+                      "value": [
+                        {
+                          "key": "qualify_option",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "options\\none"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_unit_type"
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "castle"
+                        },
+                        {
+                          "key": "search_load_out",
+                          "value": false
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
                     }
                   ]
                 },

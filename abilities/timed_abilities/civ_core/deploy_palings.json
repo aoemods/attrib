@@ -13,7 +13,7 @@
         },
         {
           "key": "activation",
-          "value": "timed"
+          "value": "self_targeted"
         },
         {
           "key": "ui_cursor",
@@ -105,7 +105,7 @@
         },
         {
           "key": "can_cast_outside_active_battle_field",
-          "value": true
+          "value": false
         },
         {
           "key": "ui_position",
@@ -271,7 +271,7 @@
             },
             {
               "key": "ability_activate_entity_tree",
-              "value": ""
+              "value": "deploy_palings_logic_eng"
             }
           ]
         },
@@ -301,7 +301,7 @@
         },
         {
           "key": "can_target_in_fow",
-          "value": true
+          "value": false
         },
         {
           "key": "shared_timer",
@@ -444,6 +444,109 @@
                   "value": "usage"
                 }
               ]
+            },
+            {
+              "key": "required_not",
+              "value": [
+                {
+                  "key": "requirement_table",
+                  "value": [
+                    {
+                      "key": "required_near_entity",
+                      "value": [
+                        {
+                          "key": "nearby_collision_filter",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_near_entity"
+                        },
+                        {
+                          "key": "near_entity_requirement",
+                          "value": [
+                            {
+                              "key": "required_unit_type",
+                              "value": [
+                                {
+                                  "key": "qualify_option",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "options\\none"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_unit_type"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "wall"
+                                },
+                                {
+                                  "key": "search_load_out",
+                                  "value": false
+                                },
+                                {
+                                  "key": "reason",
+                                  "value": "usage"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "area_option",
+                          "value": [
+                            {
+                              "key": "inner_radius",
+                              "value": 0
+                            },
+                            {
+                              "key": "dynamic_radius_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "options\\area_info_options\\pie_area_option"
+                            },
+                            {
+                              "key": "angle_right",
+                              "value": 45
+                            },
+                            {
+                              "key": "angle_left",
+                              "value": -45
+                            },
+                            {
+                              "key": "outer_radius",
+                              "value": 4
+                            }
+                          ]
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_not"
+                },
+                {
+                  "key": "ui_name",
+                  "value": 11191903
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
             }
           ]
         },
@@ -474,7 +577,7 @@
         },
         {
           "key": "entity_tree",
-          "value": "deploy_palings_logic_eng"
+          "value": ""
         },
         {
           "key": "caster_close_in_distance",
@@ -694,7 +797,7 @@
         },
         {
           "key": "disable_when_active",
-          "value": true
+          "value": false
         },
         {
           "key": "facing_ignore_during_active",
