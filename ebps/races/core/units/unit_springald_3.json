@@ -340,7 +340,7 @@
           "value": [
             {
               "key": "default_speed",
-              "value": 4
+              "value": 3.75
             },
             {
               "key": "min_speed",
@@ -2176,7 +2176,7 @@
                 },
                 {
                   "key": "gold",
-                  "value": 200
+                  "value": 250
                 },
                 {
                   "key": "militia_hre",
@@ -2196,7 +2196,7 @@
                 },
                 {
                   "key": "wood",
-                  "value": 200
+                  "value": 250
                 }
               ]
             }

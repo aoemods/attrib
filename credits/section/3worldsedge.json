@@ -1279,16 +1279,6 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Dallas Wilson (Experis)
-"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
                           "value": "Julia Armstrong (Experis)"
                         }
                       ]
@@ -1334,7 +1324,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Phillip Kelley (Experis)"
+                          "value": "Philip Kelley (Experis)"
                         }
                       ]
                     },
@@ -1343,7 +1333,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Robert DeArcos (Experis)"
+                          "value": "Sean Dugan (Experis)"
                         }
                       ]
                     },
@@ -1353,15 +1343,6 @@
                         {
                           "key": "name",
                           "value": "Trenton Alston (Experis)"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
-                          "value": "Zachary LeBarron (Experis)"
                         }
                       ]
                     },
@@ -1384,15 +1365,6 @@
                         {
                           "key": "name",
                           "value": "Adrian Helling (Experis)"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
-                          "value": "Albert Pulido (Experis)"
                         }
                       ]
                     },
@@ -1455,15 +1427,6 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Brian Brooks (Experis)"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
                           "value": "Brian Guevara (Experis)"
                         }
                       ]
@@ -1474,15 +1437,6 @@
                         {
                           "key": "name",
                           "value": "Caitlin Gilson (Experis)"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
-                          "value": "Cash Cooper (Experis)"
                         }
                       ]
                     },
@@ -1527,7 +1481,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Crystal Myers (Experis)"
+                          "value": "Christopher Prutch (Experis)"
                         }
                       ]
                     },
@@ -1554,15 +1508,6 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "David Rizzo (Experis)"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
                           "value": "Dion McDade (Experis)"
                         }
                       ]
@@ -1581,7 +1526,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Edward Amparo Ortiz (Experis)"
+                          "value": "Estevan G. Lopez (Experis)"
                         }
                       ]
                     },
@@ -1590,7 +1535,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Estevan G. Lopez (Experis)"
+                          "value": "Fabian Duarte Jr. (Experis)"
                         }
                       ]
                     },
@@ -1653,7 +1598,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Hannah Michelena (Experis)"
+                          "value": "Gavin Reinke (Experis)"
                         }
                       ]
                     },
@@ -1707,25 +1652,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Jaylen Wells (Experis)"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
                           "value": "Jennifer Armstrong (Experis)"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
-                          "value": "Jessica Livengood (Experis)"
                         }
                       ]
                     },
@@ -1869,7 +1796,25 @@
                       "value": [
                         {
                           "key": "name",
+                          "value": "Leon Orlando (Experis)"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "name",
                           "value": "Leon Urquidez (Experis)"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "name",
+                          "value": "Liam O'Neil (Experis)"
                         }
                       ]
                     },
@@ -1897,6 +1842,15 @@
                         {
                           "key": "name",
                           "value": "Marcos Cdebaca (Experis)"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "name",
+                          "value": "Marcus Tinney (Experis)"
                         }
                       ]
                     },
@@ -1941,7 +1895,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Norman Nguyen (Experis)"
+                          "value": "Noah Madej (Experis)"
                         }
                       ]
                     },
@@ -2004,25 +1958,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Regis Jerry (Experis)"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
                           "value": "Riley Faucett (Experis)"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
-                          "value": "Ross Hall (Experis)"
                         }
                       ]
                     },
@@ -2049,7 +1985,25 @@
                       "value": [
                         {
                           "key": "name",
+                          "value": "Samuel Bigelow (Experis)"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "name",
                           "value": "Sara Hook (Experis)"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "name",
+                          "value": "Sarina De Rose (Experis)"
                         }
                       ]
                     },
@@ -2067,6 +2021,15 @@
                       "value": [
                         {
                           "key": "name",
+                          "value": "Sebastian Esqueda (Experis)"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "name",
                           "value": "Sierra Rode (Experis)"
                         }
                       ]
@@ -2076,7 +2039,7 @@
                       "value": [
                         {
                           "key": "name",
-                          "value": "Talyn Cropper (Experis)"
+                          "value": "Skyler Foxx (Experis)"
                         }
                       ]
                     },
@@ -2086,15 +2049,6 @@
                         {
                           "key": "name",
                           "value": "Tanner Artist (Experis)"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "name",
-                          "value": "Thomas Litschauer (Experis)"
                         }
                       ]
                     },
@@ -2131,6 +2085,15 @@
                         {
                           "key": "name",
                           "value": "Zachary Brewer-Lopez (Experis)"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "name",
+                          "value": "Zachary Lebarron (Experis)"
                         }
                       ]
                     },

@@ -232,7 +232,7 @@
                 },
                 {
                   "key": "include_queued",
-                  "value": false
+                  "value": true
                 },
                 {
                   "key": "include_completed",
