@@ -157,7 +157,7 @@
               "value": [
                 {
                   "key": "mid",
-                  "value": 1
+                  "value": 0.75
                 },
                 {
                   "key": "near",
@@ -165,7 +165,7 @@
                 },
                 {
                   "key": "far",
-                  "value": 1
+                  "value": 0.5
                 }
               ]
             },
@@ -434,11 +434,11 @@
             },
             {
               "key": "max",
-              "value": 25
+              "value": 23
             },
             {
               "key": "min",
-              "value": 25
+              "value": 23
             },
             {
               "key": "on_penetrated_state_trees",

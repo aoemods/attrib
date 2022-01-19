@@ -683,7 +683,7 @@
         },
         {
           "key": "hitpoints",
-          "value": 160
+          "value": 180
         },
         {
           "key": "receive_weapon_cover_modifiers",
@@ -2400,7 +2400,7 @@
               "value": [
                 {
                   "key": "food",
-                  "value": 80
+                  "value": 120
                 },
                 {
                   "key": "action",
