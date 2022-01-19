@@ -157,7 +157,7 @@
               "value": [
                 {
                   "key": "mid",
-                  "value": 1
+                  "value": 0.75
                 },
                 {
                   "key": "near",
@@ -165,7 +165,7 @@
                 },
                 {
                   "key": "far",
-                  "value": 1
+                  "value": 0.5
                 }
               ]
             },

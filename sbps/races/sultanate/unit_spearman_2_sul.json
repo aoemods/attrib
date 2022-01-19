@@ -720,6 +720,19 @@
                   "value": "abilities"
                 }
               ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "spearman_spearwall"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
             }
           ]
         },

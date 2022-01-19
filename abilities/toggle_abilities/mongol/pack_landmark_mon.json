@@ -439,27 +439,6 @@
           "key": "requirements",
           "value": [
             {
-              "key": "required_production_queue",
-              "value": [
-                {
-                  "key": "queue_empty",
-                  "value": true
-                },
-                {
-                  "key": "$REF",
-                  "value": "requirements\\required_production_queue"
-                },
-                {
-                  "key": "not_in_queue",
-                  "value": false
-                },
-                {
-                  "key": "reason",
-                  "value": "usage"
-                }
-              ]
-            },
-            {
               "key": "required_statemodelbool",
               "value": [
                 {

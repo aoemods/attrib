@@ -531,7 +531,7 @@
                 },
                 {
                   "key": "formatter",
-                  "value": 11215238
+                  "value": 11219872
                 },
                 {
                   "key": "formatter_arguments",
@@ -539,6 +539,10 @@
                     {
                       "key": "int_value",
                       "value": 200
+                    },
+                    {
+                      "key": "int_value",
+                      "value": 35
                     }
                   ]
                 }
