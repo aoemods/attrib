@@ -2879,6 +2879,23 @@
               "value": "palings_construction_time"
             }
           ]
+        },
+        {
+          "key": "simulation_float_property",
+          "value": [
+            {
+              "key": "$REF",
+              "value": "simulation_float_property"
+            },
+            {
+              "key": "value",
+              "value": 16
+            },
+            {
+              "key": "id",
+              "value": "inspire_range_hre"
+            }
+          ]
         }
       ]
     },
@@ -18080,6 +18097,10 @@
             {
               "key": "armored",
               "value": 11198082
+            },
+            {
+              "key": "naval_unit",
+              "value": 11198195
             },
             {
               "key": "cavalry",

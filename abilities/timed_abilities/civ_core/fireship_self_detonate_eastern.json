@@ -263,7 +263,7 @@
           "value": [
             {
               "key": "ability_activate_deferred_tree",
-              "value": "fireship_detonate\\eastern"
+              "value": "fireship_detonate"
             },
             {
               "key": "ability_activate_squad_tree",

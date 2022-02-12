@@ -157,7 +157,7 @@
               "value": [
                 {
                   "key": "mid",
-                  "value": 1
+                  "value": 0.75
                 },
                 {
                   "key": "near",
@@ -165,7 +165,7 @@
                 },
                 {
                   "key": "far",
-                  "value": 1
+                  "value": 0.25
                 }
               ]
             },
@@ -191,7 +191,7 @@
               "value": [
                 {
                   "key": "mid",
-                  "value": 4
+                  "value": 6
                 },
                 {
                   "key": "near",
@@ -199,7 +199,7 @@
                 },
                 {
                   "key": "far",
-                  "value": 4
+                  "value": 8
                 }
               ]
             },
@@ -275,7 +275,7 @@
                 },
                 {
                   "key": "outer_radius",
-                  "value": 4
+                  "value": 8
                 },
                 {
                   "key": "is_two_dimensional",
@@ -430,11 +430,11 @@
             },
             {
               "key": "max",
-              "value": 500
+              "value": 400
             },
             {
               "key": "min",
-              "value": 500
+              "value": 400
             },
             {
               "key": "on_penetrated_state_trees",
@@ -1538,7 +1538,7 @@
             },
             {
               "key": "max",
-              "value": 4
+              "value": 8
             },
             {
               "key": "min",
