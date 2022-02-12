@@ -1794,7 +1794,7 @@
                 },
                 {
                   "key": "gather_rate",
-                  "value": 1.1
+                  "value": 1
                 },
                 {
                   "key": "prioritize_drop_off_pos_over_entity_pos",
@@ -1840,7 +1840,7 @@
                 },
                 {
                   "key": "gather_rate",
-                  "value": 0.75
+                  "value": 0.66
                 },
                 {
                   "key": "prioritize_drop_off_pos_over_entity_pos",

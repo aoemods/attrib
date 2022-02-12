@@ -405,7 +405,7 @@
           "value": [
             {
               "key": "default_speed",
-              "value": 4
+              "value": 4.5
             },
             {
               "key": "min_speed",
@@ -502,23 +502,23 @@
           "value": [
             {
               "key": "speed_level_0",
-              "value": 3
+              "value": 1
             },
             {
               "key": "speed_level_3",
-              "value": 4
+              "value": 5
             },
             {
               "key": "speed_level_2",
-              "value": 3.75
+              "value": 4
             },
             {
               "key": "speed_level_4",
-              "value": 4.5
+              "value": 5
             },
             {
               "key": "speed_level_1",
-              "value": 3.5
+              "value": 2.5
             }
           ]
         },

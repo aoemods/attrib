@@ -440,6 +440,36 @@
                   "value": "usage_and_display"
                 }
               ]
+            },
+            {
+              "key": "required_in_state",
+              "value": [
+                {
+                  "key": "check_states",
+                  "value": [
+                    {
+                      "key": "state_requirement_type",
+                      "value": "not_moving"
+                    }
+                  ]
+                },
+                {
+                  "key": "was_attacking_within_seconds",
+                  "value": -1
+                },
+                {
+                  "key": "was_attacked_within_seconds",
+                  "value": -1
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_in_state"
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
             }
           ]
         },

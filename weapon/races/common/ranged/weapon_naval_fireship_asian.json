@@ -157,7 +157,7 @@
               "value": [
                 {
                   "key": "mid",
-                  "value": 0.67
+                  "value": 0.75
                 },
                 {
                   "key": "near",
@@ -165,7 +165,7 @@
                 },
                 {
                   "key": "far",
-                  "value": 0.167
+                  "value": 0.25
                 }
               ]
             },
@@ -191,15 +191,15 @@
               "value": [
                 {
                   "key": "mid",
-                  "value": 4
+                  "value": 6
                 },
                 {
                   "key": "near",
-                  "value": 2
+                  "value": 4
                 },
                 {
                   "key": "far",
-                  "value": 6
+                  "value": 8
                 }
               ]
             },
@@ -430,11 +430,11 @@
             },
             {
               "key": "max",
-              "value": 300
+              "value": 400
             },
             {
               "key": "min",
-              "value": 300
+              "value": 400
             },
             {
               "key": "on_penetrated_state_trees",

@@ -157,7 +157,7 @@
               "value": [
                 {
                   "key": "mid",
-                  "value": 0.67
+                  "value": 0.75
                 },
                 {
                   "key": "near",
@@ -165,7 +165,7 @@
                 },
                 {
                   "key": "far",
-                  "value": 0.167
+                  "value": 0.25
                 }
               ]
             },
@@ -199,7 +199,7 @@
                 },
                 {
                   "key": "far",
-                  "value": 6
+                  "value": 8
                 }
               ]
             },
@@ -212,7 +212,7 @@
               "value": [
                 {
                   "key": "mid",
-                  "value": 1
+                  "value": 0.4
                 },
                 {
                   "key": "$REF",
@@ -224,7 +224,7 @@
                 },
                 {
                   "key": "far",
-                  "value": 1
+                  "value": 0.1
                 }
               ]
             },
@@ -430,11 +430,11 @@
             },
             {
               "key": "max",
-              "value": 420
+              "value": 560
             },
             {
               "key": "min",
-              "value": 420
+              "value": 560
             },
             {
               "key": "on_penetrated_state_trees",
@@ -1007,7 +1007,7 @@
         },
         {
           "key": "default_attack_type",
-          "value": "knockback"
+          "value": "light_ranged"
         },
         {
           "key": "anim_table",
@@ -1669,7 +1669,7 @@
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 200
+                  "value": 280
                 }
               ]
             }
