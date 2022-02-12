@@ -157,7 +157,7 @@
               "value": [
                 {
                   "key": "mid",
-                  "value": 0.25
+                  "value": 1
                 },
                 {
                   "key": "near",
@@ -165,7 +165,7 @@
                 },
                 {
                   "key": "far",
-                  "value": 0.1
+                  "value": 1
                 }
               ]
             },
@@ -275,7 +275,7 @@
                 },
                 {
                   "key": "outer_radius",
-                  "value": 1.5
+                  "value": 0.1
                 },
                 {
                   "key": "is_two_dimensional",
@@ -430,11 +430,11 @@
             },
             {
               "key": "max",
-              "value": 150
+              "value": 100
             },
             {
               "key": "min",
-              "value": 150
+              "value": 100
             },
             {
               "key": "on_penetrated_state_trees",
@@ -1271,7 +1271,7 @@
             },
             {
               "key": "angle_scatter",
-              "value": 10
+              "value": 0
             },
             {
               "key": "movement_scatter_angle_multiplier",
@@ -1318,7 +1318,36 @@
               "value": [
                 {
                   "key": "$REF",
-                  "value": "options\\none"
+                  "value": "options\\weapon\\area_scatter_option"
+                },
+                {
+                  "key": "area_info",
+                  "value": [
+                    {
+                      "key": "inner_radius",
+                      "value": 0
+                    },
+                    {
+                      "key": "dynamic_radius_type",
+                      "value": 0
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "options\\area_info_options\\circle_area_option"
+                    },
+                    {
+                      "key": "outer_radius",
+                      "value": 3.5
+                    },
+                    {
+                      "key": "is_two_dimensional",
+                      "value": true
+                    }
+                  ]
+                },
+                {
+                  "key": "lambda",
+                  "value": 0
                 }
               ]
             },
@@ -1673,7 +1702,7 @@
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 300
+                  "value": 450
                 }
               ]
             },
@@ -1693,7 +1722,7 @@
                     },
                     {
                       "key": "accuracy_multiplier",
-                      "value": 0.25
+                      "value": 1
                     },
                     {
                       "key": "damage_multiplier",
@@ -1703,79 +1732,11 @@
                 },
                 {
                   "key": "unit_type",
-                  "value": "infantry"
+                  "value": "naval_unit"
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 0
-                }
-              ]
-            },
-            {
-              "key": "target_unit_type_multipliers",
-              "value": [
-                {
-                  "key": "weapon_multipliers",
-                  "value": [
-                    {
-                      "key": "suppression_multiplier",
-                      "value": 1
-                    },
-                    {
-                      "key": "penetration_multiplier",
-                      "value": 1
-                    },
-                    {
-                      "key": "accuracy_multiplier",
-                      "value": 0.25
-                    },
-                    {
-                      "key": "damage_multiplier",
-                      "value": 1
-                    }
-                  ]
-                },
-                {
-                  "key": "unit_type",
-                  "value": "siege"
-                },
-                {
-                  "key": "base_damage_modifier",
-                  "value": 0
-                }
-              ]
-            },
-            {
-              "key": "target_unit_type_multipliers",
-              "value": [
-                {
-                  "key": "weapon_multipliers",
-                  "value": [
-                    {
-                      "key": "suppression_multiplier",
-                      "value": 1
-                    },
-                    {
-                      "key": "penetration_multiplier",
-                      "value": 1
-                    },
-                    {
-                      "key": "accuracy_multiplier",
-                      "value": 0.25
-                    },
-                    {
-                      "key": "damage_multiplier",
-                      "value": 1
-                    }
-                  ]
-                },
-                {
-                  "key": "unit_type",
-                  "value": "cavalry"
-                },
-                {
-                  "key": "base_damage_modifier",
-                  "value": 0
+                  "value": 450
                 }
               ]
             }

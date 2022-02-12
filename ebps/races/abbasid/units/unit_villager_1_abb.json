@@ -1863,7 +1863,7 @@
                 },
                 {
                   "key": "gather_rate",
-                  "value": 0.825
+                  "value": 0.858
                 },
                 {
                   "key": "prioritize_drop_off_pos_over_entity_pos",
@@ -1871,7 +1871,7 @@
                 },
                 {
                   "key": "resource_carry_capacity",
-                  "value": 10
+                  "value": 13
                 },
                 {
                   "key": "search_radius",

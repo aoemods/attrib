@@ -857,11 +857,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 0
+                  "value": 1.25
                 },
                 {
                   "key": "min",
-                  "value": 0
+                  "value": 1.25
                 }
               ]
             },
@@ -968,7 +968,7 @@
             },
             {
               "key": "wind_down",
-              "value": 1.25
+              "value": 0
             }
           ]
         },
