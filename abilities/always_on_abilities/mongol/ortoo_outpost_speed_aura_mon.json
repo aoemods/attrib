@@ -654,10 +654,6 @@
               "value": ""
             },
             {
-              "key": "help_text",
-              "value": 11144284
-            },
-            {
               "key": "hotkey_name",
               "value": ""
             },
@@ -674,7 +670,24 @@
               "value": [
                 {
                   "key": "$REF",
-                  "value": ""
+                  "value": "ui_text_formatter"
+                },
+                {
+                  "key": "formatter",
+                  "value": 11219984
+                },
+                {
+                  "key": "formatter_arguments",
+                  "value": [
+                    {
+                      "key": "int_value",
+                      "value": 15
+                    },
+                    {
+                      "key": "int_value",
+                      "value": 10
+                    }
+                  ]
                 }
               ]
             },
