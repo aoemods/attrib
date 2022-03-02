@@ -943,7 +943,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 20
+                  "value": 40
                 },
                 {
                   "key": "$REF",
@@ -960,7 +960,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 15
+                  "value": 20
                 },
                 {
                   "key": "$REF",

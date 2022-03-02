@@ -4990,7 +4990,7 @@
                   "value": [
                     {
                       "key": "food",
-                      "value": -30
+                      "value": -35
                     },
                     {
                       "key": "action",
@@ -5010,7 +5010,7 @@
                     },
                     {
                       "key": "stone",
-                      "value": 30
+                      "value": 35
                     },
                     {
                       "key": "command",

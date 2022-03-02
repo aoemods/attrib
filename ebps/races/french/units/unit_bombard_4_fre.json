@@ -422,7 +422,7 @@
           "value": [
             {
               "key": "default_speed",
-              "value": 3.5
+              "value": 2.5
             },
             {
               "key": "min_speed",
@@ -739,7 +739,7 @@
         },
         {
           "key": "hitpoints",
-          "value": 480
+          "value": 400
         },
         {
           "key": "receive_weapon_cover_modifiers",

@@ -1660,6 +1660,40 @@
                   "value": 204
                 }
               ]
+            },
+            {
+              "key": "target_unit_type_multipliers",
+              "value": [
+                {
+                  "key": "weapon_multipliers",
+                  "value": [
+                    {
+                      "key": "suppression_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "penetration_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "accuracy_multiplier",
+                      "value": 1
+                    },
+                    {
+                      "key": "damage_multiplier",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "key": "unit_type",
+                  "value": "naval_unit"
+                },
+                {
+                  "key": "base_damage_modifier",
+                  "value": 204
+                }
+              ]
             }
           ]
         },

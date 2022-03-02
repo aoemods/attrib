@@ -635,6 +635,10 @@
                   "value": "requirements\\required_not"
                 },
                 {
+                  "key": "ui_name",
+                  "value": 11204147
+                },
+                {
                   "key": "reason",
                   "value": "usage"
                 }
@@ -685,6 +689,66 @@
                 {
                   "key": "$REF",
                   "value": "requirements\\required_not"
+                },
+                {
+                  "key": "ui_name",
+                  "value": 11216263
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
+            },
+            {
+              "key": "required_not",
+              "value": [
+                {
+                  "key": "requirement_table",
+                  "value": [
+                    {
+                      "key": "required_unit_type",
+                      "value": [
+                        {
+                          "key": "qualify_option",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "options\\none"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_unit_type"
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "wonder"
+                        },
+                        {
+                          "key": "ui_name",
+                          "value": 11220382
+                        },
+                        {
+                          "key": "search_load_out",
+                          "value": false
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_not"
+                },
+                {
+                  "key": "ui_name",
+                  "value": 11220382
                 },
                 {
                   "key": "reason",
@@ -892,10 +956,6 @@
               "value": ""
             },
             {
-              "key": "help_text",
-              "value": 11161197
-            },
-            {
               "key": "hotkey_name",
               "value": "Z"
             },
@@ -912,7 +972,24 @@
               "value": [
                 {
                   "key": "$REF",
-                  "value": ""
+                  "value": "ui_text_formatter"
+                },
+                {
+                  "key": "formatter",
+                  "value": 11220514
+                },
+                {
+                  "key": "formatter_arguments",
+                  "value": [
+                    {
+                      "key": "int_value",
+                      "value": 200
+                    },
+                    {
+                      "key": "int_value",
+                      "value": 20
+                    }
+                  ]
                 }
               ]
             },

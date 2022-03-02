@@ -441,7 +441,7 @@
         },
         {
           "key": "entity_tree",
-          "value": "official_auto_collect_tax_chi\\root\\lib_enable\\enable\\deferred_enable_auto_collect\\enable"
+          "value": "official_auto_collect_tax_chi\\lib_enable\\enable"
         },
         {
           "key": "caster_close_in_distance",

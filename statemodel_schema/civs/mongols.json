@@ -1118,7 +1118,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 50
+                  "value": 25
                 },
                 {
                   "key": "$REF",
@@ -1135,7 +1135,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 50
+                  "value": 25
                 },
                 {
                   "key": "$REF",
@@ -1254,7 +1254,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 1.75
+                  "value": 1.34
                 },
                 {
                   "key": "$REF",

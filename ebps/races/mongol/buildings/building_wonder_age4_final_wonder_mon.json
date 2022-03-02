@@ -1735,7 +1735,7 @@
               "value": [
                 {
                   "key": "food",
-                  "value": 4000
+                  "value": 8000
                 },
                 {
                   "key": "action",
@@ -1743,7 +1743,7 @@
                 },
                 {
                   "key": "gold",
-                  "value": 4000
+                  "value": 8000
                 },
                 {
                   "key": "militia_hre",
@@ -1763,7 +1763,7 @@
                 },
                 {
                   "key": "wood",
-                  "value": 4000
+                  "value": 8000
                 }
               ]
             }

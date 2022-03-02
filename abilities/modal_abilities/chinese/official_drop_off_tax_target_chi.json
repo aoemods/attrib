@@ -311,28 +311,76 @@
           "key": "requirements_target",
           "value": [
             {
-              "key": "required_unit_type",
+              "key": "required_any_in_list",
               "value": [
                 {
-                  "key": "qualify_option",
+                  "key": "$REF",
+                  "value": "requirements\\required_any_in_list"
+                },
+                {
+                  "key": "requirements",
                   "value": [
                     {
-                      "key": "$REF",
-                      "value": "options\\none"
+                      "key": "required_unit_type",
+                      "value": [
+                        {
+                          "key": "qualify_option",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "options\\none"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_unit_type"
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "town_center"
+                        },
+                        {
+                          "key": "search_load_out",
+                          "value": false
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "required_unit_type",
+                      "value": [
+                        {
+                          "key": "qualify_option",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "options\\none"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_unit_type"
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "imperial_academy"
+                        },
+                        {
+                          "key": "search_load_out",
+                          "value": false
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "key": "$REF",
-                  "value": "requirements\\required_unit_type"
-                },
-                {
-                  "key": "unit_type",
-                  "value": "town_center"
-                },
-                {
-                  "key": "search_load_out",
-                  "value": false
                 },
                 {
                   "key": "reason",
@@ -371,6 +419,35 @@
                 {
                   "key": "do_construction_completion_check",
                   "value": true
+                }
+              ]
+            },
+            {
+              "key": "required_statemodelbool",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "landmark_active"
+                },
+                {
+                  "key": "default_value",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_statemodelbool"
+                },
+                {
+                  "key": "data_source_type",
+                  "value": "self_datasource"
+                },
+                {
+                  "key": "compare_to_value",
+                  "value": true
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
                 }
               ]
             }

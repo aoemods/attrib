@@ -170,7 +170,7 @@
                     },
                     {
                       "key": "spot_catchup_speed_increase_factor",
-                      "value": 1
+                      "value": 0.4
                     },
                     {
                       "key": "spot_delta_lookup_distance_meters",

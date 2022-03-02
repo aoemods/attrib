@@ -331,7 +331,7 @@
           "value": [
             {
               "key": "default_speed",
-              "value": 6.5
+              "value": 6
             },
             {
               "key": "min_speed",
@@ -635,7 +635,7 @@
         },
         {
           "key": "hitpoints",
-          "value": 250
+          "value": 200
         },
         {
           "key": "receive_weapon_cover_modifiers",
@@ -1710,7 +1710,7 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "fireship_target_eastern"
+                  "value": "fireship_target"
                 },
                 {
                   "key": "$PBGMAP",
