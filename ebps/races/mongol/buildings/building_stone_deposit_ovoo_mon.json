@@ -1021,10 +1021,6 @@
           "value": ""
         },
         {
-          "key": "help_text",
-          "value": 11215026
-        },
-        {
           "key": "hotkey_name",
           "value": "X"
         },
@@ -1091,7 +1087,32 @@
           "value": [
             {
               "key": "$REF",
-              "value": ""
+              "value": "ui_text_formatter"
+            },
+            {
+              "key": "formatter",
+              "value": 11215026
+            },
+            {
+              "key": "formatter_arguments",
+              "value": [
+                {
+                  "key": "int_value",
+                  "value": 80
+                },
+                {
+                  "key": "int_value",
+                  "value": 100
+                },
+                {
+                  "key": "int_value",
+                  "value": 120
+                },
+                {
+                  "key": "int_value",
+                  "value": 150
+                }
+              ]
             }
           ]
         },

@@ -23,14 +23,6 @@
         {
           "key": "upgrade_type",
           "value": [
-            {
-              "key": "upgrade_type",
-              "value": "economic_upgrade"
-            },
-            {
-              "key": "upgrade_type",
-              "value": "chinese_upgrade"
-            }
           ]
         },
         {
@@ -38,17 +30,17 @@
           "value": [
             {
               "key": "ui_position_column",
-              "value": 1
+              "value": -1
             },
             {
               "key": "ui_position_row",
-              "value": 3
+              "value": -1
             }
           ]
         },
         {
           "key": "local_max_limit",
-          "value": 1
+          "value": 0
         },
         {
           "key": "int_properties",
@@ -81,7 +73,7 @@
             },
             {
               "key": "priority",
-              "value": 4700
+              "value": 0
             }
           ]
         },
@@ -92,6 +84,23 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 1.67
+                },
+                {
+                  "key": "id",
+                  "value": "gather_rate_stone"
+                }
+              ]
+            }
           ]
         },
         {
@@ -153,7 +162,7 @@
         },
         {
           "key": "ui_event_cue",
-          "value": true
+          "value": false
         },
         {
           "key": "ui_preview",
@@ -163,124 +172,6 @@
         {
           "key": "requirements",
           "value": [
-            {
-              "key": "required_player_upgrade",
-              "value": [
-                {
-                  "key": "include_pbg_parenting",
-                  "value": [
-                    {
-                      "key": "include_child_pbgs",
-                      "value": false
-                    },
-                    {
-                      "key": "include_parent_pbgs",
-                      "value": false
-                    }
-                  ]
-                },
-                {
-                  "key": "include_queued",
-                  "value": false
-                },
-                {
-                  "key": "include_completed",
-                  "value": true
-                },
-                {
-                  "key": "$REF",
-                  "value": "requirements\\required_player_upgrade"
-                },
-                {
-                  "key": "max_completed",
-                  "value": 100
-                },
-                {
-                  "key": "min_completed",
-                  "value": 1
-                },
-                {
-                  "key": "upgrade_name",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "value": "feudal_age"
-                    },
-                    {
-                      "key": "$PBGMAP",
-                      "value": "upgrade"
-                    }
-                  ]
-                },
-                {
-                  "key": "reason",
-                  "value": "usage"
-                },
-                {
-                  "key": "is_present",
-                  "value": true
-                }
-              ]
-            },
-            {
-              "key": "required_player_upgrade",
-              "value": [
-                {
-                  "key": "include_pbg_parenting",
-                  "value": [
-                    {
-                      "key": "include_child_pbgs",
-                      "value": false
-                    },
-                    {
-                      "key": "include_parent_pbgs",
-                      "value": false
-                    }
-                  ]
-                },
-                {
-                  "key": "include_queued",
-                  "value": true
-                },
-                {
-                  "key": "include_completed",
-                  "value": true
-                },
-                {
-                  "key": "$REF",
-                  "value": "requirements\\required_player_upgrade"
-                },
-                {
-                  "key": "max_completed",
-                  "value": 100
-                },
-                {
-                  "key": "min_completed",
-                  "value": 1
-                },
-                {
-                  "key": "upgrade_name",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "value": "upgrade_imperial_examinations_chi"
-                    },
-                    {
-                      "key": "$PBGMAP",
-                      "value": "upgrade"
-                    }
-                  ]
-                },
-                {
-                  "key": "reason",
-                  "value": "usage_and_display"
-                },
-                {
-                  "key": "is_present",
-                  "value": false
-                }
-              ]
-            }
           ]
         },
         {
@@ -312,7 +203,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": "upgrade_imperial_examinations_chi"
+                  "value": "upgrade_ovoo_age_up\\ovoo_rate_feudal"
                 },
                 {
                   "key": "$REF",
@@ -412,16 +303,12 @@
               ]
             },
             {
-              "key": "extra_text",
-              "value": 11165916
-            },
-            {
               "key": "sound",
-              "value": "sfx_ui_produce_upgrade_building_click"
+              "value": ""
             },
             {
               "key": "icon_name",
-              "value": "races\\chinese\\upgrades\\imperial_examinations"
+              "value": ""
             },
             {
               "key": "ui_combine_type",
@@ -429,7 +316,7 @@
             },
             {
               "key": "hotkey_name",
-              "value": "z"
+              "value": ""
             },
             {
               "key": "sound_alternative",
@@ -437,31 +324,14 @@
             },
             {
               "key": "tooltip_data_template",
-              "value": "UniqueBuildingUpgradeDataTemplate"
+              "value": ""
             },
             {
               "key": "help_text_formatter",
               "value": [
                 {
                   "key": "$REF",
-                  "value": "ui_text_formatter"
-                },
-                {
-                  "key": "formatter",
-                  "value": 11161718
-                },
-                {
-                  "key": "formatter_arguments",
-                  "value": [
-                    {
-                      "key": "int_value",
-                      "value": 40
-                    },
-                    {
-                      "key": "int_value",
-                      "value": 80
-                    }
-                  ]
+                  "value": ""
                 }
               ]
             },
@@ -473,10 +343,6 @@
                   "value": ""
                 }
               ]
-            },
-            {
-              "key": "screen_name",
-              "value": 11161717
             }
           ]
         },
@@ -485,14 +351,14 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 60
+              "value": 0
             },
             {
               "key": "cost",
               "value": [
                 {
                   "key": "food",
-                  "value": 50
+                  "value": 0
                 },
                 {
                   "key": "action",
@@ -500,7 +366,7 @@
                 },
                 {
                   "key": "gold",
-                  "value": 125
+                  "value": 0
                 },
                 {
                   "key": "militia_hre",
@@ -572,7 +438,7 @@
     },
     {
       "key": "pbgid",
-      "value": 182886
+      "value": 2072154
     },
     {
       "key": "parent_pbg",

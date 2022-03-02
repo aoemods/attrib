@@ -2,7 +2,7 @@
   "data": [
     {
       "key": "_18",
-      "value": "wing_build_time_abb"
+      "value": "single_cast_damage"
     },
     {
       "key": "_3",
@@ -10,7 +10,7 @@
     },
     {
       "key": "_17",
-      "value": "single_cast_damage"
+      "value": "siege_damage"
     },
     {
       "key": "_4",
@@ -22,11 +22,11 @@
     },
     {
       "key": "_9",
-      "value": "idle_damage"
+      "value": "heal_rate"
     },
     {
       "key": "_16",
-      "value": "siege_damage"
+      "value": "ranged_damage"
     },
     {
       "key": "_0",
@@ -34,15 +34,19 @@
     },
     {
       "key": "_8",
-      "value": "heal_rate"
+      "value": "gather_rate_stone"
     },
     {
       "key": "_13",
-      "value": "raid_bounty_gold"
+      "value": "raid_bounty_food"
+    },
+    {
+      "key": "_19",
+      "value": "wing_build_time_abb"
     },
     {
       "key": "_11",
-      "value": "normal_modifier"
+      "value": "melee_damage"
     },
     {
       "key": "_2",
@@ -50,15 +54,15 @@
     },
     {
       "key": "_15",
-      "value": "ranged_damage"
-    },
-    {
-      "key": "_14",
       "value": "raid_bounty_wood"
     },
     {
+      "key": "_14",
+      "value": "raid_bounty_gold"
+    },
+    {
       "key": "_12",
-      "value": "raid_bounty_food"
+      "value": "normal_modifier"
     },
     {
       "key": "_6",
@@ -74,7 +78,7 @@
     },
     {
       "key": "_10",
-      "value": "melee_damage"
+      "value": "idle_damage"
     }
   ]
 }

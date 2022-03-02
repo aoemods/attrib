@@ -2277,7 +2277,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 30
+              "value": 60
             },
             {
               "key": "time_turns",
