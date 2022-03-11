@@ -310,11 +310,11 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": ""
+              "value": "weapon_range"
             },
             {
               "key": "$PBGMAP",
-              "value": ""
+              "value": "ui_reticule"
             }
           ]
         },
@@ -552,11 +552,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 13
+                  "value": 12
                 },
                 {
                   "key": "min",
-                  "value": 13
+                  "value": 12
                 }
               ]
             },
@@ -665,7 +665,7 @@
             },
             {
               "key": "attack_ground_type",
-              "value": 2
+              "value": 0
             },
             {
               "key": "can_damage_allies",
@@ -845,7 +845,7 @@
             },
             {
               "key": "fire_cone_angle",
-              "value": 360
+              "value": 60
             },
             {
               "key": "pivot_end_time",
@@ -922,11 +922,11 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": ""
+              "value": "setup_team_weapon"
             },
             {
               "key": "$PBGMAP",
-              "value": ""
+              "value": "ui_setfacing"
             }
           ]
         },
@@ -947,7 +947,7 @@
             },
             {
               "key": "can_fire_while_moving",
-              "value": true
+              "value": false
             },
             {
               "key": "moving_start_time",

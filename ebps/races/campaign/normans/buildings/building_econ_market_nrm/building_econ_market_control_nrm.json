@@ -366,10 +366,6 @@
           "value": false
         },
         {
-          "key": "lock_to_impass",
-          "value": true
-        },
-        {
           "key": "extra_build_test_footprint_z",
           "value": 1
         },
@@ -397,6 +393,10 @@
               "value": 8
             }
           ]
+        },
+        {
+          "key": "snap_to_construction_grid",
+          "value": true
         },
         {
           "key": "minimum_build_test_footprint_x",
@@ -781,6 +781,10 @@
         {
           "key": "unit_type_list_selection_keybind_only",
           "value": [
+            {
+              "key": "unit_type",
+              "value": "market_keybinding"
+            }
           ]
         },
         {
@@ -1138,6 +1142,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -1220,6 +1228,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",
@@ -3530,6 +3542,11 @@
         {
           "key": "$REF",
           "value": "ebpextensions\\audio_ext"
+        },
+        {
+          "key": "select_audible_to_relation_list",
+          "value": [
+          ]
         },
         {
           "key": "single_select_event",

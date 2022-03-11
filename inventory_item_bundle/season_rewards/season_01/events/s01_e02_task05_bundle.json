@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "key": "name",
+      "value": "Sounds of Reverie: Task 5 Bundle"
+    },
+    {
+      "key": "items",
+      "value": [
+        {
+          "key": "item",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "season_01_event_02_bard"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "player_portrait"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "inventory_item_bundle_type",
+      "value": "EventReward"
+    },
+    {
+      "key": "server_id",
+      "value": 1077
+    }
+  ]
+}

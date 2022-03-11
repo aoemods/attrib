@@ -514,7 +514,7 @@
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 200
+                      "value": 100
                     },
                     {
                       "key": "int_value",
@@ -536,6 +536,10 @@
             {
               "key": "screen_name",
               "value": 11190377
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

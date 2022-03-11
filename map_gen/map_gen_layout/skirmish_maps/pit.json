@@ -1,0 +1,1965 @@
+{
+  "data": [
+    {
+      "key": "map_gen_layout",
+      "value": [
+        {
+          "key": "display_name",
+          "value": 11218941
+        },
+        {
+          "key": "terrain_layout_script",
+          "value": "skirmish_maps\\pit"
+        },
+        {
+          "key": "camera_mesh_params",
+          "value": [
+            {
+              "key": "transition_to_slope_smoothing_start_degrees",
+              "value": 20
+            },
+            {
+              "key": "smoothing_radius_flat",
+              "value": 40
+            },
+            {
+              "key": "pick_max_height_in_radius",
+              "value": 5
+            },
+            {
+              "key": "transition_to_slope_smoothing_end_degrees",
+              "value": 65
+            },
+            {
+              "key": "smoothing_radius_slopes",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "key": "river_override",
+          "value": [
+          ]
+        },
+        {
+          "key": "balancing_resource_score_maps",
+          "value": [
+            {
+              "key": "boar_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement_close"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "deer_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement_close"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "settlements_naval",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "fish_deepwater",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "berries_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "sheep_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement_close"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "fish_river",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_water_river_fish"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "fish_shore",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_water_shore_fish"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "gold",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "settlements",
+              "value": [
+                {
+                  "key": "playable_area_only",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\filter_edge_of_map"
+                },
+                {
+                  "key": "set_values_to",
+                  "value": 1
+                },
+                {
+                  "key": "input",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\score_map\\option\\reference"
+                    },
+                    {
+                      "key": "score_map",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "basic_land_resource_placement"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\score_map\\score_map"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "value_is_percent_instead_of_cells",
+                  "value": true
+                },
+                {
+                  "key": "from_edge_threshold",
+                  "value": 15
+                },
+                {
+                  "key": "filter_inner_instead_of_outer",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "stone_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "none",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\all_0"
+                }
+              ]
+            },
+            {
+              "key": "stone",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "deer_large",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement_close"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "berries",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "boar_large",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement_close"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "gold_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "sheep_med",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement_close"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "holy_sites",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "relics",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "sheep_large",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "basic_land_resource_placement_close"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "default_biome_tuning_overrides",
+          "value": [
+          ]
+        },
+        {
+          "key": "river_default",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "erosion",
+          "value": [
+            {
+              "key": "max_erosion_depth",
+              "value": 1.2
+            },
+            {
+              "key": "steps_before_velocity_checks_start",
+              "value": 3
+            },
+            {
+              "key": "droplets_per_cell",
+              "value": 0.85
+            },
+            {
+              "key": "max_droplet_iterations",
+              "value": 100
+            },
+            {
+              "key": "deposit_rate",
+              "value": 0.06
+            },
+            {
+              "key": "velocity_erosion_strength",
+              "value": 3
+            },
+            {
+              "key": "erosion_rate",
+              "value": 0.5
+            },
+            {
+              "key": "erosion_magnification",
+              "value": 2
+            },
+            {
+              "key": "friction",
+              "value": 0.15
+            },
+            {
+              "key": "sample_offset_radius",
+              "value": 0.75
+            },
+            {
+              "key": "end_droplets_below_velocity",
+              "value": 0.75
+            },
+            {
+              "key": "iteration_strength_increase",
+              "value": 0.04
+            }
+          ]
+        },
+        {
+          "key": "default_map_size_tuning_overrides",
+          "value": [
+            {
+              "key": "map_size_overrides",
+              "value": [
+                {
+                  "key": "map_size",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "map_size_416"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_size"
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_terrain_smoothing",
+                  "value": [
+                    {
+                      "key": "fractal_shift_amplitude",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0.62
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.725
+                        }
+                      ]
+                    },
+                    {
+                      "key": "fractal_shift_direction_bias",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_terrain_smoothing_params"
+                    },
+                    {
+                      "key": "fractal_shift_variance",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "height_over_width",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 1.28
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.525
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_resource_balancing",
+                  "value": [
+                    {
+                      "key": "solo_play_contested_area_start",
+                      "value": 0.9
+                    },
+                    {
+                      "key": "contested_range",
+                      "value": 180
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_layout_and_size_params"
+                    },
+                    {
+                      "key": "solo_play_contested_area_end",
+                      "value": 0
+                    },
+                    {
+                      "key": "player_resource_access_distance",
+                      "value": 416
+                    },
+                    {
+                      "key": "player_start_influence_distance",
+                      "value": 120
+                    },
+                    {
+                      "key": "distribution_balancing_list",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "default_resources_list"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\distribution\\distribution_balancing_list"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "distribution_balancing",
+                      "value": [
+                        {
+                          "key": "settlements",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.4
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 150
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.6
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 6
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "holy_sites",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "map_size_overrides",
+              "value": [
+                {
+                  "key": "map_size",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "map_size_512"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_size"
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_terrain_smoothing",
+                  "value": [
+                    {
+                      "key": "fractal_shift_amplitude",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0.62
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.725
+                        }
+                      ]
+                    },
+                    {
+                      "key": "fractal_shift_direction_bias",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_terrain_smoothing_params"
+                    },
+                    {
+                      "key": "fractal_shift_variance",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "height_over_width",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 1.28
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.525
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_resource_balancing",
+                  "value": [
+                    {
+                      "key": "solo_play_contested_area_start",
+                      "value": 0.9
+                    },
+                    {
+                      "key": "contested_range",
+                      "value": 240
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_layout_and_size_params"
+                    },
+                    {
+                      "key": "solo_play_contested_area_end",
+                      "value": 0
+                    },
+                    {
+                      "key": "player_resource_access_distance",
+                      "value": 512
+                    },
+                    {
+                      "key": "player_start_influence_distance",
+                      "value": 120
+                    },
+                    {
+                      "key": "distribution_balancing_list",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "default_resources_list"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\distribution\\distribution_balancing_list"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "distribution_balancing",
+                      "value": [
+                        {
+                          "key": "settlements",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "holy_sites",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "map_size_overrides",
+              "value": [
+                {
+                  "key": "map_size",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "map_size_640"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_size"
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_terrain_smoothing",
+                  "value": [
+                    {
+                      "key": "fractal_shift_amplitude",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0.62
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.725
+                        }
+                      ]
+                    },
+                    {
+                      "key": "fractal_shift_direction_bias",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_terrain_smoothing_params"
+                    },
+                    {
+                      "key": "fractal_shift_variance",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "height_over_width",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 1.28
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.525
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_resource_balancing",
+                  "value": [
+                    {
+                      "key": "solo_play_contested_area_start",
+                      "value": 0.9
+                    },
+                    {
+                      "key": "contested_range",
+                      "value": 330
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_layout_and_size_params"
+                    },
+                    {
+                      "key": "solo_play_contested_area_end",
+                      "value": 0
+                    },
+                    {
+                      "key": "player_resource_access_distance",
+                      "value": 640
+                    },
+                    {
+                      "key": "player_start_influence_distance",
+                      "value": 125
+                    },
+                    {
+                      "key": "distribution_balancing_list",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "default_resources_list"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\distribution\\distribution_balancing_list"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "distribution_balancing",
+                      "value": [
+                        {
+                          "key": "settlements",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "holy_sites",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "map_size_overrides",
+              "value": [
+                {
+                  "key": "map_size",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "map_size_768"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_size"
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_terrain_smoothing",
+                  "value": [
+                    {
+                      "key": "fractal_shift_amplitude",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0.62
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.725
+                        }
+                      ]
+                    },
+                    {
+                      "key": "fractal_shift_direction_bias",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_terrain_smoothing_params"
+                    },
+                    {
+                      "key": "fractal_shift_variance",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "height_over_width",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 1.28
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.525
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_resource_balancing",
+                  "value": [
+                    {
+                      "key": "solo_play_contested_area_start",
+                      "value": 0.95
+                    },
+                    {
+                      "key": "contested_range",
+                      "value": 420
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_layout_and_size_params"
+                    },
+                    {
+                      "key": "solo_play_contested_area_end",
+                      "value": 0
+                    },
+                    {
+                      "key": "player_resource_access_distance",
+                      "value": 768
+                    },
+                    {
+                      "key": "player_start_influence_distance",
+                      "value": 140
+                    },
+                    {
+                      "key": "distribution_balancing_list",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "default_resources_list"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\distribution\\distribution_balancing_list"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "distribution_balancing",
+                      "value": [
+                        {
+                          "key": "settlements",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "holy_sites",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "map_size_overrides",
+              "value": [
+                {
+                  "key": "map_size",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "map_size_896"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_size"
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_terrain_smoothing",
+                  "value": [
+                    {
+                      "key": "fractal_shift_amplitude",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0.62
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.725
+                        }
+                      ]
+                    },
+                    {
+                      "key": "fractal_shift_direction_bias",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_terrain_smoothing_params"
+                    },
+                    {
+                      "key": "fractal_shift_variance",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "height_over_width",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 1.28
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.525
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_resource_balancing",
+                  "value": [
+                    {
+                      "key": "solo_play_contested_area_start",
+                      "value": 0.95
+                    },
+                    {
+                      "key": "contested_range",
+                      "value": 500
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_layout_and_size_params"
+                    },
+                    {
+                      "key": "solo_play_contested_area_end",
+                      "value": 0
+                    },
+                    {
+                      "key": "player_resource_access_distance",
+                      "value": 896
+                    },
+                    {
+                      "key": "player_start_influence_distance",
+                      "value": 165
+                    },
+                    {
+                      "key": "distribution_balancing_list",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "default_resources_list"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "map_gen\\distribution\\distribution_balancing_list"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "distribution_balancing",
+                      "value": [
+                        {
+                          "key": "settlements",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "holy_sites",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "reflect_loaded_layout_across_horizontal_axis",
+          "value": true
+        },
+        {
+          "key": "oceans",
+          "value": [
+            {
+              "key": "ocean_height",
+              "value": -100
+            }
+          ]
+        },
+        {
+          "key": "global_distributions",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "global_tactical_v2_dist"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\global_distributions"
+            }
+          ]
+        },
+        {
+          "key": "mesh_area_properties",
+          "value": [
+            {
+              "key": "stealth_woods",
+              "value": [
+                {
+                  "key": "properties",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "standard_stealth_woods"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "mesh_area_properties"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "ocean_stealth",
+              "value": [
+                {
+                  "key": "properties",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "standard_ocean_stealth"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "mesh_area_properties"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "none",
+              "value": [
+                {
+                  "key": "properties",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "dense_woods",
+              "value": [
+                {
+                  "key": "properties",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "standard_dense_woods"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "mesh_area_properties"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui",
+          "value": [
+            {
+              "key": "image_postgame_background",
+              "value": ""
+            },
+            {
+              "key": "image_unloading_background",
+              "value": ""
+            },
+            {
+              "key": "characteristics",
+              "value": [
+              ]
+            },
+            {
+              "key": "image_lobby_flavor",
+              "value": "map_gen_biome\\coastal_western_lobby_flavor"
+            },
+            {
+              "key": "image_loading_background",
+              "value": ""
+            },
+            {
+              "key": "image_icon",
+              "value": "map_gen_layout\\plains_icon"
+            },
+            {
+              "key": "display_notes",
+              "value": [
+              ]
+            },
+            {
+              "key": "display_description_long",
+              "value": 11218942
+            }
+          ]
+        },
+        {
+          "key": "weighted_terrain_types",
+          "value": [
+            {
+              "key": "weighted_terrain_type",
+              "value": [
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_plains"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "is_unplayable_area_terrain",
+                  "value": false
+                },
+                {
+                  "key": "weight",
+                  "value": 60
+                }
+              ]
+            },
+            {
+              "key": "weighted_terrain_type",
+              "value": [
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_hills_gentle_rolling"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "is_unplayable_area_terrain",
+                  "value": false
+                },
+                {
+                  "key": "weight",
+                  "value": 30
+                }
+              ]
+            },
+            {
+              "key": "weighted_terrain_type",
+              "value": [
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_valley_shallow"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "is_unplayable_area_terrain",
+                  "value": false
+                },
+                {
+                  "key": "weight",
+                  "value": 10
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2064632
+    }
+  ]
+}

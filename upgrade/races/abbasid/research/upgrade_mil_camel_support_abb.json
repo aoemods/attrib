@@ -34,7 +34,7 @@
             },
             {
               "key": "ui_position_row",
-              "value": 1
+              "value": 3
             }
           ]
         },
@@ -73,7 +73,7 @@
             },
             {
               "key": "priority",
-              "value": 5800
+              "value": 5600
             }
           ]
         },
@@ -288,7 +288,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "feudal_age"
+                      "value": "imperial_age"
                     },
                     {
                       "key": "$PBGMAP",
@@ -480,7 +480,7 @@
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 1
+                      "value": 2
                     }
                   ]
                 }
@@ -498,6 +498,10 @@
             {
               "key": "screen_name",
               "value": 11183498
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },
@@ -506,14 +510,14 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 60
+              "value": 90
             },
             {
               "key": "cost",
               "value": [
                 {
                   "key": "food",
-                  "value": 50
+                  "value": 300
                 },
                 {
                   "key": "action",
@@ -521,7 +525,7 @@
                 },
                 {
                   "key": "gold",
-                  "value": 125
+                  "value": 700
                 },
                 {
                   "key": "militia_hre",

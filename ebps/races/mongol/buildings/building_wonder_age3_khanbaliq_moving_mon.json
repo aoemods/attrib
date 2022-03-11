@@ -1218,10 +1218,6 @@
           "value": ""
         },
         {
-          "key": "help_text",
-          "value": 11189998
-        },
-        {
           "key": "hotkey_name",
           "value": "R"
         },
@@ -1248,6 +1244,10 @@
         {
           "key": "kicker_offset",
           "value": 0
+        },
+        {
+          "key": "tooltip_data_template",
+          "value": ""
         },
         {
           "key": "selection_secondary_bounds_scale",
@@ -1288,7 +1288,20 @@
           "value": [
             {
               "key": "$REF",
-              "value": ""
+              "value": "ui_text_formatter"
+            },
+            {
+              "key": "formatter",
+              "value": 11204912
+            },
+            {
+              "key": "formatter_arguments",
+              "value": [
+                {
+                  "key": "int_value",
+                  "value": 90
+                }
+              ]
             }
           ]
         },
@@ -1332,6 +1345,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",
@@ -2284,6 +2301,11 @@
         {
           "key": "$REF",
           "value": "ebpextensions\\audio_ext"
+        },
+        {
+          "key": "select_audible_to_relation_list",
+          "value": [
+          ]
         },
         {
           "key": "single_select_event",

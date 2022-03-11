@@ -92,6 +92,40 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 2
+                },
+                {
+                  "key": "id",
+                  "value": "armor_melee"
+                }
+              ]
+            },
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 2
+                },
+                {
+                  "key": "id",
+                  "value": "armor_range"
+                }
+              ]
+            }
           ]
         },
         {
@@ -473,6 +507,10 @@
             {
               "key": "screen_name",
               "value": 11197956
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

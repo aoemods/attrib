@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "key": "challenge_group_source",
+      "value": 1
+    },
+    {
+      "key": "icon",
+      "value": ""
+    },
+    {
+      "key": "telemetryPrefix",
+      "value": ""
+    },
+    {
+      "key": "group_type",
+      "value": [
+        {
+          "key": "$REF",
+          "value": "challenges\\group_types\\static"
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "value": 1513876
+    },
+    {
+      "key": "ui_tags",
+      "value": [
+        {
+          "key": "pinned",
+          "value": false
+        },
+        {
+          "key": "unpins_activity_feed_item",
+          "value": false
+        },
+        {
+          "key": "event",
+          "value": true
+        },
+        {
+          "key": "home",
+          "value": false
+        }
+      ]
+    },
+    {
+      "key": "image",
+      "value": ""
+    },
+    {
+      "key": "imageSmall",
+      "value": ""
+    },
+    {
+      "key": "icon2",
+      "value": ""
+    }
+  ]
+}

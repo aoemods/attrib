@@ -319,7 +319,7 @@
                 },
                 {
                   "key": "ui_name",
-                  "value": 11204376
+                  "value": 11220955
                 },
                 {
                   "key": "requirements",
@@ -459,7 +459,7 @@
                 },
                 {
                   "key": "ui_name",
-                  "value": 11201203
+                  "value": 11220953
                 },
                 {
                   "key": "reason",
@@ -529,7 +529,7 @@
                 },
                 {
                   "key": "ui_name",
-                  "value": 11201202
+                  "value": 11220952
                 },
                 {
                   "key": "reason",
@@ -652,6 +652,58 @@
                 {
                   "key": "ui_name",
                   "value": 11217632
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
+            },
+            {
+              "key": "required_not",
+              "value": [
+                {
+                  "key": "requirement_table",
+                  "value": [
+                    {
+                      "key": "required_unit_type",
+                      "value": [
+                        {
+                          "key": "qualify_option",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "options\\none"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_unit_type"
+                        },
+                        {
+                          "key": "unit_type",
+                          "value": "naval_unit"
+                        },
+                        {
+                          "key": "search_load_out",
+                          "value": false
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_not"
+                },
+                {
+                  "key": "ui_name",
+                  "value": 11220954
                 },
                 {
                   "key": "reason",

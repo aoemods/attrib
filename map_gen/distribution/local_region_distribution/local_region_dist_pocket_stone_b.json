@@ -49,7 +49,7 @@
             },
             {
               "key": "max_distance",
-              "value": 22
+              "value": 30
             },
             {
               "key": "$REF",
@@ -62,7 +62,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "region_dist_stone_deposits"
+              "value": "region_dist_stone_deposits_cliff"
             },
             {
               "key": "$PBGMAP",

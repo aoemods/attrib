@@ -234,6 +234,15 @@
               ]
             },
             {
+              "key": "add_patrol_point",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
               "key": "retreat",
               "value": [
                 {
@@ -1168,24 +1177,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "key": "squad_holdable_ext",
-      "value": [
-        {
-          "key": "$REF",
-          "value": "sbpextensions\\squad_holdable_ext"
-        },
-        {
-          "key": "modifier_table",
-          "value": [
-          ]
-        },
-        {
-          "key": "hold_target_requirement",
-          "value": ""
         }
       ]
     }

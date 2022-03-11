@@ -294,6 +294,36 @@
                     {
                       "key": "unit_class",
                       "value": "wonder_imperial_age"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "wonder"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "info",
+              "value": [
+                {
+                  "key": "priority",
+                  "value": 1
+                },
+                {
+                  "key": "max_units",
+                  "value": 0
+                },
+                {
+                  "key": "burn_amount_threshold",
+                  "value": 0
+                },
+                {
+                  "key": "unit_types",
+                  "value": [
+                    {
+                      "key": "unit_class",
+                      "value": "town_center"
                     }
                   ]
                 }

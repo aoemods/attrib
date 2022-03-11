@@ -731,10 +731,6 @@
               "value": "intersection"
             },
             {
-              "key": "help_text",
-              "value": 11205514
-            },
-            {
               "key": "hotkey_name",
               "value": "q"
             },
@@ -755,15 +751,11 @@
                 },
                 {
                   "key": "formatter",
-                  "value": 11205514
+                  "value": 11220923
                 },
                 {
                   "key": "formatter_arguments",
                   "value": [
-                    {
-                      "key": "int_value",
-                      "value": 2
-                    }
                   ]
                 }
               ]
@@ -780,6 +772,10 @@
             {
               "key": "screen_name",
               "value": 11143373
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

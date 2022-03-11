@@ -509,11 +509,11 @@
             },
             {
               "key": "max_vehicle_cap",
-              "value": 0
+              "value": 200
             },
             {
               "key": "base_vehicle_cap",
-              "value": 0
+              "value": 200
             },
             {
               "key": "base_medic_cap",

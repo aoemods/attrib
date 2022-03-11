@@ -691,6 +691,10 @@
             {
               "key": "screen_name",
               "value": 11163862
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },
@@ -699,7 +703,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 60
+              "value": 90
             },
             {
               "key": "cost",
@@ -714,7 +718,7 @@
                 },
                 {
                   "key": "gold",
-                  "value": 350
+                  "value": 700
                 },
                 {
                   "key": "militia_hre",
@@ -726,7 +730,7 @@
                 },
                 {
                   "key": "stone",
-                  "value": 500
+                  "value": 1000
                 },
                 {
                   "key": "command",
@@ -734,7 +738,7 @@
                 },
                 {
                   "key": "wood",
-                  "value": 150
+                  "value": 300
                 }
               ]
             }

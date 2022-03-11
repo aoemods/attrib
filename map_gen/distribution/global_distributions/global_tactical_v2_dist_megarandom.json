@@ -553,45 +553,6 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "global_region_dist_fish_river"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "map_gen\\distribution\\global_region_distribution"
-                }
-              ]
-            },
-            {
-              "key": "region_distribution",
-              "value": [
-                {
-                  "key": "$PBGNAME",
-                  "value": "global_region_dist_fish_shore_naval"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "map_gen\\distribution\\global_region_distribution"
-                }
-              ]
-            },
-            {
-              "key": "region_distribution",
-              "value": [
-                {
-                  "key": "$PBGNAME",
-                  "value": "global_region_dist_fish_deepwater_naval"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "map_gen\\distribution\\global_region_distribution"
-                }
-              ]
-            },
-            {
-              "key": "region_distribution",
-              "value": [
-                {
-                  "key": "$PBGNAME",
                   "value": "global_region_dist_wolf"
                 },
                 {

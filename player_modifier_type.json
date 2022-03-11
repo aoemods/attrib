@@ -57,6 +57,10 @@
       "value": "sight_radius_player_modifier"
     },
     {
+      "key": "_31",
+      "value": "vehicle_cap_player_modifier"
+    },
+    {
       "key": "_11",
       "value": "medic_cap_player_modifier"
     },
@@ -70,11 +74,15 @@
     },
     {
       "key": "_29",
-      "value": "vehicle_cap_player_modifier"
+      "value": "trade_rate_stone_modifier"
+    },
+    {
+      "key": "_30",
+      "value": "trade_rate_wood_modifier"
     },
     {
       "key": "_27",
-      "value": "trade_rate_stone_modifier"
+      "value": "trade_rate_adjustment_on_sell_modifier"
     },
     {
       "key": "_15",
@@ -82,7 +90,7 @@
     },
     {
       "key": "_28",
-      "value": "trade_rate_wood_modifier"
+      "value": "trade_rate_food_modifier"
     },
     {
       "key": "_23",
@@ -114,7 +122,7 @@
     },
     {
       "key": "_26",
-      "value": "trade_rate_food_modifier"
+      "value": "trade_rate_adjustment_on_buy_modifier"
     },
     {
       "key": "_10",

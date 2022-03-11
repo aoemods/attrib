@@ -310,11 +310,11 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": ""
+              "value": "weapon_range"
             },
             {
               "key": "$PBGMAP",
-              "value": ""
+              "value": "ui_reticule"
             }
           ]
         },
@@ -493,11 +493,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 0.5
+                  "value": 0.25
                 },
                 {
                   "key": "min",
-                  "value": 0.5
+                  "value": 0.25
                 }
               ]
             },
@@ -552,11 +552,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 8
+                  "value": 16
                 },
                 {
                   "key": "min",
-                  "value": 8
+                  "value": 16
                 }
               ]
             },
@@ -665,7 +665,7 @@
             },
             {
               "key": "attack_ground_type",
-              "value": 2
+              "value": 0
             },
             {
               "key": "can_damage_allies",
@@ -845,7 +845,7 @@
             },
             {
               "key": "fire_cone_angle",
-              "value": 360
+              "value": 60
             },
             {
               "key": "pivot_end_time",
@@ -922,11 +922,11 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": ""
+              "value": "setup_team_weapon"
             },
             {
               "key": "$PBGMAP",
-              "value": ""
+              "value": "ui_setfacing"
             }
           ]
         },
@@ -947,7 +947,7 @@
             },
             {
               "key": "can_fire_while_moving",
-              "value": true
+              "value": false
             },
             {
               "key": "moving_start_time",
@@ -968,6 +968,10 @@
           ]
         },
         {
+          "key": "ui_name",
+          "value": 11192062
+        },
+        {
           "key": "fire",
           "value": [
             {
@@ -976,11 +980,11 @@
             },
             {
               "key": "wind_up",
-              "value": 0.25
+              "value": 0
             },
             {
               "key": "wind_down",
-              "value": 0.25
+              "value": 0.5
             }
           ]
         },
@@ -1412,11 +1416,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 0.5
+                  "value": 0
                 },
                 {
                   "key": "min",
-                  "value": 0.5
+                  "value": 0
                 }
               ]
             },
@@ -1575,11 +1579,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 1
+                  "value": 1.75
                 },
                 {
                   "key": "min",
-                  "value": 1
+                  "value": 1.75
                 }
               ]
             },
@@ -1669,7 +1673,7 @@
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 8
+                  "value": 10
                 }
               ]
             }

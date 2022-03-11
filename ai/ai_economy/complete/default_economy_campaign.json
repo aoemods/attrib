@@ -6299,19 +6299,6 @@
                           "value": "upgrade"
                         }
                       ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_naval_role_repairstation"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
                     }
                   ]
                 },

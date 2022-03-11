@@ -448,7 +448,7 @@
                 },
                 {
                   "key": "formatter",
-                  "value": 11191629
+                  "value": 11220758
                 },
                 {
                   "key": "formatter_arguments",
@@ -456,10 +456,6 @@
                     {
                       "key": "int_value",
                       "value": 30
-                    },
-                    {
-                      "key": "int_value",
-                      "value": 50
                     },
                     {
                       "key": "int_value",
@@ -481,6 +477,10 @@
             {
               "key": "screen_name",
               "value": 11191627
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

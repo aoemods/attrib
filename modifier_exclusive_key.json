@@ -2,7 +2,7 @@
   "data": [
     {
       "key": "_42",
-      "value": "zweihander_charge_armor_bonus"
+      "value": "upgrade_ranged_damage_mon"
     },
     {
       "key": "_18",
@@ -14,7 +14,7 @@
     },
     {
       "key": "_36",
-      "value": "upgrade_melee_penetration"
+      "value": "upgrade_melee_damage"
     },
     {
       "key": "_17",
@@ -66,15 +66,19 @@
     },
     {
       "key": "_31",
-      "value": "upgrade_charge_damage_mon"
+      "value": "upgrade_cedar_hulls"
     },
     {
       "key": "_11",
       "value": "network_bonus_eng"
     },
     {
+      "key": "_43",
+      "value": "zweihander_armor_modifier"
+    },
+    {
       "key": "_35",
-      "value": "upgrade_melee_damage_mon"
+      "value": "upgrade_melee_armor_mon"
     },
     {
       "key": "_2",
@@ -86,27 +90,27 @@
     },
     {
       "key": "_41",
-      "value": "zweihander_armor_modifier"
+      "value": "upgrade_ranged_damage"
     },
     {
       "key": "_37",
-      "value": "upgrade_ranged_armor"
+      "value": "upgrade_melee_damage_mon"
     },
     {
       "key": "_34",
-      "value": "upgrade_melee_damage"
+      "value": "upgrade_melee_armor"
     },
     {
       "key": "_29",
-      "value": "upgrade_cavalry_hp_rus"
+      "value": "upgrade_armored_hull"
     },
     {
       "key": "_38",
-      "value": "upgrade_ranged_armor_mon"
+      "value": "upgrade_melee_penetration"
     },
     {
       "key": "_30",
-      "value": "upgrade_charge_damage"
+      "value": "upgrade_cavalry_hp_rus"
     },
     {
       "key": "_27",
@@ -118,7 +122,7 @@
     },
     {
       "key": "_28",
-      "value": "upgrade_armored_hull"
+      "value": "upgrade_advanced_clinker"
     },
     {
       "key": "_23",
@@ -134,7 +138,7 @@
     },
     {
       "key": "_39",
-      "value": "upgrade_ranged_damage"
+      "value": "upgrade_ranged_armor"
     },
     {
       "key": "_12",
@@ -150,15 +154,19 @@
     },
     {
       "key": "_32",
-      "value": "upgrade_melee_armor"
+      "value": "upgrade_charge_damage"
+    },
+    {
+      "key": "_44",
+      "value": "zweihander_charge_armor_bonus"
     },
     {
       "key": "_40",
-      "value": "upgrade_ranged_damage_mon"
+      "value": "upgrade_ranged_armor_mon"
     },
     {
       "key": "_33",
-      "value": "upgrade_melee_armor_mon"
+      "value": "upgrade_charge_damage_mon"
     },
     {
       "key": "_5",

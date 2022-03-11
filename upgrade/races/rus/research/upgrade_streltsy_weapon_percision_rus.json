@@ -92,6 +92,23 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 4
+                },
+                {
+                  "key": "id",
+                  "value": "weapon_range"
+                }
+              ]
+            }
           ]
         },
         {
@@ -455,7 +472,7 @@
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 2
+                      "value": 1
                     }
                   ]
                 }
@@ -473,6 +490,10 @@
             {
               "key": "screen_name",
               "value": 11191658
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },
@@ -481,7 +502,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 90
+              "value": 60
             },
             {
               "key": "cost",

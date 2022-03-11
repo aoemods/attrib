@@ -113,10 +113,6 @@
           "value": false
         },
         {
-          "key": "lock_to_impass",
-          "value": true
-        },
-        {
           "key": "extra_build_test_footprint_z",
           "value": 0
         },
@@ -144,6 +140,10 @@
               "value": 8
             }
           ]
+        },
+        {
+          "key": "snap_to_construction_grid",
+          "value": false
         },
         {
           "key": "minimum_build_test_footprint_x",
@@ -517,7 +517,7 @@
         },
         {
           "key": "icon_name",
-          "value": "races\\chinese\\dynasties\\tang_dynasty"
+          "value": "races\\chinese\\dynasties\\tang"
         },
         {
           "key": "minimap_teamcolor",
@@ -589,6 +589,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -631,7 +635,7 @@
             },
             {
               "key": "formatter",
-              "value": 11215379
+              "value": 11220415
             },
             {
               "key": "formatter_arguments",
@@ -684,6 +688,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",

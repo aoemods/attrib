@@ -153,7 +153,7 @@
                     },
                     {
                       "key": "max_impasse_avoidance_size",
-                      "value": 32
+                      "value": 48
                     },
                     {
                       "key": "m_gap_detection_use_gap_center",
@@ -224,11 +224,11 @@
                     },
                     {
                       "key": "outer_spot_add_radius_metres",
-                      "value": 2
+                      "value": 0.5
                     },
                     {
                       "key": "inner_spot_add_radius_metres",
-                      "value": 1
+                      "value": 0
                     },
                     {
                       "key": "max_follow_distance_metres",
@@ -237,6 +237,10 @@
                     {
                       "key": "default_weight",
                       "value": 1
+                    },
+                    {
+                      "key": "slow_down_radius_metres",
+                      "value": 1.5
                     }
                   ]
                 },
@@ -276,11 +280,11 @@
               "value": [
                 {
                   "key": "max_acceleration",
-                  "value": 3
+                  "value": -1
                 },
                 {
                   "key": "max_braking",
-                  "value": 5
+                  "value": -1
                 },
                 {
                   "key": "max_steering",
@@ -319,17 +323,17 @@
               "value": [
                 {
                   "key": "speed_rear_cone_multiplier",
-                  "value": 0.3
+                  "value": 0.7
                 },
                 {
                   "key": "forward_sweep_angle_degrees",
-                  "value": 60
+                  "value": 135
                 }
               ]
             },
             {
               "key": "steering_mode",
-              "value": 0
+              "value": 1
             },
             {
               "key": "thrust_steering",

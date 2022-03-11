@@ -20,23 +20,6 @@
                 },
                 {
                   "key": "int_property_id",
-                  "value": "ovoo_count"
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_int_property"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_int_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 0
-                },
-                {
-                  "key": "int_property_id",
                   "value": "active_ovoo_count"
                 },
                 {
@@ -387,6 +370,74 @@
                           "value": [
                             {
                               "key": "default",
+                              "value": 10
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "sacred_site_gold_generation_rate"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "religious_timer"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "idle_economy_pop"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "technologies_researched"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
                               "value": 5
                             },
                             {
@@ -710,7 +761,7 @@
                           "value": [
                             {
                               "key": "default",
-                              "value": 0
+                              "value": 1
                             },
                             {
                               "key": "$REF",
@@ -718,7 +769,7 @@
                             },
                             {
                               "key": "float_property_id",
-                              "value": "technologies_researched"
+                              "value": "sacred_site_gold_generation_multiplier"
                             }
                           ]
                         },
@@ -727,7 +778,7 @@
                           "value": [
                             {
                               "key": "default",
-                              "value": 0
+                              "value": 1.667
                             },
                             {
                               "key": "$REF",
@@ -735,7 +786,7 @@
                             },
                             {
                               "key": "float_property_id",
-                              "value": "idle_economy_pop"
+                              "value": "sacred_site_gold_income_per_second"
                             }
                           ]
                         }
@@ -1101,7 +1152,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 75
+                  "value": 50
                 },
                 {
                   "key": "$REF",
@@ -1474,6 +1525,23 @@
                 },
                 {
                   "key": "bool_property_id",
+                  "value": "Debug"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
                   "value": "district_improved_silk_road_stone_generation_mon"
                 }
               ]
@@ -1491,41 +1559,7 @@
                 },
                 {
                   "key": "bool_property_id",
-                  "value": "district_stupa_monastery_ovoo_aura"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_bool_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": false
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_bool_property"
-                },
-                {
-                  "key": "bool_property_id",
                   "value": "district_spec_outpost_archery_attack_speed_mon"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_bool_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": false
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_bool_property"
-                },
-                {
-                  "key": "bool_property_id",
-                  "value": "has_ovoo"
                 }
               ]
             },
@@ -1627,7 +1661,7 @@
                 },
                 {
                   "key": "bool_property_id",
-                  "value": "Debug"
+                  "value": "district_stupa_monastery_ovoo_aura"
                 }
               ]
             },

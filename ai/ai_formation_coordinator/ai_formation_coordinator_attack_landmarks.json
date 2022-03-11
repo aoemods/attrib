@@ -294,6 +294,14 @@
                     {
                       "key": "unit_class",
                       "value": "landmark"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "wonder"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "town_center"
                     }
                   ]
                 }

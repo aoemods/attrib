@@ -354,6 +354,15 @@
               ]
             },
             {
+              "key": "add_patrol_point",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
               "key": "retreat",
               "value": [
                 {
@@ -510,7 +519,7 @@
       "value": [
         {
           "key": "browsable_in_editor",
-          "value": true
+          "value": false
         },
         {
           "key": "QueryTree_States",
@@ -1101,7 +1110,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "upgrade_unit_firelancer_4_chi"
+                      "value": "castle_age"
                     },
                     {
                       "key": "$PBGMAP",
@@ -1111,11 +1120,11 @@
                 },
                 {
                   "key": "reason",
-                  "value": "usage_and_display"
+                  "value": "usage"
                 },
                 {
                   "key": "is_present",
-                  "value": false
+                  "value": true
                 }
               ]
             },
@@ -1180,7 +1189,7 @@
                         },
                         {
                           "key": "reason",
-                          "value": "usage"
+                          "value": "usage_and_display"
                         },
                         {
                           "key": "is_present",
@@ -1189,82 +1198,31 @@
                       ]
                     },
                     {
-                      "key": "required_all_in_list",
+                      "key": "required_statemodelbool",
                       "value": [
                         {
+                          "key": "key",
+                          "value": "dynasty_2_was_completed_chi"
+                        },
+                        {
+                          "key": "default_value",
+                          "value": false
+                        },
+                        {
                           "key": "$REF",
-                          "value": "requirements\\required_all_in_list"
+                          "value": "requirements\\required_statemodelbool"
                         },
                         {
-                          "key": "ui_name",
-                          "value": 11194468
+                          "key": "data_source_type",
+                          "value": "player_datasource"
                         },
                         {
-                          "key": "requirements",
-                          "value": [
-                            {
-                              "key": "required_statemodelbool",
-                              "value": [
-                                {
-                                  "key": "key",
-                                  "value": "build_previous_dynasty_units"
-                                },
-                                {
-                                  "key": "default_value",
-                                  "value": false
-                                },
-                                {
-                                  "key": "$REF",
-                                  "value": "requirements\\required_statemodelbool"
-                                },
-                                {
-                                  "key": "data_source_type",
-                                  "value": "player_datasource"
-                                },
-                                {
-                                  "key": "compare_to_value",
-                                  "value": true
-                                },
-                                {
-                                  "key": "reason",
-                                  "value": "usage_and_display"
-                                }
-                              ]
-                            },
-                            {
-                              "key": "required_statemodelbool",
-                              "value": [
-                                {
-                                  "key": "key",
-                                  "value": "dynasty_2_was_completed_chi"
-                                },
-                                {
-                                  "key": "default_value",
-                                  "value": false
-                                },
-                                {
-                                  "key": "$REF",
-                                  "value": "requirements\\required_statemodelbool"
-                                },
-                                {
-                                  "key": "data_source_type",
-                                  "value": "player_datasource"
-                                },
-                                {
-                                  "key": "compare_to_value",
-                                  "value": true
-                                },
-                                {
-                                  "key": "reason",
-                                  "value": "usage_and_display"
-                                }
-                              ]
-                            }
-                          ]
+                          "key": "compare_to_value",
+                          "value": true
                         },
                         {
                           "key": "reason",
-                          "value": "usage"
+                          "value": "usage_and_display"
                         }
                       ]
                     }
@@ -1273,6 +1231,65 @@
                 {
                   "key": "reason",
                   "value": "usage"
+                }
+              ]
+            },
+            {
+              "key": "required_player_upgrade",
+              "value": [
+                {
+                  "key": "include_pbg_parenting",
+                  "value": [
+                    {
+                      "key": "include_child_pbgs",
+                      "value": false
+                    },
+                    {
+                      "key": "include_parent_pbgs",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "include_queued",
+                  "value": false
+                },
+                {
+                  "key": "include_completed",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_player_upgrade"
+                },
+                {
+                  "key": "max_completed",
+                  "value": 100
+                },
+                {
+                  "key": "min_completed",
+                  "value": 1
+                },
+                {
+                  "key": "upgrade_name",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "upgrade_unit_firelancer_4_chi"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage_and_display"
+                },
+                {
+                  "key": "is_present",
+                  "value": false
                 }
               ]
             }

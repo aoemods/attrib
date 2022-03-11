@@ -634,8 +634,47 @@
                           "value": "requirements\\required_in_state"
                         },
                         {
-                          "key": "ui_name",
-                          "value": 11163527
+                          "key": "reason",
+                          "value": "usage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_not"
+                },
+                {
+                  "key": "ui_name",
+                  "value": 11219334
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
+            },
+            {
+              "key": "required_not",
+              "value": [
+                {
+                  "key": "requirement_table",
+                  "value": [
+                    {
+                      "key": "required_health",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_health"
+                        },
+                        {
+                          "key": "health_range_min_percentage",
+                          "value": 1
+                        },
+                        {
+                          "key": "health_range_max_percentage",
+                          "value": 1
                         },
                         {
                           "key": "reason",
@@ -648,6 +687,10 @@
                 {
                   "key": "$REF",
                   "value": "requirements\\required_not"
+                },
+                {
+                  "key": "ui_name",
+                  "value": 11219333
                 },
                 {
                   "key": "reason",

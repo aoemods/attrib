@@ -619,22 +619,14 @@
                 },
                 {
                   "key": "formatter",
-                  "value": 11206500
+                  "value": 11220407
                 },
                 {
                   "key": "formatter_arguments",
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 25
-                    },
-                    {
-                      "key": "int_value",
-                      "value": 15
-                    },
-                    {
-                      "key": "int_value",
-                      "value": 10
+                      "value": 20
                     },
                     {
                       "key": "int_value",
@@ -656,6 +648,10 @@
             {
               "key": "screen_name",
               "value": 11191842
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },
@@ -664,7 +660,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 75
+              "value": 45
             },
             {
               "key": "cost",

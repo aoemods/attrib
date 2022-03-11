@@ -33,6 +33,10 @@
           "value": "attrib\\ebps\\races\\french"
         },
         {
+          "key": "tile",
+          "value": "backgrounds\\civ\\civ_tile_french"
+        },
+        {
           "key": "icon",
           "value": "civ_flags\\civ_icon_medium_french"
         },
@@ -128,6 +132,10 @@
         {
           "key": "color",
           "value": -2008788338
+        },
+        {
+          "key": "pattern",
+          "value": "backgrounds\\civ\\civ_pattern_french"
         },
         {
           "key": "default_army",

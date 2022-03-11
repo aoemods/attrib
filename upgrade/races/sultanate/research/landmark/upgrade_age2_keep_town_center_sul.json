@@ -34,7 +34,7 @@
           "value": [
             {
               "key": "ui_position_column",
-              "value": 2
+              "value": 1
             },
             {
               "key": "ui_position_row",
@@ -401,6 +401,10 @@
             {
               "key": "screen_name",
               "value": 11184528
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

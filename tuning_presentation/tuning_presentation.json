@@ -710,6 +710,315 @@
           ]
         },
         {
+          "key": "terrain_layout",
+          "value": [
+            {
+              "key": "primary_terrain_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "tt_plains"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_terrain_type"
+                }
+              ]
+            },
+            {
+              "key": "custom_layout",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "ugc_sample_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_layout"
+                }
+              ]
+            },
+            {
+              "key": "terrain_type_palette",
+              "value": [
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_plains"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_player_start_classic_plains"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_settlement_plains"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_hills_gentle_rolling"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_hills_low_rolling"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_hills_med_rolling"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_plateau_low"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_plateau_med"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_mountains_small"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_mountains"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_impasse_mountains"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_valley_shallow"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_lake_shallow"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_lake_deep"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_ocean"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_beach"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_impasse_trees_plains_forest"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_trees_plains_stealth_large"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_tactical_region_gold_plains_a"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_holy_site"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "secondary_terrain_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "tt_hills_low_rolling"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_terrain_type"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "key": "score_maps",
           "value": [
             {
@@ -858,6 +1167,19 @@
                     {
                       "key": "$PBGNAME",
                       "value": "black_forest"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_layout"
+                    }
+                  ]
+                },
+                {
+                  "key": "layout",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "megarandom"
                     },
                     {
                       "key": "$PBGMAP",
@@ -2351,6 +2673,11 @@
                             {
                               "key": "if",
                               "value": 0
+                            },
+                            {
+                              "key": "operand",
+                              "value": [
+                              ]
                             }
                           ]
                         }
@@ -2378,6 +2705,11 @@
                             {
                               "key": "if",
                               "value": 0
+                            },
+                            {
+                              "key": "operand",
+                              "value": [
+                              ]
                             }
                           ]
                         }
@@ -2405,6 +2737,11 @@
                             {
                               "key": "if",
                               "value": 0
+                            },
+                            {
+                              "key": "operand",
+                              "value": [
+                              ]
                             }
                           ]
                         }
@@ -2431,7 +2768,64 @@
                             },
                             {
                               "key": "if",
-                              "value": 0
+                              "value": 4
+                            },
+                            {
+                              "key": "operand",
+                              "value": [
+                                {
+                                  "key": "setting_variant_uint",
+                                  "value": [
+                                    {
+                                      "key": "uint_value",
+                                      "value": 3
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "tuning\\settings\\variants\\setting_variant_uint"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "setting_variant_uint",
+                                  "value": [
+                                    {
+                                      "key": "uint_value",
+                                      "value": 0
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "tuning\\settings\\variants\\setting_variant_uint"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "setting_variant_uint",
+                                  "value": [
+                                    {
+                                      "key": "uint_value",
+                                      "value": 1
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "tuning\\settings\\variants\\setting_variant_uint"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "setting_variant_uint",
+                                  "value": [
+                                    {
+                                      "key": "uint_value",
+                                      "value": 2
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "tuning\\settings\\variants\\setting_variant_uint"
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
@@ -2459,6 +2853,11 @@
                             {
                               "key": "if",
                               "value": 1
+                            },
+                            {
+                              "key": "operand",
+                              "value": [
+                              ]
                             }
                           ]
                         }
@@ -2486,6 +2885,11 @@
                             {
                               "key": "if",
                               "value": 0
+                            },
+                            {
+                              "key": "operand",
+                              "value": [
+                              ]
                             }
                           ]
                         }
@@ -2513,6 +2917,11 @@
                             {
                               "key": "if",
                               "value": 0
+                            },
+                            {
+                              "key": "operand",
+                              "value": [
+                              ]
                             }
                           ]
                         }
@@ -2540,6 +2949,11 @@
                             {
                               "key": "if",
                               "value": 0
+                            },
+                            {
+                              "key": "operand",
+                              "value": [
+                              ]
                             }
                           ]
                         }
@@ -2567,6 +2981,11 @@
                             {
                               "key": "if",
                               "value": 0
+                            },
+                            {
+                              "key": "operand",
+                              "value": [
+                              ]
                             }
                           ]
                         }
@@ -2887,11 +3306,36 @@
       "value": 1411174
     },
     {
+      "key": "random_race",
+      "value": [
+        {
+          "key": "name",
+          "value": 11217542
+        },
+        {
+          "key": "icon",
+          "value": "civ_flags\\civ_icon_medium_random"
+        },
+        {
+          "key": "icon_secondary",
+          "value": "civ_flags\\civ_icon_secondary_random"
+        },
+        {
+          "key": "image_small",
+          "value": "civ_flags\\flag_random"
+        }
+      ]
+    },
+    {
       "key": "selection",
       "value": [
         {
           "key": "enable_squad_priority_increase",
           "value": true
+        },
+        {
+          "key": "idle_group_selection_radius",
+          "value": 20
         }
       ]
     },
@@ -77156,6 +77600,10 @@
                 {
                   "key": "fow_filter_factor",
                   "value": 0.9
+                },
+                {
+                  "key": "default_front_end_music_event",
+                  "value": "mus_fe_set_civ_Generic"
                 }
               ]
             },
@@ -80384,7 +80832,7 @@
             },
             {
               "key": "show_create_custom_match_crafted_maps",
-              "value": false
+              "value": true
             },
             {
               "key": "show_daily_quest_widget",
@@ -80392,7 +80840,7 @@
             },
             {
               "key": "show_mods_tab",
-              "value": false
+              "value": true
             },
             {
               "key": "show_multiplayer_button",
@@ -80420,7 +80868,7 @@
             },
             {
               "key": "show_multiplayer_ranked_tab",
-              "value": false
+              "value": true
             },
             {
               "key": "show_startup_news_once",

@@ -260,6 +260,15 @@
               ]
             },
             {
+              "key": "add_patrol_point",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
               "key": "retreat",
               "value": [
                 {
@@ -685,11 +694,11 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": ""
+              "value": "default"
             },
             {
               "key": "$PBGMAP",
-              "value": ""
+              "value": "default_command_weight"
             }
           ]
         }

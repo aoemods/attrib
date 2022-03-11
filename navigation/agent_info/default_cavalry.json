@@ -153,7 +153,7 @@
                     },
                     {
                       "key": "max_impasse_avoidance_size",
-                      "value": 32
+                      "value": 48
                     },
                     {
                       "key": "m_gap_detection_use_gap_center",
@@ -237,6 +237,10 @@
                     {
                       "key": "default_weight",
                       "value": 1
+                    },
+                    {
+                      "key": "slow_down_radius_metres",
+                      "value": 1.5
                     }
                   ]
                 }

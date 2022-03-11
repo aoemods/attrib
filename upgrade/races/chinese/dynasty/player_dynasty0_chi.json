@@ -290,6 +290,10 @@
               ]
             },
             {
+              "key": "extra_text",
+              "value": 11194609
+            },
+            {
               "key": "sound",
               "value": "sfx_ui_produce_upgrade_building_click"
             },
@@ -347,6 +351,10 @@
             {
               "key": "screen_name",
               "value": 11149349
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

@@ -133,6 +133,40 @@
                   "value": "official_building_reserved_chi"
                 }
               ]
+            },
+            {
+              "key": "type",
+              "value": [
+                {
+                  "key": "max_number",
+                  "value": 20
+                },
+                {
+                  "key": "prefer_number",
+                  "value": -1
+                },
+                {
+                  "key": "block_pathing_when_interacted",
+                  "value": false
+                },
+                {
+                  "key": "node_list_option",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "value": "options\\none"
+                    }
+                  ]
+                },
+                {
+                  "key": "interaction_target_type",
+                  "value": "entity"
+                },
+                {
+                  "key": "interaction_type",
+                  "value": "deposit_relic"
+                }
+              ]
             }
           ]
         }
@@ -323,10 +357,6 @@
           "value": false
         },
         {
-          "key": "lock_to_impass",
-          "value": true
-        },
-        {
           "key": "extra_build_test_footprint_z",
           "value": 1
         },
@@ -354,6 +384,10 @@
               "value": 8
             }
           ]
+        },
+        {
+          "key": "snap_to_construction_grid",
+          "value": true
         },
         {
           "key": "minimum_build_test_footprint_x",
@@ -842,41 +876,6 @@
         {
           "key": "ui_extra_infos",
           "value": [
-            {
-              "key": "ui_extra_info",
-              "value": [
-                {
-                  "key": "description_formatter",
-                  "value": [
-                    {
-                      "key": "$REF",
-                      "value": "ui_text_formatter"
-                    },
-                    {
-                      "key": "formatter",
-                      "value": 11199432
-                    },
-                    {
-                      "key": "formatter_arguments",
-                      "value": [
-                        {
-                          "key": "int_value",
-                          "value": 100
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "icon",
-                  "value": "influence_decorator"
-                },
-                {
-                  "key": "$REF",
-                  "value": "info\\ui_extra_info"
-                }
-              ]
-            }
           ]
         },
         {
@@ -902,7 +901,7 @@
         },
         {
           "key": "selection_datatemplate",
-          "value": ""
+          "value": "MonasterySelectionDataTemplate"
         },
         {
           "key": "selection_group",
@@ -1092,6 +1091,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -1134,7 +1137,7 @@
             },
             {
               "key": "formatter",
-              "value": 11149021
+              "value": 11220413
             },
             {
               "key": "formatter_arguments",
@@ -1142,6 +1145,10 @@
                 {
                   "key": "int_value",
                   "value": 50
+                },
+                {
+                  "key": "int_value",
+                  "value": 25
                 },
                 {
                   "key": "int_value",
@@ -1191,6 +1198,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",
@@ -1824,19 +1835,6 @@
                   "value": "abilities"
                 }
               ]
-            },
-            {
-              "key": "ability",
-              "value": [
-                {
-                  "key": "$PBGNAME",
-                  "value": "building_generate_tax_chi"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "abilities"
-                }
-              ]
             }
           ]
         },
@@ -1930,100 +1928,6 @@
     {
       "key": "pbgid",
       "value": 156488
-    },
-    {
-      "key": "district_bonuses_ext",
-      "value": [
-        {
-          "key": "district_bonuses",
-          "value": [
-            {
-              "key": "district_bonus",
-              "value": [
-                {
-                  "key": "requirement",
-                  "value": [
-                    {
-                      "key": "dynamic_requirements",
-                      "value": [
-                      ]
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "options\\ebpextensions\\districtbonusesext\\requirements\\district_bonus_entity_requirement"
-                    },
-                    {
-                      "key": "satisfying_entity_groups",
-                      "value": [
-                        {
-                          "key": "satisfying_entity_group",
-                          "value": [
-                            {
-                              "key": "satisfying_entities",
-                              "value": [
-                                {
-                                  "key": "entity",
-                                  "value": [
-                                    {
-                                      "key": "$PBGNAME",
-                                      "value": "building_landmark_age1_academy_control_chi"
-                                    },
-                                    {
-                                      "key": "$PBGMAP",
-                                      "value": "ebps"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "action_tree",
-                  "value": [
-                    {
-                      "key": "start_suspended",
-                      "value": false
-                    },
-                    {
-                      "key": "ActionTree_OpeningBranch",
-                      "value": "chinese_influence"
-                    },
-                    {
-                      "key": "$REF",
-                      "value": "state_tree_reference_info"
-                    }
-                  ]
-                },
-                {
-                  "key": "$REF",
-                  "value": "district_bonus"
-                },
-                {
-                  "key": "id",
-                  "value": 1470438
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\district_bonuses_ext"
-        },
-        {
-          "key": "update_on_construction_complete",
-          "value": true
-        },
-        {
-          "key": "update_on_upgrade_changed",
-          "value": false
-        }
-      ]
     },
     {
       "key": "action_apply_ext",
@@ -2921,6 +2825,11 @@
           "value": "ebpextensions\\audio_ext"
         },
         {
+          "key": "select_audible_to_relation_list",
+          "value": [
+          ]
+        },
+        {
           "key": "single_select_event",
           "value": "sfx_ui_unit_religious_building_selection_play"
         },
@@ -2951,61 +2860,35 @@
           "key": "requirement_table",
           "value": [
             {
-              "key": "required_player_upgrade",
+              "key": "required_statemodelbool",
               "value": [
                 {
-                  "key": "include_pbg_parenting",
-                  "value": [
-                    {
-                      "key": "include_child_pbgs",
-                      "value": false
-                    },
-                    {
-                      "key": "include_parent_pbgs",
-                      "value": false
-                    }
-                  ]
+                  "key": "key",
+                  "value": "dynasty_2_was_completed_chi"
                 },
                 {
-                  "key": "include_queued",
+                  "key": "default_value",
                   "value": false
                 },
                 {
-                  "key": "include_completed",
-                  "value": true
-                },
-                {
                   "key": "$REF",
-                  "value": "requirements\\required_player_upgrade"
+                  "value": "requirements\\required_statemodelbool"
                 },
                 {
-                  "key": "max_completed",
-                  "value": 100
+                  "key": "ui_name",
+                  "value": 11149355
                 },
                 {
-                  "key": "min_completed",
-                  "value": 1
+                  "key": "data_source_type",
+                  "value": "self_datasource"
                 },
                 {
-                  "key": "upgrade_name",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "value": "player_dynasty3_chi"
-                    },
-                    {
-                      "key": "$PBGMAP",
-                      "value": "upgrade"
-                    }
-                  ]
+                  "key": "compare_to_value",
+                  "value": true
                 },
                 {
                   "key": "reason",
                   "value": "usage"
-                },
-                {
-                  "key": "is_present",
-                  "value": true
                 }
               ]
             },

@@ -50,7 +50,7 @@
                       "value": [
                         {
                           "key": "stamp",
-                          "value": "art\\stamps\\scaffolding\\west\\west_house_a"
+                          "value": "art\\stamps\\scaffolding\\chinese\\chi_house_a"
                         },
                         {
                           "key": "$REF",
@@ -127,7 +127,7 @@
                       "value": [
                         {
                           "key": "stamp",
-                          "value": "art\\stamps\\scaffolding\\west\\west_house_b"
+                          "value": "art\\stamps\\scaffolding\\chinese\\chi_house_b"
                         },
                         {
                           "key": "$REF",
@@ -204,7 +204,7 @@
                       "value": [
                         {
                           "key": "stamp",
-                          "value": "art\\stamps\\scaffolding\\west\\west_house_c"
+                          "value": "art\\stamps\\scaffolding\\chinese\\chi_house_c"
                         },
                         {
                           "key": "$REF",

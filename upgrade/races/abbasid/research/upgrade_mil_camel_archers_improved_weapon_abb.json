@@ -34,7 +34,7 @@
             },
             {
               "key": "ui_position_row",
-              "value": 3
+              "value": 1
             }
           ]
         },
@@ -73,7 +73,7 @@
             },
             {
               "key": "priority",
-              "value": 5600
+              "value": 5800
             }
           ]
         },
@@ -84,6 +84,23 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 1.15
+                },
+                {
+                  "key": "id",
+                  "value": "multiplier"
+                }
+              ]
+            }
           ]
         },
         {
@@ -229,7 +246,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "imperial_age"
+                      "value": "feudal_age"
                     },
                     {
                       "key": "$PBGMAP",
@@ -498,6 +515,10 @@
             {
               "key": "screen_name",
               "value": 11183488
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },
@@ -506,14 +527,14 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 90
+              "value": 60
             },
             {
               "key": "cost",
               "value": [
                 {
                   "key": "food",
-                  "value": 300
+                  "value": 50
                 },
                 {
                   "key": "action",
@@ -521,7 +542,7 @@
                 },
                 {
                   "key": "gold",
-                  "value": 700
+                  "value": 125
                 },
                 {
                   "key": "militia_hre",

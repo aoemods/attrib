@@ -33,6 +33,10 @@
           "value": "attrib\\ebps\\races\\chinese"
         },
         {
+          "key": "tile",
+          "value": "backgrounds\\civ\\civ_tile_chinese"
+        },
+        {
           "key": "icon",
           "value": "civ_flags\\civ_icon_medium_chinese"
         },
@@ -128,6 +132,10 @@
         {
           "key": "color",
           "value": -2001357387
+        },
+        {
+          "key": "pattern",
+          "value": "backgrounds\\civ\\civ_pattern_chinese"
         },
         {
           "key": "default_army",

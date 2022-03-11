@@ -371,45 +371,6 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "global_region_dist_trees_forest_dense_low_1"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "map_gen\\distribution\\global_region_distribution"
-                }
-              ]
-            },
-            {
-              "key": "region_distribution",
-              "value": [
-                {
-                  "key": "$PBGNAME",
-                  "value": "global_region_dist_trees_forest_dense_low_2"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "map_gen\\distribution\\global_region_distribution"
-                }
-              ]
-            },
-            {
-              "key": "region_distribution",
-              "value": [
-                {
-                  "key": "$PBGNAME",
-                  "value": "global_region_dist_trees_forest_dense_low_1_sparse"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "map_gen\\distribution\\global_region_distribution"
-                }
-              ]
-            },
-            {
-              "key": "region_distribution",
-              "value": [
-                {
-                  "key": "$PBGNAME",
                   "value": "global_region_dist_prop_unreachable"
                 },
                 {

@@ -298,10 +298,6 @@
           "value": false
         },
         {
-          "key": "lock_to_impass",
-          "value": true
-        },
-        {
           "key": "extra_build_test_footprint_z",
           "value": 0
         },
@@ -329,6 +325,10 @@
               "value": 0
             }
           ]
+        },
+        {
+          "key": "snap_to_construction_grid",
+          "value": false
         },
         {
           "key": "minimum_build_test_footprint_x",
@@ -1273,6 +1273,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -1355,6 +1359,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",
@@ -3074,7 +3082,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 60
+              "value": 90
             },
             {
               "key": "time_turns",
@@ -3571,101 +3579,6 @@
       ]
     },
     {
-      "key": "spawner_ext",
-      "value": [
-        {
-          "key": "bonus_xp_from_hold_list",
-          "value": [
-          ]
-        },
-        {
-          "key": "enforce_minimum_clearance_at_spawn_positions_search_range",
-          "value": 30
-        },
-        {
-          "key": "spawn_items",
-          "value": [
-          ]
-        },
-        {
-          "key": "enforce_minimum_clearance_if_entities_blocking",
-          "value": true
-        },
-        {
-          "key": "spawn_to_hold_try_first",
-          "value": false
-        },
-        {
-          "key": "enforce_minimum_clearance_at_spawn_positions",
-          "value": true
-        },
-        {
-          "key": "$REF",
-          "value": "ebpextensions\\spawner_ext"
-        },
-        {
-          "key": "reinforce_requirements_openingbranch",
-          "value": ""
-        },
-        {
-          "key": "reinforce_requirements",
-          "value": [
-          ]
-        },
-        {
-          "key": "production_item_completed_openingbranch",
-          "value": ""
-        },
-        {
-          "key": "max_queue_size_override",
-          "value": -1
-        },
-        {
-          "key": "reinforce_radius",
-          "value": 0
-        },
-        {
-          "key": "can_rally",
-          "value": true
-        },
-        {
-          "key": "animated_spawn_option",
-          "value": [
-            {
-              "key": "$REF",
-              "value": "options\\none"
-            }
-          ]
-        },
-        {
-          "key": "queue_requirements",
-          "value": [
-          ]
-        },
-        {
-          "key": "rally_pass_type",
-          "value": [
-            {
-              "key": "$PBGNAME",
-              "value": "infantry"
-            },
-            {
-              "key": "$PBGMAP",
-              "value": "pass_types"
-            }
-          ]
-        },
-        {
-          "key": "queue_requirements_openingbranch",
-          "value": ""
-        },
-        {
-          "key": "must_be_in_supply",
-          "value": false
-        }
-      ]
-    },
-    {
       "key": "animation_action_tree_ext",
       "value": [
         {
@@ -3704,6 +3617,11 @@
         {
           "key": "$REF",
           "value": "ebpextensions\\audio_ext"
+        },
+        {
+          "key": "select_audible_to_relation_list",
+          "value": [
+          ]
         },
         {
           "key": "single_select_event",

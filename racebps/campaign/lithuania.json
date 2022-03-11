@@ -33,6 +33,10 @@
           "value": "attrib\\ebps\\races\\hre"
         },
         {
+          "key": "tile",
+          "value": ""
+        },
+        {
           "key": "icon",
           "value": "civ_flags\\civ_icon_medium_grand_duchy_of_lithuania"
         },
@@ -128,6 +132,10 @@
         {
           "key": "color",
           "value": -2002612926
+        },
+        {
+          "key": "pattern",
+          "value": ""
         },
         {
           "key": "default_army",

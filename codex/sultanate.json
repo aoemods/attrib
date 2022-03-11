@@ -2364,7 +2364,7 @@
                                           "value": [
                                             {
                                               "key": "ui_position_column",
-                                              "value": 3
+                                              "value": 2
                                             },
                                             {
                                               "key": "ui_position_row",
@@ -2392,7 +2392,7 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
-                                          "value": "upgrade_landmark_hearty_rations_sul"
+                                          "value": "upgrade_improved_swords_sul"
                                         },
                                         {
                                           "key": "$PBGMAP",
@@ -2473,7 +2473,7 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
-                                          "value": "upgrade_improved_swords_sul"
+                                          "value": "upgrade_landmark_hearty_rations_sul"
                                         },
                                         {
                                           "key": "$PBGMAP",
@@ -2765,87 +2765,6 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
-                                          "value": "upgrade_landmark_keep_defense_sul"
-                                        },
-                                        {
-                                          "key": "$PBGMAP",
-                                          "value": "upgrade"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "codex_item_container",
-                          "value": [
-                            {
-                              "key": "ui_codex_info",
-                              "value": [
-                                {
-                                  "key": "ui_position",
-                                  "value": [
-                                    {
-                                      "key": "ui_position_column",
-                                      "value": -1
-                                    },
-                                    {
-                                      "key": "ui_position_row",
-                                      "value": -1
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "codex_item\\codex_item_container"
-                            },
-                            {
-                              "key": "children",
-                              "value": [
-                                {
-                                  "key": "codex_item_default",
-                                  "value": [
-                                    {
-                                      "key": "ui_codex_info",
-                                      "value": [
-                                        {
-                                          "key": "ui_position",
-                                          "value": [
-                                            {
-                                              "key": "ui_position_column",
-                                              "value": 2
-                                            },
-                                            {
-                                              "key": "ui_position_row",
-                                              "value": -1
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "key": "priority",
-                                          "value": 0
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "key": "$REF",
-                                      "value": "codex_item\\codex_item_default"
-                                    },
-                                    {
-                                      "key": "children",
-                                      "value": [
-                                      ]
-                                    },
-                                    {
-                                      "key": "pbg",
-                                      "value": [
-                                        {
-                                          "key": "$PBGNAME",
                                           "value": "upgrade_age2_keep_town_center_sul"
                                         },
                                         {
@@ -2928,6 +2847,87 @@
                                         {
                                           "key": "$PBGNAME",
                                           "value": "upgrade_tech_university_murder_holes_4_sul"
+                                        },
+                                        {
+                                          "key": "$PBGMAP",
+                                          "value": "upgrade"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "codex_item_container",
+                          "value": [
+                            {
+                              "key": "ui_codex_info",
+                              "value": [
+                                {
+                                  "key": "ui_position",
+                                  "value": [
+                                    {
+                                      "key": "ui_position_column",
+                                      "value": -1
+                                    },
+                                    {
+                                      "key": "ui_position_row",
+                                      "value": -1
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "codex_item\\codex_item_container"
+                            },
+                            {
+                              "key": "children",
+                              "value": [
+                                {
+                                  "key": "codex_item_default",
+                                  "value": [
+                                    {
+                                      "key": "ui_codex_info",
+                                      "value": [
+                                        {
+                                          "key": "ui_position",
+                                          "value": [
+                                            {
+                                              "key": "ui_position_column",
+                                              "value": 3
+                                            },
+                                            {
+                                              "key": "ui_position_row",
+                                              "value": -1
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "priority",
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "$REF",
+                                      "value": "codex_item\\codex_item_default"
+                                    },
+                                    {
+                                      "key": "children",
+                                      "value": [
+                                      ]
+                                    },
+                                    {
+                                      "key": "pbg",
+                                      "value": [
+                                        {
+                                          "key": "$PBGNAME",
+                                          "value": "upgrade_landmark_keep_defense_sul"
                                         },
                                         {
                                           "key": "$PBGMAP",
@@ -3624,7 +3624,7 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
-                                          "value": "upgrade_siege_works_sul"
+                                          "value": "upgrade_siege_mathematics_sul"
                                         },
                                         {
                                           "key": "$PBGMAP",
@@ -3965,7 +3965,7 @@
                                       "value": [
                                         {
                                           "key": "$PBGNAME",
-                                          "value": "upgrade_siege_mathematics_sul"
+                                          "value": "upgrade_siege_works_sul"
                                         },
                                         {
                                           "key": "$PBGMAP",

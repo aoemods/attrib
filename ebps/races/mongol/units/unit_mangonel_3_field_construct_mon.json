@@ -1175,7 +1175,7 @@
         },
         {
           "key": "ghost_enable",
-          "value": true
+          "value": false
         },
         {
           "key": "selection_name_squad_override",
@@ -1369,6 +1369,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": "BuildingMilitaryDataTemplate"
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -1451,6 +1455,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": 1
         },
         {
           "key": "skin_winter",
@@ -2290,7 +2298,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 40
+              "value": 80
             },
             {
               "key": "time_turns",

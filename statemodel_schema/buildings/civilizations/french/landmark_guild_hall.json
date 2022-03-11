@@ -39,40 +39,6 @@
                             },
                             {
                               "key": "int_property_id",
-                              "value": "relic_count"
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_int_property"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_int_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 3
-                            },
-                            {
-                              "key": "int_property_id",
-                              "value": "relic_capacity"
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_int_property"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_int_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 0
-                            },
-                            {
-                              "key": "int_property_id",
                               "value": "follower_count"
                             },
                             {
@@ -383,194 +349,7 @@
                             },
                             {
                               "key": "float_property_id",
-                              "value": "Relic_Count"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_float_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 0
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_float_property"
-                            },
-                            {
-                              "key": "float_property_id",
-                              "value": "show_self_repairing_ui"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_float_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 0
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_float_property"
-                            },
-                            {
-                              "key": "float_property_id",
-                              "value": "flame_douse_cooldown_progress_hre"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_float_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 0
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_float_property"
-                            },
-                            {
-                              "key": "float_property_id",
-                              "value": "raid_bounty_stone_mon"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_float_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 0
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_float_property"
-                            },
-                            {
-                              "key": "float_property_id",
-                              "value": "defensive_structure_alert_distance"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_float_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 1
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_float_property"
-                            },
-                            {
-                              "key": "float_property_id",
-                              "value": "follower_spawn_period_multiplier"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_float_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 200
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_float_property"
-                            },
-                            {
-                              "key": "float_property_id",
-                              "value": "raid_bounty_food_mon"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_float_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 1
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_float_property"
-                            },
-                            {
-                              "key": "float_property_id",
-                              "value": "repair_cost_wood"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_float_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 100
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_float_property"
-                            },
-                            {
-                              "key": "float_property_id",
-                              "value": "raid_bounty_gold_mon"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_float_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 0
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_float_property"
-                            },
-                            {
-                              "key": "float_property_id",
-                              "value": "khan_raid_timer_mon"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_float_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 0
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_float_property"
-                            },
-                            {
-                              "key": "float_property_id",
-                              "value": "scuttle_timer"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "statemodel_float_property",
-                          "value": [
-                            {
-                              "key": "default",
-                              "value": 0
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "statemodel_float_property"
-                            },
-                            {
-                              "key": "float_property_id",
-                              "value": "raid_value"
+                              "value": "Total_Followers"
                             }
                           ]
                         },
@@ -604,7 +383,7 @@
                             },
                             {
                               "key": "float_property_id",
-                              "value": "Total_Followers"
+                              "value": "raid_value"
                             }
                           ]
                         },
@@ -613,7 +392,7 @@
                           "value": [
                             {
                               "key": "default",
-                              "value": 3
+                              "value": 0
                             },
                             {
                               "key": "$REF",
@@ -621,7 +400,24 @@
                             },
                             {
                               "key": "float_property_id",
-                              "value": "Relic_Capacity"
+                              "value": "scuttle_timer"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "khan_raid_timer_mon"
                             }
                           ]
                         },
@@ -639,6 +435,142 @@
                             {
                               "key": "float_property_id",
                               "value": "raid_bounty_wood_mon"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 100
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "raid_bounty_gold_mon"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 200
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "raid_bounty_food_mon"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "follower_spawn_period_multiplier"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "defensive_structure_alert_distance"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "raid_bounty_stone_mon"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "flame_douse_cooldown_progress_hre"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "show_self_repairing_ui"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "repair_cost_wood"
                             }
                           ]
                         },

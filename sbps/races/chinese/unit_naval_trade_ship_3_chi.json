@@ -310,6 +310,15 @@
               ]
             },
             {
+              "key": "add_patrol_point",
+              "value": [
+                {
+                  "key": "available",
+                  "value": false
+                }
+              ]
+            },
+            {
               "key": "retreat",
               "value": [
                 {
@@ -472,7 +481,7 @@
       "value": [
         {
           "key": "browsable_in_editor",
-          "value": true
+          "value": false
         },
         {
           "key": "QueryTree_States",

@@ -42,532 +42,6 @@
           ]
         },
         {
-          "key": "coarse_map_blur_params",
-          "value": [
-            {
-              "key": "size_params",
-              "value": [
-                {
-                  "key": "instance",
-                  "value": [
-                    {
-                      "key": "fractal_shift_amplitude",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0.5
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.725
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_direction_bias",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "size",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "map_size_416"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\map_gen_size"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_variance",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "height_over_width",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 1.28
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.75
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "instance",
-                  "value": [
-                    {
-                      "key": "fractal_shift_amplitude",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0.5
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.725
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_direction_bias",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "size",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "map_size_512"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\map_gen_size"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_variance",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "height_over_width",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 1.28
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.75
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "instance",
-                  "value": [
-                    {
-                      "key": "fractal_shift_amplitude",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0.5
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.725
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_direction_bias",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "size",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "map_size_640"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\map_gen_size"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_variance",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "height_over_width",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 1.28
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.75
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "instance",
-                  "value": [
-                    {
-                      "key": "fractal_shift_amplitude",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0.5
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.725
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_direction_bias",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "size",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "map_size_768"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\map_gen_size"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_variance",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "height_over_width",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 1.28
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.75
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "instance",
-                  "value": [
-                    {
-                      "key": "fractal_shift_amplitude",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0.5
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.725
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_direction_bias",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "size",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "map_size_896"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\map_gen_size"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_variance",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "height_over_width",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 1.28
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.75
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "instance",
-                  "value": [
-                    {
-                      "key": "fractal_shift_amplitude",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0.5
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.725
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_direction_bias",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "size",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "map_size_1024"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\map_gen_size"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_variance",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "height_over_width",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 1.28
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.75
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "key": "balancing_resource_score_maps",
           "value": [
             {
@@ -1022,7 +496,7 @@
           ]
         },
         {
-          "key": "selectable_biomes",
+          "key": "default_biome_tuning_overrides",
           "value": [
           ]
         },
@@ -1093,116 +567,103 @@
           ]
         },
         {
-          "key": "reflect_loaded_layout_across_horizontal_axis",
-          "value": true
-        },
-        {
-          "key": "oceans",
+          "key": "default_map_size_tuning_overrides",
           "value": [
             {
-              "key": "ocean_height",
-              "value": -100
-            }
-          ]
-        },
-        {
-          "key": "global_distributions",
-          "value": [
-            {
-              "key": "$PBGNAME",
-              "value": "global_tactical_v2_dist_high_trees"
-            },
-            {
-              "key": "$PBGMAP",
-              "value": "map_gen\\distribution\\global_distributions"
-            }
-          ]
-        },
-        {
-          "key": "mesh_area_properties",
-          "value": [
-            {
-              "key": "stealth_woods",
+              "key": "map_size_overrides",
               "value": [
                 {
-                  "key": "properties",
+                  "key": "map_size",
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "standard_stealth_woods"
+                      "value": "map_size_416"
                     },
                     {
                       "key": "$PBGMAP",
-                      "value": "mesh_area_properties"
+                      "value": "map_gen\\map_gen_size"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "key": "ocean_stealth",
-              "value": [
+                },
                 {
-                  "key": "properties",
+                  "key": "map_size_terrain_smoothing",
                   "value": [
                     {
-                      "key": "$PBGNAME",
-                      "value": "standard_ocean_stealth"
+                      "key": "fractal_shift_amplitude",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0.5
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.725
+                        }
+                      ]
                     },
                     {
-                      "key": "$PBGMAP",
-                      "value": "mesh_area_properties"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "key": "none",
-              "value": [
-                {
-                  "key": "properties",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "value": ""
+                      "key": "fractal_shift_direction_bias",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
                     },
                     {
-                      "key": "$PBGMAP",
-                      "value": ""
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "key": "dense_woods",
-              "value": [
-                {
-                  "key": "properties",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "value": "standard_dense_woods"
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_terrain_smoothing_params"
                     },
                     {
-                      "key": "$PBGMAP",
-                      "value": "mesh_area_properties"
+                      "key": "fractal_shift_variance",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "height_over_width",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 1.28
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.75
+                        }
+                      ]
                     }
                   ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "selectable_map_sizes",
-          "value": [
-            {
-              "key": "selectable_map_size",
-              "value": [
+                },
                 {
-                  "key": "map_size_values",
+                  "key": "map_size_resource_balancing",
                   "value": [
                     {
                       "key": "solo_play_contested_area_start",
@@ -1331,27 +792,104 @@
                       ]
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "key": "map_size_overrides",
+              "value": [
                 {
                   "key": "map_size",
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "map_size_416"
+                      "value": "map_size_512"
                     },
                     {
                       "key": "$PBGMAP",
                       "value": "map_gen\\map_gen_size"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "key": "selectable_map_size",
-              "value": [
+                },
                 {
-                  "key": "map_size_values",
+                  "key": "map_size_terrain_smoothing",
+                  "value": [
+                    {
+                      "key": "fractal_shift_amplitude",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0.5
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.725
+                        }
+                      ]
+                    },
+                    {
+                      "key": "fractal_shift_direction_bias",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_terrain_smoothing_params"
+                    },
+                    {
+                      "key": "fractal_shift_variance",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "height_over_width",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 1.28
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.75
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_resource_balancing",
                   "value": [
                     {
                       "key": "solo_play_contested_area_start",
@@ -1480,27 +1018,104 @@
                       ]
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "key": "map_size_overrides",
+              "value": [
                 {
                   "key": "map_size",
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "map_size_512"
+                      "value": "map_size_640"
                     },
                     {
                       "key": "$PBGMAP",
                       "value": "map_gen\\map_gen_size"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "key": "selectable_map_size",
-              "value": [
+                },
                 {
-                  "key": "map_size_values",
+                  "key": "map_size_terrain_smoothing",
+                  "value": [
+                    {
+                      "key": "fractal_shift_amplitude",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0.5
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.725
+                        }
+                      ]
+                    },
+                    {
+                      "key": "fractal_shift_direction_bias",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_terrain_smoothing_params"
+                    },
+                    {
+                      "key": "fractal_shift_variance",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "height_over_width",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 1.28
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.75
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_resource_balancing",
                   "value": [
                     {
                       "key": "solo_play_contested_area_start",
@@ -1629,27 +1244,104 @@
                       ]
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "key": "map_size_overrides",
+              "value": [
                 {
                   "key": "map_size",
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "map_size_640"
+                      "value": "map_size_768"
                     },
                     {
                       "key": "$PBGMAP",
                       "value": "map_gen\\map_gen_size"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "key": "selectable_map_size",
-              "value": [
+                },
                 {
-                  "key": "map_size_values",
+                  "key": "map_size_terrain_smoothing",
+                  "value": [
+                    {
+                      "key": "fractal_shift_amplitude",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0.5
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.725
+                        }
+                      ]
+                    },
+                    {
+                      "key": "fractal_shift_direction_bias",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_terrain_smoothing_params"
+                    },
+                    {
+                      "key": "fractal_shift_variance",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "height_over_width",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 1.28
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.75
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_resource_balancing",
                   "value": [
                     {
                       "key": "solo_play_contested_area_start",
@@ -1778,27 +1470,104 @@
                       ]
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "key": "map_size_overrides",
+              "value": [
                 {
                   "key": "map_size",
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "map_size_768"
+                      "value": "map_size_896"
                     },
                     {
                       "key": "$PBGMAP",
                       "value": "map_gen\\map_gen_size"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "key": "selectable_map_size",
-              "value": [
+                },
                 {
-                  "key": "map_size_values",
+                  "key": "map_size_terrain_smoothing",
+                  "value": [
+                    {
+                      "key": "fractal_shift_amplitude",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0.5
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.725
+                        }
+                      ]
+                    },
+                    {
+                      "key": "fractal_shift_direction_bias",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "map_gen\\map_gen_terrain_smoothing_params"
+                    },
+                    {
+                      "key": "fractal_shift_variance",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 0
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 1
+                        }
+                      ]
+                    },
+                    {
+                      "key": "height_over_width",
+                      "value": [
+                        {
+                          "key": "standard_deviation",
+                          "value": 1.28
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\layout\\coarse_map_blur_param"
+                        },
+                        {
+                          "key": "normalization_exponent_for_gaussian_kernel",
+                          "value": 0.75
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "map_size_resource_balancing",
                   "value": [
                     {
                       "key": "solo_play_contested_area_start",
@@ -1927,17 +1696,107 @@
                       ]
                     }
                   ]
-                },
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "reflect_loaded_layout_across_horizontal_axis",
+          "value": true
+        },
+        {
+          "key": "oceans",
+          "value": [
+            {
+              "key": "ocean_height",
+              "value": -100
+            }
+          ]
+        },
+        {
+          "key": "global_distributions",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "global_tactical_v2_dist_high_trees"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\global_distributions"
+            }
+          ]
+        },
+        {
+          "key": "mesh_area_properties",
+          "value": [
+            {
+              "key": "stealth_woods",
+              "value": [
                 {
-                  "key": "map_size",
+                  "key": "properties",
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "map_size_896"
+                      "value": "standard_stealth_woods"
                     },
                     {
                       "key": "$PBGMAP",
-                      "value": "map_gen\\map_gen_size"
+                      "value": "mesh_area_properties"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "ocean_stealth",
+              "value": [
+                {
+                  "key": "properties",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "standard_ocean_stealth"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "mesh_area_properties"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "none",
+              "value": [
+                {
+                  "key": "properties",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "dense_woods",
+              "value": [
+                {
+                  "key": "properties",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "standard_dense_woods"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "mesh_area_properties"
                     }
                   ]
                 }

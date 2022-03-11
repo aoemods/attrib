@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "key": "map_gen_scenario_bag",
+      "value": [
+        {
+          "key": "biome",
+          "value": [
+            {
+              "key": "biome",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "taiga_woodlands"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_biome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "size",
+          "value": [
+            {
+              "key": "size",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "map_size_640"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_size"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "layout",
+          "value": [
+            {
+              "key": "layout",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "haunted_gulch"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\map_gen_layout"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 2026411
+    }
+  ]
+}

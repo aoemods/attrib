@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 2073262
+    },
+    {
+      "key": "river",
+      "value": [
+        {
+          "key": "river_intersections",
+          "value": [
+            {
+              "key": "intersection_rewrite_distance",
+              "value": 15
+            },
+            {
+              "key": "merge_downstream_distance",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "key": "river_shape",
+          "value": [
+            {
+              "key": "river_bank_steepness",
+              "value": 0.35
+            },
+            {
+              "key": "path_smoothness",
+              "value": 0.1
+            },
+            {
+              "key": "variation_distance",
+              "value": 85
+            },
+            {
+              "key": "width_variation_percent",
+              "value": 0.025
+            },
+            {
+              "key": "baseline_depth",
+              "value": 5
+            },
+            {
+              "key": "baseline_width",
+              "value": 6.75
+            }
+          ]
+        },
+        {
+          "key": "ford_shape",
+          "value": [
+            {
+              "key": "ford_width",
+              "value": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

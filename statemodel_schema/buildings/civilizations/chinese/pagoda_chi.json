@@ -16,23 +16,6 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 1
-                },
-                {
-                  "key": "int_property_id",
-                  "value": "district_spec_gold_rate_mod_pagoda_chi"
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_int_property"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_int_property",
-              "value": [
-                {
-                  "key": "default",
                   "value": 0
                 },
                 {
@@ -218,23 +201,6 @@
                 },
                 {
                   "key": "float_property_id",
-                  "value": "additional_carry_gold_amount"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 0
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
                   "value": "tax_cooldown_time_remaining_chi"
                 }
               ]
@@ -304,23 +270,6 @@
                 {
                   "key": "float_property_id",
                   "value": "repair_cost_stone"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 1
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "relic_limit"
                 }
               ]
             }

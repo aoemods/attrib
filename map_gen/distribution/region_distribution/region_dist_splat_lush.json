@@ -5,7 +5,7 @@
       "value": [
         {
           "key": "search_for_open_area_radius",
-          "value": 3
+          "value": 12
         },
         {
           "key": "min_placements_per_region",

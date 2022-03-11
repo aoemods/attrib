@@ -802,6 +802,57 @@
               "value": [
                 {
                   "key": "default",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "ai_phase_encounter_melee_allow_attack_move"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "ai_phase_encounter_archers_allow_attack_move"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "ai_phase_encounter_should_hold_position"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
                   "value": false
                 },
                 {
@@ -955,7 +1006,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": false
+                  "value": true
                 },
                 {
                   "key": "$REF",
@@ -963,7 +1014,7 @@
                 },
                 {
                   "key": "bool_property_id",
-                  "value": "ai_phase_encounter_should_hold_position"
+                  "value": "ai_phase_encounter_lock_resources"
                 }
               ]
             },
@@ -980,7 +1031,7 @@
                 },
                 {
                   "key": "bool_property_id",
-                  "value": "ai_phase_encounter_lock_resources"
+                  "value": "ai_phase_encounter_exit_test_include_unreachable"
                 }
               ]
             },
@@ -1150,7 +1201,7 @@
                 },
                 {
                   "key": "bool_property_id",
-                  "value": "ai_phase_encounter_exit_test_include_unreachable"
+                  "value": "ai_phase_encounter_allow_attack_move"
                 }
               ]
             },
@@ -1167,7 +1218,7 @@
                 },
                 {
                   "key": "bool_property_id",
-                  "value": "ai_phase_encounter_archers_allow_attack_move"
+                  "value": "ai_phase_encounter_allow_attack_move_enroute"
                 }
               ]
             }

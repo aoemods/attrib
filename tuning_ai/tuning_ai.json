@@ -37,6 +37,15 @@
           "key": "religion",
           "value": [
             {
+              "key": "holy_site_types",
+              "value": [
+                {
+                  "key": "holy_site_type",
+                  "value": "special_beacon"
+                }
+              ]
+            },
+            {
               "key": "monk_squad_types",
               "value": [
                 {
@@ -126,6 +135,57 @@
                 {
                   "key": "$PBGMAP",
                   "value": "sbps"
+                }
+              ]
+            },
+            {
+              "key": "placement",
+              "value": [
+                {
+                  "key": "resource_total_map_percent_ignore_threshold",
+                  "value": [
+                    {
+                      "key": "food",
+                      "value": 1
+                    },
+                    {
+                      "key": "action",
+                      "value": 1
+                    },
+                    {
+                      "key": "gold",
+                      "value": 1
+                    },
+                    {
+                      "key": "militia_hre",
+                      "value": 1
+                    },
+                    {
+                      "key": "popcap",
+                      "value": 1
+                    },
+                    {
+                      "key": "stone",
+                      "value": 1
+                    },
+                    {
+                      "key": "command",
+                      "value": 1
+                    },
+                    {
+                      "key": "wood",
+                      "value": 0.15
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "position_threatening_ignore_types",
+              "value": [
+                {
+                  "key": "entity_type",
+                  "value": "scout"
                 }
               ]
             },
@@ -1004,6 +1064,11 @@
             {
               "key": "num_task_locked_factor",
               "value": 30
+            },
+            {
+              "key": "depleted_resource_to_track_types",
+              "value": [
+              ]
             }
           ]
         },
@@ -2174,7 +2239,7 @@
                     },
                     {
                       "key": "also_try_short_pathfind",
-                      "value": false
+                      "value": true
                     }
                   ]
                 },
@@ -2444,7 +2509,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.454
+                                      "value": 1.292
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2471,7 +2536,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.155
+                                      "value": 1.963
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2498,7 +2563,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.901
+                                      "value": 2.778
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2525,7 +2590,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.155
+                                      "value": 1.96
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2552,7 +2617,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.912
+                                      "value": 2.77
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2579,7 +2644,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.155
+                                      "value": 2.009
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2606,7 +2671,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.912
+                                      "value": 2.77
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2633,7 +2698,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.456
+                                      "value": 1.325
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2660,7 +2725,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.161
+                                      "value": 1.977
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2687,7 +2752,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.877
+                                      "value": 2.77
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2714,7 +2779,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.2
+                                      "value": 2.069
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2741,7 +2806,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.872
+                                      "value": 2.789
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2768,7 +2833,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.161
+                                      "value": 2.009
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2795,7 +2860,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.886
+                                      "value": 2.77
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2822,7 +2887,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.155
+                                      "value": 2.009
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2849,7 +2914,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.912
+                                      "value": 2.77
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2876,7 +2941,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.155
+                                      "value": 2.009
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2903,7 +2968,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.912
+                                      "value": 2.774
                                     },
                                     {
                                       "key": "memberPBG",
@@ -2975,7 +3040,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.008
+                                      "value": 1.115
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3002,7 +3067,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.005
+                                      "value": 1.067
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3029,7 +3094,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.985
+                                      "value": 1.081
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3056,7 +3121,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.005
+                                      "value": 1.087
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3083,7 +3148,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.005
+                                      "value": 1.115
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3110,7 +3175,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.005
+                                      "value": 1.091
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3137,7 +3202,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.99
+                                      "value": 1.116
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3164,7 +3229,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.005
+                                      "value": 1.075
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3236,7 +3301,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.973
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3263,7 +3328,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.961
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3290,7 +3355,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.973
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3317,7 +3382,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.973
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3344,7 +3409,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.961
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3371,7 +3436,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.973
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3398,7 +3463,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.973
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3425,7 +3490,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.961
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3452,7 +3517,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.973
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3479,7 +3544,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.973
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3506,7 +3571,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.218
+                                      "value": 1.255
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3578,7 +3643,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.982
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3605,7 +3670,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.974
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3632,7 +3697,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.982
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3659,7 +3724,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.982
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3686,7 +3751,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.974
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3713,7 +3778,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.982
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3740,7 +3805,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.982
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3767,7 +3832,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.974
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3794,7 +3859,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.985
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3866,7 +3931,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.929
+                                      "value": 1.368
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3893,7 +3958,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.934
+                                      "value": 1.261
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3920,7 +3985,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.929
+                                      "value": 1.524
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3947,7 +4012,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.929
+                                      "value": 1.437
                                     },
                                     {
                                       "key": "memberPBG",
@@ -3974,7 +4039,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.934
+                                      "value": 1.463
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4001,7 +4066,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.929
+                                      "value": 1.26
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4028,7 +4093,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.929
+                                      "value": 1.536
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4055,7 +4120,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.98
+                                      "value": 1.726
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4127,7 +4192,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.507
+                                      "value": 1.328
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4199,7 +4264,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.27
+                                      "value": 0.929
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4226,7 +4291,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.299
+                                      "value": 0.958
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4253,7 +4318,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.071
+                                      "value": 0.974
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4280,7 +4345,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.185
+                                      "value": 0.944
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4307,7 +4372,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.1
+                                      "value": 0.958
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4334,7 +4399,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.301
+                                      "value": 0.954
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4361,7 +4426,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.148
+                                      "value": 0.973
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4388,7 +4453,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.083
+                                      "value": 0.941
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4415,7 +4480,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.058
+                                      "value": 0.939
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4442,7 +4507,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.159
+                                      "value": 0.939
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4469,7 +4534,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.524
+                                      "value": 1.219
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4541,7 +4606,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.055
+                                      "value": 1.03
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4568,7 +4633,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.968
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4595,7 +4660,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.054
+                                      "value": 1.03
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4622,7 +4687,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.055
+                                      "value": 0.968
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4649,7 +4714,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 1.03
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4676,7 +4741,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.055
+                                      "value": 0.968
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4703,7 +4768,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.055
+                                      "value": 1.03
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4730,7 +4795,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.968
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4757,7 +4822,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.298
+                                      "value": 1.19
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4784,7 +4849,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.055
+                                      "value": 1.03
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4901,7 +4966,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.972
+                                      "value": 0.976
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4928,7 +4993,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.981
+                                      "value": 0.965
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4955,7 +5020,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.981
+                                      "value": 0.976
                                     },
                                     {
                                       "key": "memberPBG",
@@ -4982,7 +5047,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.972
+                                      "value": 0.976
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5009,7 +5074,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.981
+                                      "value": 0.965
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5036,7 +5101,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.981
+                                      "value": 0.976
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5063,7 +5128,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.972
+                                      "value": 0.976
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5090,7 +5155,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.981
+                                      "value": 0.965
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5117,7 +5182,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.987
+                                      "value": 0.984
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5189,7 +5254,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.101
+                                      "value": 1.164
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5216,7 +5281,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.025
+                                      "value": 1.139
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5243,7 +5308,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.13
+                                      "value": 1.178
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5270,7 +5335,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.183
+                                      "value": 1.181
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5297,7 +5362,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.483
+                                      "value": 1.468
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5324,7 +5389,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.065
+                                      "value": 1.206
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5351,7 +5416,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.141
+                                      "value": 1.143
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5378,7 +5443,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.266
+                                      "value": 1.08
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5405,7 +5470,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.115
+                                      "value": 1.083
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5432,7 +5497,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.099
+                                      "value": 1.113
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5459,7 +5524,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.964
+                                      "value": 1.162
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5486,7 +5551,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 6.61
+                                      "value": 2.952
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5558,7 +5623,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.8
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5585,7 +5650,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.8
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5612,7 +5677,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.8
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5639,7 +5704,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.8
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5666,7 +5731,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.8
+                                      "value": 1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5792,7 +5857,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 3.284
+                                      "value": 4.118
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5819,7 +5884,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 4.299
+                                      "value": 4.346
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5846,7 +5911,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 4.169
+                                      "value": 4.189
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5873,7 +5938,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 4.168
+                                      "value": 2.85
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5900,7 +5965,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 4.238
+                                      "value": 4.31
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5927,7 +5992,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 4.323
+                                      "value": 4.277
                                     },
                                     {
                                       "key": "memberPBG",
@@ -5954,7 +6019,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 3.279
+                                      "value": 3.975
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6026,7 +6091,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.373
+                                      "value": 1.296
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6053,7 +6118,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.909
+                                      "value": 0.914
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6080,7 +6145,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.892
+                                      "value": 0.841
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6107,7 +6172,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.892
+                                      "value": 0.866
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6134,7 +6199,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.421
+                                      "value": 1.31
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6161,7 +6226,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 0.987
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6233,7 +6298,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.401
+                                      "value": 2.091
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6260,7 +6325,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.026
+                                      "value": 2.067
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6287,7 +6352,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.43
+                                      "value": 3.177
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6314,7 +6379,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.832
+                                      "value": 0.835
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6341,7 +6406,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.926
+                                      "value": 1.227
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6368,7 +6433,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.926
+                                      "value": 1.222
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6440,7 +6505,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.202
+                                      "value": 1.188
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6467,7 +6532,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.418
+                                      "value": 1.424
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6539,7 +6604,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.169
+                                      "value": 1.075
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6611,7 +6676,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.905
+                                      "value": 1.053
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6638,7 +6703,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.17
+                                      "value": 1.084
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6665,7 +6730,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.066
+                                      "value": 1.099
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6692,7 +6757,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.131
+                                      "value": 0.983
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6719,7 +6784,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.08
+                                      "value": 1.032
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6746,7 +6811,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.145
+                                      "value": 0.987
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6773,7 +6838,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.896
+                                      "value": 1.126
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6800,7 +6865,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.96
+                                      "value": 1.019
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6827,7 +6892,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.3
+                                      "value": 0.973
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6854,7 +6919,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.54
+                                      "value": 1.538
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6881,7 +6946,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.061
+                                      "value": 1.051
                                     },
                                     {
                                       "key": "memberPBG",
@@ -6998,7 +7063,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.173
+                                      "value": 1.258
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7070,7 +7135,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.887
+                                      "value": 1.944
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7097,7 +7162,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 8.189
+                                      "value": 7.142
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7124,7 +7189,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 14.263
+                                      "value": 14.613
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7196,7 +7261,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.298
+                                      "value": 1.328
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7223,7 +7288,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.474
+                                      "value": 1.489
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7295,7 +7360,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.161
+                                      "value": 1.2
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7322,7 +7387,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.484
+                                      "value": 1.426
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7349,7 +7414,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.793
+                                      "value": 0.812
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7376,7 +7441,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.994
+                                      "value": 1.113
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7403,7 +7468,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.189
+                                      "value": 1.208
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7430,7 +7495,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.482
+                                      "value": 1.451
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7457,7 +7522,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.793
+                                      "value": 0.803
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7484,7 +7549,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.994
+                                      "value": 1.107
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7511,7 +7576,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.222
+                                      "value": 1.206
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7538,7 +7603,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.474
+                                      "value": 1.452
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7565,7 +7630,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.79
+                                      "value": 0.82
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7592,7 +7657,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.98
+                                      "value": 1.107
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7619,7 +7684,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.18
+                                      "value": 1.198
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7646,7 +7711,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.503
+                                      "value": 1.427
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7673,7 +7738,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.793
+                                      "value": 0.805
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7700,7 +7765,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.994
+                                      "value": 1.112
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7727,7 +7792,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.189
+                                      "value": 1.198
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7754,7 +7819,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.482
+                                      "value": 1.449
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7781,7 +7846,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.793
+                                      "value": 0.82
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7808,7 +7873,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.98
+                                      "value": 1.112
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7835,7 +7900,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.172
+                                      "value": 1.198
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7862,7 +7927,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.474
+                                      "value": 1.449
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7889,7 +7954,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.79
+                                      "value": 0.82
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7916,7 +7981,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.98
+                                      "value": 1.107
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7943,7 +8008,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.18
+                                      "value": 1.206
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7970,7 +8035,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.503
+                                      "value": 1.427
                                     },
                                     {
                                       "key": "memberPBG",
@@ -7997,7 +8062,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.793
+                                      "value": 0.805
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8024,7 +8089,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.994
+                                      "value": 1.112
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8051,7 +8116,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.189
+                                      "value": 1.198
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8078,7 +8143,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.474
+                                      "value": 1.452
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8105,7 +8170,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.79
+                                      "value": 0.82
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8132,7 +8197,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.98
+                                      "value": 1.107
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8159,7 +8224,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.18
+                                      "value": 1.198
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8186,7 +8251,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.503
+                                      "value": 1.427
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8258,7 +8323,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.262
+                                      "value": 1.255
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8285,7 +8350,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.598
+                                      "value": 1.729
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8312,7 +8377,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.254
+                                      "value": 1.252
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8339,7 +8404,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.768
+                                      "value": 1.731
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8366,7 +8431,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.269
+                                      "value": 1.252
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8393,7 +8458,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.767
+                                      "value": 1.729
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8420,7 +8485,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.269
+                                      "value": 1.255
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8447,7 +8512,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.765
+                                      "value": 1.731
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8474,7 +8539,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.269
+                                      "value": 1.254
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8501,7 +8566,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.774
+                                      "value": 1.748
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8528,7 +8593,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.917
+                                      "value": 1.094
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8555,7 +8620,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.297
+                                      "value": 1.288
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8582,7 +8647,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.66
+                                      "value": 1.749
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8609,7 +8674,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.927
+                                      "value": 0.926
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8636,7 +8701,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.262
+                                      "value": 1.287
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8663,7 +8728,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.679
+                                      "value": 1.746
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8690,7 +8755,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.29
+                                      "value": 1.312
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8717,7 +8782,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.719
+                                      "value": 1.749
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8789,7 +8854,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.201
+                                      "value": 1.247
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8843,7 +8908,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.816
+                                      "value": 0.827
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8870,7 +8935,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.059
+                                      "value": 1.076
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8897,7 +8962,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.2
+                                      "value": 1.237
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8924,7 +8989,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.578
+                                      "value": 1.48
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8951,7 +9016,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.976
+                                      "value": 1.079
                                     },
                                     {
                                       "key": "memberPBG",
@@ -8978,7 +9043,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.201
+                                      "value": 1.26
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9005,7 +9070,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.463
+                                      "value": 1.479
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9032,7 +9097,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.045
+                                      "value": 1.078
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9059,7 +9124,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.199
+                                      "value": 1.236
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9086,7 +9151,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.572
+                                      "value": 1.48
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9113,7 +9178,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.979
+                                      "value": 1.074
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9140,7 +9205,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.21
+                                      "value": 1.253
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9194,7 +9259,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.042
+                                      "value": 1.072
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9221,7 +9286,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.192
+                                      "value": 1.244
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9248,7 +9313,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.495
+                                      "value": 1.488
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9275,7 +9340,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.989
+                                      "value": 1.076
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9302,7 +9367,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.202
+                                      "value": 1.245
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9329,7 +9394,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.477
+                                      "value": 1.476
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9356,7 +9421,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.816
+                                      "value": 0.829
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9383,7 +9448,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.06
+                                      "value": 1.074
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9410,7 +9475,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.201
+                                      "value": 1.259
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9437,7 +9502,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.496
+                                      "value": 1.475
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9464,7 +9529,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.981
+                                      "value": 1.071
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9491,7 +9556,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.201
+                                      "value": 1.249
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9518,7 +9583,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.537
+                                      "value": 1.478
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9545,7 +9610,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.042
+                                      "value": 1.074
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9572,7 +9637,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.203
+                                      "value": 1.245
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9599,7 +9664,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.467
+                                      "value": 1.485
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9698,7 +9763,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.173
+                                      "value": 1.258
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9725,7 +9790,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.968
+                                      "value": 0.981
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9752,7 +9817,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.173
+                                      "value": 1.253
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9779,7 +9844,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.968
+                                      "value": 0.981
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9806,7 +9871,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.17
+                                      "value": 1.253
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9833,7 +9898,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.968
+                                      "value": 0.981
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9860,7 +9925,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.17
+                                      "value": 1.253
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9887,7 +9952,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.968
+                                      "value": 0.981
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9914,7 +9979,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.17
+                                      "value": 1.253
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9941,7 +10006,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.968
+                                      "value": 0.981
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9968,7 +10033,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.173
+                                      "value": 1.216
                                     },
                                     {
                                       "key": "memberPBG",
@@ -9995,7 +10060,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.968
+                                      "value": 0.981
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10022,7 +10087,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.17
+                                      "value": 1.265
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10049,7 +10114,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.968
+                                      "value": 0.981
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10076,7 +10141,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.17
+                                      "value": 1.216
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10148,7 +10213,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.979
+                                      "value": 0.996
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10175,7 +10240,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.996
+                                      "value": 0.997
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10202,7 +10267,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.979
+                                      "value": 0.981
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10229,7 +10294,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.007
+                                      "value": 0.979
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10256,7 +10321,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.015
+                                      "value": 0.986
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10283,7 +10348,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.5
+                                      "value": 0.501
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10310,7 +10375,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.967
+                                      "value": 0.99
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10337,7 +10402,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.012
+                                      "value": 0.995
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10409,7 +10474,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.95
+                                      "value": 1.1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10436,7 +10501,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.95
+                                      "value": 1.097
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10463,7 +10528,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.95
+                                      "value": 1.098
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10490,7 +10555,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.95
+                                      "value": 1.1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10517,7 +10582,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.95
+                                      "value": 1.1
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10544,7 +10609,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.95
+                                      "value": 1.097
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10571,7 +10636,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.95
+                                      "value": 1.098
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10643,7 +10708,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.262
+                                      "value": 1.254
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10670,7 +10735,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.609
+                                      "value": 1.723
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10697,7 +10762,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.897
+                                      "value": 0.953
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10724,7 +10789,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.264
+                                      "value": 1.278
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10751,7 +10816,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.658
+                                      "value": 1.748
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10823,7 +10888,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.214
+                                      "value": 1.38
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10850,7 +10915,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.49
+                                      "value": 1.534
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10877,7 +10942,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 1.081
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10904,7 +10969,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.214
+                                      "value": 1.38
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10931,7 +10996,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.479
+                                      "value": 1.534
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10958,7 +11023,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 1.081
                                     },
                                     {
                                       "key": "memberPBG",
@@ -10985,7 +11050,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.214
+                                      "value": 1.38
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11012,7 +11077,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.479
+                                      "value": 1.534
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11039,7 +11104,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 1.081
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11066,7 +11131,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.214
+                                      "value": 1.38
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11093,7 +11158,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.49
+                                      "value": 1.534
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11120,7 +11185,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 1.081
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11147,7 +11212,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.214
+                                      "value": 1.38
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11174,7 +11239,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.479
+                                      "value": 1.534
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11201,7 +11266,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 1.081
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11228,7 +11293,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.214
+                                      "value": 1.38
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11255,7 +11320,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.479
+                                      "value": 1.534
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11282,7 +11347,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 1.081
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11309,7 +11374,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.214
+                                      "value": 1.38
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11336,7 +11401,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.49
+                                      "value": 1.525
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11363,7 +11428,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1
+                                      "value": 1.081
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11390,7 +11455,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.218
+                                      "value": 1.38
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11417,7 +11482,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.503
+                                      "value": 1.534
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11489,7 +11554,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.545
+                                      "value": 0.981
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11516,7 +11581,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.173
+                                      "value": 0.913
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11543,7 +11608,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.644
+                                      "value": 0.981
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11570,7 +11635,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.181
+                                      "value": 0.913
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11732,7 +11797,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.192
+                                      "value": 1.232
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11759,7 +11824,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.443
+                                      "value": 1.468
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11831,7 +11896,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.395
+                                      "value": 1.193
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11858,7 +11923,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.286
+                                      "value": 1.652
                                     },
                                     {
                                       "key": "memberPBG",
@@ -11930,7 +11995,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.332
+                                      "value": 1.208
                                     },
                                     {
                                       "key": "memberPBG",
@@ -12002,7 +12067,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.091
+                                      "value": 1.128
                                     },
                                     {
                                       "key": "memberPBG",
@@ -12029,7 +12094,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 0.923
+                                      "value": 0.982
                                     },
                                     {
                                       "key": "memberPBG",
@@ -12056,7 +12121,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.286
+                                      "value": 1.332
                                     },
                                     {
                                       "key": "memberPBG",
@@ -12083,7 +12148,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.401
+                                      "value": 1.46
                                     },
                                     {
                                       "key": "memberPBG",
@@ -12110,7 +12175,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.017
+                                      "value": 0.982
                                     },
                                     {
                                       "key": "memberPBG",
@@ -12137,7 +12202,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.232
+                                      "value": 1.329
                                     },
                                     {
                                       "key": "memberPBG",
@@ -12164,7 +12229,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.401
+                                      "value": 1.46
                                     },
                                     {
                                       "key": "memberPBG",
@@ -12236,7 +12301,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.255
+                                      "value": 1.248
                                     },
                                     {
                                       "key": "memberPBG",
@@ -12642,7 +12707,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 4.071
+                                              "value": 4.614
                                             },
                                             {
                                               "key": "upgrade",
@@ -12668,7 +12733,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 4.071
+                                              "value": 2.171
                                             },
                                             {
                                               "key": "upgrade",
@@ -12693,7 +12758,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 3.257
+                                      "value": 5.971
                                     },
                                     {
                                       "key": "memberPBG",
@@ -12725,7 +12790,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.201
+                                              "value": 1.91
                                             },
                                             {
                                               "key": "upgrade",
@@ -12751,7 +12816,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.423
+                                              "value": 0.5
                                             },
                                             {
                                               "key": "upgrade",
@@ -12777,7 +12842,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.777
+                                              "value": 0.897
                                             },
                                             {
                                               "key": "upgrade",
@@ -12803,7 +12868,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.986
+                                              "value": 3.898
                                             },
                                             {
                                               "key": "upgrade",
@@ -12860,7 +12925,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.426
+                                              "value": 0.5
                                             },
                                             {
                                               "key": "upgrade",
@@ -12886,7 +12951,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.777
+                                              "value": 0.897
                                             },
                                             {
                                               "key": "upgrade",
@@ -12912,7 +12977,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 3.424
+                                              "value": 3.8
                                             },
                                             {
                                               "key": "upgrade",
@@ -12969,7 +13034,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.714
+                                              "value": 4.343
                                             },
                                             {
                                               "key": "upgrade",
@@ -12995,7 +13060,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.986
+                                              "value": 4.343
                                             },
                                             {
                                               "key": "upgrade",
@@ -13020,7 +13085,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 6.514
+                                      "value": 7.329
                                     },
                                     {
                                       "key": "memberPBG",
@@ -13052,7 +13117,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 1.695
+                                              "value": 2.18
                                             },
                                             {
                                               "key": "upgrade",
@@ -13078,7 +13143,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.422
+                                              "value": 0.503
                                             },
                                             {
                                               "key": "upgrade",
@@ -13104,7 +13169,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.777
+                                              "value": 0.897
                                             },
                                             {
                                               "key": "upgrade",
@@ -13130,7 +13195,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 5.147
+                                              "value": 4.166
                                             },
                                             {
                                               "key": "upgrade",
@@ -13187,7 +13252,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 4.614
+                                              "value": 2.714
                                             },
                                             {
                                               "key": "upgrade",
@@ -13213,7 +13278,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 3.257
+                                              "value": 4.343
                                             },
                                             {
                                               "key": "upgrade",
@@ -13238,7 +13303,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 4.614
+                                      "value": 5.429
                                     },
                                     {
                                       "key": "memberPBG",
@@ -13270,7 +13335,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 1.213
+                                              "value": 1.472
                                             },
                                             {
                                               "key": "upgrade",
@@ -13296,7 +13361,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.425
+                                              "value": 0.503
                                             },
                                             {
                                               "key": "upgrade",
@@ -13322,7 +13387,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.777
+                                              "value": 0.897
                                             },
                                             {
                                               "key": "upgrade",
@@ -13348,7 +13413,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 4.614
+                                              "value": 7.283
                                             },
                                             {
                                               "key": "upgrade",
@@ -13405,7 +13470,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 3.257
+                                              "value": 9.5
                                             },
                                             {
                                               "key": "upgrade",
@@ -13431,7 +13496,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 5.157
+                                              "value": 4.343
                                             },
                                             {
                                               "key": "upgrade",
@@ -13456,7 +13521,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 4.343
+                                      "value": 6.786
                                     },
                                     {
                                       "key": "memberPBG",
@@ -13488,7 +13553,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 4.509
+                                              "value": 3.709
                                             },
                                             {
                                               "key": "upgrade",
@@ -13514,7 +13579,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.418
+                                              "value": 0.5
                                             },
                                             {
                                               "key": "upgrade",
@@ -13540,7 +13605,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.777
+                                              "value": 0.897
                                             },
                                             {
                                               "key": "upgrade",
@@ -13597,7 +13662,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.443
+                                              "value": 2.986
                                             },
                                             {
                                               "key": "upgrade",
@@ -13623,7 +13688,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.443
+                                              "value": 2.171
                                             },
                                             {
                                               "key": "upgrade",
@@ -13648,7 +13713,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 4.071
+                                      "value": 4.343
                                     },
                                     {
                                       "key": "memberPBG",
@@ -13680,7 +13745,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 1.22
+                                              "value": 1.972
                                             },
                                             {
                                               "key": "upgrade",
@@ -13706,7 +13771,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.777
+                                              "value": 0.897
                                             },
                                             {
                                               "key": "upgrade",
@@ -13732,7 +13797,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.533
+                                              "value": 0.63
                                             },
                                             {
                                               "key": "upgrade",
@@ -13758,7 +13823,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 5.052
+                                              "value": 4.343
                                             },
                                             {
                                               "key": "upgrade",
@@ -13815,7 +13880,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 6.243
+                                              "value": 5.971
                                             },
                                             {
                                               "key": "upgrade",
@@ -13841,7 +13906,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 5.157
+                                              "value": 4.614
                                             },
                                             {
                                               "key": "upgrade",
@@ -13866,7 +13931,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 3.529
+                                      "value": 1.9
                                     },
                                     {
                                       "key": "memberPBG",
@@ -13898,7 +13963,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.926
+                                              "value": 1.171
                                             },
                                             {
                                               "key": "upgrade",
@@ -13924,7 +13989,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.019
+                                              "value": 2.317
                                             },
                                             {
                                               "key": "upgrade",
@@ -13981,7 +14046,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 1.9
+                                              "value": 2.749
                                             },
                                             {
                                               "key": "upgrade",
@@ -14007,7 +14072,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 1.9
+                                              "value": 2.783
                                             },
                                             {
                                               "key": "upgrade",
@@ -14032,7 +14097,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 1.9
+                                      "value": 3.054
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14064,7 +14129,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.714
+                                              "value": 2.443
                                             },
                                             {
                                               "key": "upgrade",
@@ -14090,7 +14155,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.28
+                                              "value": 2.206
                                             },
                                             {
                                               "key": "upgrade",
@@ -14115,7 +14180,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.511
+                                      "value": 2.477
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14147,7 +14212,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.787
+                                              "value": 3.054
                                             },
                                             {
                                               "key": "upgrade",
@@ -14173,7 +14238,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.837
+                                              "value": 3.257
                                             },
                                             {
                                               "key": "upgrade",
@@ -14198,7 +14263,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.451
+                                      "value": 3.563
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14230,7 +14295,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.417
+                                              "value": 2.443
                                             },
                                             {
                                               "key": "upgrade",
@@ -14256,7 +14321,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.3
+                                              "value": 3.089
                                             },
                                             {
                                               "key": "upgrade",
@@ -14281,7 +14346,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.961
+                                      "value": 2.817
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14313,7 +14378,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.721
+                                              "value": 3.02
                                             },
                                             {
                                               "key": "upgrade",
@@ -14339,7 +14404,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.628
+                                              "value": 2.749
                                             },
                                             {
                                               "key": "upgrade",
@@ -14364,7 +14429,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.561
+                                      "value": 2.783
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14396,7 +14461,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.483
+                                              "value": 3.394
                                             },
                                             {
                                               "key": "upgrade",
@@ -14422,7 +14487,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.903
+                                              "value": 3.089
                                             },
                                             {
                                               "key": "upgrade",
@@ -14447,7 +14512,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.663
+                                      "value": 2.714
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14505,7 +14570,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.422
+                                              "value": 0.498
                                             },
                                             {
                                               "key": "upgrade",
@@ -14531,7 +14596,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 0.777
+                                              "value": 0.897
                                             },
                                             {
                                               "key": "upgrade",
@@ -14557,7 +14622,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 3.257
+                                              "value": 2.841
                                             },
                                             {
                                               "key": "upgrade",
@@ -14614,7 +14679,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 5.157
+                                              "value": 2.714
                                             },
                                             {
                                               "key": "upgrade",
@@ -14640,7 +14705,7 @@
                                           "value": [
                                             {
                                               "key": "value",
-                                              "value": 2.986
+                                              "value": 5.157
                                             },
                                             {
                                               "key": "upgrade",
@@ -14665,7 +14730,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.986
+                                      "value": 5.971
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14727,7 +14792,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.111
+                                      "value": 2.299
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14789,7 +14854,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 4.071
+                                      "value": 3.257
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14820,7 +14885,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.494
+                                      "value": 3.076
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14882,7 +14947,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 51.741
+                                      "value": 4.071
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14913,7 +14978,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 5.7
+                                      "value": 3.8
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14944,7 +15009,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 3.529
+                                      "value": 3.257
                                     },
                                     {
                                       "key": "memberPBG",
@@ -14975,7 +15040,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.171
+                                      "value": 5.7
                                     },
                                     {
                                       "key": "memberPBG",
@@ -15006,7 +15071,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 3.8
+                                      "value": 2.714
                                     },
                                     {
                                       "key": "memberPBG",
@@ -15055,7 +15120,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 3.529
+                                      "value": 3.453
                                     },
                                     {
                                       "key": "memberPBG",
@@ -15117,7 +15182,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.497
+                                      "value": 3.569
                                     },
                                     {
                                       "key": "memberPBG",
@@ -15210,7 +15275,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.208
+                                      "value": 3.237
                                     },
                                     {
                                       "key": "memberPBG",
@@ -15241,7 +15306,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.869
+                                      "value": 3.572
                                     },
                                     {
                                       "key": "memberPBG",
@@ -15303,7 +15368,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 3.257
+                                      "value": 2.714
                                     },
                                     {
                                       "key": "memberPBG",
@@ -15365,7 +15430,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 2.714
+                                      "value": 2.783
                                     },
                                     {
                                       "key": "memberPBG",
@@ -15427,7 +15492,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 3.386
+                                      "value": 3.552
                                     },
                                     {
                                       "key": "memberPBG",
@@ -15489,7 +15554,7 @@
                                     },
                                     {
                                       "key": "base_value",
-                                      "value": 3.378
+                                      "value": 3.155
                                     },
                                     {
                                       "key": "memberPBG",
@@ -17748,7 +17813,7 @@
             },
             {
               "key": "extra_influence_radius_target_obb",
-              "value": 0
+              "value": 6.7
             }
           ]
         },
@@ -19475,7 +19540,7 @@
                   "value": [
                     {
                       "key": "relationship_weight",
-                      "value": 2
+                      "value": 2.5
                     },
                     {
                       "key": "lhs_squad_type",
@@ -21054,6 +21119,15 @@
             {
               "key": "compute_unique_abilities",
               "value": false
+            }
+          ]
+        },
+        {
+          "key": "bridge",
+          "value": [
+            {
+              "key": "bridge_unit_type",
+              "value": "bridge"
             }
           ]
         },

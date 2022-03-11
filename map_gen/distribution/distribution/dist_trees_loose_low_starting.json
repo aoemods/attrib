@@ -76,7 +76,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "land_low"
+                          "value": "start_position_avoidance_very_near"
                         },
                         {
                           "key": "$PBGMAP",

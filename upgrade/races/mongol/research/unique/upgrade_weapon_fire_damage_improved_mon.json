@@ -84,6 +84,40 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 2
+                },
+                {
+                  "key": "id",
+                  "value": "mongols_improved_partial"
+                }
+              ]
+            },
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 5
+                },
+                {
+                  "key": "id",
+                  "value": "mongols_improved_full"
+                }
+              ]
+            }
           ]
         },
         {
@@ -591,6 +625,10 @@
             {
               "key": "screen_name",
               "value": 11190394
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

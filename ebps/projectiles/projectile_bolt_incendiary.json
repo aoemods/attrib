@@ -234,7 +234,7 @@
         },
         {
           "key": "launcher_marker",
-          "value": ""
+          "value": "fx_projectile"
         },
         {
           "key": "collision_land_ignore",

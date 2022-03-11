@@ -1,0 +1,851 @@
+{
+  "data": [
+    {
+      "key": "map_gen_layout",
+      "value": [
+        {
+          "key": "display_name",
+          "value": 11157603
+        },
+        {
+          "key": "terrain_layout_script",
+          "value": "mon_campaign_layouts\\mon_chp3_xiangyang1267"
+        },
+        {
+          "key": "camera_mesh_params",
+          "value": [
+            {
+              "key": "transition_to_slope_smoothing_start_degrees",
+              "value": 40
+            },
+            {
+              "key": "smoothing_radius_flat",
+              "value": 45
+            },
+            {
+              "key": "pick_max_height_in_radius",
+              "value": 45
+            },
+            {
+              "key": "transition_to_slope_smoothing_end_degrees",
+              "value": 55
+            },
+            {
+              "key": "smoothing_radius_slopes",
+              "value": 25
+            }
+          ]
+        },
+        {
+          "key": "river_override",
+          "value": [
+            {
+              "key": "substituted_data",
+              "value": [
+                {
+                  "key": "river_index",
+                  "value": 1
+                },
+                {
+                  "key": "river",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "river_wide_deep"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\river"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "substituted_data",
+              "value": [
+                {
+                  "key": "river_index",
+                  "value": 2
+                },
+                {
+                  "key": "river",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "river_map"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\river"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "substituted_data",
+              "value": [
+                {
+                  "key": "river_index",
+                  "value": 3
+                },
+                {
+                  "key": "river",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "river_narrow_deep"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\river"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "substituted_data",
+              "value": [
+                {
+                  "key": "river_index",
+                  "value": 4
+                },
+                {
+                  "key": "river",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "river_wide_deep"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\river"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "balancing_resource_score_maps",
+          "value": [
+            {
+              "key": "boar_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "deer_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "settlements_naval",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "fish_deepwater",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "berries_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "sheep_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "fish_river",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "fish_shore",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "gold",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "settlements",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "stone_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "none",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "stone",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "deer_large",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "berries",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "boar_large",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "gold_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "sheep_med",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "holy_sites",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "relics",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "sheep_large",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "default_biome_tuning_overrides",
+          "value": [
+          ]
+        },
+        {
+          "key": "river_default",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "river_wide_deep"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\river"
+            }
+          ]
+        },
+        {
+          "key": "erosion",
+          "value": [
+            {
+              "key": "max_erosion_depth",
+              "value": 1.8
+            },
+            {
+              "key": "steps_before_velocity_checks_start",
+              "value": 5
+            },
+            {
+              "key": "droplets_per_cell",
+              "value": 0.3
+            },
+            {
+              "key": "max_droplet_iterations",
+              "value": 60
+            },
+            {
+              "key": "deposit_rate",
+              "value": 0.06
+            },
+            {
+              "key": "velocity_erosion_strength",
+              "value": 3
+            },
+            {
+              "key": "erosion_rate",
+              "value": 0.08
+            },
+            {
+              "key": "erosion_magnification",
+              "value": 2
+            },
+            {
+              "key": "friction",
+              "value": 0.3
+            },
+            {
+              "key": "sample_offset_radius",
+              "value": 1.5
+            },
+            {
+              "key": "end_droplets_below_velocity",
+              "value": 0.5
+            },
+            {
+              "key": "iteration_strength_increase",
+              "value": 0.04
+            }
+          ]
+        },
+        {
+          "key": "default_map_size_tuning_overrides",
+          "value": [
+          ]
+        },
+        {
+          "key": "reflect_loaded_layout_across_horizontal_axis",
+          "value": true
+        },
+        {
+          "key": "oceans",
+          "value": [
+            {
+              "key": "ocean_height",
+              "value": -100
+            }
+          ]
+        },
+        {
+          "key": "global_distributions",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "global_dist_deco"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "map_gen\\distribution\\global_distributions"
+            }
+          ]
+        },
+        {
+          "key": "mesh_area_properties",
+          "value": [
+            {
+              "key": "stealth_woods",
+              "value": [
+                {
+                  "key": "properties",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "standard_stealth_woods"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "mesh_area_properties"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "ocean_stealth",
+              "value": [
+                {
+                  "key": "properties",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "standard_ocean_stealth"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "mesh_area_properties"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "none",
+              "value": [
+                {
+                  "key": "properties",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "dense_woods",
+              "value": [
+                {
+                  "key": "properties",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "standard_dense_woods"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "mesh_area_properties"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ui",
+          "value": [
+            {
+              "key": "image_postgame_background",
+              "value": ""
+            },
+            {
+              "key": "image_unloading_background",
+              "value": ""
+            },
+            {
+              "key": "characteristics",
+              "value": [
+              ]
+            },
+            {
+              "key": "image_lobby_flavor",
+              "value": ""
+            },
+            {
+              "key": "image_loading_background",
+              "value": ""
+            },
+            {
+              "key": "image_icon",
+              "value": ""
+            },
+            {
+              "key": "display_notes",
+              "value": [
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weighted_terrain_types",
+          "value": [
+            {
+              "key": "weighted_terrain_type",
+              "value": [
+                {
+                  "key": "terrain_type",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "tt_plains"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\map_gen_terrain_type"
+                    }
+                  ]
+                },
+                {
+                  "key": "is_unplayable_area_terrain",
+                  "value": false
+                },
+                {
+                  "key": "weight",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 174583
+    }
+  ]
+}

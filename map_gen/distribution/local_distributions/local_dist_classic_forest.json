@@ -107,6 +107,19 @@
               "value": [
                 {
                   "key": "$PBGNAME",
+                  "value": "local_region_dist_classic_food_deer_b_forest"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\local_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
                   "value": "local_region_dist_classic_food_sheep_b_small_forest"
                 },
                 {

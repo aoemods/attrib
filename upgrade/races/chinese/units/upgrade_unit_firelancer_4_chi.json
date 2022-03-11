@@ -223,6 +223,112 @@
               ]
             },
             {
+              "key": "required_any_in_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "requirements\\required_any_in_list"
+                },
+                {
+                  "key": "requirements",
+                  "value": [
+                    {
+                      "key": "required_player_upgrade",
+                      "value": [
+                        {
+                          "key": "include_pbg_parenting",
+                          "value": [
+                            {
+                              "key": "include_child_pbgs",
+                              "value": false
+                            },
+                            {
+                              "key": "include_parent_pbgs",
+                              "value": false
+                            }
+                          ]
+                        },
+                        {
+                          "key": "include_queued",
+                          "value": false
+                        },
+                        {
+                          "key": "include_completed",
+                          "value": true
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_player_upgrade"
+                        },
+                        {
+                          "key": "max_completed",
+                          "value": 100
+                        },
+                        {
+                          "key": "min_completed",
+                          "value": 1
+                        },
+                        {
+                          "key": "upgrade_name",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "player_dynasty2_chi"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "upgrade"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage_and_display"
+                        },
+                        {
+                          "key": "is_present",
+                          "value": true
+                        }
+                      ]
+                    },
+                    {
+                      "key": "required_statemodelbool",
+                      "value": [
+                        {
+                          "key": "key",
+                          "value": "dynasty_2_was_completed_chi"
+                        },
+                        {
+                          "key": "default_value",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "requirements\\required_statemodelbool"
+                        },
+                        {
+                          "key": "data_source_type",
+                          "value": "player_datasource"
+                        },
+                        {
+                          "key": "compare_to_value",
+                          "value": true
+                        },
+                        {
+                          "key": "reason",
+                          "value": "usage_and_display"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "reason",
+                  "value": "usage"
+                }
+              ]
+            },
+            {
               "key": "required_player_upgrade",
               "value": [
                 {
@@ -278,163 +384,6 @@
                 {
                   "key": "is_present",
                   "value": false
-                }
-              ]
-            },
-            {
-              "key": "required_any_in_list",
-              "value": [
-                {
-                  "key": "$REF",
-                  "value": "requirements\\required_any_in_list"
-                },
-                {
-                  "key": "requirements",
-                  "value": [
-                    {
-                      "key": "required_all_in_list",
-                      "value": [
-                        {
-                          "key": "$REF",
-                          "value": "requirements\\required_all_in_list"
-                        },
-                        {
-                          "key": "ui_name",
-                          "value": 11194468
-                        },
-                        {
-                          "key": "requirements",
-                          "value": [
-                            {
-                              "key": "required_statemodelbool",
-                              "value": [
-                                {
-                                  "key": "key",
-                                  "value": "build_previous_dynasty_units"
-                                },
-                                {
-                                  "key": "default_value",
-                                  "value": false
-                                },
-                                {
-                                  "key": "$REF",
-                                  "value": "requirements\\required_statemodelbool"
-                                },
-                                {
-                                  "key": "data_source_type",
-                                  "value": "player_datasource"
-                                },
-                                {
-                                  "key": "compare_to_value",
-                                  "value": true
-                                },
-                                {
-                                  "key": "reason",
-                                  "value": "usage_and_display"
-                                }
-                              ]
-                            },
-                            {
-                              "key": "required_statemodelbool",
-                              "value": [
-                                {
-                                  "key": "key",
-                                  "value": "dynasty_2_was_completed_chi"
-                                },
-                                {
-                                  "key": "default_value",
-                                  "value": false
-                                },
-                                {
-                                  "key": "$REF",
-                                  "value": "requirements\\required_statemodelbool"
-                                },
-                                {
-                                  "key": "data_source_type",
-                                  "value": "player_datasource"
-                                },
-                                {
-                                  "key": "compare_to_value",
-                                  "value": true
-                                },
-                                {
-                                  "key": "reason",
-                                  "value": "usage_and_display"
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "reason",
-                          "value": "usage"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "required_player_upgrade",
-                      "value": [
-                        {
-                          "key": "include_pbg_parenting",
-                          "value": [
-                            {
-                              "key": "include_child_pbgs",
-                              "value": false
-                            },
-                            {
-                              "key": "include_parent_pbgs",
-                              "value": false
-                            }
-                          ]
-                        },
-                        {
-                          "key": "include_queued",
-                          "value": false
-                        },
-                        {
-                          "key": "include_completed",
-                          "value": true
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "requirements\\required_player_upgrade"
-                        },
-                        {
-                          "key": "max_completed",
-                          "value": 100
-                        },
-                        {
-                          "key": "min_completed",
-                          "value": 1
-                        },
-                        {
-                          "key": "upgrade_name",
-                          "value": [
-                            {
-                              "key": "$PBGNAME",
-                              "value": "player_dynasty2_chi"
-                            },
-                            {
-                              "key": "$PBGMAP",
-                              "value": "upgrade"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "reason",
-                          "value": "usage"
-                        },
-                        {
-                          "key": "is_present",
-                          "value": true
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "reason",
-                  "value": "usage"
                 }
               ]
             }
@@ -621,6 +570,10 @@
             {
               "key": "screen_name",
               "value": 11148995
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

@@ -944,6 +944,10 @@
             {
               "key": "screen_name",
               "value": 11178243
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },
@@ -987,7 +991,7 @@
                 },
                 {
                   "key": "wood",
-                  "value": 40
+                  "value": 65
                 }
               ]
             }

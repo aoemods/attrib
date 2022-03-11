@@ -1660,6 +1660,10 @@
               "value": ""
             },
             {
+              "key": "deposit_relic",
+              "value": ""
+            },
+            {
               "key": "trade_cart_escape_fre",
               "value": ""
             },
@@ -1730,6 +1734,10 @@
             },
             {
               "key": "food_generation",
+              "value": ""
+            },
+            {
+              "key": "deposit_relic",
               "value": ""
             },
             {
@@ -1806,6 +1814,10 @@
               "value": false
             },
             {
+              "key": "deposit_relic",
+              "value": false
+            },
+            {
               "key": "trade_cart_escape_fre",
               "value": false
             },
@@ -1879,6 +1891,10 @@
               "value": ""
             },
             {
+              "key": "deposit_relic",
+              "value": ""
+            },
+            {
               "key": "trade_cart_escape_fre",
               "value": ""
             },
@@ -1949,6 +1965,10 @@
             },
             {
               "key": "food_generation",
+              "value": ""
+            },
+            {
+              "key": "deposit_relic",
               "value": ""
             },
             {
@@ -2978,6 +2998,19 @@
         {
           "key": "snow_starting_depth",
           "value": 0.25
+        }
+      ]
+    },
+    {
+      "key": "patrol",
+      "value": [
+        {
+          "key": "min_distance_between_patrol_points",
+          "value": 3
+        },
+        {
+          "key": "max_patrol_point_count",
+          "value": 12
         }
       ]
     },
@@ -4757,6 +4790,11 @@
         {
           "key": "ui_path_minimap_duration",
           "value": 0.5
+        },
+        {
+          "key": "locomotion_group_unit_classes_to_count",
+          "value": [
+          ]
         },
         {
           "key": "destination_formation_spacing_iterations",
@@ -6893,6 +6931,10 @@
           "key": "state_model_variables_public_generic_handle",
           "value": [
             {
+              "key": "ai_last_encounter_sim_target_handle",
+              "value": false
+            },
+            {
               "key": "naval_transport_handle",
               "value": false
             },
@@ -7137,6 +7179,10 @@
                   "value": ""
                 }
               ]
+            },
+            {
+              "key": "evacuate_enabled",
+              "value": "allow_evacuation"
             }
           ]
         },
@@ -7681,6 +7727,10 @@
               "value": false
             },
             {
+              "key": "ai_filter_out_squads_not_on_target_island",
+              "value": false
+            },
+            {
               "key": "has_general_aura_heal",
               "value": false
             },
@@ -7731,10 +7781,6 @@
             {
               "key": "hero_inactive",
               "value": true
-            },
-            {
-              "key": "has_ovoo",
-              "value": false
             },
             {
               "key": "attack_speed_active_sul",
@@ -7949,6 +7995,10 @@
               "value": false
             },
             {
+              "key": "ai_phase_encounter_allow_attack_move_enroute",
+              "value": false
+            },
+            {
               "key": "blacksmith_built_fre",
               "value": false
             },
@@ -7958,6 +8008,10 @@
             },
             {
               "key": "scholar_research_active_sul",
+              "value": false
+            },
+            {
+              "key": "ai_phase_encounter_allow_attack_move",
               "value": false
             },
             {
@@ -8026,6 +8080,10 @@
             },
             {
               "key": "infantry_outpost_menu_sul",
+              "value": false
+            },
+            {
+              "key": "ai_phase_encounter_melee_allow_attack_move",
               "value": false
             },
             {
@@ -8538,10 +8596,6 @@
               "value": false
             },
             {
-              "key": "ovoo_count",
-              "value": true
-            },
-            {
               "key": "gather_slots_occupied",
               "value": false
             },
@@ -8907,6 +8961,10 @@
               "value": false
             },
             {
+              "key": "religious_timer",
+              "value": false
+            },
+            {
               "key": "monk_out_of_combat_heal_time",
               "value": true
             },
@@ -9155,6 +9213,10 @@
               "value": false
             },
             {
+              "key": "sacred_site_total_generation_rate",
+              "value": false
+            },
+            {
               "key": "crossbowmen_attack_count_fre",
               "value": false
             },
@@ -9323,6 +9385,10 @@
               "value": false
             },
             {
+              "key": "monk_inspiration_buff_time_warriors",
+              "value": false
+            },
+            {
               "key": "network_of_castles_attack_eng",
               "value": false
             },
@@ -9388,7 +9454,7 @@
             },
             {
               "key": "additional_carry_gold_amount",
-              "value": false
+              "value": true
             },
             {
               "key": "pilgrim_spawn_rate",
@@ -9405,6 +9471,10 @@
             {
               "key": "saints_buff_duration_rus",
               "value": true
+            },
+            {
+              "key": "sacred_site_gold_income_per_second",
+              "value": false
             },
             {
               "key": "ai_phase_encounter_destination_required_squads_percent_enroute",
@@ -9695,6 +9765,10 @@
               "value": false
             },
             {
+              "key": "sacred_site_gold_generation_multiplier",
+              "value": false
+            },
+            {
               "key": "Building_Is_Herding",
               "value": false
             },
@@ -9744,6 +9818,10 @@
             },
             {
               "key": "Grow",
+              "value": false
+            },
+            {
+              "key": "sacred_site_gold_generation_rate",
               "value": false
             },
             {
@@ -9932,7 +10010,7 @@
             },
             {
               "key": "tax_cooldown_time_remaining_chi",
-              "value": false
+              "value": true
             },
             {
               "key": "stone_rate_mon",
@@ -13420,10 +13498,6 @@
           "value": "earth"
         },
         {
-          "key": "selection_style_mode",
-          "value": 1
-        },
-        {
           "key": "army_item_slots_displayed",
           "value": -1
         },
@@ -16384,6 +16458,165 @@
               ]
             },
             {
+              "key": "add_patrol_point",
+              "value": [
+                {
+                  "key": "add_patrol_point",
+                  "value": [
+                    {
+                      "key": "ui_cursor",
+                      "value": [
+                        {
+                          "key": "cursor_good",
+                          "value": "attack_patrol"
+                        },
+                        {
+                          "key": "cursor_bad",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "toggled",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "tables\\order"
+                    },
+                    {
+                      "key": "ui_combine_type",
+                      "value": "union"
+                    },
+                    {
+                      "key": "ui_combine_priority",
+                      "value": 0
+                    },
+                    {
+                      "key": "ui_mini_map_capture",
+                      "value": true
+                    },
+                    {
+                      "key": "ui_info",
+                      "value": [
+                        {
+                          "key": "screen_name_formatter",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "reveal_for_decryption",
+                          "value": false
+                        },
+                        {
+                          "key": "ui_position",
+                          "value": [
+                            {
+                              "key": "ui_position_column",
+                              "value": 3
+                            },
+                            {
+                              "key": "ui_position_row",
+                              "value": 2
+                            }
+                          ]
+                        },
+                        {
+                          "key": "icon_alternate_name",
+                          "value": ""
+                        },
+                        {
+                          "key": "brief_text_formatter",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "extra_text",
+                          "value": 11218186
+                        },
+                        {
+                          "key": "sound",
+                          "value": ""
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "tables\\ui_game_item_info"
+                        },
+                        {
+                          "key": "icon_name",
+                          "value": "races\\common\\abilities\\patrol"
+                        },
+                        {
+                          "key": "help_text",
+                          "value": 11218187
+                        },
+                        {
+                          "key": "hotkey_name",
+                          "value": "patrolMove"
+                        },
+                        {
+                          "key": "sound_alternative",
+                          "value": ""
+                        },
+                        {
+                          "key": "tooltip_data_template",
+                          "value": "AttackMoveCommandTooltipDataTemplate"
+                        },
+                        {
+                          "key": "help_text_formatter",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "screen_name_alternate_formatter",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "extra_text_formatter",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        },
+                        {
+                          "key": "screen_name",
+                          "value": 11218185
+                        },
+                        {
+                          "key": "help_text_alternate_formatter",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "key": "retreat",
               "value": [
                 {
@@ -18035,7 +18268,7 @@
           "value": [
             {
               "key": "global_unit_control_max_rows",
-              "value": 0
+              "value": 1
             },
             {
               "key": "show_production_items_for_selected_producer",

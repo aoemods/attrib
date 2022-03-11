@@ -62,7 +62,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "region_dist_gold_deposits"
+              "value": "region_dist_gold_deposits_cliff"
             },
             {
               "key": "$PBGMAP",

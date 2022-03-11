@@ -45,53 +45,7 @@
                         },
                         {
                           "key": "animator",
-                          "value": "art\\civilizations\\english\\humans\\eng_king_stephen_age02\\eng_king_stephen_age02"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "animator_sim_attachment",
-                      "value": [
-                        {
-                          "key": "attach_data",
-                          "value": [
-                            {
-                              "key": "parent_rigidbody_target_name",
-                              "value": ""
-                            },
-                            {
-                              "key": "game_object_attachment_type",
-                              "value": 0
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "attachments\\attach_data"
-                            },
-                            {
-                              "key": "marker_name_parent",
-                              "value": "MetaRig_LArmPalmSocket"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "add_to_pathfinding",
-                          "value": false
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "options\\attachment_types\\animator_sim_attachment"
-                        },
-                        {
-                          "key": "is_selectable",
-                          "value": true
-                        },
-                        {
-                          "key": "inventory_item_category",
-                          "value": ""
-                        },
-                        {
-                          "key": "animator",
-                          "value": "art\\civilizations\\english\\weapons\\eng_shield_heater_age03\\eng_shield_heater_age03"
+                          "value": "art\\civilizations\\mongols\\humans\\mon_ismail_age03\\mon_ismail_age03"
                         }
                       ]
                     },
