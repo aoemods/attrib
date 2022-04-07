@@ -76,7 +76,7 @@
         },
         {
           "key": "personnel_pop",
-          "value": 1
+          "value": 2
         }
       ]
     },
@@ -730,7 +730,7 @@
         },
         {
           "key": "hitpoints",
-          "value": 125
+          "value": 250
         },
         {
           "key": "receive_weapon_cover_modifiers",
@@ -1407,6 +1407,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -1485,6 +1489,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",
@@ -1794,7 +1802,7 @@
                 },
                 {
                   "key": "gather_rate",
-                  "value": 1
+                  "value": 1.9
                 },
                 {
                   "key": "prioritize_drop_off_pos_over_entity_pos",
@@ -1840,7 +1848,7 @@
                 },
                 {
                   "key": "gather_rate",
-                  "value": 0.66
+                  "value": 1.19
                 },
                 {
                   "key": "prioritize_drop_off_pos_over_entity_pos",
@@ -2175,7 +2183,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 25
+              "value": 38
             },
             {
               "key": "time_turns",
@@ -2214,7 +2222,7 @@
                 },
                 {
                   "key": "wood",
-                  "value": 75
+                  "value": 150
                 }
               ]
             }

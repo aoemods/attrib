@@ -39,7 +39,7 @@
         },
         {
           "key": "hotkey_group",
-          "value": ""
+          "value": "hud_selection_orders"
         },
         {
           "key": "$REF",
@@ -50,8 +50,12 @@
           "value": "races\\common\\buildings\\siege_workshop"
         },
         {
+          "key": "help_text",
+          "value": 11156876
+        },
+        {
           "key": "hotkey_name",
-          "value": "q"
+          "value": "access_secondary_ui_panel"
         },
         {
           "key": "tooltip_data_template",
@@ -61,6 +65,10 @@
           "key": "requirements",
           "value": [
           ]
+        },
+        {
+          "key": "screen_name",
+          "value": 11156875
         }
       ]
     },

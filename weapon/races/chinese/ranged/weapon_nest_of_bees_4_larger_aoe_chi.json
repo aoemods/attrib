@@ -1259,7 +1259,7 @@
           "value": [
             {
               "key": "distance_scatter_obj_hit_min",
-              "value": 0
+              "value": 1.5
             },
             {
               "key": "distance_guaranteed_before_hit_percentage",

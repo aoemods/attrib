@@ -1563,11 +1563,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 2
+                  "value": 1
                 },
                 {
                   "key": "min",
-                  "value": 2
+                  "value": 1
                 }
               ]
             },

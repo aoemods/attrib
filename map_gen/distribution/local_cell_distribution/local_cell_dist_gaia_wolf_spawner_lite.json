@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "base_instance_count",
-              "value": 2
+              "value": 1
             },
             {
               "key": "additional_instances_per_player",
@@ -20,7 +20,7 @@
             },
             {
               "key": "additional_instances_per_km_squared",
-              "value": 1
+              "value": 0
             },
             {
               "key": "$REF",

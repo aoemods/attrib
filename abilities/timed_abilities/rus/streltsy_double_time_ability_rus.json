@@ -615,7 +615,7 @@
                 },
                 {
                   "key": "formatter",
-                  "value": 11191629
+                  "value": 11221006
                 },
                 {
                   "key": "formatter_arguments",
@@ -623,10 +623,6 @@
                     {
                       "key": "int_value",
                       "value": 30
-                    },
-                    {
-                      "key": "int_value",
-                      "value": 50
                     },
                     {
                       "key": "int_value",

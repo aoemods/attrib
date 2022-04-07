@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "key": "enable",
-      "value": true
+      "key": "challenge_group_source",
+      "value": 0
     },
     {
       "key": "icon",
@@ -63,6 +63,10 @@
         },
         {
           "key": "unpins_activity_feed_item",
+          "value": false
+        },
+        {
+          "key": "event",
           "value": false
         },
         {

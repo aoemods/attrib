@@ -45,53 +45,7 @@
                         },
                         {
                           "key": "animator",
-                          "value": "art\\civilizations\\mongols\\humans\\mon_greatkhan_age03\\mon_greatkhan_age03"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "animator_sim_attachment",
-                      "value": [
-                        {
-                          "key": "attach_data",
-                          "value": [
-                            {
-                              "key": "parent_rigidbody_target_name",
-                              "value": ""
-                            },
-                            {
-                              "key": "game_object_attachment_type",
-                              "value": 0
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "attachments\\attach_data"
-                            },
-                            {
-                              "key": "marker_name_parent",
-                              "value": "MetaRig_LArmPalmSocket"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "add_to_pathfinding",
-                          "value": false
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "options\\attachment_types\\animator_sim_attachment"
-                        },
-                        {
-                          "key": "is_selectable",
-                          "value": true
-                        },
-                        {
-                          "key": "inventory_item_category",
-                          "value": ""
-                        },
-                        {
-                          "key": "animator",
-                          "value": "art\\civilizations\\common\\weapons\\defense\\shield_round_gold_wicker\\shield_round_gold_wicker"
+                          "value": "art\\civilizations\\mongols\\humans\\mon_ismail_age03\\mon_ismail_age03"
                         }
                       ]
                     },

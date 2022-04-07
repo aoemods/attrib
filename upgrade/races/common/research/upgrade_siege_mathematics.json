@@ -66,7 +66,7 @@
             },
             {
               "key": "ui_position_row",
-              "value": 1
+              "value": 2
             }
           ]
         },
@@ -497,6 +497,10 @@
             {
               "key": "screen_name",
               "value": 11155931
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },
@@ -505,7 +509,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 90
+              "value": 45
             },
             {
               "key": "cost",
@@ -520,7 +524,7 @@
                 },
                 {
                   "key": "gold",
-                  "value": 700
+                  "value": 225
                 },
                 {
                   "key": "militia_hre",
@@ -540,7 +544,7 @@
                 },
                 {
                   "key": "wood",
-                  "value": 300
+                  "value": 100
                 }
               ]
             }

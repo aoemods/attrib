@@ -357,10 +357,6 @@
           "value": false
         },
         {
-          "key": "lock_to_impass",
-          "value": true
-        },
-        {
           "key": "extra_build_test_footprint_z",
           "value": 0
         },
@@ -388,6 +384,10 @@
               "value": 8
             }
           ]
+        },
+        {
+          "key": "snap_to_construction_grid",
+          "value": true
         },
         {
           "key": "minimum_build_test_footprint_x",
@@ -603,7 +603,7 @@
         },
         {
           "key": "hitpoints",
-          "value": 1000
+          "value": 1500
         },
         {
           "key": "receive_weapon_cover_modifiers",
@@ -746,6 +746,10 @@
         {
           "key": "unit_type_list_selection_keybind_only",
           "value": [
+            {
+              "key": "unit_type",
+              "value": "granary"
+            }
           ]
         },
         {
@@ -1134,6 +1138,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -1183,7 +1191,7 @@
               "value": [
                 {
                   "key": "int_value",
-                  "value": 15
+                  "value": 10
                 }
               ]
             }
@@ -1229,6 +1237,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",
@@ -3093,6 +3105,11 @@
           "value": "ebpextensions\\audio_ext"
         },
         {
+          "key": "select_audible_to_relation_list",
+          "value": [
+          ]
+        },
+        {
           "key": "single_select_event",
           "value": "sfx_ui_econ_food_building_selection_play"
         },
@@ -3123,61 +3140,35 @@
           "key": "requirement_table",
           "value": [
             {
-              "key": "required_player_upgrade",
+              "key": "required_statemodelbool",
               "value": [
                 {
-                  "key": "include_pbg_parenting",
-                  "value": [
-                    {
-                      "key": "include_child_pbgs",
-                      "value": false
-                    },
-                    {
-                      "key": "include_parent_pbgs",
-                      "value": false
-                    }
-                  ]
+                  "key": "key",
+                  "value": "dynasty_1_was_completed_chi"
                 },
                 {
-                  "key": "include_queued",
+                  "key": "default_value",
                   "value": false
                 },
                 {
-                  "key": "include_completed",
-                  "value": true
-                },
-                {
                   "key": "$REF",
-                  "value": "requirements\\required_player_upgrade"
+                  "value": "requirements\\required_statemodelbool"
                 },
                 {
-                  "key": "max_completed",
-                  "value": 100
+                  "key": "ui_name",
+                  "value": 11149353
                 },
                 {
-                  "key": "min_completed",
-                  "value": 1
+                  "key": "data_source_type",
+                  "value": "self_datasource"
                 },
                 {
-                  "key": "upgrade_name",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "value": "player_dynasty2_chi"
-                    },
-                    {
-                      "key": "$PBGMAP",
-                      "value": "upgrade"
-                    }
-                  ]
+                  "key": "compare_to_value",
+                  "value": true
                 },
                 {
                   "key": "reason",
                   "value": "usage"
-                },
-                {
-                  "key": "is_present",
-                  "value": true
                 }
               ]
             },

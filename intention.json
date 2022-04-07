@@ -205,6 +205,10 @@
       "value": "move_strafe"
     },
     {
+      "key": "_55",
+      "value": "transport"
+    },
+    {
       "key": "_33",
       "value": "longbow_fire_rate"
     },

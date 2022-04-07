@@ -29,6 +29,10 @@
           ]
         },
         {
+          "key": "lake_extended_radius_meters",
+          "value": 0
+        },
+        {
           "key": "min_cliff_height",
           "value": 3.402823E+38
         },
@@ -105,7 +109,7 @@
         },
         {
           "key": "debug_colour",
-          "value": -4915068
+          "value": -5374161
         },
         {
           "key": "is_lake_source",

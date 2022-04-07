@@ -122,7 +122,7 @@
         },
         {
           "key": "force_3d_collision",
-          "value": true
+          "value": false
         },
         {
           "key": "delay_detonate_time",
@@ -241,7 +241,7 @@
             },
             {
               "key": "is_target_only",
-              "value": false
+              "value": true
             },
             {
               "key": "is_artillery",

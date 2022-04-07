@@ -25,7 +25,7 @@
             },
             {
               "key": "columns",
-              "value": 2
+              "value": 1
             },
             {
               "key": "$REF",
@@ -47,7 +47,7 @@
         },
         {
           "key": "icon_name",
-          "value": ""
+          "value": "races\\common\\buildings\\siege_workshop"
         },
         {
           "key": "hotkey_name",

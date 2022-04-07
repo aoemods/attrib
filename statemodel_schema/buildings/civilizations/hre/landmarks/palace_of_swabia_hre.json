@@ -330,23 +330,6 @@
                 },
                 {
                   "key": "float_property_id",
-                  "value": "Relic_Count"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 0
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
                   "value": "raid_value"
                 }
               ]

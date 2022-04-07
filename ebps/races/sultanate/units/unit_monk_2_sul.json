@@ -344,7 +344,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "default_infantry"
+              "value": "default_infantry_monk"
             },
             {
               "key": "$PBGMAP",
@@ -1097,7 +1097,7 @@
         },
         {
           "key": "selection_scale",
-          "value": 1
+          "value": 2
         },
         {
           "key": "extra_text_world_formatter",
@@ -1171,7 +1171,7 @@
         },
         {
           "key": "selection_method",
-          "value": "bone_obb"
+          "value": "obb_size"
         },
         {
           "key": "kicker_offset_world",
@@ -1184,6 +1184,10 @@
         {
           "key": "kicker_offset",
           "value": 0
+        },
+        {
+          "key": "tooltip_data_template",
+          "value": ""
         },
         {
           "key": "selection_secondary_bounds_scale",
@@ -1266,6 +1270,10 @@
           "value": true
         },
         {
+          "key": "global_unit_control_row",
+          "value": -1
+        },
+        {
           "key": "skin_winter",
           "value": ""
         },
@@ -1336,15 +1344,15 @@
           "value": [
             {
               "key": "y",
-              "value": 1
+              "value": 2
             },
             {
               "key": "x",
-              "value": 1
+              "value": 3
             },
             {
               "key": "z",
-              "value": 1
+              "value": 3
             }
           ]
         },

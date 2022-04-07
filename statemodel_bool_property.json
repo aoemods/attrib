@@ -2,111 +2,111 @@
   "data": [
     {
       "key": "_163",
-      "value": "improved_zealous_mon"
+      "value": "house_of_wisdom_destroyed_abb"
     },
     {
       "key": "_42",
-      "value": "archer_is_deploying_palings"
+      "value": "ai_production_request_only"
     },
     {
       "key": "_84",
-      "value": "district_spec_gaia_food_rate_capacity_rus"
+      "value": "district_official_ability_enabled_chi"
     },
     {
       "key": "_205",
-      "value": "network_of_castles_buff"
+      "value": "naval_broadside_left_bool"
     },
     {
       "key": "_54",
-      "value": "building_is_packing_mon"
+      "value": "boar_killed_sul"
     },
     {
       "key": "_179",
-      "value": "is_tower_of_victory_active"
+      "value": "is_inspired_hre"
     },
     {
       "key": "_99",
-      "value": "district_spec_man_at_arms_attack_buff_chi"
+      "value": "district_spec_khanless_raiding_mon"
     },
     {
       "key": "_221",
-      "value": "research_exit"
+      "value": "proxy_successful_sul"
     },
     {
       "key": "_251",
-      "value": "trade_unit_changed_resource_fre"
+      "value": "trade_cart_returning_home"
     },
     {
       "key": "_133",
-      "value": "frankfurt_cathedral_built_hre"
+      "value": "farm_reseed_signal"
     },
     {
       "key": "_83",
-      "value": "district_spec_faster_raiding_mon"
+      "value": "district_improved_tax_rate_chi"
     },
     {
       "key": "_76",
-      "value": "detected_enemy_wonder"
+      "value": "delhi_mosque_constructed_sul"
     },
     {
       "key": "_78",
-      "value": "district_improved_silk_road_stone_generation_mon"
+      "value": "delhi_mosque_tier_3_sul"
     },
     {
       "key": "_137",
-      "value": "gate_locked"
+      "value": "frankfurt_cathedral_built_hre"
     },
     {
       "key": "_183",
-      "value": "jahanpanah_palace_tier_3_sul"
+      "value": "is_unit_following"
     },
     {
       "key": "_215",
-      "value": "player_can_interact_with_resource_pickups"
+      "value": "pasture_first_sheep_spawn_mon"
     },
     {
       "key": "_200",
-      "value": "moving_building_destroyed"
+      "value": "madrasa_reseach_income_active_sul"
     },
     {
       "key": "_123",
-      "value": "economy_wing_built_abb"
+      "value": "dropped_bounty"
     },
     {
       "key": "_187",
-      "value": "khan_spawner"
+      "value": "khan_needs_healing"
     },
     {
       "key": "_219",
-      "value": "purana_qila_built_sul"
+      "value": "player_declared_religious_victory"
     },
     {
       "key": "_18",
-      "value": "ai_phase_encounter_can_use_transports"
+      "value": "ai_phase_encounter_attack_final_target"
     },
     {
       "key": "_52",
-      "value": "build_previous_dynasty_units"
+      "value": "bijay_mandal_palace_upgrade_active"
     },
     {
       "key": "_260",
-      "value": "war_elephant_speed_aura_sul"
+      "value": "upgrade_longbow_palings_damage_eng"
     },
     {
       "key": "_120",
-      "value": "dynasty_1_was_completed_chi"
+      "value": "district_spec_wooden_keep_springald_rus"
     },
     {
       "key": "_266",
-      "value": "wood_felling_upgraded_improved"
+      "value": "within_gulyay_gorod_radius"
     },
     {
       "key": "_103",
-      "value": "district_spec_monk_improved_buffs_rus"
+      "value": "district_spec_man_at_arms_attack_buff_chi"
     },
     {
       "key": "_182",
-      "value": "jahanpanah_palace_tier_2_sul"
+      "value": "is_tower_of_victory_active"
     },
     {
       "key": "_3",
@@ -114,75 +114,75 @@
     },
     {
       "key": "_36",
-      "value": "ai_phase_encounter_uses_targeted_ability"
+      "value": "ai_phase_encounter_melee_allow_attack_move"
     },
     {
       "key": "_48",
-      "value": "bijay_mandal_palace_upgrade_active"
+      "value": "archer_palings_deployed"
     },
     {
       "key": "_50",
-      "value": "boar_killed_sul"
+      "value": "attack_speed_active_sul"
     },
     {
       "key": "_82",
-      "value": "district_rapid_fire_chi"
+      "value": "district_improved_silk_road_stone_generation_mon"
     },
     {
       "key": "_97",
-      "value": "district_spec_longbow_fire_rate_ability"
+      "value": "district_spec_inspired_villagers_construction_hre"
     },
     {
       "key": "_17",
-      "value": "ai_phase_encounter_can_help_nearby"
+      "value": "ai_phase_encounter_archers_allow_attack_move"
     },
     {
       "key": "_257",
-      "value": "upgrade_longbow_palings_damage_eng"
+      "value": "trinity_lavra_constructed_rus"
     },
     {
       "key": "_115",
-      "value": "district_spec_wooden_keep_druzhina_production_rus"
+      "value": "district_spec_siege_projectile_eng"
     },
     {
       "key": "_267",
-      "value": "wood_felling_upgraded_normal"
+      "value": "within_ortoo_aura"
     },
     {
       "key": "_157",
-      "value": "hero_inactive"
+      "value": "has_khan_arrow_buff_defense_mon"
     },
     {
       "key": "_69",
-      "value": "Debug"
+      "value": "compound_of_the_defender_active_sul"
     },
     {
       "key": "_125",
-      "value": "elzbach_influence_bonus_enabled_hre"
+      "value": "dynasty_2_was_completed_chi"
     },
     {
       "key": "_245",
-      "value": "town_has_barracks"
+      "value": "town_center_is_capital"
     },
     {
       "key": "_141",
-      "value": "Gather_Stone_Upgrade"
+      "value": "gate_locked"
     },
     {
       "key": "_231",
-      "value": "scout_can_be_attacked_by_wolf"
+      "value": "scholar_production_active_sul"
     },
     {
       "key": "_186",
-      "value": "khan_signal_ability_available"
+      "value": "jahanpanah_palace_tier_3_sul"
     },
     {
       "key": "_49",
-      "value": "blacksmith_built_fre"
+      "value": "attached_animator_shield"
     },
     {
       "key": "_211",
-      "value": "ovoo_needs_defending"
+      "value": "official_auto_collect_tax_enabled"
     },
     {
       "key": "_4",
@@ -190,35 +190,35 @@
     },
     {
       "key": "_126",
-      "value": "enclosure_upgrade_eng"
+      "value": "dynasty_3_was_completed_chi"
     },
     {
       "key": "_90",
-      "value": "district_spec_gaia_spawn_tier_2_first_rus"
+      "value": "district_spec_gaia_hunting_cabin_spawning_rus"
     },
     {
       "key": "_255",
-      "value": "UninterruptibleAttack"
+      "value": "trade_wing_built_abb"
     },
     {
       "key": "_155",
-      "value": "has_ovoo"
+      "value": "has_herded_sheep"
     },
     {
       "key": "_119",
-      "value": "dropped_bounty"
+      "value": "district_spec_wooden_keep_druzhina_production_rus"
     },
     {
       "key": "_67",
-      "value": "crossbow_stationary_bonus_fre"
+      "value": "claimed_resource_sul"
     },
     {
       "key": "_261",
-      "value": "wing_upgrade_cancelled_abb"
+      "value": "villager_reseed_signal"
     },
     {
       "key": "_112",
-      "value": "district_spec_streltsy_double_time_ability_rus"
+      "value": "district_spec_outpost_armour_mon"
     },
     {
       "key": "_7",
@@ -226,71 +226,71 @@
     },
     {
       "key": "_238",
-      "value": "siege_is_setup"
+      "value": "sheep_herding_enabled_mon"
     },
     {
       "key": "_202",
-      "value": "naval_broadside_left_bool"
+      "value": "mosque_pop_check_sul"
     },
     {
       "key": "_175",
-      "value": "is_in_influence_hre"
+      "value": "is_carried"
     },
     {
       "key": "_130",
-      "value": "first_khan_spawned"
+      "value": "enclosure_upgrade_eng"
     },
     {
       "key": "_57",
-      "value": "campfire_active_eng"
+      "value": "building_has_ovoo_aura_mon"
     },
     {
       "key": "_213",
-      "value": "pavise_deployed"
+      "value": "ovoo_is_claimed"
     },
     {
       "key": "_170",
-      "value": "is_camel_support_active_abb"
+      "value": "influence_mosque_active_sul"
     },
     {
       "key": "_234",
-      "value": "sheep_collection_enabled_mon"
+      "value": "scout_can_be_attacked_by_wolf"
     },
     {
       "key": "_128",
-      "value": "entity_state_gather_stone"
+      "value": "elite_archer_upgrade_eng"
     },
     {
       "key": "_190",
-      "value": "khilji_mosque_tier_2_sul"
+      "value": "khan_spawner"
     },
     {
       "key": "_208",
-      "value": "official_auto_collect_tax_enabled"
+      "value": "network_of_castles_buff"
     },
     {
       "key": "_63",
-      "value": "claimed_resource_sul"
+      "value": "cannon_barrage_active_fre"
     },
     {
       "key": "_136",
-      "value": "gate_auto_mode_enabled"
+      "value": "force_march_active_sul"
     },
     {
       "key": "_185",
-      "value": "khan_raid_trigger_bonus_mon"
+      "value": "jahanpanah_palace_tier_2_sul"
     },
     {
       "key": "_225",
-      "value": "royal_madrasa_tier_3_sul"
+      "value": "resource_generation_enabled_mon"
     },
     {
       "key": "_89",
-      "value": "district_spec_gaia_spawn_tier_2_achieved_rus"
+      "value": "district_spec_gaia_gold_bonus_rus"
     },
     {
       "key": "_117",
-      "value": "district_stupa_monastery_ovoo_aura"
+      "value": "district_spec_streltsy_stationary_attack_damage_rus"
     },
     {
       "key": "_9",
@@ -298,27 +298,27 @@
     },
     {
       "key": "_124",
-      "value": "elite_archer_upgrade_eng"
+      "value": "dynasty_1_was_completed_chi"
     },
     {
       "key": "_16",
-      "value": "ai_phase_encounter_can_accept_reinforcements"
+      "value": "ai_phase_encounter_allow_attack_move_enroute"
     },
     {
       "key": "_109",
-      "value": "district_spec_permanent_dynasty_bonuses_chi"
+      "value": "district_spec_muscovy_trade_rates_rus"
     },
     {
       "key": "_239",
-      "value": "siege_tower_ramp_open"
+      "value": "sheep_replenish_enabled_mon"
     },
     {
       "key": "_72",
-      "value": "delhi_mosque_constructed_sul"
+      "value": "culture_wing_built_abb"
     },
     {
       "key": "_24",
-      "value": "ai_phase_encounter_convert_squad_target_to_position"
+      "value": "ai_phase_encounter_clear_enemy_buildings_enroute"
     },
     {
       "key": "_0",
@@ -326,55 +326,55 @@
     },
     {
       "key": "_250",
-      "value": "trade_unit_changed_resource_abb"
+      "value": "town_has_stables"
     },
     {
       "key": "_265",
-      "value": "wonder_in_progress"
+      "value": "wing_upgrade_in_progress_abb"
     },
     {
       "key": "_107",
-      "value": "district_spec_outpost_archery_attack_speed_mon"
+      "value": "district_spec_monk_improved_buffs_rus"
     },
     {
       "key": "_87",
-      "value": "district_spec_gaia_spawn_tier_1_achieved_rus"
+      "value": "district_spec_faster_raiding_mon"
     },
     {
       "key": "_108",
-      "value": "district_spec_outpost_armour_mon"
+      "value": "district_spec_monk_saints_self_buffs_rus"
     },
     {
       "key": "_226",
-      "value": "saints_armour_buff_rus"
+      "value": "resource_move_to_interact_previous_position_set"
     },
     {
       "key": "_204",
-      "value": "nest_of_bees_fire_active_chi"
+      "value": "muscovy_trade_company_constructed_rus"
     },
     {
       "key": "_217",
-      "value": "proxy_active_sul"
+      "value": "player_can_construct_structures"
     },
     {
       "key": "_88",
-      "value": "district_spec_gaia_spawn_tier_1_first_rus"
+      "value": "district_spec_gaia_food_rate_capacity_rus"
     },
     {
       "key": "_64",
-      "value": "collect_stray_sheep"
+      "value": "chamber_of_commerce_built_fre"
     },
     {
       "key": "_166",
-      "value": "infantry_stone_wall_menu_sul"
+      "value": "improved_zealous_mon"
     },
     {
       "key": "_22",
-      "value": "ai_phase_encounter_clear_enemy_squads"
+      "value": "ai_phase_encounter_check_for_open_path_to_enemy_structure"
     },
     {
       "key": "_159",
-      "value": "house_of_wisdom_built"
+      "value": "heal_aura_active"
     },
     {
       "key": "_8",
@@ -382,107 +382,111 @@
     },
     {
       "key": "_21",
-      "value": "ai_phase_encounter_clear_enemy_buildings_enroute"
+      "value": "ai_phase_encounter_can_use_transports"
     },
     {
       "key": "_13",
-      "value": "ai_mongol_buildings_relocate_skip_ovoo_test"
+      "value": "ai_filter_out_squads_not_on_target_island"
     },
     {
       "key": "_188",
-      "value": "khan_spawning_enabled"
+      "value": "khan_raid_trigger_bonus_mon"
     },
     {
       "key": "_207",
-      "value": "novgorod_kremlin_constructed_rus"
+      "value": "nest_of_bees_fire_active_chi"
     },
     {
       "key": "_252",
-      "value": "trade_wing_built_abb"
+      "value": "trade_cart_speed_boost_fre"
     },
     {
       "key": "_212",
-      "value": "pasture_first_sheep_spawn_mon"
+      "value": "outpost_alert_ability"
     },
     {
       "key": "_191",
-      "value": "khilji_mosque_tier_3_sul"
+      "value": "khan_spawning_enabled"
     },
     {
       "key": "_129",
-      "value": "farm_reseed_signal"
+      "value": "elzbach_influence_bonus_enabled_hre"
     },
     {
       "key": "_199",
-      "value": "mosque_pop_check_sul"
+      "value": "madrasa_current_acitve_income_sul"
     },
     {
       "key": "_198",
-      "value": "military_wing_built_abb"
+      "value": "lodya_apply_upgrades_rus"
     },
     {
       "key": "_73",
-      "value": "delhi_mosque_tier_2_sul"
+      "value": "Debug"
     },
     {
       "key": "_118",
-      "value": "do_unpacking_construction"
+      "value": "district_spec_wood_bonus_harvest_rus"
     },
     {
       "key": "_206",
-      "value": "non_aggressive"
+      "value": "naval_broadside_right_bool"
     },
     {
       "key": "_153",
-      "value": "has_khan_arrow_buff_defense_mon"
+      "value": "has_general_aura_heal"
     },
     {
       "key": "_210",
-      "value": "ovoo_is_claimed"
+      "value": "novgorod_kremlin_constructed_rus"
     },
     {
       "key": "_45",
-      "value": "attached_animator_shield"
+      "value": "allow_mongol_stone_market"
     },
     {
       "key": "_19",
-      "value": "ai_phase_encounter_check_for_open_path_to_enemy_structure"
+      "value": "ai_phase_encounter_can_accept_reinforcements"
     },
     {
       "key": "_262",
-      "value": "wing_upgrade_in_progress_abb"
+      "value": "war_elephant_spawner_active_sul"
     },
     {
       "key": "_240",
-      "value": "streltsy_double_time_active_rus"
-    },
-    {
-      "key": "_228",
-      "value": "scholar_production_active_sul"
-    },
-    {
-      "key": "_242",
-      "value": "town_center_is_capital"
-    },
-    {
-      "key": "_31",
-      "value": "ai_phase_encounter_formup_remove_squads_not_in_area_at_end"
-    },
-    {
-      "key": "_237",
       "value": "should_ferry_remaining_squads"
     },
     {
+      "key": "_228",
+      "value": "royal_madrasa_tier_3_sul"
+    },
+    {
+      "key": "_242",
+      "value": "siege_tower_ramp_open"
+    },
+    {
+      "key": "_31",
+      "value": "ai_phase_encounter_exit_on_partial_path"
+    },
+    {
+      "key": "_237",
+      "value": "sheep_collection_enabled_mon"
+    },
+    {
       "key": "_164",
-      "value": "incendiary_equipped"
+      "value": "imperial_age_wonder_constructed"
     },
     {
       "key": "_94",
-      "value": "district_spec_jahanpanah_palace_tier_3_sul"
+      "value": "district_spec_gaia_spawn_tier_2_first_rus"
     },
     {
       "key": "_220",
-      "value": "rapid_fire_on_cooldown_chi"
+      "value": "proxy_active_sul"
+    },
+    {
+      "key": "_269",
+      "value": "wood_felling_upgraded_improved"
     },
     {
       "key": "_11",
@@ -490,59 +494,59 @@
     },
     {
       "key": "_195",
-      "value": "lodya_apply_upgrades_rus"
+      "value": "kingbuff_paling_eng"
     },
     {
       "key": "_147",
-      "value": "has_general_aura_combat"
+      "value": "ger_is_pasture_mon"
     },
     {
       "key": "_169",
-      "value": "is_bracing"
+      "value": "infantry_stone_wall_menu_sul"
     },
     {
       "key": "_232",
-      "value": "self_trigger"
+      "value": "scholar_research_active_sul"
     },
     {
       "key": "_53",
-      "value": "building_has_ovoo_aura_mon"
+      "value": "blacksmith_built_fre"
     },
     {
       "key": "_43",
-      "value": "archer_line_upgrade_eng"
+      "value": "ai_target_is_behind_stone_walls_with_stairs"
     },
     {
       "key": "_258",
-      "value": "villager_reseed_signal"
+      "value": "UninterruptibleAttack"
     },
     {
       "key": "_35",
-      "value": "ai_phase_encounter_trigger_monk_dropoff_relic"
+      "value": "ai_phase_encounter_lock_resources"
     },
     {
       "key": "_176",
-      "value": "is_inspired_hre"
+      "value": "is_carrying_entity"
     },
     {
       "key": "_196",
-      "value": "madrasa_current_acitve_income_sul"
+      "value": "kremlin_armoury_constructed_rus"
     },
     {
       "key": "_160",
-      "value": "house_of_wisdom_destroyed_abb"
+      "value": "hero_inactive"
     },
     {
       "key": "_61",
-      "value": "chateau_de_saissac_built_fre"
+      "value": "campfire_active_eng"
     },
     {
       "key": "_139",
-      "value": "Gather_Farm_Upgrade"
+      "value": "gaia_hunters_bounty_rus"
     },
     {
       "key": "_142",
-      "value": "Gather_Tree_Upgrade"
+      "value": "gate_open"
     },
     {
       "key": "_2",
@@ -550,323 +554,331 @@
     },
     {
       "key": "_47",
-      "value": "berry_bush_upgraded_sul"
+      "value": "archer_line_upgrade_eng"
     },
     {
       "key": "_20",
-      "value": "ai_phase_encounter_clear_enemy_buildings"
+      "value": "ai_phase_encounter_can_help_nearby"
     },
     {
       "key": "_114",
-      "value": "district_spec_wood_bonus_harvest_rus"
-    },
-    {
-      "key": "_244",
-      "value": "town_has_archery"
-    },
-    {
-      "key": "_41",
-      "value": "allow_mongol_stone_market"
-    },
-    {
-      "key": "_134",
-      "value": "fre_is_influenced"
-    },
-    {
-      "key": "_56",
-      "value": "califate_fort_tier_3_sul"
-    },
-    {
-      "key": "_243",
-      "value": "town_center_militarize_villagers"
-    },
-    {
-      "key": "_264",
-      "value": "within_ortoo_aura"
-    },
-    {
-      "key": "_37",
-      "value": "ai_phase_move_filter_squads_in_hold"
-    },
-    {
-      "key": "_68",
-      "value": "culture_wing_built_abb"
-    },
-    {
-      "key": "_46",
-      "value": "attack_speed_active_sul"
-    },
-    {
-      "key": "_34",
-      "value": "ai_phase_encounter_target_destroyed"
-    },
-    {
-      "key": "_138",
-      "value": "gate_open"
-    },
-    {
-      "key": "_111",
-      "value": "district_spec_siege_projectile_eng"
-    },
-    {
-      "key": "_60",
-      "value": "chamber_of_commerce_built_fre"
-    },
-    {
-      "key": "_127",
-      "value": "end_behaviour"
-    },
-    {
-      "key": "_143",
-      "value": "ger_is_pasture_mon"
-    },
-    {
-      "key": "_66",
-      "value": "conversion_entity"
-    },
-    {
-      "key": "_29",
-      "value": "ai_phase_encounter_exit_on_path_blocker_detected"
-    },
-    {
-      "key": "_38",
-      "value": "ai_production_request_only"
-    },
-    {
-      "key": "_162",
-      "value": "improved_resource_deposit_abb"
-    },
-    {
-      "key": "_81",
-      "value": "district_ortoo_affect_all_units_aura_mon"
-    },
-    {
-      "key": "_95",
-      "value": "district_spec_khanless_raiding_mon"
-    },
-    {
-      "key": "_30",
-      "value": "ai_phase_encounter_exit_test_include_unreachable"
-    },
-    {
-      "key": "_27",
-      "value": "ai_phase_encounter_do_formup_check"
-    },
-    {
-      "key": "_152",
-      "value": "has_khan_arrow_buff_attack_mon"
-    },
-    {
-      "key": "_100",
-      "value": "district_spec_market_gen_gold_fre"
-    },
-    {
-      "key": "_75",
-      "value": "detected_enemy_religious_victory"
-    },
-    {
-      "key": "_110",
       "value": "district_spec_scout_falcon_ability_mon"
     },
     {
-      "key": "_15",
-      "value": "ai_phase_encounter_attack_final_target"
+      "key": "_244",
+      "value": "teardowns_disabled"
     },
     {
-      "key": "_96",
-      "value": "district_spec_lancer_melee_boost_fre"
+      "key": "_41",
+      "value": "ai_phase_move_filter_squads_in_hold"
     },
     {
-      "key": "_92",
-      "value": "district_spec_gaia_spawn_tier_3_first_rus"
+      "key": "_134",
+      "value": "first_khan_spawned"
     },
     {
-      "key": "_140",
-      "value": "Gather_Gold_Upgrade"
+      "key": "_56",
+      "value": "build_previous_dynasty_units"
     },
     {
-      "key": "_70",
-      "value": "defensive_tower_alert_eng"
+      "key": "_243",
+      "value": "streltsy_double_time_active_rus"
     },
     {
-      "key": "_105",
-      "value": "district_spec_muscovy_trade_rates_rus"
+      "key": "_264",
+      "value": "wing_upgrade_cancelled_abb"
     },
     {
-      "key": "_197",
-      "value": "madrasa_reseach_income_active_sul"
+      "key": "_37",
+      "value": "ai_phase_encounter_should_hold_position"
     },
     {
-      "key": "_98",
-      "value": "district_spec_longbow_speed_out_of_combat"
+      "key": "_68",
+      "value": "collect_stray_sheep"
     },
     {
-      "key": "_256",
-      "value": "upgrade_gulyay_gorod_damage_reduction_rus"
+      "key": "_46",
+      "value": "archer_is_deploying_palings"
     },
     {
-      "key": "_28",
-      "value": "ai_phase_encounter_exit_on_partial_path"
+      "key": "_34",
+      "value": "ai_phase_encounter_formup_remove_squads_not_in_area_at_end"
     },
     {
-      "key": "_101",
-      "value": "district_spec_monk_aoe_hre"
+      "key": "_138",
+      "value": "fre_is_influenced"
     },
     {
-      "key": "_51",
-      "value": "bounty_dropped_mon"
+      "key": "_111",
+      "value": "district_spec_outpost_archery_attack_speed_mon"
     },
     {
-      "key": "_131",
-      "value": "first_mosque_bonus_sul"
+      "key": "_60",
+      "value": "califate_fort_tier_3_sul"
     },
     {
-      "key": "_165",
-      "value": "infantry_outpost_menu_sul"
+      "key": "_127",
+      "value": "economy_wing_built_abb"
     },
     {
-      "key": "_104",
-      "value": "district_spec_monk_saints_self_buffs_rus"
+      "key": "_143",
+      "value": "Gather_Farm_Upgrade"
     },
     {
-      "key": "_146",
-      "value": "great_wall_scuttle_block_chi"
+      "key": "_66",
+      "value": "cinematic_is_running_challenge_tracking"
     },
     {
-      "key": "_263",
-      "value": "within_gulyay_gorod_radius"
+      "key": "_29",
+      "value": "ai_phase_encounter_disable_cavalry_build_rams"
     },
     {
-      "key": "_192",
-      "value": "kingbuff_paling_eng"
+      "key": "_38",
+      "value": "ai_phase_encounter_target_destroyed"
     },
     {
-      "key": "_80",
-      "value": "district_official_ability_enabled_chi"
+      "key": "_162",
+      "value": "house_of_wisdom_built"
     },
     {
-      "key": "_216",
-      "value": "player_declared_religious_victory"
+      "key": "_81",
+      "value": "disable_landmark_rebuild"
     },
     {
-      "key": "_214",
-      "value": "player_can_construct_structures"
-    },
-    {
-      "key": "_93",
-      "value": "district_spec_inspired_villagers_construction_hre"
-    },
-    {
-      "key": "_167",
-      "value": "influence_mosque_active_sul"
-    },
-    {
-      "key": "_158",
-      "value": "hit_palings_eng"
-    },
-    {
-      "key": "_91",
+      "key": "_95",
       "value": "district_spec_gaia_spawn_tier_3_achieved_rus"
     },
     {
-      "key": "_144",
-      "value": "ger_is_replenishing_sheep_mon"
+      "key": "_30",
+      "value": "ai_phase_encounter_do_formup_check"
     },
     {
-      "key": "_172",
-      "value": "is_carried"
+      "key": "_27",
+      "value": "ai_phase_encounter_convert_squad_target_to_position"
     },
     {
-      "key": "_184",
-      "value": "khan_needs_healing"
+      "key": "_152",
+      "value": "has_general_aura_econ"
     },
     {
-      "key": "_23",
-      "value": "ai_phase_encounter_clear_enemy_squads_enroute"
+      "key": "_100",
+      "value": "district_spec_lancer_melee_boost_fre"
     },
     {
-      "key": "_122",
-      "value": "dynasty_3_was_completed_chi"
+      "key": "_75",
+      "value": "defensive_tower_spread_eng"
     },
     {
-      "key": "_203",
-      "value": "naval_broadside_right_bool"
-    },
-    {
-      "key": "_86",
-      "value": "district_spec_gaia_hunting_cabin_spawning_rus"
-    },
-    {
-      "key": "_233",
-      "value": "settlement_repaired"
-    },
-    {
-      "key": "_180",
-      "value": "is_unit_following"
-    },
-    {
-      "key": "_145",
-      "value": "golden_gate_vladimir_constructed_rus"
-    },
-    {
-      "key": "_106",
+      "key": "_110",
       "value": "district_spec_network_of_castles_range_upgrade"
     },
     {
-      "key": "_14",
-      "value": "ai_phase_encounter_archers_allow_attack_move"
+      "key": "_15",
+      "value": "ai_phase_encounter_allow_attack_move"
     },
     {
-      "key": "_65",
-      "value": "compound_of_the_defender_active_sul"
+      "key": "_96",
+      "value": "district_spec_gaia_spawn_tier_3_first_rus"
     },
     {
-      "key": "_249",
-      "value": "trade_cart_speed_boost_fre"
+      "key": "_92",
+      "value": "district_spec_gaia_spawn_tier_1_first_rus"
     },
     {
-      "key": "_248",
-      "value": "trade_cart_returning_home"
+      "key": "_140",
+      "value": "gate_auto_mode_enabled"
     },
     {
-      "key": "_25",
+      "key": "_70",
+      "value": "conversion_entity"
+    },
+    {
+      "key": "_105",
+      "value": "district_spec_monk_aoe_hre"
+    },
+    {
+      "key": "_197",
+      "value": "landmark_active"
+    },
+    {
+      "key": "_98",
+      "value": "district_spec_jahanpanah_palace_tier_3_sul"
+    },
+    {
+      "key": "_256",
+      "value": "traveling_scholar_active_sul"
+    },
+    {
+      "key": "_28",
       "value": "ai_phase_encounter_defend_destination"
     },
     {
-      "key": "_102",
+      "key": "_101",
+      "value": "district_spec_longbow_fire_rate_ability"
+    },
+    {
+      "key": "_51",
+      "value": "berry_bush_upgraded_sul"
+    },
+    {
+      "key": "_131",
+      "value": "end_behaviour"
+    },
+    {
+      "key": "_165",
+      "value": "improved_resource_deposit_abb"
+    },
+    {
+      "key": "_104",
+      "value": "district_spec_market_gen_gold_fre"
+    },
+    {
+      "key": "_146",
+      "value": "Gather_Tree_Upgrade"
+    },
+    {
+      "key": "_268",
+      "value": "wonder_in_progress"
+    },
+    {
+      "key": "_263",
+      "value": "war_elephant_speed_aura_sul"
+    },
+    {
+      "key": "_192",
+      "value": "khan_tigger_raid_mon"
+    },
+    {
+      "key": "_80",
+      "value": "detected_enemy_wonder"
+    },
+    {
+      "key": "_216",
+      "value": "pavise_deployed"
+    },
+    {
+      "key": "_214",
+      "value": "ovoo_needs_defending"
+    },
+    {
+      "key": "_93",
+      "value": "district_spec_gaia_spawn_tier_2_achieved_rus"
+    },
+    {
+      "key": "_167",
+      "value": "incendiary_equipped"
+    },
+    {
+      "key": "_158",
+      "value": "has_khan_arrow_buff_speed_mon"
+    },
+    {
+      "key": "_91",
+      "value": "district_spec_gaia_spawn_tier_1_achieved_rus"
+    },
+    {
+      "key": "_144",
+      "value": "Gather_Gold_Upgrade"
+    },
+    {
+      "key": "_172",
+      "value": "is_bracing"
+    },
+    {
+      "key": "_184",
+      "value": "is_wonder_construction_enabled"
+    },
+    {
+      "key": "_23",
+      "value": "ai_phase_encounter_clear_enemy_buildings"
+    },
+    {
+      "key": "_122",
+      "value": "do_unpacking_construction"
+    },
+    {
+      "key": "_203",
+      "value": "moving_building_destroyed"
+    },
+    {
+      "key": "_86",
+      "value": "district_rapid_fire_chi"
+    },
+    {
+      "key": "_233",
+      "value": "scholars_available_sul"
+    },
+    {
+      "key": "_180",
+      "value": "is_packed_mon"
+    },
+    {
+      "key": "_145",
+      "value": "Gather_Stone_Upgrade"
+    },
+    {
+      "key": "_106",
       "value": "district_spec_monk_double_saints_charges_rus"
     },
     {
+      "key": "_14",
+      "value": "ai_mongol_buildings_relocate_skip_ovoo_test"
+    },
+    {
+      "key": "_65",
+      "value": "chateau_de_saissac_built_fre"
+    },
+    {
+      "key": "_249",
+      "value": "town_has_siege"
+    },
+    {
+      "key": "_248",
+      "value": "town_has_barracks"
+    },
+    {
+      "key": "_25",
+      "value": "ai_phase_encounter_clear_enemy_squads"
+    },
+    {
+      "key": "_102",
+      "value": "district_spec_longbow_speed_out_of_combat"
+    },
+    {
       "key": "_223",
-      "value": "resource_move_to_interact_previous_position_set"
+      "value": "rapid_fire_on_cooldown_chi"
     },
     {
       "key": "_135",
-      "value": "gaia_hunters_bounty_rus"
+      "value": "first_mosque_bonus_sul"
     },
     {
       "key": "_39",
-      "value": "ai_target_is_behind_stone_walls_with_stairs"
+      "value": "ai_phase_encounter_trigger_monk_dropoff_relic"
     },
     {
       "key": "_209",
-      "value": "outpost_alert_ability"
+      "value": "non_aggressive"
     },
     {
       "key": "_224",
-      "value": "royal_madrasa_tier_2_sul"
+      "value": "research_exit"
     },
     {
       "key": "_59",
-      "value": "cannon_barrage_active_fre"
+      "value": "califate_fort_tier_1_sul"
+    },
+    {
+      "key": "_270",
+      "value": "wood_felling_upgraded_normal"
     },
     {
       "key": "_193",
-      "value": "kremlin_armoury_constructed_rus"
+      "value": "khilji_mosque_tier_2_sul"
     },
     {
       "key": "_77",
-      "value": "disable_landmark_rebuild"
+      "value": "delhi_mosque_tier_2_sul"
     },
     {
       "key": "_12",
@@ -882,115 +894,115 @@
     },
     {
       "key": "_230",
-      "value": "scholars_available_sul"
-    },
-    {
-      "key": "_32",
-      "value": "ai_phase_encounter_lock_resources"
-    },
-    {
-      "key": "_149",
-      "value": "has_general_aura_heal"
-    },
-    {
-      "key": "_44",
-      "value": "archer_palings_deployed"
-    },
-    {
-      "key": "_222",
-      "value": "resource_generation_enabled_mon"
-    },
-    {
-      "key": "_156",
-      "value": "heal_aura_active"
-    },
-    {
-      "key": "_40",
-      "value": "allow_evacuation"
-    },
-    {
-      "key": "_236",
-      "value": "sheep_replenish_enabled_mon"
-    },
-    {
-      "key": "_55",
-      "value": "califate_fort_tier_1_sul"
-    },
-    {
-      "key": "_161",
-      "value": "imperial_age_wonder_constructed"
-    },
-    {
-      "key": "_168",
-      "value": "is_being_rushed"
-    },
-    {
-      "key": "_194",
-      "value": "landmark_active"
-    },
-    {
-      "key": "_116",
-      "value": "district_spec_wooden_keep_springald_rus"
-    },
-    {
-      "key": "_113",
-      "value": "district_spec_streltsy_stationary_attack_damage_rus"
-    },
-    {
-      "key": "_33",
-      "value": "ai_phase_encounter_should_hold_position"
-    },
-    {
-      "key": "_150",
-      "value": "has_general_aura_production"
-    },
-    {
-      "key": "_74",
-      "value": "delhi_mosque_tier_3_sul"
-    },
-    {
-      "key": "_247",
-      "value": "town_has_stables"
-    },
-    {
-      "key": "_148",
-      "value": "has_general_aura_econ"
-    },
-    {
-      "key": "_79",
-      "value": "district_improved_tax_rate_chi"
-    },
-    {
-      "key": "_171",
-      "value": "is_captured"
-    },
-    {
-      "key": "_253",
-      "value": "traveling_scholar_active_sul"
-    },
-    {
-      "key": "_235",
-      "value": "sheep_herding_enabled_mon"
-    },
-    {
-      "key": "_201",
-      "value": "muscovy_trade_company_constructed_rus"
-    },
-    {
-      "key": "_71",
-      "value": "defensive_tower_spread_eng"
-    },
-    {
-      "key": "_227",
       "value": "saints_damage_buff_rus"
     },
     {
+      "key": "_32",
+      "value": "ai_phase_encounter_exit_on_path_blocker_detected"
+    },
+    {
+      "key": "_149",
+      "value": "golden_gate_vladimir_constructed_rus"
+    },
+    {
+      "key": "_44",
+      "value": "allow_evacuation"
+    },
+    {
+      "key": "_222",
+      "value": "purana_qila_built_sul"
+    },
+    {
+      "key": "_156",
+      "value": "has_khan_arrow_buff_attack_mon"
+    },
+    {
+      "key": "_40",
+      "value": "ai_phase_encounter_uses_targeted_ability"
+    },
+    {
+      "key": "_236",
+      "value": "settlement_repaired"
+    },
+    {
+      "key": "_55",
+      "value": "bounty_dropped_mon"
+    },
+    {
+      "key": "_161",
+      "value": "hit_palings_eng"
+    },
+    {
+      "key": "_168",
+      "value": "infantry_outpost_menu_sul"
+    },
+    {
+      "key": "_194",
+      "value": "khilji_mosque_tier_3_sul"
+    },
+    {
+      "key": "_116",
+      "value": "district_spec_streltsy_double_time_ability_rus"
+    },
+    {
+      "key": "_113",
+      "value": "district_spec_permanent_dynasty_bonuses_chi"
+    },
+    {
+      "key": "_33",
+      "value": "ai_phase_encounter_exit_test_include_unreachable"
+    },
+    {
+      "key": "_150",
+      "value": "great_wall_scuttle_block_chi"
+    },
+    {
+      "key": "_74",
+      "value": "defensive_tower_alert_eng"
+    },
+    {
+      "key": "_247",
+      "value": "town_has_archery"
+    },
+    {
+      "key": "_148",
+      "value": "ger_is_replenishing_sheep_mon"
+    },
+    {
+      "key": "_79",
+      "value": "detected_enemy_religious_victory"
+    },
+    {
+      "key": "_171",
+      "value": "is_being_rushed"
+    },
+    {
+      "key": "_253",
+      "value": "trade_unit_changed_resource_abb"
+    },
+    {
+      "key": "_235",
+      "value": "self_trigger"
+    },
+    {
+      "key": "_201",
+      "value": "military_wing_built_abb"
+    },
+    {
+      "key": "_71",
+      "value": "crossbow_stationary_bonus_fre"
+    },
+    {
+      "key": "_227",
+      "value": "royal_madrasa_tier_2_sul"
+    },
+    {
       "key": "_259",
-      "value": "war_elephant_spawner_active_sul"
+      "value": "upgrade_gulyay_gorod_damage_reduction_rus"
     },
     {
       "key": "_58",
-      "value": "can_capture_override"
+      "value": "building_is_packing_mon"
     },
     {
       "key": "_5",
@@ -998,67 +1010,67 @@
     },
     {
       "key": "_132",
-      "value": "force_march_active_sul"
+      "value": "entity_state_gather_stone"
     },
     {
       "key": "_62",
-      "value": "cinematic_is_running_challenge_tracking"
+      "value": "can_capture_override"
     },
     {
       "key": "_173",
-      "value": "is_carrying_entity"
+      "value": "is_camel_support_active_abb"
     },
     {
       "key": "_189",
-      "value": "khan_tigger_raid_mon"
+      "value": "khan_signal_ability_available"
     },
     {
       "key": "_181",
-      "value": "is_wonder_construction_enabled"
+      "value": "is_supervised_chi"
     },
     {
       "key": "_218",
-      "value": "proxy_successful_sul"
+      "value": "player_can_interact_with_resource_pickups"
     },
     {
       "key": "_177",
-      "value": "is_packed_mon"
-    },
-    {
-      "key": "_229",
-      "value": "scholar_research_active_sul"
-    },
-    {
-      "key": "_246",
-      "value": "town_has_siege"
-    },
-    {
-      "key": "_121",
-      "value": "dynasty_2_was_completed_chi"
-    },
-    {
-      "key": "_151",
-      "value": "has_herded_sheep"
-    },
-    {
-      "key": "_241",
-      "value": "teardowns_disabled"
-    },
-    {
-      "key": "_174",
       "value": "is_charging"
     },
     {
+      "key": "_229",
+      "value": "saints_armour_buff_rus"
+    },
+    {
+      "key": "_246",
+      "value": "town_center_militarize_villagers"
+    },
+    {
+      "key": "_121",
+      "value": "district_stupa_monastery_ovoo_aura"
+    },
+    {
+      "key": "_151",
+      "value": "has_general_aura_combat"
+    },
+    {
+      "key": "_241",
+      "value": "siege_is_setup"
+    },
+    {
+      "key": "_174",
+      "value": "is_captured"
+    },
+    {
       "key": "_254",
-      "value": "trinity_lavra_constructed_rus"
+      "value": "trade_unit_changed_resource_fre"
     },
     {
       "key": "_26",
-      "value": "ai_phase_encounter_disable_cavalry_build_rams"
+      "value": "ai_phase_encounter_clear_enemy_squads_enroute"
     },
     {
       "key": "_85",
-      "value": "district_spec_gaia_gold_bonus_rus"
+      "value": "district_ortoo_affect_all_units_aura_mon"
     },
     {
       "key": "_10",
@@ -1066,11 +1078,11 @@
     },
     {
       "key": "_178",
-      "value": "is_supervised_chi"
+      "value": "is_in_influence_hre"
     },
     {
       "key": "_154",
-      "value": "has_khan_arrow_buff_speed_mon"
+      "value": "has_general_aura_production"
     }
   ]
 }

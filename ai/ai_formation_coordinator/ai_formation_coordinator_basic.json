@@ -392,6 +392,10 @@
                     {
                       "key": "unit_class",
                       "value": "military_production_building"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "mobile_building"
                     }
                   ]
                 }
@@ -422,6 +426,10 @@
                     {
                       "key": "unit_class",
                       "value": "town_center"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "wonder"
                     }
                   ]
                 }

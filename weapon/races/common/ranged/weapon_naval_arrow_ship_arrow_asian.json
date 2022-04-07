@@ -552,11 +552,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 4
+                  "value": 8
                 },
                 {
                   "key": "min",
-                  "value": 4
+                  "value": 8
                 }
               ]
             },
@@ -665,7 +665,7 @@
             },
             {
               "key": "attack_ground_type",
-              "value": 2
+              "value": 0
             },
             {
               "key": "can_damage_allies",

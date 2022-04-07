@@ -147,11 +147,11 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": ""
+              "value": "aura_ring"
             },
             {
               "key": "$PBGMAP",
-              "value": ""
+              "value": "ui_reticule"
             }
           ]
         },
@@ -311,50 +311,15 @@
           "key": "requirements_target",
           "value": [
             {
-              "key": "required_any_in_list",
+              "key": "required_ownership",
               "value": [
                 {
                   "key": "$REF",
-                  "value": "requirements\\required_any_in_list"
+                  "value": "requirements\\required_ownership"
                 },
                 {
-                  "key": "requirements",
-                  "value": [
-                    {
-                      "key": "required_ownership",
-                      "value": [
-                        {
-                          "key": "$REF",
-                          "value": "requirements\\required_ownership"
-                        },
-                        {
-                          "key": "ownership_type",
-                          "value": 0
-                        },
-                        {
-                          "key": "reason",
-                          "value": "usage"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "required_ownership",
-                      "value": [
-                        {
-                          "key": "$REF",
-                          "value": "requirements\\required_ownership"
-                        },
-                        {
-                          "key": "ownership_type",
-                          "value": 3
-                        },
-                        {
-                          "key": "reason",
-                          "value": "usage"
-                        }
-                      ]
-                    }
-                  ]
+                  "key": "ownership_type",
+                  "value": 3
                 },
                 {
                   "key": "reason",
@@ -605,32 +570,110 @@
                   "key": "requirement_table",
                   "value": [
                     {
-                      "key": "required_unit_type",
+                      "key": "required_any_in_list",
                       "value": [
                         {
-                          "key": "qualify_option",
+                          "key": "$REF",
+                          "value": "requirements\\required_any_in_list"
+                        },
+                        {
+                          "key": "requirements",
                           "value": [
                             {
-                              "key": "$REF",
-                              "value": "options\\none"
+                              "key": "required_unit_type",
+                              "value": [
+                                {
+                                  "key": "qualify_option",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "options\\none"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_unit_type"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "monk"
+                                },
+                                {
+                                  "key": "ui_name",
+                                  "value": 11147986
+                                },
+                                {
+                                  "key": "search_load_out",
+                                  "value": false
+                                },
+                                {
+                                  "key": "reason",
+                                  "value": "usage"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "required_unit_type",
+                              "value": [
+                                {
+                                  "key": "qualify_option",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "options\\none"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_unit_type"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "outpost"
+                                },
+                                {
+                                  "key": "search_load_out",
+                                  "value": false
+                                },
+                                {
+                                  "key": "reason",
+                                  "value": "usage"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "required_unit_type",
+                              "value": [
+                                {
+                                  "key": "qualify_option",
+                                  "value": [
+                                    {
+                                      "key": "$REF",
+                                      "value": "options\\none"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_unit_type"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "tower"
+                                },
+                                {
+                                  "key": "search_load_out",
+                                  "value": false
+                                },
+                                {
+                                  "key": "reason",
+                                  "value": "usage"
+                                }
+                              ]
                             }
                           ]
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "requirements\\required_unit_type"
-                        },
-                        {
-                          "key": "unit_type",
-                          "value": "monk"
-                        },
-                        {
-                          "key": "ui_name",
-                          "value": 11147986
-                        },
-                        {
-                          "key": "search_load_out",
-                          "value": false
                         },
                         {
                           "key": "reason",
@@ -643,6 +686,10 @@
                 {
                   "key": "$REF",
                   "value": "requirements\\required_not"
+                },
+                {
+                  "key": "ui_name",
+                  "value": 11220854
                 },
                 {
                   "key": "reason",

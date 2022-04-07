@@ -29,6 +29,10 @@
           ]
         },
         {
+          "key": "lake_extended_radius_meters",
+          "value": 0
+        },
+        {
           "key": "min_cliff_height",
           "value": 10
         },
@@ -50,7 +54,7 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": "local_dist_tactical_pocket_gold_single"
+              "value": "local_dist_tactical_pocket_gold_single_cliff"
             },
             {
               "key": "$PBGMAP",

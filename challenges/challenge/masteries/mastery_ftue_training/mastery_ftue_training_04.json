@@ -115,6 +115,19 @@
                             },
                             {
                               "key": "value",
+                              "value": "cdn_challenge_missions\\challenge_mission_advancedcombat\\challenge_mission_advancedcombat"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "map",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\map"
+                            },
+                            {
+                              "key": "value",
                               "value": "campaign\\angevin\\ang_chp1_hastings\\ang_chp1_hastings"
                             }
                           ]

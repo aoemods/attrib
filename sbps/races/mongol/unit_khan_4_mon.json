@@ -80,6 +80,22 @@
         {
           "key": "age_mapping",
           "value": [
+            {
+              "key": "age_number",
+              "value": 1
+            },
+            {
+              "key": "age_number",
+              "value": 2
+            },
+            {
+              "key": "age_number",
+              "value": 3
+            },
+            {
+              "key": "age_number",
+              "value": 3
+            }
           ]
         },
         {
@@ -408,6 +424,15 @@
             },
             {
               "key": "hold_position",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "add_patrol_point",
               "value": [
                 {
                   "key": "available",

@@ -92,6 +92,23 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 1.1
+                },
+                {
+                  "key": "id",
+                  "value": "ranged_damage"
+                }
+              ]
+            }
           ]
         },
         {
@@ -473,6 +490,10 @@
             {
               "key": "screen_name",
               "value": 11203760
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

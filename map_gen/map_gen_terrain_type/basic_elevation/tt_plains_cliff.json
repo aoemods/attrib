@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "fractal_shift_amplitude",
-              "value": 0.125
+              "value": 0.025
             },
             {
               "key": "fractal_shift_direction_bias",
@@ -24,9 +24,13 @@
             },
             {
               "key": "height_over_width",
-              "value": 0.125
+              "value": 0.015
             }
           ]
+        },
+        {
+          "key": "lake_extended_radius_meters",
+          "value": 0
         },
         {
           "key": "min_cliff_height",
@@ -39,7 +43,7 @@
         },
         {
           "key": "debug_colour",
-          "value": -5053333
+          "value": -4412895
         },
         {
           "key": "is_lake_source",

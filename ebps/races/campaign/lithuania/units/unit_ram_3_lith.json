@@ -1011,6 +1011,10 @@
             {
               "key": "unit_type",
               "value": "gaia"
+            },
+            {
+              "key": "unit_type",
+              "value": "naval_unit"
             }
           ]
         },
@@ -1145,7 +1149,7 @@
         },
         {
           "key": "ghost_enable",
-          "value": true
+          "value": false
         },
         {
           "key": "selection_name_squad_override",
@@ -1343,6 +1347,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": "BuildingMilitaryDataTemplate"
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -1425,6 +1433,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": 1
         },
         {
           "key": "skin_winter",
@@ -2971,6 +2983,10 @@
           ]
         },
         {
+          "key": "right_click_garrison_always_enabled",
+          "value": true
+        },
+        {
           "key": "on_loaded_squad_action_tree",
           "value": [
             {
@@ -3232,6 +3248,11 @@
         {
           "key": "$REF",
           "value": "ebpextensions\\audio_ext"
+        },
+        {
+          "key": "select_audible_to_relation_list",
+          "value": [
+          ]
         },
         {
           "key": "single_select_event",

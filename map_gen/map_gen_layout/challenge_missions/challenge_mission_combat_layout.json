@@ -42,274 +42,6 @@
           ]
         },
         {
-          "key": "coarse_map_blur_params",
-          "value": [
-            {
-              "key": "size_params",
-              "value": [
-                {
-                  "key": "instance",
-                  "value": [
-                    {
-                      "key": "fractal_shift_amplitude",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0.5
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.5
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_direction_bias",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "size",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "map_size_512"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\map_gen_size"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_variance",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "height_over_width",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 1.35
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.7
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "instance",
-                  "value": [
-                    {
-                      "key": "fractal_shift_amplitude",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0.5
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.5
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_direction_bias",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "size",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "map_size_768"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\map_gen_size"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_variance",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "height_over_width",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 1.35
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.7
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "instance",
-                  "value": [
-                    {
-                      "key": "fractal_shift_amplitude",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0.5
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.5
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_direction_bias",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "size",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "map_size_1024"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\map_gen_size"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "fractal_shift_variance",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 0
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 1
-                        }
-                      ]
-                    },
-                    {
-                      "key": "height_over_width",
-                      "value": [
-                        {
-                          "key": "standard_deviation",
-                          "value": 1.35
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "map_gen\\layout\\coarse_map_blur_param"
-                        },
-                        {
-                          "key": "normalization_exponent_for_gaussian_kernel",
-                          "value": 0.7
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "key": "balancing_resource_score_maps",
           "value": [
             {
@@ -777,7 +509,7 @@
           ]
         },
         {
-          "key": "selectable_biomes",
+          "key": "default_biome_tuning_overrides",
           "value": [
           ]
         },
@@ -845,6 +577,11 @@
               "key": "iteration_strength_increase",
               "value": 0.04
             }
+          ]
+        },
+        {
+          "key": "default_map_size_tuning_overrides",
+          "value": [
           ]
         },
         {
@@ -948,11 +685,6 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "key": "selectable_map_sizes",
-          "value": [
           ]
         },
         {

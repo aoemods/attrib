@@ -281,6 +281,10 @@
               "value": false
             },
             {
+              "key": "screen_name_short",
+              "value": 11215253
+            },
+            {
               "key": "brief_text_formatter",
               "value": [
                 {
@@ -288,6 +292,10 @@
                   "value": ""
                 }
               ]
+            },
+            {
+              "key": "extra_text",
+              "value": 11182496
             },
             {
               "key": "sound",
@@ -310,6 +318,10 @@
               "value": ""
             },
             {
+              "key": "brief_text",
+              "value": 11182499
+            },
+            {
               "key": "tooltip_data_template",
               "value": ""
             },
@@ -330,6 +342,14 @@
                   "value": ""
                 }
               ]
+            },
+            {
+              "key": "screen_name",
+              "value": 11119585
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

@@ -30,7 +30,7 @@
           "value": [
             {
               "key": "ui_position_column",
-              "value": 1
+              "value": 2
             },
             {
               "key": "ui_position_row",
@@ -84,6 +84,23 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 10
+                },
+                {
+                  "key": "id",
+                  "value": "armor_fire"
+                }
+              ]
+            }
           ]
         },
         {
@@ -465,6 +482,10 @@
             {
               "key": "screen_name",
               "value": 11182679
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

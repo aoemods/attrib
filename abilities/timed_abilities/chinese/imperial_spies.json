@@ -539,10 +539,6 @@
               "value": ""
             },
             {
-              "key": "help_text",
-              "value": 11191304
-            },
-            {
               "key": "hotkey_name",
               "value": "q"
             },
@@ -559,7 +555,20 @@
               "value": [
                 {
                   "key": "$REF",
-                  "value": ""
+                  "value": "ui_text_formatter"
+                },
+                {
+                  "key": "formatter",
+                  "value": 11220332
+                },
+                {
+                  "key": "formatter_arguments",
+                  "value": [
+                    {
+                      "key": "int_value",
+                      "value": 10
+                    }
+                  ]
                 }
               ]
             },

@@ -4,7 +4,127 @@
       "key": "map_gen_size",
       "value": [
         {
-          "key": "default_for_map_layouts",
+          "key": "default_terrain_smoothing",
+          "value": [
+            {
+              "key": "fractal_shift_amplitude",
+              "value": [
+                {
+                  "key": "standard_deviation",
+                  "value": 0.62
+                },
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\layout\\coarse_map_blur_param"
+                },
+                {
+                  "key": "normalization_exponent_for_gaussian_kernel",
+                  "value": 0.725
+                }
+              ]
+            },
+            {
+              "key": "fractal_shift_direction_bias",
+              "value": [
+                {
+                  "key": "standard_deviation",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\layout\\coarse_map_blur_param"
+                },
+                {
+                  "key": "normalization_exponent_for_gaussian_kernel",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "value": "map_gen\\map_gen_terrain_smoothing_params"
+            },
+            {
+              "key": "fractal_shift_variance",
+              "value": [
+                {
+                  "key": "standard_deviation",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\layout\\coarse_map_blur_param"
+                },
+                {
+                  "key": "normalization_exponent_for_gaussian_kernel",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "height_over_width",
+              "value": [
+                {
+                  "key": "standard_deviation",
+                  "value": 1.28
+                },
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\layout\\coarse_map_blur_param"
+                },
+                {
+                  "key": "normalization_exponent_for_gaussian_kernel",
+                  "value": 0.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "playable_dimensions",
+          "value": [
+            {
+              "key": "height",
+              "value": 384
+            },
+            {
+              "key": "width",
+              "value": 384
+            }
+          ]
+        },
+        {
+          "key": "max_players",
+          "value": -1
+        },
+        {
+          "key": "default_coarse_map_dimensions",
+          "value": [
+            {
+              "key": "height",
+              "value": 8
+            },
+            {
+              "key": "width",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "key": "total_dimensions",
+          "value": [
+            {
+              "key": "height",
+              "value": 512
+            },
+            {
+              "key": "width",
+              "value": 512
+            }
+          ]
+        },
+        {
+          "key": "default_resource_balancing",
           "value": [
             {
               "key": "solo_play_contested_area_start",
@@ -929,49 +1049,6 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "key": "playable_dimensions",
-          "value": [
-            {
-              "key": "height",
-              "value": 384
-            },
-            {
-              "key": "width",
-              "value": 384
-            }
-          ]
-        },
-        {
-          "key": "max_players",
-          "value": -1
-        },
-        {
-          "key": "default_coarse_map_dimensions",
-          "value": [
-            {
-              "key": "height",
-              "value": 8
-            },
-            {
-              "key": "width",
-              "value": 8
-            }
-          ]
-        },
-        {
-          "key": "total_dimensions",
-          "value": [
-            {
-              "key": "height",
-              "value": 512
-            },
-            {
-              "key": "width",
-              "value": 512
             }
           ]
         },

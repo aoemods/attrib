@@ -6,7 +6,7 @@
     },
     {
       "key": "_84",
-      "value": "scholars_in_madrasa"
+      "value": "scholars_working_sul"
     },
     {
       "key": "_54",
@@ -14,19 +14,19 @@
     },
     {
       "key": "_99",
-      "value": "UI_Duration"
+      "value": "upgrades_completed"
     },
     {
       "key": "_83",
-      "value": "scholar_mapping_timer_sul"
+      "value": "scholars_in_madrasa"
     },
     {
       "key": "_76",
-      "value": "relic_capacity"
+      "value": "relic_count"
     },
     {
       "key": "_78",
-      "value": "return_to_work_job"
+      "value": "saints_armour_buff_count_rus"
     },
     {
       "key": "_18",
@@ -54,11 +54,11 @@
     },
     {
       "key": "_82",
-      "value": "scholar_count_sul"
+      "value": "scholar_mapping_timer_sul"
     },
     {
       "key": "_97",
-      "value": "total_scholar_count_sul"
+      "value": "total_sheep_count_mon"
     },
     {
       "key": "_17",
@@ -78,7 +78,7 @@
     },
     {
       "key": "_90",
-      "value": "specialization_level_1_cost"
+      "value": "specialization_level_2_cost"
     },
     {
       "key": "_67",
@@ -98,7 +98,7 @@
     },
     {
       "key": "_89",
-      "value": "silk_road_requirement_tier_4_mon"
+      "value": "specialization_level_1_cost"
     },
     {
       "key": "_9",
@@ -110,7 +110,7 @@
     },
     {
       "key": "_72",
-      "value": "pickup_attachments_max_count"
+      "value": "player_max_age"
     },
     {
       "key": "_24",
@@ -122,11 +122,11 @@
     },
     {
       "key": "_87",
-      "value": "silk_road_requirement_tier_2_mon"
+      "value": "silk_road_requirement_tier_3_mon"
     },
     {
       "key": "_88",
-      "value": "silk_road_requirement_tier_3_mon"
+      "value": "silk_road_requirement_tier_4_mon"
     },
     {
       "key": "_64",
@@ -150,7 +150,7 @@
     },
     {
       "key": "_73",
-      "value": "player_max_age"
+      "value": "player_relic_count"
     },
     {
       "key": "_45",
@@ -166,7 +166,7 @@
     },
     {
       "key": "_94",
-      "value": "time_of_next_available_charge"
+      "value": "total_district_tiers"
     },
     {
       "key": "_11",
@@ -242,11 +242,11 @@
     },
     {
       "key": "_81",
-      "value": "scholar_availability_level_sul"
+      "value": "scholar_count_sul"
     },
     {
       "key": "_95",
-      "value": "total_district_tiers"
+      "value": "total_followers"
     },
     {
       "key": "_30",
@@ -257,12 +257,8 @@
       "value": "civ_trait_specialization_level"
     },
     {
-      "key": "_100",
-      "value": "upgrades_completed"
-    },
-    {
       "key": "_75",
-      "value": "population_cap_increase"
+      "value": "relic_capacity"
     },
     {
       "key": "_15",
@@ -270,19 +266,19 @@
     },
     {
       "key": "_96",
-      "value": "total_followers"
+      "value": "total_scholar_count_sul"
     },
     {
       "key": "_92",
-      "value": "specialization_level_3_cost"
+      "value": "time_of_last_charge"
     },
     {
       "key": "_70",
-      "value": "ovoo_count"
+      "value": "pickup_attachments_count"
     },
     {
       "key": "_98",
-      "value": "total_sheep_count_mon"
+      "value": "UI_Duration"
     },
     {
       "key": "_28",
@@ -294,15 +290,15 @@
     },
     {
       "key": "_80",
-      "value": "saints_blade_buff_count_rus"
+      "value": "scholar_availability_level_sul"
     },
     {
       "key": "_93",
-      "value": "time_of_last_charge"
+      "value": "time_of_next_available_charge"
     },
     {
       "key": "_91",
-      "value": "specialization_level_2_cost"
+      "value": "specialization_level_3_cost"
     },
     {
       "key": "_23",
@@ -310,7 +306,7 @@
     },
     {
       "key": "_86",
-      "value": "silk_road_requirement_tier_1_mon"
+      "value": "silk_road_requirement_tier_2_mon"
     },
     {
       "key": "_14",
@@ -334,7 +330,7 @@
     },
     {
       "key": "_77",
-      "value": "relic_count"
+      "value": "return_to_work_job"
     },
     {
       "key": "_12",
@@ -370,15 +366,15 @@
     },
     {
       "key": "_74",
-      "value": "player_relic_count"
+      "value": "population_cap_increase"
     },
     {
       "key": "_79",
-      "value": "saints_armour_buff_count_rus"
+      "value": "saints_blade_buff_count_rus"
     },
     {
       "key": "_71",
-      "value": "pickup_attachments_count"
+      "value": "pickup_attachments_max_count"
     },
     {
       "key": "_58",
@@ -398,7 +394,7 @@
     },
     {
       "key": "_85",
-      "value": "scholars_working_sul"
+      "value": "silk_road_requirement_tier_1_mon"
     },
     {
       "key": "_10",

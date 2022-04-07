@@ -900,6 +900,10 @@
             {
               "key": "screen_name",
               "value": 11178246
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

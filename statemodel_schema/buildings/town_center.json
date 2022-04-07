@@ -322,177 +322,7 @@
                 },
                 {
                   "key": "float_property_id",
-                  "value": "universal_heal_count"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 0
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "universal_buff_count"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 0
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "raid_bounty_stone_mon"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 200
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "raid_bounty_food_mon"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 100
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "raid_bounty_gold_mon"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 0
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "raid_bounty_wood_mon"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 1
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "repair_cost_wood"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 0
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "khan_raid_timer_mon"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 0
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "scuttle_timer"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 0
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "raid_value"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
-                  "value": 0
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "Tithed_Followers"
+                  "value": "Total_Followers"
                 }
               ]
             },
@@ -526,7 +356,7 @@
                 },
                 {
                   "key": "float_property_id",
-                  "value": "Total_Followers"
+                  "value": "Tithed_Followers"
                 }
               ]
             },
@@ -543,7 +373,24 @@
                 },
                 {
                   "key": "float_property_id",
-                  "value": "Relic_Count"
+                  "value": "raid_value"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "scuttle_timer"
                 }
               ]
             },
@@ -561,6 +408,142 @@
                 {
                   "key": "float_property_id",
                   "value": "total_resources_deposited"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "khan_raid_timer_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "raid_bounty_wood_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 100
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "raid_bounty_gold_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 200
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "raid_bounty_food_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "raid_bounty_stone_mon"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "universal_buff_count"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 0
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "universal_heal_count"
+                }
+              ]
+            },
+            {
+              "key": "statemodel_float_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": 1
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_float_property"
+                },
+                {
+                  "key": "float_property_id",
+                  "value": "repair_cost_wood"
                 }
               ]
             },
