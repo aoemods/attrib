@@ -302,6 +302,74 @@
                           "value": [
                             {
                               "key": "default",
+                              "value": 10
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "sacred_site_gold_generation_rate"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "religious_timer"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "idle_economy_pop"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "statemodel_float_property"
+                            },
+                            {
+                              "key": "float_property_id",
+                              "value": "technologies_researched"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "statemodel_float_property",
+                          "value": [
+                            {
+                              "key": "default",
                               "value": 5
                             },
                             {
@@ -625,7 +693,7 @@
                           "value": [
                             {
                               "key": "default",
-                              "value": 0
+                              "value": 1
                             },
                             {
                               "key": "$REF",
@@ -633,7 +701,7 @@
                             },
                             {
                               "key": "float_property_id",
-                              "value": "technologies_researched"
+                              "value": "sacred_site_gold_generation_multiplier"
                             }
                           ]
                         },
@@ -642,7 +710,7 @@
                           "value": [
                             {
                               "key": "default",
-                              "value": 0
+                              "value": 1.667
                             },
                             {
                               "key": "$REF",
@@ -650,7 +718,7 @@
                             },
                             {
                               "key": "float_property_id",
-                              "value": "idle_economy_pop"
+                              "value": "sacred_site_gold_income_per_second"
                             }
                           ]
                         }

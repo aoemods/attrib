@@ -566,7 +566,7 @@
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 15
+                      "value": 20
                     }
                   ]
                 }
@@ -718,7 +718,7 @@
         },
         {
           "key": "range",
-          "value": 20
+          "value": 30
         },
         {
           "key": "disable_combat",

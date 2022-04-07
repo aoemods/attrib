@@ -199,11 +199,11 @@
           "value": [
             {
               "key": "age_number",
-              "value": 1
+              "value": 3
             },
             {
               "key": "age_number",
-              "value": 2
+              "value": 3
             },
             {
               "key": "age_number",
@@ -471,6 +471,15 @@
               ]
             },
             {
+              "key": "add_patrol_point",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
               "key": "retreat",
               "value": [
                 {
@@ -627,7 +636,7 @@
       "value": [
         {
           "key": "browsable_in_editor",
-          "value": true
+          "value": false
         },
         {
           "key": "QueryTree_States",

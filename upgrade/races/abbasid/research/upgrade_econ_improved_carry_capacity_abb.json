@@ -84,6 +84,23 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 0.5
+                },
+                {
+                  "key": "id",
+                  "value": "multiplier"
+                }
+              ]
+            }
           ]
         },
         {
@@ -498,6 +515,10 @@
             {
               "key": "screen_name",
               "value": 11183509
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

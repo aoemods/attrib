@@ -255,6 +255,14 @@
             {
               "key": "unit_class",
               "value": "building"
+            },
+            {
+              "key": "unit_class",
+              "value": "castle"
+            },
+            {
+              "key": "unit_class",
+              "value": "town_center_capital"
             }
           ]
         },
@@ -418,6 +426,10 @@
                     {
                       "key": "unit_class",
                       "value": "town_center"
+                    },
+                    {
+                      "key": "unit_class",
+                      "value": "wonder"
                     }
                   ]
                 }

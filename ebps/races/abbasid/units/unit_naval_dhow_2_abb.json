@@ -887,19 +887,11 @@
           "value": [
             {
               "key": "unit_type",
-              "value": "small_ship"
-            },
-            {
-              "key": "unit_type",
               "value": "naval_unit"
             },
             {
               "key": "unit_type",
               "value": "siegeable"
-            },
-            {
-              "key": "unit_type",
-              "value": "medium_ship"
             },
             {
               "key": "unit_type",
@@ -924,6 +916,10 @@
             {
               "key": "unit_type",
               "value": "naval_war_galley"
+            },
+            {
+              "key": "unit_type",
+              "value": "small_ship"
             }
           ]
         },
@@ -1360,6 +1356,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -1438,6 +1438,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",
@@ -2055,11 +2059,11 @@
                             },
                             {
                               "key": "x",
-                              "value": -1
+                              "value": 0
                             },
                             {
                               "key": "z",
-                              "value": 0
+                              "value": 1
                             }
                           ]
                         }
@@ -2169,7 +2173,7 @@
             },
             {
               "key": "idle_targeting_range",
-              "value": 15
+              "value": 24
             },
             {
               "key": "idle_priority_per_distance_meter",

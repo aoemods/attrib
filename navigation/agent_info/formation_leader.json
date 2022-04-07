@@ -214,7 +214,7 @@
         },
         {
           "key": "use_direct_path",
-          "value": false
+          "value": true
         },
         {
           "key": "collision_radius_metres",

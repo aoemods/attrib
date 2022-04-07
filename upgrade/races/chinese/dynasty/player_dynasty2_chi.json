@@ -259,7 +259,7 @@
                 },
                 {
                   "key": "ActionTree_OpeningBranch",
-                  "value": "upgrade_entity_dynasty_3_chi\\villager_official_speed_modifier"
+                  "value": "upgrade_entity_dynasty_3_chi\\unit_speed_modifier"
                 },
                 {
                   "key": "$REF",
@@ -376,6 +376,10 @@
               ]
             },
             {
+              "key": "extra_text",
+              "value": 11149352
+            },
+            {
               "key": "sound",
               "value": "sfx_ui_produce_upgrade_building_click"
             },
@@ -433,6 +437,10 @@
             {
               "key": "screen_name",
               "value": 11149355
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },
@@ -523,6 +531,18 @@
                 {
                   "key": "unit_class",
                   "value": "official"
+                },
+                {
+                  "key": "unit_class",
+                  "value": "infantry"
+                },
+                {
+                  "key": "unit_class",
+                  "value": "cavalry"
+                },
+                {
+                  "key": "unit_class",
+                  "value": "naval_unit"
                 }
               ]
             }

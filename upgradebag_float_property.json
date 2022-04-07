@@ -1,84 +1,184 @@
 {
   "data": [
     {
+      "key": "_42",
+      "value": "weapon_range"
+    },
+    {
       "key": "_18",
-      "value": "single_cast_damage"
+      "value": "gather_rate_gold"
     },
     {
       "key": "_3",
-      "value": "damage"
-    },
-    {
-      "key": "_17",
-      "value": "siege_damage"
-    },
-    {
-      "key": "_4",
-      "value": "Debug"
-    },
-    {
-      "key": "_7",
-      "value": "full_modifier"
-    },
-    {
-      "key": "_9",
-      "value": "heal_rate"
-    },
-    {
-      "key": "_16",
-      "value": "ranged_damage"
-    },
-    {
-      "key": "_0",
       "value": "auto_cast_damage"
     },
     {
-      "key": "_8",
-      "value": "gather_rate_stone"
-    },
-    {
-      "key": "_13",
-      "value": "raid_bounty_food"
-    },
-    {
-      "key": "_19",
-      "value": "wing_build_time_abb"
-    },
-    {
-      "key": "_11",
-      "value": "melee_damage"
-    },
-    {
-      "key": "_2",
-      "value": "charge_damage"
-    },
-    {
-      "key": "_15",
-      "value": "raid_bounty_wood"
-    },
-    {
-      "key": "_14",
+      "key": "_36",
       "value": "raid_bounty_gold"
     },
     {
-      "key": "_12",
-      "value": "normal_modifier"
+      "key": "_17",
+      "value": "gather_rate_food"
     },
     {
-      "key": "_6",
-      "value": "duration"
-    },
-    {
-      "key": "_1",
+      "key": "_4",
       "value": "brace_damage"
     },
     {
-      "key": "_5",
+      "key": "_7",
+      "value": "cost_food"
+    },
+    {
+      "key": "_9",
+      "value": "cost_stone"
+    },
+    {
+      "key": "_16",
+      "value": "gather_rate_all"
+    },
+    {
+      "key": "_24",
+      "value": "idle_damage"
+    },
+    {
+      "key": "_0",
+      "value": "armor_fire"
+    },
+    {
+      "key": "_22",
+      "value": "heal_rate"
+    },
+    {
+      "key": "_8",
+      "value": "cost_gold"
+    },
+    {
+      "key": "_21",
+      "value": "heal_amount"
+    },
+    {
+      "key": "_13",
       "value": "dummy_damage"
     },
     {
+      "key": "_19",
+      "value": "gather_rate_stone"
+    },
+    {
+      "key": "_31",
+      "value": "move_speed"
+    },
+    {
+      "key": "_11",
+      "value": "damage"
+    },
+    {
+      "key": "_43",
+      "value": "weapon_reload"
+    },
+    {
+      "key": "_35",
+      "value": "raid_bounty_food"
+    },
+    {
+      "key": "_2",
+      "value": "armor_range"
+    },
+    {
+      "key": "_20",
+      "value": "gather_rate_wood"
+    },
+    {
+      "key": "_41",
+      "value": "single_cast_damage"
+    },
+    {
+      "key": "_37",
+      "value": "raid_bounty_wood"
+    },
+    {
+      "key": "_34",
+      "value": "radius"
+    },
+    {
+      "key": "_29",
+      "value": "mongols_improved_range_full"
+    },
+    {
+      "key": "_38",
+      "value": "ranged_damage"
+    },
+    {
+      "key": "_30",
+      "value": "mongols_improved_range_partial"
+    },
+    {
+      "key": "_27",
+      "value": "mongols_improved_full"
+    },
+    {
+      "key": "_15",
+      "value": "full_modifier"
+    },
+    {
+      "key": "_28",
+      "value": "mongols_improved_partial"
+    },
+    {
+      "key": "_23",
+      "value": "health_max"
+    },
+    {
+      "key": "_14",
+      "value": "duration"
+    },
+    {
+      "key": "_25",
+      "value": "interval"
+    },
+    {
+      "key": "_39",
+      "value": "siege_damage"
+    },
+    {
+      "key": "_12",
+      "value": "Debug"
+    },
+    {
+      "key": "_6",
+      "value": "charge_damage"
+    },
+    {
+      "key": "_1",
+      "value": "armor_melee"
+    },
+    {
+      "key": "_32",
+      "value": "multiplier"
+    },
+    {
+      "key": "_44",
+      "value": "wing_build_time_abb"
+    },
+    {
+      "key": "_40",
+      "value": "sight_radius"
+    },
+    {
+      "key": "_33",
+      "value": "normal_modifier"
+    },
+    {
+      "key": "_5",
+      "value": "carry_capacity"
+    },
+    {
+      "key": "_26",
+      "value": "melee_damage"
+    },
+    {
       "key": "_10",
-      "value": "idle_damage"
+      "value": "cost_wood"
     }
   ]
 }

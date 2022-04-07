@@ -29,6 +29,10 @@
           "value": "attrib\\ebps\\races\\rus"
         },
         {
+          "key": "tile",
+          "value": ""
+        },
+        {
           "key": "icon",
           "value": "civ_flags\\civ_icon_medium_chinese"
         },
@@ -124,6 +128,10 @@
         {
           "key": "color",
           "value": -2005915342
+        },
+        {
+          "key": "pattern",
+          "value": ""
         },
         {
           "key": "default_army",

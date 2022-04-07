@@ -207,10 +207,6 @@
           "value": false
         },
         {
-          "key": "lock_to_impass",
-          "value": false
-        },
-        {
           "key": "extra_build_test_footprint_z",
           "value": 0
         },
@@ -238,6 +234,10 @@
               "value": 0
             }
           ]
+        },
+        {
+          "key": "snap_to_construction_grid",
+          "value": false
         },
         {
           "key": "minimum_build_test_footprint_x",
@@ -893,6 +893,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -971,6 +975,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",

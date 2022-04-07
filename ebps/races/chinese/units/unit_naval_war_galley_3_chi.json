@@ -76,7 +76,7 @@
         },
         {
           "key": "personnel_pop",
-          "value": 4
+          "value": 2
         }
       ]
     },
@@ -1356,6 +1356,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -1434,6 +1438,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",
@@ -2112,400 +2120,6 @@
                   "value": ""
                 }
               ]
-            },
-            {
-              "key": "hardpoint",
-              "value": [
-                {
-                  "key": "initialize_weapons_on_creation",
-                  "value": true
-                },
-                {
-                  "key": "firing_offset_markers",
-                  "value": [
-                  ]
-                },
-                {
-                  "key": "weapon_table",
-                  "value": [
-                    {
-                      "key": "weapon",
-                      "value": [
-                        {
-                          "key": "possible_blueprint_updates",
-                          "value": [
-                          ]
-                        },
-                        {
-                          "key": "length",
-                          "value": 2
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "options\\attachment_types\\entity_create_attachment"
-                        },
-                        {
-                          "key": "non_entity_weapon_wrapper",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": ""
-                            }
-                          ]
-                        },
-                        {
-                          "key": "entity_attach_data",
-                          "value": [
-                            {
-                              "key": "attachment_flags",
-                              "value": [
-                                {
-                                  "key": "assign_as_attachment_movement_leader",
-                                  "value": false
-                                },
-                                {
-                                  "key": "receive_parent_animations",
-                                  "value": false
-                                },
-                                {
-                                  "key": "sim_only",
-                                  "value": false
-                                },
-                                {
-                                  "key": "assign_as_attachment_combat_leader",
-                                  "value": false
-                                },
-                                {
-                                  "key": "restore_snap_to_ground_on_detach",
-                                  "value": false
-                                },
-                                {
-                                  "key": "join_parent_squad",
-                                  "value": false
-                                },
-                                {
-                                  "key": "redirect_damage_to_parent_entity",
-                                  "value": true
-                                },
-                                {
-                                  "key": "receive_parent_death",
-                                  "value": false
-                                },
-                                {
-                                  "key": "no_sim_update",
-                                  "value": false
-                                },
-                                {
-                                  "key": "not_snappable",
-                                  "value": false
-                                },
-                                {
-                                  "key": "no_pathfinding",
-                                  "value": false
-                                }
-                              ]
-                            },
-                            {
-                              "key": "attach_data",
-                              "value": [
-                                {
-                                  "key": "parent_rigidbody_target_name",
-                                  "value": ""
-                                },
-                                {
-                                  "key": "game_object_attachment_type",
-                                  "value": 0
-                                },
-                                {
-                                  "key": "$REF",
-                                  "value": "attachments\\attach_data"
-                                },
-                                {
-                                  "key": "marker_name_parent",
-                                  "value": "mrk_weapon_bow"
-                                }
-                              ]
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "attachments\\attach_data_entity"
-                            },
-                            {
-                              "key": "ebp",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": "wpn_range_naval_arrow_ship_arrow_chi"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "ebps"
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "origin",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 1.4
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 2.8
-                            }
-                          ]
-                        },
-                        {
-                          "key": "type",
-                          "value": "default"
-                        },
-                        {
-                          "key": "heading",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "base_marker",
-                  "value": ""
-                },
-                {
-                  "key": "receives_attack_commands",
-                  "value": false
-                },
-                {
-                  "key": "preferred_inventory_item_categories",
-                  "value": [
-                  ]
-                },
-                {
-                  "key": "parent_hardpoint",
-                  "value": -1
-                },
-                {
-                  "key": "offhand_marker",
-                  "value": ""
-                }
-              ]
-            },
-            {
-              "key": "hardpoint",
-              "value": [
-                {
-                  "key": "initialize_weapons_on_creation",
-                  "value": false
-                },
-                {
-                  "key": "firing_offset_markers",
-                  "value": [
-                  ]
-                },
-                {
-                  "key": "weapon_table",
-                  "value": [
-                    {
-                      "key": "weapon",
-                      "value": [
-                        {
-                          "key": "possible_blueprint_updates",
-                          "value": [
-                          ]
-                        },
-                        {
-                          "key": "length",
-                          "value": 2
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "options\\attachment_types\\entity_create_attachment"
-                        },
-                        {
-                          "key": "non_entity_weapon_wrapper",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": ""
-                            }
-                          ]
-                        },
-                        {
-                          "key": "entity_attach_data",
-                          "value": [
-                            {
-                              "key": "attachment_flags",
-                              "value": [
-                                {
-                                  "key": "assign_as_attachment_movement_leader",
-                                  "value": false
-                                },
-                                {
-                                  "key": "receive_parent_animations",
-                                  "value": false
-                                },
-                                {
-                                  "key": "sim_only",
-                                  "value": false
-                                },
-                                {
-                                  "key": "assign_as_attachment_combat_leader",
-                                  "value": false
-                                },
-                                {
-                                  "key": "restore_snap_to_ground_on_detach",
-                                  "value": false
-                                },
-                                {
-                                  "key": "join_parent_squad",
-                                  "value": false
-                                },
-                                {
-                                  "key": "redirect_damage_to_parent_entity",
-                                  "value": true
-                                },
-                                {
-                                  "key": "receive_parent_death",
-                                  "value": false
-                                },
-                                {
-                                  "key": "no_sim_update",
-                                  "value": false
-                                },
-                                {
-                                  "key": "not_snappable",
-                                  "value": false
-                                },
-                                {
-                                  "key": "no_pathfinding",
-                                  "value": false
-                                }
-                              ]
-                            },
-                            {
-                              "key": "attach_data",
-                              "value": [
-                                {
-                                  "key": "parent_rigidbody_target_name",
-                                  "value": ""
-                                },
-                                {
-                                  "key": "game_object_attachment_type",
-                                  "value": 0
-                                },
-                                {
-                                  "key": "$REF",
-                                  "value": "attachments\\attach_data"
-                                },
-                                {
-                                  "key": "marker_name_parent",
-                                  "value": "mrk_weapon_bow"
-                                }
-                              ]
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "attachments\\attach_data_entity"
-                            },
-                            {
-                              "key": "ebp",
-                              "value": [
-                                {
-                                  "key": "$PBGNAME",
-                                  "value": "wpn_range_naval_arrow_ship_arrow_chi"
-                                },
-                                {
-                                  "key": "$PBGMAP",
-                                  "value": "ebps"
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "origin",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 3
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 2.8
-                            }
-                          ]
-                        },
-                        {
-                          "key": "type",
-                          "value": "default"
-                        },
-                        {
-                          "key": "heading",
-                          "value": [
-                            {
-                              "key": "y",
-                              "value": 0
-                            },
-                            {
-                              "key": "x",
-                              "value": 0
-                            },
-                            {
-                              "key": "z",
-                              "value": 1
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "key": "base_marker",
-                  "value": ""
-                },
-                {
-                  "key": "receives_attack_commands",
-                  "value": false
-                },
-                {
-                  "key": "preferred_inventory_item_categories",
-                  "value": [
-                  ]
-                },
-                {
-                  "key": "parent_hardpoint",
-                  "value": -1
-                },
-                {
-                  "key": "offhand_marker",
-                  "value": ""
-                }
-              ]
             }
           ]
         },
@@ -2586,7 +2200,7 @@
             },
             {
               "key": "idle_targeting_range",
-              "value": 50
+              "value": 24
             },
             {
               "key": "idle_priority_per_distance_meter",

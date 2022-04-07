@@ -91,10 +91,6 @@
           "value": false
         },
         {
-          "key": "lock_to_impass",
-          "value": false
-        },
-        {
           "key": "extra_build_test_footprint_z",
           "value": 0
         },
@@ -124,6 +120,10 @@
           ]
         },
         {
+          "key": "snap_to_construction_grid",
+          "value": false
+        },
+        {
           "key": "minimum_build_test_footprint_x",
           "value": 0
         },
@@ -150,6 +150,111 @@
               "key": "surface_type",
               "value": 0
             }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "type_ext",
+      "value": [
+        {
+          "key": "intersection_testing",
+          "value": false
+        },
+        {
+          "key": "weapon_targeting",
+          "value": "no_targeting"
+        },
+        {
+          "key": "unit_type_list_selection_keybind_only",
+          "value": [
+          ]
+        },
+        {
+          "key": "weapon_category_targeting_filter",
+          "value": [
+            {
+              "key": "8dummy",
+              "value": false
+            },
+            {
+              "key": "4charge",
+              "value": false
+            },
+            {
+              "key": "9idle",
+              "value": false
+            },
+            {
+              "key": "1melee",
+              "value": false
+            },
+            {
+              "key": "3siege",
+              "value": false
+            },
+            {
+              "key": "5brace",
+              "value": false
+            },
+            {
+              "key": "7single_cast_ability",
+              "value": false
+            },
+            {
+              "key": "6auto_ability_cast",
+              "value": false
+            },
+            {
+              "key": "2ranged",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "attack_target_restriction_on_victim",
+          "value": [
+          ]
+        },
+        {
+          "key": "$REF",
+          "value": "ebpextensions\\type_ext"
+        },
+        {
+          "key": "unit_type_list",
+          "value": [
+            {
+              "key": "unit_type",
+              "value": "bridge"
+            }
+          ]
+        },
+        {
+          "key": "race_type_list",
+          "value": [
+            {
+              "key": "race_type",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "attack_target_restriction_on_attacker",
+          "value": [
+          ]
+        },
+        {
+          "key": "unit_type_list_ui_appear_as_only",
+          "value": [
           ]
         }
       ]
@@ -307,7 +412,7 @@
         },
         {
           "key": "selection_scale",
-          "value": 0.5
+          "value": 1
         },
         {
           "key": "extra_text_world_formatter",
@@ -396,6 +501,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -478,6 +587,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",
@@ -800,11 +913,11 @@
       "value": [
         {
           "key": "$PBGNAME",
-          "value": ""
+          "value": "bridge_core_stone"
         },
         {
           "key": "$PBGMAP",
-          "value": ""
+          "value": "ebps"
         }
       ]
     }

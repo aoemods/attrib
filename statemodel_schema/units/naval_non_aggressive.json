@@ -327,6 +327,23 @@
                   "value": "siege_is_setup"
                 }
               ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "lodya_apply_upgrades_rus"
+                }
+              ]
             }
           ]
         }

@@ -277,7 +277,20 @@
                 },
                 {
                   "key": "value",
-                  "value": true
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_melee_allow_attack_move"
+                },
+                {
+                  "key": "value",
+                  "value": false
                 }
               ]
             }
@@ -399,7 +412,7 @@
                 },
                 {
                   "key": "value",
-                  "value": 30
+                  "value": 40
                 }
               ]
             },
@@ -412,7 +425,7 @@
                 },
                 {
                   "key": "value",
-                  "value": 40
+                  "value": 50
                 }
               ]
             },

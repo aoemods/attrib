@@ -5,7 +5,7 @@
       "value": [
         {
           "key": "name",
-          "value": "Archer Incendiary Siege"
+          "value": "Camel Archer Incendiary Siege"
         },
         {
           "key": "weapon_class",
@@ -414,11 +414,11 @@
             },
             {
               "key": "max",
-              "value": 14
+              "value": 15
             },
             {
               "key": "min",
-              "value": 14
+              "value": 15
             },
             {
               "key": "on_penetrated_state_trees",
@@ -829,7 +829,7 @@
             },
             {
               "key": "fire_cone_angle",
-              "value": 10
+              "value": 360
             },
             {
               "key": "pivot_end_time",
@@ -953,7 +953,7 @@
         },
         {
           "key": "ui_name",
-          "value": 11164734
+          "value": 11164739
         },
         {
           "key": "fire",
@@ -1255,7 +1255,7 @@
             },
             {
               "key": "angle_scatter",
-              "value": 4
+              "value": 3
             },
             {
               "key": "movement_scatter_angle_multiplier",
@@ -1320,7 +1320,7 @@
             },
             {
               "key": "distance_scatter_max",
-              "value": 4
+              "value": 3
             }
           ]
         },
@@ -1657,7 +1657,7 @@
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 14
+                  "value": 15
                 }
               ]
             }
@@ -1678,11 +1678,11 @@
       "value": [
         {
           "key": "$PBGNAME",
-          "value": ""
+          "value": "weapon_camel_archer_4_abb"
         },
         {
           "key": "$PBGMAP",
-          "value": ""
+          "value": "weapon"
         }
       ]
     }

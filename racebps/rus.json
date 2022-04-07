@@ -33,6 +33,10 @@
           "value": "attrib\\ebps\\races\\rus"
         },
         {
+          "key": "tile",
+          "value": "backgrounds\\civ\\civ_tile_rus"
+        },
+        {
           "key": "icon",
           "value": "civ_flags\\civ_icon_medium_rus"
         },
@@ -128,6 +132,10 @@
         {
           "key": "color",
           "value": -2005915342
+        },
+        {
+          "key": "pattern",
+          "value": "backgrounds\\civ\\civ_pattern_rus"
         },
         {
           "key": "default_army",

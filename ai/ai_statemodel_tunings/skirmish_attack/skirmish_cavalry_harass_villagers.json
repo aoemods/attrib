@@ -280,6 +280,19 @@
                   "value": false
                 }
               ]
+            },
+            {
+              "key": "value_tuning",
+              "value": [
+                {
+                  "key": "key",
+                  "value": "ai_phase_encounter_melee_allow_attack_move"
+                },
+                {
+                  "key": "value",
+                  "value": true
+                }
+              ]
             }
           ]
         },
@@ -328,7 +341,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "ai_formation_coordinator_harass"
+                          "value": "ai_formation_coordinator_harass_enroute"
                         },
                         {
                           "key": "$PBGMAP",

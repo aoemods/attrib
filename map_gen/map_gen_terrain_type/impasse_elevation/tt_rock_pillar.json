@@ -29,6 +29,10 @@
           ]
         },
         {
+          "key": "lake_extended_radius_meters",
+          "value": 0
+        },
+        {
           "key": "min_cliff_height",
           "value": 1
         },

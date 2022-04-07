@@ -88,6 +88,40 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 0.75
+                },
+                {
+                  "key": "id",
+                  "value": "cost_wood"
+                }
+              ]
+            },
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 0.75
+                },
+                {
+                  "key": "id",
+                  "value": "cost_gold"
+                }
+              ]
+            }
           ]
         },
         {
@@ -469,6 +503,10 @@
             {
               "key": "screen_name",
               "value": 11192901
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

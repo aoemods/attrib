@@ -9497,6 +9497,19 @@
                           "value": "upgrade"
                         }
                       ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_villager_health_improved_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
                     }
                   ]
                 },
@@ -11101,6 +11114,19 @@
                           "value": "upgrade"
                         }
                       ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_agriculture_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
                     }
                   ]
                 },
@@ -11142,6 +11168,19 @@
                         {
                           "key": "$PBGNAME",
                           "value": "upgrade_econ_resource_wood_fell_rate_1_improved_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_scout_forester"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11258,7 +11297,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_scout_forester"
+                          "value": "upgrade_farm_improved_enclosures_eng"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11271,7 +11310,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_farm_improved_enclosures_eng"
+                          "value": "upgrade_trade_trader_armor_abb"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11388,7 +11427,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_trade_trader_armor_abb"
+                          "value": "upgrade_raid_stone_bounty_improved_mon"
                         },
                         {
                           "key": "$PBGMAP",
@@ -11401,7 +11440,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_raid_stone_bounty_improved_mon"
+                          "value": "upgrade_econ_improved_processing_abb"
                         },
                         {
                           "key": "$PBGMAP",
@@ -12295,6 +12334,45 @@
                         {
                           "key": "$PBGNAME",
                           "value": "upgrade_khan_signal_arrow_improved_mon"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_cul_conversion_invuln_abb"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_landmark_force_march_sul"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_streltsy_double_time_rus"
                         },
                         {
                           "key": "$PBGMAP",
@@ -15327,7 +15405,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_cul_conversion_invuln_abb"
+                          "value": "upgrade_siege_works"
                         },
                         {
                           "key": "$PBGMAP",
@@ -15353,7 +15431,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_streltsy_weapon_percision_rus"
+                          "value": "upgrade_gunpowder_damage_chi"
                         },
                         {
                           "key": "$PBGMAP",
@@ -15470,7 +15548,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_siege_improvements_rus"
+                          "value": "upgrade_streltsy_weapon_percision_rus"
                         },
                         {
                           "key": "$PBGMAP",
@@ -15483,7 +15561,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_siege_fined_tuned_guns_rus"
+                          "value": "upgrade_siege_improvements_rus"
                         },
                         {
                           "key": "$PBGMAP",
@@ -15600,33 +15678,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_gunpowder_damage_chi"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_siege_works"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_siege_chemistry"
+                          "value": "upgrade_siege_fined_tuned_guns_rus"
                         },
                         {
                           "key": "$PBGMAP",
@@ -15640,6 +15692,19 @@
                         {
                           "key": "$PBGNAME",
                           "value": "upgrade_siege_weapon_speed"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_siege_roller_trigger"
                         },
                         {
                           "key": "$PBGMAP",
@@ -16198,7 +16263,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_siege_roller_trigger"
+                          "value": "upgrade_siege_chemistry"
                         },
                         {
                           "key": "$PBGMAP",
@@ -17163,32 +17228,6 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_econ_improved_processing_abb"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "upgrade_econ_agriculture_abb"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
                           "value": "upgrade_unit_wheelbarrow_1_improved_mon"
                         },
                         {
@@ -17280,19 +17319,6 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_econ_extended_lines"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "upgrade"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "member",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
                           "value": "upgrade_econ_resource_gold_harvest_rate_4_improved_mon"
                         },
                         {
@@ -17306,7 +17332,20 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_econ_resource_gold_harvest_rate_2_improved_mon"
+                          "value": "upgrade_econ_extended_lines"
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "value": "upgrade"
+                        }
+                      ]
+                    },
+                    {
+                      "key": "member",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "value": "upgrade_econ_resource_gold_harvest_rate_3_improved_mon"
                         },
                         {
                           "key": "$PBGMAP",
@@ -17475,7 +17514,7 @@
                       "value": [
                         {
                           "key": "$PBGNAME",
-                          "value": "upgrade_econ_resource_gold_harvest_rate_3_improved_mon"
+                          "value": "upgrade_econ_resource_gold_harvest_rate_2_improved_mon"
                         },
                         {
                           "key": "$PBGMAP",
@@ -19085,7 +19124,7 @@
                 },
                 {
                   "key": "base_scale",
-                  "value": 800
+                  "value": 1000
                 },
                 {
                   "key": "$REF",

@@ -20,12 +20,33 @@
           "value": 0
         },
         {
+          "key": "water_tile_blur_radius",
+          "value": 5
+        },
+        {
+          "key": "water_tile_blend",
+          "value": 0.5
+        },
+        {
           "key": "ground_tile_scale_U",
           "value": 1.5
         },
         {
           "key": "grass_type",
           "value": "grass_tall_stealth_winter_a"
+        },
+        {
+          "key": "water_tile",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "value": ""
+            }
+          ]
         },
         {
           "key": "grass_type_low_spec",

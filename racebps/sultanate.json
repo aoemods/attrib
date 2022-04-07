@@ -33,6 +33,10 @@
           "value": "attrib\\ebps\\races\\sultanate"
         },
         {
+          "key": "tile",
+          "value": "backgrounds\\civ\\civ_tile_sultanate"
+        },
+        {
           "key": "icon",
           "value": "civ_flags\\civ_icon_medium_sultinates"
         },
@@ -128,6 +132,10 @@
         {
           "key": "color",
           "value": -2009833155
+        },
+        {
+          "key": "pattern",
+          "value": "backgrounds\\civ\\civ_pattern_sultanate"
         },
         {
           "key": "default_army",

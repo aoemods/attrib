@@ -217,6 +217,19 @@
                   "value": "abilities"
                 }
               ]
+            },
+            {
+              "key": "ability",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "inspired_infantry_hre"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "abilities"
+                }
+              ]
             }
           ]
         },
@@ -346,6 +359,15 @@
             },
             {
               "key": "hold_position",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "add_patrol_point",
               "value": [
                 {
                   "key": "available",

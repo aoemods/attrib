@@ -5,7 +5,7 @@
       "value": [
         {
           "key": "name",
-          "value": "Archer Incendiary Siege"
+          "value": "Camel Archer Incendiary Siege"
         },
         {
           "key": "weapon_class",
@@ -414,11 +414,11 @@
             },
             {
               "key": "max",
-              "value": 10
+              "value": 12
             },
             {
               "key": "min",
-              "value": 10
+              "value": 12
             },
             {
               "key": "on_penetrated_state_trees",
@@ -1657,7 +1657,7 @@
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 10
+                  "value": 12
                 }
               ]
             }
@@ -1678,11 +1678,11 @@
       "value": [
         {
           "key": "$PBGNAME",
-          "value": ""
+          "value": "weapon_camel_archer_2_abb"
         },
         {
           "key": "$PBGMAP",
-          "value": ""
+          "value": "weapon"
         }
       ]
     }

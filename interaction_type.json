@@ -2,23 +2,27 @@
   "data": [
     {
       "key": "_3",
-      "value": "heal"
+      "value": "food_generation"
+    },
+    {
+      "key": "_17",
+      "value": "trade_cart_escape_fre"
     },
     {
       "key": "_4",
-      "value": "inspire_hre"
+      "value": "heal"
     },
     {
       "key": "_7",
-      "value": "resource_drop_off"
+      "value": "repair"
     },
     {
       "key": "_9",
-      "value": "resource_gather"
+      "value": "resource_fell"
     },
     {
       "key": "_16",
-      "value": "trade_cart_escape_fre"
+      "value": "trade"
     },
     {
       "key": "_0",
@@ -26,35 +30,35 @@
     },
     {
       "key": "_8",
-      "value": "resource_fell"
+      "value": "resource_drop_off"
     },
     {
       "key": "_13",
-      "value": "resource_worked"
-    },
-    {
-      "key": "_11",
-      "value": "resource_till"
-    },
-    {
-      "key": "_2",
-      "value": "food_generation"
-    },
-    {
-      "key": "_15",
-      "value": "trade"
-    },
-    {
-      "key": "_14",
-      "value": "seek_shelter_destination"
-    },
-    {
-      "key": "_12",
       "value": "resource_wait_to_drop_off"
     },
     {
+      "key": "_11",
+      "value": "resource_go_to_wait"
+    },
+    {
+      "key": "_2",
+      "value": "deposit_relic"
+    },
+    {
+      "key": "_15",
+      "value": "seek_shelter_destination"
+    },
+    {
+      "key": "_14",
+      "value": "resource_worked"
+    },
+    {
+      "key": "_12",
+      "value": "resource_till"
+    },
+    {
       "key": "_6",
-      "value": "repair"
+      "value": "official_building_reserved_chi"
     },
     {
       "key": "_1",
@@ -62,11 +66,11 @@
     },
     {
       "key": "_5",
-      "value": "official_building_reserved_chi"
+      "value": "inspire_hre"
     },
     {
       "key": "_10",
-      "value": "resource_go_to_wait"
+      "value": "resource_gather"
     }
   ]
 }

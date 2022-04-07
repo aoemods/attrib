@@ -444,6 +444,15 @@
               ]
             },
             {
+              "key": "add_patrol_point",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
               "key": "retreat",
               "value": [
                 {

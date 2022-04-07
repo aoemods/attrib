@@ -367,6 +367,15 @@
               ]
             },
             {
+              "key": "add_patrol_point",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
               "key": "retreat",
               "value": [
                 {
@@ -523,7 +532,7 @@
       "value": [
         {
           "key": "browsable_in_editor",
-          "value": true
+          "value": false
         },
         {
           "key": "QueryTree_States",
@@ -1473,10 +1482,6 @@
                       "value": "intersection"
                     },
                     {
-                      "key": "help_text",
-                      "value": 11197577
-                    },
-                    {
                       "key": "extra_icon",
                       "value": ""
                     },
@@ -1505,7 +1510,20 @@
                       "value": [
                         {
                           "key": "$REF",
-                          "value": ""
+                          "value": "ui_text_formatter"
+                        },
+                        {
+                          "key": "formatter",
+                          "value": 11220956
+                        },
+                        {
+                          "key": "formatter_arguments",
+                          "value": [
+                            {
+                              "key": "int_value",
+                              "value": 5
+                            }
+                          ]
                         }
                       ]
                     },

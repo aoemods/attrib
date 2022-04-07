@@ -33,6 +33,10 @@
           "value": "attrib\\ebps\\races\\abbasid"
         },
         {
+          "key": "tile",
+          "value": "backgrounds\\civ\\civ_tile_abbasid"
+        },
+        {
           "key": "icon",
           "value": "civ_flags\\civ_icon_medium_abbasid"
         },
@@ -128,6 +132,10 @@
         {
           "key": "color",
           "value": -2009833155
+        },
+        {
+          "key": "pattern",
+          "value": "backgrounds\\civ\\civ_pattern_abbasid"
         },
         {
           "key": "default_army",

@@ -207,10 +207,6 @@
           "value": true
         },
         {
-          "key": "lock_to_impass",
-          "value": true
-        },
-        {
           "key": "extra_build_test_footprint_z",
           "value": 0
         },
@@ -238,6 +234,10 @@
               "value": 0
             }
           ]
+        },
+        {
+          "key": "snap_to_construction_grid",
+          "value": false
         },
         {
           "key": "minimum_build_test_footprint_x",

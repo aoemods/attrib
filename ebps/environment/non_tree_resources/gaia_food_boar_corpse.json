@@ -357,10 +357,6 @@
           "value": false
         },
         {
-          "key": "lock_to_impass",
-          "value": true
-        },
-        {
           "key": "extra_build_test_footprint_z",
           "value": 0
         },
@@ -388,6 +384,10 @@
               "value": 0
             }
           ]
+        },
+        {
+          "key": "snap_to_construction_grid",
+          "value": false
         },
         {
           "key": "minimum_build_test_footprint_x",
@@ -786,7 +786,7 @@
         },
         {
           "key": "selection_scale",
-          "value": 1
+          "value": 3
         },
         {
           "key": "extra_text_world_formatter",
@@ -864,7 +864,7 @@
         },
         {
           "key": "selection_method",
-          "value": "mesh"
+          "value": "obb_size"
         },
         {
           "key": "kicker_offset_world",
@@ -877,6 +877,10 @@
         {
           "key": "kicker_offset",
           "value": 0
+        },
+        {
+          "key": "tooltip_data_template",
+          "value": ""
         },
         {
           "key": "selection_secondary_bounds_scale",
@@ -963,6 +967,10 @@
           "value": true
         },
         {
+          "key": "global_unit_control_row",
+          "value": -1
+        },
+        {
           "key": "skin_winter",
           "value": ""
         },
@@ -1033,15 +1041,15 @@
           "value": [
             {
               "key": "y",
-              "value": 1
+              "value": 3
             },
             {
               "key": "x",
-              "value": 1
+              "value": 3
             },
             {
               "key": "z",
-              "value": 1
+              "value": 3
             }
           ]
         },

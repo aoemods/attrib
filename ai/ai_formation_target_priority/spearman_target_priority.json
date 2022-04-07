@@ -81,7 +81,7 @@
                             },
                             {
                               "key": "score",
-                              "value": 2
+                              "value": 5
                             }
                           ]
                         },
@@ -95,6 +95,19 @@
                             {
                               "key": "score",
                               "value": 8
+                            }
+                          ]
+                        },
+                        {
+                          "key": "unit_type_score",
+                          "value": [
+                            {
+                              "key": "unit_type",
+                              "value": "mobile_building"
+                            },
+                            {
+                              "key": "score",
+                              "value": 4
                             }
                           ]
                         }

@@ -203,7 +203,7 @@
             },
             {
               "key": "age_number",
-              "value": 2
+              "value": 3
             },
             {
               "key": "age_number",
@@ -476,6 +476,15 @@
             },
             {
               "key": "hold_position",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "add_patrol_point",
               "value": [
                 {
                   "key": "available",

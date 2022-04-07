@@ -375,12 +375,20 @@
           "key": "modifiers",
           "value": [
             {
+              "key": "trade_rate_adjustment_on_buy",
+              "value": "trade_rate_adjustment_on_buy_modifier"
+            },
+            {
               "key": "max_trade_charges_per_player_modifier",
               "value": "max_trade_charges_per_player_modifier"
             },
             {
               "key": "max_trade_charges_per_settlement",
               "value": "max_trade_charges_per_settlement_modifier"
+            },
+            {
+              "key": "trade_rate_adjustment_on_sell",
+              "value": "trade_rate_adjustment_on_sell_modifier"
             },
             {
               "key": "trade_cooldown_modifier",

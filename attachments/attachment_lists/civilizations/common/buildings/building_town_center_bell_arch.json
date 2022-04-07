@@ -2355,6 +2355,294 @@
                   "value": ""
                 }
               ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "bell_arch_slot"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "season_01_gold_kite"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "mrk_monument"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\props\\monument_seasonal_kite_gold\\monument_seasonal_kite_gold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "bell_arch_slot"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "season_01_platinum_kite"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "mrk_monument"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\props\\monument_seasonal_kite_platinum\\monument_seasonal_kite_platinum"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "bell_arch_slot"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "season_01_diamond_kite"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "mrk_monument"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\props\\monument_seasonal_kite_diamond\\monument_seasonal_kite_diamond"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "bell_arch_slot"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "season_01_conqueror_kite"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "mrk_monument"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\props\\monument_seasonal_kite_conqueror\\monument_seasonal_kite_conqueror"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
             }
           ]
         }

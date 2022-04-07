@@ -86,11 +86,11 @@
                           "value": [
                             {
                               "key": "ui_position_column",
-                              "value": 2
+                              "value": 1
                             },
                             {
                               "key": "ui_position_row",
-                              "value": 1
+                              "value": 2
                             }
                           ]
                         },
@@ -463,6 +463,15 @@
             },
             {
               "key": "hold_position",
+              "value": [
+                {
+                  "key": "available",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "key": "add_patrol_point",
               "value": [
                 {
                   "key": "available",

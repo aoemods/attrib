@@ -88,6 +88,23 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 0.05
+                },
+                {
+                  "key": "id",
+                  "value": "multiplier"
+                }
+              ]
+            }
           ]
         },
         {
@@ -469,6 +486,10 @@
             {
               "key": "screen_name",
               "value": 11192949
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },
@@ -477,7 +498,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 60
+              "value": 90
             },
             {
               "key": "cost",
@@ -492,7 +513,7 @@
                 },
                 {
                   "key": "gold",
-                  "value": 350
+                  "value": 500
                 },
                 {
                   "key": "militia_hre",
@@ -512,7 +533,7 @@
                 },
                 {
                   "key": "wood",
-                  "value": 150
+                  "value": 200
                 }
               ]
             }

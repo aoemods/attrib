@@ -684,7 +684,7 @@
         },
         {
           "key": "can_queue_passive_ability",
-          "value": false
+          "value": true
         },
         {
           "key": "range",

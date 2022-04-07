@@ -1341,6 +1341,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -1419,6 +1423,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",
@@ -2456,7 +2464,7 @@
         },
         {
           "key": "default_animation",
-          "value": ""
+          "value": "setup\\idle_teardown"
         },
         {
           "key": "entity_statetree_sort_tag",

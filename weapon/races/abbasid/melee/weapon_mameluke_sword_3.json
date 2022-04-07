@@ -414,11 +414,11 @@
             },
             {
               "key": "max",
-              "value": 9
+              "value": 14
             },
             {
               "key": "min",
-              "value": 9
+              "value": 14
             },
             {
               "key": "on_penetrated_state_trees",
@@ -1661,7 +1661,7 @@
                 },
                 {
                   "key": "base_damage_modifier",
-                  "value": 18
+                  "value": 14
                 }
               ]
             }

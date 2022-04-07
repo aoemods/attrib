@@ -414,11 +414,11 @@
             },
             {
               "key": "max",
-              "value": 4
+              "value": 2
             },
             {
               "key": "min",
-              "value": 4
+              "value": 2
             },
             {
               "key": "on_penetrated_state_trees",
@@ -865,11 +865,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 3
+                  "value": 1.5
                 },
                 {
                   "key": "min",
-                  "value": 3
+                  "value": 1.5
                 }
               ]
             },
@@ -972,7 +972,7 @@
             },
             {
               "key": "wind_up",
-              "value": 0.75
+              "value": 0.375
             },
             {
               "key": "wind_down",

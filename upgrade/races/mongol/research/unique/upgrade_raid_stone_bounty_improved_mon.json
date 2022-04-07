@@ -84,6 +84,23 @@
         {
           "key": "float_properties",
           "value": [
+            {
+              "key": "upgradebag_float_property",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "upgradebag_float_property"
+                },
+                {
+                  "key": "value",
+                  "value": 25
+                },
+                {
+                  "key": "id",
+                  "value": "mongols_improved_full"
+                }
+              ]
+            }
           ]
         },
         {
@@ -569,11 +586,11 @@
                   "value": [
                     {
                       "key": "int_value",
-                      "value": 125
+                      "value": 75
                     },
                     {
                       "key": "int_value",
-                      "value": 50
+                      "value": 25
                     }
                   ]
                 }
@@ -591,6 +608,10 @@
             {
               "key": "screen_name",
               "value": 11190391
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },

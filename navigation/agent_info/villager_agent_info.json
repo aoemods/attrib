@@ -224,11 +224,11 @@
                     },
                     {
                       "key": "outer_spot_add_radius_metres",
-                      "value": 2
+                      "value": 0.5
                     },
                     {
                       "key": "inner_spot_add_radius_metres",
-                      "value": 1
+                      "value": 0
                     },
                     {
                       "key": "max_follow_distance_metres",
@@ -237,6 +237,10 @@
                     {
                       "key": "default_weight",
                       "value": 1
+                    },
+                    {
+                      "key": "slow_down_radius_metres",
+                      "value": 1.5
                     }
                   ]
                 }

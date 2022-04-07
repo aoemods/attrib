@@ -26,7 +26,7 @@
       "value": [
         {
           "key": "browsable_in_editor",
-          "value": true
+          "value": false
         },
         {
           "key": "QueryTree_States",

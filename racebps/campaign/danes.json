@@ -33,6 +33,10 @@
           "value": "attrib\\ebps\\races\\english\\"
         },
         {
+          "key": "tile",
+          "value": ""
+        },
+        {
           "key": "icon",
           "value": "civ_flags\\civ_icon_medium_danes"
         },
@@ -128,6 +132,10 @@
         {
           "key": "color",
           "value": -2001357387
+        },
+        {
+          "key": "pattern",
+          "value": ""
         },
         {
           "key": "default_army",

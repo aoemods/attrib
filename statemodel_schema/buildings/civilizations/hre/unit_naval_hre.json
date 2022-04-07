@@ -394,23 +394,6 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 1
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "relic_limit"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
                   "value": 0
                 },
                 {
@@ -478,7 +461,7 @@
                 },
                 {
                   "key": "bool_property_id",
-                  "value": "fre_is_influenced"
+                  "value": "is_in_influence_hre"
                 }
               ]
             }

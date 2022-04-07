@@ -129,7 +129,7 @@
                 },
                 {
                   "key": "$PBGMAP",
-                  "value": ""
+                  "value": "map_gen\\map_gen_layout"
                 }
               ]
             }

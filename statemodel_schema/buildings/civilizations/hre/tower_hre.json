@@ -488,23 +488,6 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 99
-                },
-                {
-                  "key": "$REF",
-                  "value": "statemodel_float_property"
-                },
-                {
-                  "key": "float_property_id",
-                  "value": "relic_limit"
-                }
-              ]
-            },
-            {
-              "key": "statemodel_float_property",
-              "value": [
-                {
-                  "key": "default",
                   "value": 0
                 },
                 {

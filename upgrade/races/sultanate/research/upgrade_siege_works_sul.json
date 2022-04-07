@@ -42,7 +42,7 @@
             },
             {
               "key": "ui_position_row",
-              "value": 2
+              "value": 1
             }
           ]
         },
@@ -477,6 +477,10 @@
             {
               "key": "screen_name",
               "value": 11155930
+            },
+            {
+              "key": "global_unit_control_row",
+              "value": 1
             }
           ]
         },
@@ -485,7 +489,7 @@
           "value": [
             {
               "key": "time_seconds",
-              "value": 900
+              "value": 1350
             },
             {
               "key": "cost",

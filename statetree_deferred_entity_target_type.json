@@ -2,7 +2,7 @@
   "data": [
     {
       "key": "_18",
-      "value": "DEFERRED_RESOURCE_DROPOFF"
+      "value": "DEFERRED_RESOURCE_DEPOSIT"
     },
     {
       "key": "_3",
@@ -10,7 +10,7 @@
     },
     {
       "key": "_17",
-      "value": "DEFERRED_RESOURCE_DEPOSIT"
+      "value": "DEFERRED_PICK_UP_TARGET"
     },
     {
       "key": "_4",
@@ -18,15 +18,15 @@
     },
     {
       "key": "_7",
-      "value": "DEFERRED_DEPLOYED_STRUCTURE"
+      "value": "DEFERRED_COVER_TARGET"
     },
     {
       "key": "_9",
-      "value": "DEFERRED_ENTITY_MOVE_TARGET"
+      "value": "DEFERRED_ENTITY_COMBAT_TARGET"
     },
     {
       "key": "_16",
-      "value": "DEFERRED_PICK_UP_TARGET"
+      "value": "DEFERRED_MOVE_DESTINATION"
     },
     {
       "key": "_0",
@@ -34,27 +34,27 @@
     },
     {
       "key": "_22",
-      "value": "DEFERRED_VEHICLE_TARGET"
-    },
-    {
-      "key": "_8",
-      "value": "DEFERRED_ENTITY_COMBAT_TARGET"
-    },
-    {
-      "key": "_21",
       "value": "DEFERRED_UNLOAD_SQUAD"
     },
     {
+      "key": "_8",
+      "value": "DEFERRED_DEPLOYED_STRUCTURE"
+    },
+    {
+      "key": "_21",
+      "value": "DEFERRED_UNLOAD_DESTINATION"
+    },
+    {
       "key": "_13",
-      "value": "DEFERRED_INTERACT"
+      "value": "DEFERRED_HOLD_CACHE"
     },
     {
       "key": "_19",
-      "value": "DEFERRED_RIDER_0_TARGET"
+      "value": "DEFERRED_RESOURCE_DROPOFF"
     },
     {
       "key": "_11",
-      "value": "DEFERRED_HOLD"
+      "value": "DEFERRED_HERDER_TARGET"
     },
     {
       "key": "_2",
@@ -62,23 +62,27 @@
     },
     {
       "key": "_20",
-      "value": "DEFERRED_UNLOAD_DESTINATION"
+      "value": "DEFERRED_RIDER_0_TARGET"
     },
     {
       "key": "_15",
-      "value": "DEFERRED_MOVE_DESTINATION"
-    },
-    {
-      "key": "_14",
       "value": "DEFERRED_INTERACT_FACE"
     },
     {
+      "key": "_23",
+      "value": "DEFERRED_VEHICLE_TARGET"
+    },
+    {
+      "key": "_14",
+      "value": "DEFERRED_INTERACT"
+    },
+    {
       "key": "_12",
-      "value": "DEFERRED_HOLD_CACHE"
+      "value": "DEFERRED_HOLD"
     },
     {
       "key": "_6",
-      "value": "DEFERRED_COVER_TARGET"
+      "value": "DEFERRED_CONSTRUCT"
     },
     {
       "key": "_1",
@@ -86,11 +90,11 @@
     },
     {
       "key": "_5",
-      "value": "DEFERRED_CONSTRUCT"
+      "value": "DEFERRED_COMBAT_ANCHOR"
     },
     {
       "key": "_10",
-      "value": "DEFERRED_HERDER_TARGET"
+      "value": "DEFERRED_ENTITY_MOVE_TARGET"
     }
   ]
 }

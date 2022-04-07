@@ -289,10 +289,6 @@
           "value": false
         },
         {
-          "key": "lock_to_impass",
-          "value": true
-        },
-        {
           "key": "extra_build_test_footprint_z",
           "value": 0
         },
@@ -320,6 +316,10 @@
               "value": 6
             }
           ]
+        },
+        {
+          "key": "snap_to_construction_grid",
+          "value": true
         },
         {
           "key": "minimum_build_test_footprint_x",
@@ -1043,6 +1043,10 @@
           "value": 0
         },
         {
+          "key": "tooltip_data_template",
+          "value": ""
+        },
+        {
           "key": "selection_secondary_bounds_scale",
           "value": [
             {
@@ -1125,6 +1129,10 @@
         {
           "key": "ap_loss_kicker",
           "value": true
+        },
+        {
+          "key": "global_unit_control_row",
+          "value": -1
         },
         {
           "key": "skin_winter",
@@ -1918,7 +1926,7 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "upgrade_siege_works"
+                  "value": "upgrade_trebuchet_aoe_eng"
                 },
                 {
                   "key": "$PBGMAP",
@@ -1931,7 +1939,7 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "upgrade_trebuchet_aoe_eng"
+                  "value": "upgrade_siege_mathematics"
                 },
                 {
                   "key": "$PBGMAP",
@@ -3990,6 +3998,11 @@
         {
           "key": "$REF",
           "value": "ebpextensions\\audio_ext"
+        },
+        {
+          "key": "select_audible_to_relation_list",
+          "value": [
+          ]
         },
         {
           "key": "single_select_event",

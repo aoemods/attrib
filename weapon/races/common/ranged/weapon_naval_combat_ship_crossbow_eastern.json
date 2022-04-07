@@ -430,11 +430,11 @@
             },
             {
               "key": "max",
-              "value": 50
+              "value": 70
             },
             {
               "key": "min",
-              "value": 50
+              "value": 70
             },
             {
               "key": "on_penetrated_state_trees",
@@ -665,7 +665,7 @@
             },
             {
               "key": "attack_ground_type",
-              "value": 2
+              "value": 0
             },
             {
               "key": "can_damage_allies",
@@ -1579,11 +1579,11 @@
               "value": [
                 {
                   "key": "max",
-                  "value": 2
+                  "value": 2.5
                 },
                 {
                   "key": "min",
-                  "value": 2
+                  "value": 2.5
                 }
               ]
             },

@@ -471,7 +471,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 20
+                  "value": 5
                 },
                 {
                   "key": "$REF",
@@ -505,7 +505,7 @@
               "value": [
                 {
                   "key": "default",
-                  "value": 20
+                  "value": 0
                 },
                 {
                   "key": "$REF",
@@ -513,7 +513,7 @@
                 },
                 {
                   "key": "float_property_id",
-                  "value": "relic_limit"
+                  "value": "sacred_site_total_generation_rate"
                 }
               ]
             }

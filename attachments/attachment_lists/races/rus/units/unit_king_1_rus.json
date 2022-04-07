@@ -45,53 +45,7 @@
                         },
                         {
                           "key": "animator",
-                          "value": "art\\civilizations\\rus\\humans\\rus_cavalry_armor_age04\\rus_cavalry_armor_age04"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "animator_sim_attachment",
-                      "value": [
-                        {
-                          "key": "attach_data",
-                          "value": [
-                            {
-                              "key": "parent_rigidbody_target_name",
-                              "value": ""
-                            },
-                            {
-                              "key": "game_object_attachment_type",
-                              "value": 0
-                            },
-                            {
-                              "key": "$REF",
-                              "value": "attachments\\attach_data"
-                            },
-                            {
-                              "key": "marker_name_parent",
-                              "value": "MetaRig_LArmPalmSocket"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "add_to_pathfinding",
-                          "value": false
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "options\\attachment_types\\animator_sim_attachment"
-                        },
-                        {
-                          "key": "is_selectable",
-                          "value": true
-                        },
-                        {
-                          "key": "inventory_item_category",
-                          "value": ""
-                        },
-                        {
-                          "key": "animator",
-                          "value": "art\\civilizations\\rus\\weapons\\rus_shield_heater\\rus_shield_heater"
+                          "value": "art\\civilizations\\rus\\humans\\rus_ivan_great_age03\\rus_ivan_great_age03"
                         }
                       ]
                     },
