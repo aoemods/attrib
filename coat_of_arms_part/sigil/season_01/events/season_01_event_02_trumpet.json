@@ -26,11 +26,11 @@
         },
         {
           "key": "icon",
-          "value": "coat_of_arms\\sigil\\sigil_shape_cornucopia"
+          "value": "coat_of_arms\\sigil\\sigil_shape_trumpet"
         },
         {
           "key": "icon_secondary",
-          "value": "coat_of_arms\\sigil\\sigil_outline_cornucopia"
+          "value": "coat_of_arms\\sigil\\sigil_outline_trumpet"
         },
         {
           "key": "colour",
@@ -161,7 +161,7 @@
             },
             {
               "key": "ui_priority",
-              "value": 1012
+              "value": 1009
             },
             {
               "key": "inventory_item_equip_requirement",

@@ -242,6 +242,28 @@
               ]
             },
             {
+              "key": "forests_stealth",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "key": "gold",
               "value": [
                 {
@@ -471,6 +493,28 @@
               ]
             },
             {
+              "key": "forests_large",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "key": "relics",
               "value": [
                 {
@@ -509,6 +553,28 @@
                     {
                       "key": "$PBGMAP",
                       "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "forests_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -1029,6 +1095,48 @@
                           ]
                         },
                         {
+                          "key": "forests_stealth",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
                           "key": "gold",
                           "value": [
                             {
@@ -1542,6 +1650,48 @@
                           ]
                         },
                         {
+                          "key": "forests_large",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
                           "key": "relics",
                           "value": [
                             {
@@ -1623,6 +1773,48 @@
                             {
                               "key": "avoid_same_spawn_distance",
                               "value": 75
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "forests_small",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
                             },
                             {
                               "key": "contested_range_max",
@@ -2087,6 +2279,48 @@
                           ]
                         },
                         {
+                          "key": "forests_stealth",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
                           "key": "gold",
                           "value": [
                             {
@@ -2600,6 +2834,48 @@
                           ]
                         },
                         {
+                          "key": "forests_large",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
                           "key": "relics",
                           "value": [
                             {
@@ -2681,6 +2957,48 @@
                             {
                               "key": "avoid_same_spawn_distance",
                               "value": 75
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "forests_small",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
                             },
                             {
                               "key": "contested_range_max",
@@ -3145,6 +3463,48 @@
                           ]
                         },
                         {
+                          "key": "forests_stealth",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
                           "key": "gold",
                           "value": [
                             {
@@ -3658,6 +4018,48 @@
                           ]
                         },
                         {
+                          "key": "forests_large",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
                           "key": "relics",
                           "value": [
                             {
@@ -3739,6 +4141,48 @@
                             {
                               "key": "avoid_same_spawn_distance",
                               "value": 75
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "forests_small",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
                             },
                             {
                               "key": "contested_range_max",
@@ -4203,6 +4647,48 @@
                           ]
                         },
                         {
+                          "key": "forests_stealth",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
                           "key": "gold",
                           "value": [
                             {
@@ -4716,6 +5202,48 @@
                           ]
                         },
                         {
+                          "key": "forests_large",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
                           "key": "relics",
                           "value": [
                             {
@@ -4797,6 +5325,48 @@
                             {
                               "key": "avoid_same_spawn_distance",
                               "value": 75
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "forests_small",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
                             },
                             {
                               "key": "contested_range_max",
@@ -5261,6 +5831,48 @@
                           ]
                         },
                         {
+                          "key": "forests_stealth",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
                           "key": "gold",
                           "value": [
                             {
@@ -5774,6 +6386,48 @@
                           ]
                         },
                         {
+                          "key": "forests_large",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
                           "key": "relics",
                           "value": [
                             {
@@ -5855,6 +6509,48 @@
                             {
                               "key": "avoid_same_spawn_distance",
                               "value": 75
+                            },
+                            {
+                              "key": "contested_range_max",
+                              "value": 0.8
+                            },
+                            {
+                              "key": "spawn_priority",
+                              "value": 0
+                            },
+                            {
+                              "key": "contested_excludes_starting_land_mass",
+                              "value": false
+                            },
+                            {
+                              "key": "avoid_any_spawn_distance",
+                              "value": 15
+                            }
+                          ]
+                        },
+                        {
+                          "key": "forests_small",
+                          "value": [
+                            {
+                              "key": "contested_range_min",
+                              "value": 0.2
+                            },
+                            {
+                              "key": "contested_base_spawn_count",
+                              "value": 1
+                            },
+                            {
+                              "key": "contested_additional_spawns_per_player",
+                              "value": 0.5
+                            },
+                            {
+                              "key": "accessible_spawns",
+                              "value": [
+                              ]
+                            },
+                            {
+                              "key": "avoid_same_spawn_distance",
+                              "value": 0
                             },
                             {
                               "key": "contested_range_max",

@@ -147,11 +147,11 @@
           "value": [
             {
               "key": "$PBGNAME",
-              "value": ""
+              "value": "aura_ring"
             },
             {
               "key": "$PBGMAP",
-              "value": ""
+              "value": "ui_reticule"
             }
           ]
         },
@@ -748,7 +748,7 @@
         },
         {
           "key": "range",
-          "value": 0
+          "value": 16
         },
         {
           "key": "disable_combat",

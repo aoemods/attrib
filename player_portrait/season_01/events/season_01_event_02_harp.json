@@ -13,7 +13,7 @@
         },
         {
           "key": "icon",
-          "value": "portraits\\placeholder_portrait"
+          "value": "portraits\\e2_harp"
         },
         {
           "key": "location",
@@ -144,7 +144,7 @@
             },
             {
               "key": "ui_priority",
-              "value": 1012
+              "value": 1014
             },
             {
               "key": "inventory_item_equip_requirement",

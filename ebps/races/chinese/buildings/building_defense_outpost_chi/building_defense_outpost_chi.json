@@ -1860,19 +1860,6 @@
                   "value": "abilities"
                 }
               ]
-            },
-            {
-              "key": "ability",
-              "value": [
-                {
-                  "key": "$PBGNAME",
-                  "value": "tower_repair_nearby_walls_chi"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "abilities"
-                }
-              ]
             }
           ]
         },

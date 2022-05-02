@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "key": "challenge_bag",
+      "value": [
+        {
+          "key": "requirement",
+          "value": [
+            {
+              "key": "operator",
+              "value": "none"
+            },
+            {
+              "key": "requirements",
+              "value": [
+              ]
+            }
+          ]
+        },
+        {
+          "key": "name",
+          "value": 11224746
+        },
+        {
+          "key": "enable",
+          "value": true
+        },
+        {
+          "key": "fe_priority",
+          "value": 0
+        },
+        {
+          "key": "icon",
+          "value": ""
+        },
+        {
+          "key": "award_source",
+          "value": "Client"
+        },
+        {
+          "key": "update_rule",
+          "value": [
+            {
+              "key": "value_requirement",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "challenges\\requirement_values\\constant\\generic"
+                },
+                {
+                  "key": "value",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "id",
+          "value": 1517319
+        },
+        {
+          "key": "group",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "value": "season01_event04"
+            },
+            {
+              "key": "$PBGMAP",
+              "value": "challenges\\challenge_group"
+            }
+          ]
+        },
+        {
+          "key": "platform_stat_key",
+          "value": ""
+        },
+        {
+          "key": "counters",
+          "value": [
+          ]
+        },
+        {
+          "key": "description",
+          "value": 11224044
+        },
+        {
+          "key": "completion_count",
+          "value": 1
+        },
+        {
+          "key": "tag",
+          "value": "art_of_war_bronze_medals"
+        },
+        {
+          "key": "tag",
+          "value": "art_of_war_silver_medals"
+        },
+        {
+          "key": "tag",
+          "value": "art_of_war_gold_medals"
+        },
+        {
+          "key": "reward",
+          "value": [
+            {
+              "key": "achievement",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "challenge",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "item_bundle",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "s01_e04_task01_bundle"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "inventory_item_bundle"
+                }
+              ]
+            },
+            {
+              "key": "xp",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pbgid",
+      "value": 1517320
+    }
+  ]
+}

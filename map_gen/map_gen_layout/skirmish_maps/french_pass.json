@@ -221,6 +221,28 @@
               ]
             },
             {
+              "key": "forests_stealth",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "key": "gold",
               "value": [
                 {
@@ -450,6 +472,28 @@
               ]
             },
             {
+              "key": "forests_large",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "key": "relics",
               "value": [
                 {
@@ -488,6 +532,28 @@
                     {
                       "key": "$PBGMAP",
                       "value": "map_gen\\score_map\\score_map"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "forests_small",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\reference"
+                },
+                {
+                  "key": "score_map",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": ""
                     }
                   ]
                 }
@@ -671,7 +737,7 @@
                     },
                     {
                       "key": "contested_range",
-                      "value": 180
+                      "value": 150
                     },
                     {
                       "key": "$REF",
@@ -1125,7 +1191,7 @@
                     },
                     {
                       "key": "contested_range",
-                      "value": 240
+                      "value": 150
                     },
                     {
                       "key": "$REF",
@@ -1579,7 +1645,7 @@
                     },
                     {
                       "key": "contested_range",
-                      "value": 330
+                      "value": 150
                     },
                     {
                       "key": "$REF",
@@ -2033,7 +2099,7 @@
                     },
                     {
                       "key": "contested_range",
-                      "value": 420
+                      "value": 150
                     },
                     {
                       "key": "$REF",
@@ -2487,7 +2553,7 @@
                     },
                     {
                       "key": "contested_range",
-                      "value": 500
+                      "value": 150
                     },
                     {
                       "key": "$REF",
@@ -3068,7 +3134,7 @@
                 },
                 {
                   "key": "weight",
-                  "value": 15
+                  "value": 25
                 }
               ]
             },
@@ -3120,33 +3186,7 @@
                 },
                 {
                   "key": "weight",
-                  "value": 30
-                }
-              ]
-            },
-            {
-              "key": "weighted_terrain_type",
-              "value": [
-                {
-                  "key": "terrain_type",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "value": "tt_plateau_low"
-                    },
-                    {
-                      "key": "$PBGMAP",
-                      "value": "map_gen\\map_gen_terrain_type"
-                    }
-                  ]
-                },
-                {
-                  "key": "is_unplayable_area_terrain",
-                  "value": false
-                },
-                {
-                  "key": "weight",
-                  "value": 15
+                  "value": 35
                 }
               ]
             }

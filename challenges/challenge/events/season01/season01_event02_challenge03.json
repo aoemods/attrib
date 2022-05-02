@@ -8,11 +8,65 @@
           "value": [
             {
               "key": "operator",
-              "value": "equal"
+              "value": "and"
             },
             {
               "key": "requirements",
               "value": [
+                {
+                  "key": "requirement",
+                  "value": [
+                    {
+                      "key": "operator",
+                      "value": "equal"
+                    },
+                    {
+                      "key": "$REF",
+                      "value": "challenges\\requirement"
+                    },
+                    {
+                      "key": "requirements",
+                      "value": [
+                      ]
+                    },
+                    {
+                      "key": "values",
+                      "value": [
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\dynamic\\raceid"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "raceid",
+                          "value": [
+                            {
+                              "key": "$REF",
+                              "value": "challenges\\requirement_values\\constant\\raceid"
+                            },
+                            {
+                              "key": "value",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "value": "hre"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "value": "racebps"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
               ]
             }
           ]
@@ -113,7 +167,7 @@
                           "value": [
                             {
                               "key": "operator",
-                              "value": "in"
+                              "value": "equal"
                             },
                             {
                               "key": "$REF",
@@ -333,7 +387,7 @@
                           "value": [
                             {
                               "key": "operator",
-                              "value": "and"
+                              "value": "equal"
                             },
                             {
                               "key": "$REF",

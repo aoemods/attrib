@@ -155,6 +155,24 @@
               ]
             },
             {
+              "key": "forests_stealth",
+              "value": [
+                {
+                  "key": "distribution",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "dist_trees_forest_scattered_low_large"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\distribution\\distribution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "key": "gold",
               "value": [
                 {
@@ -340,6 +358,24 @@
               ]
             },
             {
+              "key": "forests_large",
+              "value": [
+                {
+                  "key": "distribution",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "dist_trees_forest_starting_standard"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\distribution\\distribution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "key": "relics",
               "value": [
                 {
@@ -366,6 +402,24 @@
                     {
                       "key": "$PBGNAME",
                       "value": "dist_gaia_sheep_large"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "value": "map_gen\\distribution\\distribution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "forests_small",
+              "value": [
+                {
+                  "key": "distribution",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "value": "dist_trees_forest_dense_low_small_1"
                     },
                     {
                       "key": "$PBGMAP",

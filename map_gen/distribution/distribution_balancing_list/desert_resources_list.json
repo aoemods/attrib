@@ -51,6 +51,11 @@
               ]
             },
             {
+              "key": "forests_stealth",
+              "value": [
+              ]
+            },
+            {
               "key": "gold",
               "value": [
                 {
@@ -171,6 +176,11 @@
               ]
             },
             {
+              "key": "forests_large",
+              "value": [
+              ]
+            },
+            {
               "key": "relics",
               "value": [
                 {
@@ -190,6 +200,11 @@
             },
             {
               "key": "sheep_large",
+              "value": [
+              ]
+            },
+            {
+              "key": "forests_small",
               "value": [
               ]
             }
