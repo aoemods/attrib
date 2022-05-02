@@ -2,7 +2,7 @@
   "data": [
     {
       "key": "_18",
-      "value": "sheep_small"
+      "value": "settlements_naval"
     },
     {
       "key": "_3",
@@ -10,7 +10,7 @@
     },
     {
       "key": "_17",
-      "value": "sheep_med"
+      "value": "settlements"
     },
     {
       "key": "_4",
@@ -22,31 +22,39 @@
     },
     {
       "key": "_9",
-      "value": "gold"
+      "value": "forests_large"
     },
     {
       "key": "_16",
-      "value": "sheep_large"
+      "value": "relics"
     },
     {
       "key": "_0",
       "value": "berries"
     },
     {
+      "key": "_22",
+      "value": "stone"
+    },
+    {
       "key": "_8",
       "value": "fish_shore"
     },
     {
+      "key": "_21",
+      "value": "sheep_small"
+    },
+    {
       "key": "_13",
-      "value": "relics"
+      "value": "gold_small"
     },
     {
       "key": "_19",
-      "value": "stone"
+      "value": "sheep_large"
     },
     {
       "key": "_11",
-      "value": "holy_sites"
+      "value": "forests_stealth"
     },
     {
       "key": "_2",
@@ -54,19 +62,23 @@
     },
     {
       "key": "_20",
-      "value": "stone_small"
+      "value": "sheep_med"
     },
     {
       "key": "_15",
-      "value": "settlements_naval"
+      "value": "none"
+    },
+    {
+      "key": "_23",
+      "value": "stone_small"
     },
     {
       "key": "_14",
-      "value": "settlements"
+      "value": "holy_sites"
     },
     {
       "key": "_12",
-      "value": "none"
+      "value": "gold"
     },
     {
       "key": "_6",
@@ -82,7 +94,7 @@
     },
     {
       "key": "_10",
-      "value": "gold_small"
+      "value": "forests_small"
     }
   ]
 }

@@ -162,19 +162,6 @@
               "value": [
                 {
                   "key": "$PBGNAME",
-                  "value": "core_unit_death"
-                },
-                {
-                  "key": "$PBGMAP",
-                  "value": "abilities"
-                }
-              ]
-            },
-            {
-              "key": "ability",
-              "value": [
-                {
-                  "key": "$PBGNAME",
                   "value": "regicide_king_treason"
                 },
                 {

@@ -2643,6 +2643,150 @@
                   "value": ""
                 }
               ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "bell_arch_slot"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "season_01_event_03_springald"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "mrk_monument"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\props\\monument_sup_springald\\monument_sup_springald"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "attachment_list",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": "attachments\\attachment_list"
+                },
+                {
+                  "key": "attachment_category",
+                  "value": "bell_arch_slot"
+                },
+                {
+                  "key": "inventory_category",
+                  "value": "season_01_event_04_wolfbust"
+                },
+                {
+                  "key": "attachment_list",
+                  "value": [
+                    {
+                      "key": "animator_sim_attachment",
+                      "value": [
+                        {
+                          "key": "attach_data",
+                          "value": [
+                            {
+                              "key": "parent_rigidbody_target_name",
+                              "value": ""
+                            },
+                            {
+                              "key": "game_object_attachment_type",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "value": "attachments\\attach_data"
+                            },
+                            {
+                              "key": "marker_name_parent",
+                              "value": "mrk_monument"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "add_to_pathfinding",
+                          "value": false
+                        },
+                        {
+                          "key": "$REF",
+                          "value": "options\\attachment_types\\animator_sim_attachment"
+                        },
+                        {
+                          "key": "is_selectable",
+                          "value": true
+                        },
+                        {
+                          "key": "inventory_item_category",
+                          "value": ""
+                        },
+                        {
+                          "key": "animator",
+                          "value": "art\\civilizations\\common\\props\\monument_sup_bust_wolf\\monument_sup_bust_wolf"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "attachment_speaker_code",
+                  "value": ""
+                }
+              ]
             }
           ]
         }

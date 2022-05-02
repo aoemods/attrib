@@ -744,6 +744,23 @@
                   "value": "ai_colonize_in_progress"
                 }
               ]
+            },
+            {
+              "key": "statemodel_bool_property",
+              "value": [
+                {
+                  "key": "default",
+                  "value": false
+                },
+                {
+                  "key": "$REF",
+                  "value": "statemodel_bool_property"
+                },
+                {
+                  "key": "bool_property_id",
+                  "value": "ai_defend_ovoo_in_progress"
+                }
+              ]
             }
           ]
         }

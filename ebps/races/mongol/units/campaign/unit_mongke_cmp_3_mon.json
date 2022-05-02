@@ -668,7 +668,7 @@
           "value": [
             {
               "key": "Melee",
-              "value": 1
+              "value": 0
             },
             {
               "key": "Fire",
@@ -676,7 +676,7 @@
             },
             {
               "key": "Ranged",
-              "value": 1
+              "value": 0
             },
             {
               "key": "True Damage",

@@ -60,7 +60,7 @@
         },
         {
           "key": "ignores_global_blocking_regions",
-          "value": false
+          "value": true
         }
       ]
     }

@@ -22,7 +22,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "slot1_3v3_ai_easy"
+                      "value": "slot1_4v4_ai_easy"
                     },
                     {
                       "key": "$PBGMAP",
@@ -32,7 +32,7 @@
                 },
                 {
                   "key": "max_player",
-                  "value": 6
+                  "value": 8
                 },
                 {
                   "key": "$REF",
@@ -56,7 +56,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "slot1_3v3_ai_medium"
+                      "value": "slot1_4v4_ai_medium"
                     },
                     {
                       "key": "$PBGMAP",
@@ -66,7 +66,7 @@
                 },
                 {
                   "key": "max_player",
-                  "value": 6
+                  "value": 8
                 },
                 {
                   "key": "$REF",
@@ -90,7 +90,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "slot1_3v3_ai_hard"
+                      "value": "slot1_4v4_ai_hard"
                     },
                     {
                       "key": "$PBGMAP",
@@ -100,7 +100,7 @@
                 },
                 {
                   "key": "max_player",
-                  "value": 6
+                  "value": 8
                 },
                 {
                   "key": "$REF",
@@ -124,7 +124,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "slot1_3v3_ai_expert"
+                      "value": "slot1_4v4_ai_expert"
                     },
                     {
                       "key": "$PBGMAP",
@@ -134,7 +134,7 @@
                 },
                 {
                   "key": "max_player",
-                  "value": 6
+                  "value": 8
                 },
                 {
                   "key": "$REF",
@@ -158,7 +158,7 @@
                   "value": [
                     {
                       "key": "$PBGNAME",
-                      "value": "slot1_3v3_unranked"
+                      "value": "slot1_4v4_unranked"
                     },
                     {
                       "key": "$PBGMAP",
@@ -168,7 +168,7 @@
                 },
                 {
                   "key": "max_player",
-                  "value": 6
+                  "value": 8
                 },
                 {
                   "key": "$REF",

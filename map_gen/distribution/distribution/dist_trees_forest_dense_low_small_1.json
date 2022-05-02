@@ -36,79 +36,108 @@
           "key": "score_map",
           "value": [
             {
-              "key": "$REF",
-              "value": "map_gen\\score_map\\option\\product"
+              "key": "playable_area_only",
+              "value": true
             },
             {
-              "key": "inputs",
+              "key": "$REF",
+              "value": "map_gen\\score_map\\option\\filter_edge_of_map"
+            },
+            {
+              "key": "set_values_to",
+              "value": 0
+            },
+            {
+              "key": "input",
               "value": [
                 {
-                  "key": "reference",
-                  "value": [
-                    {
-                      "key": "$REF",
-                      "value": "map_gen\\score_map\\option\\reference"
-                    },
-                    {
-                      "key": "score_map",
-                      "value": [
-                        {
-                          "key": "$PBGNAME",
-                          "value": "basic_land_resource_placement_far_crossings_away_from_starts"
-                        },
-                        {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\score_map\\score_map"
-                        }
-                      ]
-                    }
-                  ]
+                  "key": "$REF",
+                  "value": "map_gen\\score_map\\option\\product"
                 },
                 {
-                  "key": "reference",
+                  "key": "inputs",
                   "value": [
                     {
-                      "key": "$REF",
-                      "value": "map_gen\\score_map\\option\\reference"
-                    },
-                    {
-                      "key": "score_map",
+                      "key": "reference",
                       "value": [
                         {
-                          "key": "$PBGNAME",
-                          "value": "land_low"
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
                         },
                         {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\score_map\\score_map"
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "basic_land_resource_placement_far_crossings_away_from_starts"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "key": "reference",
-                  "value": [
-                    {
-                      "key": "$REF",
-                      "value": "map_gen\\score_map\\option\\reference"
                     },
                     {
-                      "key": "score_map",
+                      "key": "reference",
                       "value": [
                         {
-                          "key": "$PBGNAME",
-                          "value": "noise_forest_placement"
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
                         },
                         {
-                          "key": "$PBGMAP",
-                          "value": "map_gen\\score_map\\score_map"
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "land_low"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "reference",
+                      "value": [
+                        {
+                          "key": "$REF",
+                          "value": "map_gen\\score_map\\option\\reference"
+                        },
+                        {
+                          "key": "score_map",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "value": "noise_forest_placement"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "value": "map_gen\\score_map\\score_map"
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 }
               ]
+            },
+            {
+              "key": "value_is_percent_instead_of_cells",
+              "value": false
+            },
+            {
+              "key": "from_edge_threshold",
+              "value": 30
+            },
+            {
+              "key": "filter_inner_instead_of_outer",
+              "value": false
             }
           ]
         },

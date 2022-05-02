@@ -2888,7 +2888,7 @@
             },
             {
               "key": "on_construction_plan_complete_global_state_tree_ref",
-              "value": "building_construction_complete\\buildings\\stone_wall_construction_plan_complete"
+              "value": ""
             },
             {
               "key": "on_construction_complete_squad_state_tree_ref",
@@ -2904,7 +2904,7 @@
             },
             {
               "key": "on_construction_complete_entity_state_tree_ref",
-              "value": ""
+              "value": "building_construction_complete\\buildings\\stone_wall_construction_plan_complete"
             }
           ]
         },

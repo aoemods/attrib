@@ -321,36 +321,6 @@
                   "key": "requirements",
                   "value": [
                     {
-                      "key": "required_unit_type",
-                      "value": [
-                        {
-                          "key": "qualify_option",
-                          "value": [
-                            {
-                              "key": "$REF",
-                              "value": "options\\none"
-                            }
-                          ]
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "requirements\\required_unit_type"
-                        },
-                        {
-                          "key": "unit_type",
-                          "value": "monastery"
-                        },
-                        {
-                          "key": "search_load_out",
-                          "value": false
-                        },
-                        {
-                          "key": "reason",
-                          "value": "usage"
-                        }
-                      ]
-                    },
-                    {
                       "key": "required_all_in_list",
                       "value": [
                         {
@@ -361,24 +331,28 @@
                           "key": "requirements",
                           "value": [
                             {
-                              "key": "required_race",
+                              "key": "required_unit_type",
                               "value": [
                                 {
-                                  "key": "$REF",
-                                  "value": "requirements\\required_race"
-                                },
-                                {
-                                  "key": "race",
+                                  "key": "qualify_option",
                                   "value": [
                                     {
-                                      "key": "$PBGNAME",
-                                      "value": "hre"
-                                    },
-                                    {
-                                      "key": "$PBGMAP",
-                                      "value": "racebps"
+                                      "key": "$REF",
+                                      "value": "options\\none"
                                     }
                                   ]
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_unit_type"
+                                },
+                                {
+                                  "key": "unit_type",
+                                  "value": "monastery"
+                                },
+                                {
+                                  "key": "search_load_out",
+                                  "value": false
                                 },
                                 {
                                   "key": "reason",
@@ -387,151 +361,33 @@
                               ]
                             },
                             {
-                              "key": "required_any_in_list",
+                              "key": "required_statemodelbool",
                               "value": [
                                 {
-                                  "key": "$REF",
-                                  "value": "requirements\\required_any_in_list"
+                                  "key": "key",
+                                  "value": "landmark_active"
                                 },
                                 {
-                                  "key": "requirements",
-                                  "value": [
-                                    {
-                                      "key": "required_unit_type",
-                                      "value": [
-                                        {
-                                          "key": "qualify_option",
-                                          "value": [
-                                            {
-                                              "key": "$REF",
-                                              "value": "options\\none"
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "key": "$REF",
-                                          "value": "requirements\\required_unit_type"
-                                        },
-                                        {
-                                          "key": "unit_type",
-                                          "value": "tower"
-                                        },
-                                        {
-                                          "key": "search_load_out",
-                                          "value": false
-                                        },
-                                        {
-                                          "key": "reason",
-                                          "value": "usage"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "key": "required_unit_type",
-                                      "value": [
-                                        {
-                                          "key": "qualify_option",
-                                          "value": [
-                                            {
-                                              "key": "$REF",
-                                              "value": "options\\none"
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "key": "$REF",
-                                          "value": "requirements\\required_unit_type"
-                                        },
-                                        {
-                                          "key": "unit_type",
-                                          "value": "castle"
-                                        },
-                                        {
-                                          "key": "search_load_out",
-                                          "value": false
-                                        },
-                                        {
-                                          "key": "reason",
-                                          "value": "usage"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "key": "required_unit_type",
-                                      "value": [
-                                        {
-                                          "key": "qualify_option",
-                                          "value": [
-                                            {
-                                              "key": "$REF",
-                                              "value": "options\\none"
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "key": "$REF",
-                                          "value": "requirements\\required_unit_type"
-                                        },
-                                        {
-                                          "key": "unit_type",
-                                          "value": "outpost"
-                                        },
-                                        {
-                                          "key": "search_load_out",
-                                          "value": false
-                                        },
-                                        {
-                                          "key": "reason",
-                                          "value": "usage"
-                                        }
-                                      ]
-                                    }
-                                  ]
+                                  "key": "default_value",
+                                  "value": true
+                                },
+                                {
+                                  "key": "$REF",
+                                  "value": "requirements\\required_statemodelbool"
+                                },
+                                {
+                                  "key": "data_source_type",
+                                  "value": "entity_datasource"
+                                },
+                                {
+                                  "key": "compare_to_value",
+                                  "value": true
                                 },
                                 {
                                   "key": "reason",
                                   "value": "usage"
                                 }
                               ]
-                            }
-                          ]
-                        },
-                        {
-                          "key": "reason",
-                          "value": "usage"
-                        }
-                      ]
-                    },
-                    {
-                      "key": "required_is_entity_pbg",
-                      "value": [
-                        {
-                          "key": "include_pbg_parenting",
-                          "value": [
-                            {
-                              "key": "include_child_pbgs",
-                              "value": false
-                            },
-                            {
-                              "key": "include_parent_pbgs",
-                              "value": false
-                            }
-                          ]
-                        },
-                        {
-                          "key": "$REF",
-                          "value": "requirements\\required_is_entity_pbg"
-                        },
-                        {
-                          "key": "is_entity_pbg",
-                          "value": [
-                            {
-                              "key": "$PBGNAME",
-                              "value": "building_landmark_age2_bamberg_cathedral_hre"
-                            },
-                            {
-                              "key": "$PBGMAP",
-                              "value": "ebps"
                             }
                           ]
                         },

@@ -414,11 +414,11 @@
             },
             {
               "key": "max",
-              "value": 8
+              "value": 6
             },
             {
               "key": "min",
-              "value": 8
+              "value": 6
             },
             {
               "key": "on_penetrated_state_trees",
@@ -1522,7 +1522,7 @@
             },
             {
               "key": "max",
-              "value": 28
+              "value": 22
             },
             {
               "key": "min",

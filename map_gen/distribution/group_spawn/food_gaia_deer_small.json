@@ -12,7 +12,7 @@
           "value": [
             {
               "key": "max_spawn_count",
-              "value": 2
+              "value": 3
             },
             {
               "key": "assets",
@@ -160,8 +160,50 @@
           "key": "center_asset",
           "value": [
             {
+              "key": "spawn_orientation",
+              "value": 0
+            },
+            {
+              "key": "spawn_rotation",
+              "value": 1
+            },
+            {
+              "key": "occupation_radius",
+              "value": 0
+            },
+            {
               "key": "$REF",
-              "value": ""
+              "value": "map_gen\\asset\\entity"
+            },
+            {
+              "key": "terrain_lock",
+              "value": [
+                {
+                  "key": "$REF",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "scale",
+              "value": 1
+            },
+            {
+              "key": "spawn_position",
+              "value": 0
+            },
+            {
+              "key": "ebp",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "gaia_deer_dummy_minimap_icon_small"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "ebps"
+                }
+              ]
             }
           ]
         },

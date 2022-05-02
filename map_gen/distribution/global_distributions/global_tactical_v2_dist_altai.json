@@ -1,0 +1,673 @@
+{
+  "data": [
+    {
+      "key": "pbgid",
+      "value": 2073731
+    },
+    {
+      "key": "global_distributions",
+      "value": [
+        {
+          "key": "cell_distributions",
+          "value": [
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_trees_loose_high_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_trees_loose_high_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_trees_loose_low_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_trees_loose_low_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_gaia_crow"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_impasse_rock_deco_med_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_impasse_rock_deco_med_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_impasse_rock_deco_sm_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_impasse_rock_deco_sm_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_impasse_rock_deco_cliff_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_impasse_rock_deco_cliff_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_impasse_rock_deco_cliff_3"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_impasse_rock_deco_cliff_4"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_impasse_rock_deco_cliff_5"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_foliage_deco_bush_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_foliage_deco_bush_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_nature_deco_high_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_deco_river_rock"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_fx_valley"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_fx_mountaintop"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_trees_loose_clifftop"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_impasse_rock_deco_lg_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_deco_river_rock_ford"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_vegetation_riverbank"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_foliage_deco_fern_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_foliage_deco_fern_2"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_ocean_deco_shoreline"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_ocean_deco_large"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_ocean_deco_water_land_close"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_beach_deco"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_beach_high_deco"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_lake_deco_shallows"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_lake_deco_shoreline"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_lake_deco_large"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            },
+            {
+              "key": "cell_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_cell_dist_ocean_deco_water_close"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_cell_distribution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "region_distributions",
+          "value": [
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_berries"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_dense_low_small_1_heavy"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_dense_low_small_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_dense_low_2_mountain"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_scattered_low_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_forest_scattered_high_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_wolf"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_deco_rock_river_large"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_loose_low_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_trees_loose_high_1"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_prop_unreachable"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_prop_unreachable_low"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_splat_dry"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_splat_lush"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            },
+            {
+              "key": "region_distribution",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "value": "global_region_dist_splat_puddle"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "value": "map_gen\\distribution\\global_region_distribution"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
